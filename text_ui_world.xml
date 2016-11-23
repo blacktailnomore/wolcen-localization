@@ -457,7 +457,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier8</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">There are still giants in this world, you know. Up in the skies, above the valley of lakes.</Data></Cell>
-    <Cell><Data ss:Type="String">你知道这世界上仍然有巨人吗？据说在湖泊谷上的云端就有个。</Data></Cell>
+    <Cell><Data ss:Type="String">你知道这世界上仍然有巨人吗？据说在湖泊谷上的云端那就有个。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier9</Data></Cell>
@@ -484,7 +484,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">This Limbo is a curse that cannot be cured. Praise Amon for preserving us from it.</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">地狱就像一个不能被治愈的诅咒。埃蒙的保护让我们远离他，赞美埃蒙。</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">地狱就像一个不能被治愈的诅咒。埃蒙的保护让我们远离它，赞美埃蒙。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier14</Data></Cell>
