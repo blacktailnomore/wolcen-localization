@@ -437,12 +437,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier4</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">I can't fight anymore. I took an arrow in the elbow.</Data></Cell>
-    <Cell><Data ss:Type="String">我曾经很能打直到我的膝盖中了一箭。</Data></Cell>
+    <Cell><Data ss:Type="String">我曾经挺能打的，直到我的膝盖中了一箭。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier5</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">There are no women, as you can see. I think we lost them somewhere, and now we can't seem to find them again.</Data></Cell>
-    <Cell><Data ss:Type="String">正如你所看到的，这没有女人。我想我们把她们丢在了什么地方，现在我们似乎无法找到她们了。</Data></Cell>
+    <Cell><Data ss:Type="String">正如你所看到的，这里没有女人。我想我们把她们丢在了什么地方，我们现在似乎无法再找到她们了。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_Blacksmith</Data></Cell>
@@ -457,7 +457,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier8</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">There are still giants in this world, you know. Up in the skies, above the valley of lakes.</Data></Cell>
-    <Cell><Data ss:Type="String">你知道这世界上仍然有巨人吗？在天空中，在湖泊的山谷之上。</Data></Cell>
+    <Cell><Data ss:Type="String">你知道这世界上仍然有巨人吗？在湖泊的山谷上面的云端。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier9</Data></Cell>
@@ -468,7 +468,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier10</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">If you want to fight, there's an arena just up there. Seems like you could use a little training.</Data></Cell>
-    <Cell><Data ss:Type="String">如果你想测试你的力量，那有个竞技场。似乎看上去你可以小试身手。</Data></Cell>
+    <Cell><Data ss:Type="String">如果你想小试身手，那有个竞技场。你看上去似乎可以过去练练</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier11</Data></Cell>
