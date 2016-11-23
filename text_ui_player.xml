@@ -12,10 +12,11 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12360</WindowHeight>
-  <WindowWidth>28800</WindowWidth>
+  <WindowHeight>9105</WindowHeight>
+  <WindowWidth>25695</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
  </ExcelWorkbook>
@@ -28,15 +29,15 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+  <Style ss:ID="s62" ss:Name="40&#160;% - Accent1">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s26" ss:Name="Satisfaisant">
+  <Style ss:ID="s63" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m355119056">
+  <Style ss:ID="m1540009730224">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -47,11 +48,11 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s62">
+  <Style ss:ID="s64">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s63">
+  <Style ss:ID="s65">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -61,7 +62,7 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s64">
+  <Style ss:ID="s66">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -71,16 +72,16 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s72">
+  <Style ss:ID="s74">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s74" ss:Parent="s40">
+  <Style ss:ID="s76" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Italic="1"/>
   </Style>
-  <Style ss:ID="s75" ss:Parent="s40">
+  <Style ss:ID="s77" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
   <Style ss:ID="s81">
@@ -99,376 +100,352 @@
    <Column ss:Width="402"/>
    <Column ss:Width="363.75"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
-    <Cell ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s64">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+    <Cell ss:StyleID="s66"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m355119056"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1540009730224"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
-    <Cell ss:StyleID="s74"><Data ss:Type="String">Character Creation Interface</Data></Cell>
-    <Cell ss:StyleID="s75"/>
-    <Cell ss:StyleID="s75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Character Creation Interface</Data></Cell>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_character_creation</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Character creation</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Character creation</Data></Cell>
     <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">创建人物</Data></Cell>
+      ss:Type="String">Character creation</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_body</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Body</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">身体</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Body</Data></Cell>
+    <Cell><Data ss:Type="String">身体</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_face</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Face</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">脸部</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Face</Data></Cell>
+    <Cell><Data ss:Type="String">面部</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_skin_color</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Skin color</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">肤色</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Skin color</Data></Cell>
+    <Cell><Data ss:Type="String">肤色</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_body_type</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Body type</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">身形</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Body type</Data></Cell>
+    <Cell><Data ss:Type="String">体型</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_muscular</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Muscular</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">强壮</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Muscular</Data></Cell>
+    <Cell><Data ss:Type="String">强壮</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_skinny</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Puny</Data></Cell>
-    <Cell><Data ss:Type="String">弱小</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Puny</Data></Cell>
+    <Cell><Data ss:Type="String">孱弱</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_fat</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Fat</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">肥胖</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Fat</Data></Cell>
+    <Cell><Data ss:Type="String">胖</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_thin</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Thin</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">瘦弱</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Thin</Data></Cell>
+    <Cell><Data ss:Type="String">瘦</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_hair</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Hair</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">头发</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hair</Data></Cell>
+    <Cell><Data ss:Type="String">头发</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_haircut</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut</Data></Cell>
+    <Cell><Data ss:Type="String">发型</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_hair_color</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Hair color</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发色</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hair color</Data></Cell>
+    <Cell><Data ss:Type="String">发色</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_eyes</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eyes</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eyes</Data></Cell>
+    <Cell><Data ss:Type="String">眼睛</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_left_eye</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Left eye</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">左眼</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Left eye</Data></Cell>
+    <Cell><Data ss:Type="String">左眼</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_right_eye</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Right eye</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">右眼</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Right eye</Data></Cell>
+    <Cell><Data ss:Type="String">右眼</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_beard</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard</Data></Cell>
+    <Cell><Data ss:Type="String">胡子</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_beard_style</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard style</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须样式</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard style</Data></Cell>
+    <Cell><Data ss:Type="String">胡子类型</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_beard_color</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard color</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须颜色</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard color</Data></Cell>
+    <Cell><Data ss:Type="String">胡子颜色</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_saturation</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Saturation</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">饱和度</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Saturation</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">饱和度</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_color</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Color</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">颜色</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Color</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">颜色</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_match_colors</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Match colors</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">配色</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Match colors</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">匹配颜色</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_breast</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Chest</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胸部</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Chest</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">胸部</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_nicknameTaken</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Name unavailable</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">名称不可用</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Name unavailable</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">名称不可用</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_deleteCharacter</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Delete Character</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">删除人物</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Delete Character</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">删除角色</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_nicknameTaken</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Sorry, the name %1 is already taken. Please chose another name.</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">对不起，名字 %1 已被使用。 请重新命名。</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sorry, the name %1 is already taken. Please chose another name.</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">抱歉，名称%1已经被使用。请选择其他名称。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_deleteCharacter</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Are you sure you want to delete %1 ? All your items and progression will be lost.</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">确定要删除 %1吗? 你所有的物品和进度都将丢失。</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Are you sure you want to delete %1 ? All your items and progression will be lost.</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">你确定要删除%1？所有物品和进度都会丢失。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
-    <Cell ss:StyleID="s74"><Data ss:Type="String">Eye Customization</Data></Cell>
-    <Cell ss:StyleID="s75"/>
-    <Cell ss:StyleID="s75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Eye Customization</Data></Cell>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_1</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 1</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 1</Data></Cell>
+      ss:Type="String">Eye 1</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_2</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 2</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 2</Data></Cell>
+      ss:Type="String">Eye 2</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_3</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 3</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 3</Data></Cell>
+      ss:Type="String">Eye 3</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_4</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 4</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 4</Data></Cell>
+      ss:Type="String">Eye 4</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_5</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 5</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 5</Data></Cell>
+      ss:Type="String">Eye 5</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_6</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 6</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 6</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 6</Data></Cell>
+      ss:Type="String">Eye 6</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_7</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 7</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 7</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 7</Data></Cell>
+      ss:Type="String">Eye 7</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_8</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 8</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 8</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 8</Data></Cell>
+      ss:Type="String">Eye 8</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_9</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 9</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 9</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 9</Data></Cell>
+      ss:Type="String">Eye 9</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_10</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 10</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 10</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 10</Data></Cell>
+      ss:Type="String">Eye 10</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_11</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Eye 11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 11</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">眼睛 11</Data></Cell>
+      ss:Type="String">Eye 11</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s74"><Data ss:Type="String">Hair Customization</Data></Cell>
-    <Cell ss:StyleID="s75"/>
-    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Hair Customization</Data></Cell>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_1</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut 1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 1</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型 1</Data></Cell>
+      ss:Type="String">Haircut 1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_2</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut 2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 2</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型 2</Data></Cell>
+      ss:Type="String">Haircut 2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_3</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut 3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 3</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型 3</Data></Cell>
+      ss:Type="String">Haircut 3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_4</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut 4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 4</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型 4</Data></Cell>
+      ss:Type="String">Haircut 4</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_5</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut 5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 5</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型 5</Data></Cell>
+      ss:Type="String">Haircut 5</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_6</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut 6</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 6</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型 6</Data></Cell>
+      ss:Type="String">Haircut 6</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_7</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut 7</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 7</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型 7</Data></Cell>
+      ss:Type="String">Haircut 7</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_8</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut 8</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 8</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型 8</Data></Cell>
+      ss:Type="String">Haircut 8</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_9</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut 9</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 9</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型 9</Data></Cell>
+      ss:Type="String">Haircut 9</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_10</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Haircut 10</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 10</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">发型 10</Data></Cell>
+      ss:Type="String">Haircut 10</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s74"><Data ss:Type="String">Beard Customization</Data></Cell>
-    <Cell ss:StyleID="s75"/>
-    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Beard Customization</Data></Cell>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_1</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard 1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 1</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须 1</Data></Cell>
+      ss:Type="String">Beard 1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_2</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard 2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 2</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须 2</Data></Cell>
+      ss:Type="String">Beard 2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_3</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard 3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 3</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须 3</Data></Cell>
+      ss:Type="String">Beard 3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_4</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard 4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 4</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须 4</Data></Cell>
+      ss:Type="String">Beard 4</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_5</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard 5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 5</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须 5</Data></Cell>
+      ss:Type="String">Beard 5</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_6</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard 6</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 6</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须 6</Data></Cell>
+      ss:Type="String">Beard 6</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_7</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard 7</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 7</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须 7</Data></Cell>
+      ss:Type="String">Beard 7</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_8</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard 8</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 8</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须 8</Data></Cell>
+      ss:Type="String">Beard 8</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_9</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard 9</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 9</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须 9</Data></Cell>
+      ss:Type="String">Beard 9</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_10</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Beard 10</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 10</Data></Cell>
     <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">胡须 10</Data></Cell>
+      ss:Type="String">Beard 10</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:Index="3" ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
@@ -499,12 +476,12 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>35</TopRowVisible>
+   <TopRowVisible>18</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>9</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>29</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

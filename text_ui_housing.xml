@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>11460</WindowHeight>
-  <WindowWidth>28800</WindowWidth>
+  <WindowHeight>9105</WindowHeight>
+  <WindowWidth>25695</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -201,7 +201,7 @@
   <Style ss:ID="s77" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s82">
+  <Style ss:ID="s80">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
    <Font ss:FontName="宋体" x:CharSet="134"/>
@@ -268,19 +268,19 @@
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_all</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">All</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">所有</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">所有</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DRhousing</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Dr. Housing</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">豪辛博士</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">豪斯医生</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_close</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Close</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">关闭</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">关闭</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
     <Cell ss:StyleID="Default"/>
@@ -590,7 +590,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>17</ActiveRow>
+     <ActiveRow>8</ActiveRow>
      <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
