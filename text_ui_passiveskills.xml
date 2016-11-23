@@ -4572,7 +4572,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Rooted</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Your Dodge roll is permanently replaced by a Protection Form that lasts %2 per Stamina point (stackable %1 times) and gives you extra Armor, Stun, Knock-back and Blown-Away Resistances while reducing you Movement Speed. Fully compatible with what previously affected the Dodge Roll.</Data></Cell>
-    <Cell><Data ss:Type="String">翻滚被永久替换为保护形态，每个耐力点持续%2(叠加%1次),获得额外的护甲，眩晕，反击和击退抗性并降低玩家的移动速度。继承之前翻滚的所有效果。~</Data></Cell>
+    <Cell><Data ss:Type="String">翻滚被永久替换为保护形态，每个耐力点增加持续时间%2(叠加%1次),获得额外的护甲，眩晕，反击和击退抗性并降低玩家的移动速度。继承之前翻滚的所有效果。~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RootedInvuTime</Data></Cell>
@@ -4587,17 +4587,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RootedDamageFromConst</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">When in Protection Form, you get a %2 Physical Damage bonus for each Constitution point you have</Data></Cell>
-    <Cell><Data ss:Type="String">进入保护形态后，获得体力值的%2转化为物理伤害加成~</Data></Cell>
+    <Cell><Data ss:Type="String">进入保护形态后，体力值的%2转化为物理伤害加成~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RootedBreakStun</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Break Stun effect when you launch the Protection Form (%2 Cooldown)</Data></Cell>
-    <Cell><Data ss:Type="String">启动保护形态打破眩晕效果(%2冷却时间~)</Data></Cell>
+    <Cell><Data ss:Type="String">启动保护形态脱离眩晕效果(%2冷却时间~)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ImpulseOnHitHammer</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Each hit done with Two-handed Hammer increases by %1 your Physical Impulse Chance with Impulsion skills during %2 (stackable %3 times)</Data></Cell>
-    <Cell><Data ss:Type="String">Each hit done with Two-handed Hammer increases by %1 your Physical Impulse Chance with Impulsion skills during %2(叠加%3次~)</Data></Cell>
+    <Cell><Data ss:Type="String">双手锤每下命中会增加%1脉冲技能的物理脉冲几率，持续%2(叠加%3次~)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HitStun</Data></Cell>
@@ -4767,12 +4767,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HiddenSkill</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">This skill desc shouldn't appear in the game</Data></Cell>
-    <Cell><Data ss:Type="String">这个技能的描述不应该出现在游戏中(愚蠢的人看不到技能描述)</Data></Cell>
+    <Cell><Data ss:Type="String">这个技能的描述不应该出现在游戏中(愚蠢的人是看不到技能描述的)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormLightning</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Lightning Storm Area each time you hit the same area with Lightning spells (stackable intensity). May Shock enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">使用闪电魔法攻击同一区域制造一片闪电风暴区(叠加强度)并电击其中的敌人。</Data></Cell>
+    <Cell><Data ss:Type="String">使用闪电魔法攻击同一区域制造一片闪电风暴区(叠加强度)并震慑其中的敌人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormFrost</Data></Cell>
@@ -4802,7 +4802,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormBonusOutOfArea</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Protective Storm and Destructive Storm bonus work for all your Storm Areas even if you're not in a Storm Area</Data></Cell>
-    <Cell><Data ss:Type="String">即使不在风暴区中，保护风暴和破坏风暴也会作用于所有的暴风区中</Data></Cell>
+    <Cell><Data ss:Type="String">即使不在风暴区里，保护风暴和毁灭风暴也会作用于所有的暴风区中</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DashRange</Data></Cell>
@@ -4822,7 +4822,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DashRage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Your Auto-Dash generates Rage on hits</Data></Cell>
-    <Cell><Data ss:Type="String">自动冲锋命中后回复怒气</Data></Cell>
+    <Cell><Data ss:Type="String">每次自动冲锋后回复怒气</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DashCritChance</Data></Cell>
@@ -4877,7 +4877,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PhysResistWhenChanneling</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to Physical Resistance when Channeling an attack, with an extra %1 if you're Blocking with your Shield</Data></Cell>
-    <Cell><Data ss:Type="String">引导攻击时%2物理抗性，使用盾牌格挡时额外增加%1</Data></Cell>
+    <Cell><Data ss:Type="String">蓄力攻击时%2物理抗性，使用盾牌格挡时额外增加%1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CritChanceFromDextPercent</Data></Cell>
@@ -4892,7 +4892,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CriticalChanceUnalerted</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Increases by %2 your Critical Chance (Spells &amp; Physical) against enemies that don't target you</Data></Cell>
-    <Cell><Data ss:Type="String">未攻击玩家的敌人给玩家增加%2暴击几率 (法术 &amp; 物理)</Data></Cell>
+    <Cell><Data ss:Type="String">未标记玩家的敌人给玩家增加%2暴击几率 (法术 &amp; 物理)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AtkSpeedAndMvSpeedAfterEliteKill</Data></Cell>
