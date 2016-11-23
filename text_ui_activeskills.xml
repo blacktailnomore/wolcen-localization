@@ -1,0 +1,831 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Audio script template</Title>
+  <Author>Maëlenn Lumineau</Author>
+  <LastAuthor>blacktail</LastAuthor>
+  <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
+  <Created>2002-06-17T19:14:00Z</Created>
+  <LastSaved>2016-11-22T16:29:59Z</LastSaved>
+  <Company>Electronic Arts</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
+   <SheetName>DropDown</SheetName>
+   <SheetName>Conversations</SheetName>
+   <Xct>
+    <Count>2</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>4</ColLast>
+     <Text>clean</Text>
+     <Text>TV</Text>
+     <Text>radio (disturbed) </Text>
+     <Text>radio (low)</Text>
+     <Text>radio (heavy)</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>41</ColLast>
+     <Text>Player</Text>
+     <Text>Barnes</Text>
+     <Text>Hawker</Text>
+     <Text>Sykes</Text>
+     <Text>Johnson</Text>
+     <Text>Cortez</Text>
+     <Text>Beck</Text>
+     <Text>Miller</Text>
+     <Text>Baxter</Text>
+     <Text>American scientist</Text>
+     <Text>Shark</Text>
+     <Text>Chia</Text>
+     <Text>Kirovski</Text>
+     <Text>Michaels</Text>
+     <Text>Chang</Text>
+     <Text>Marine Soldier a</Text>
+     <Text>Marine Soldier b</Text>
+     <Text>Chinese Soldier a</Text>
+     <Text>Chinese Soldier b</Text>
+     <Text>Chinese Soldier c</Text>
+     <Text>Chinese Soldier d</Text>
+     <Text>Chinese Soldier e</Text>
+     <Text>Chinese Soldier f</Text>
+     <Text>Chinese Officer a</Text>
+     <Text>Chinese Officer b</Text>
+     <Text>Chinese Scientist a</Text>
+     <Text>Chinese Scientist b</Text>
+     <Text>Chinese Scientist Female a</Text>
+     <Text>Chinese Scientist Female b</Text>
+     <Text>Filmcrew Member</Text>
+     <Text>Morrison</Text>
+     <Text>C17 Pilot a</Text>
+     <Text>C17 Pilot b</Text>
+     <Text>Submarine Commander Davis</Text>
+     <Text>Pilot (camera)</Text>
+     <Text>Bridge officer 1</Text>
+     <Text>Bridge officer 2</Text>
+     <Text>Carrier deck guide</Text>
+     <Text>Jet Pilot</Text>
+     <Text>VTOL Pilot</Text>
+     <Text>Commander (camera)</Text>
+     <Text>Team Two (camera)</Text>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>12360</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>274</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s28" ss:Name="Neutre">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
+   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26" ss:Name="Satisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#006100"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m164409536" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s80" ss:Parent="s26">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="characters"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
+  <NamedRange ss:Name="type"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="695" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+   <Column ss:Width="189"/>
+   <Column ss:Width="570.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="329.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
+    <Cell ss:MergeAcross="2" ss:StyleID="m164409536"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_BaseAttack</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Weapon Attack</Data></Cell>
+    <Cell><Data ss:Type="String">武器攻击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_BaseAttack_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Perform a basic attack with your equipped weapon.</Data></Cell>
+    <Cell><Data ss:Type="String">用你装备的武器进行基础攻击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_UnlimitedPower</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Unlimited Power</Data></Cell>
+    <Cell><Data ss:Type="String">心灵潜能</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_UnlimitedPower_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Continuously casts Lightnings from your hands, shocking up to two targets at the same time.</Data></Cell>
+    <Cell><Data ss:Type="String">从你的手中释放闪电，同时打击两个敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_DeepStrike</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Deep Strike</Data></Cell>
+    <Cell><Data ss:Type="String">纵深打击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_DeepStrike_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You raise in the air and fall down on your enemies in a powerful blast that may stun them.</Data></Cell>
+    <Cell><Data ss:Type="String">跳向空中然后重重落下，释放强烈的冲击波并眩晕敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ExplosiveWave</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Explosive Wave</Data></Cell>
+    <Cell><Data ss:Type="String">冲击波</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ExplosiveWave_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a trail of successive explosions in front of you.</Data></Cell>
+    <Cell><Data ss:Type="String">在你的前方制造连续的爆炸。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ShadowStrike</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Shadows Strike</Data></Cell>
+    <Cell><Data ss:Type="String">暗影突袭</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ShadowStrike_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You merge with the Shadows and successively strike nearby enemies while preventing Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">你与暗影融合连续攻击附近的敌人并免疫伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_HeartOfWinter</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Winter's Chill</Data></Cell>
+    <Cell><Data ss:Type="String">深冬之寒</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_HeartOfWinter_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A wide-range Nova that Freeze all nearby enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">释放大范围的新星并冻结附近的敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Fireball</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Fireball</Data></Cell>
+    <Cell><Data ss:Type="String">火球术</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Fireball_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Throws a large and powerful Fire projectile in front of you.</Data></Cell>
+    <Cell><Data ss:Type="String">向前方投掷一个大而有力的火焰弹。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Ignite</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ignition</Data></Cell>
+    <Cell><Data ss:Type="String">燃烧</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Ignite_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Throws a large Fire projectile that may spread flames on the ground.</Data></Cell>
+    <Cell><Data ss:Type="String">投掷一个大型火焰弹并引燃目标点。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_MultiFireball</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Multiple Fireballs</Data></Cell>
+    <Cell><Data ss:Type="String">多重火球术</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_MultiFireball_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Throw several small Fireballs in front of you, increasing in number with each consecutive cast.</Data></Cell>
+    <Cell><Data ss:Type="String">向前方投掷多个小火球，多次释放会增加火球的数量。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ExpulseBlow</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Expulse Blow</Data></Cell>
+    <Cell><Data ss:Type="String">排山倒海</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ExpulseBlow_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A wide Melee blow that knocks your enemies down.</Data></Cell>
+    <Cell><Data ss:Type="String">进行一次范围攻击并击倒敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Blizzard</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Blizzard</Data></Cell>
+    <Cell><Data ss:Type="String">暴风雪</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Blizzard_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Conjures a Snow Storm that may damage and slow down enemies in the area.</Data></Cell>
+    <Cell><Data ss:Type="String">召唤暴风雪，对目标范围内的敌人造成伤害并减速。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Meteor</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Meteor</Data></Cell>
+    <Cell><Data ss:Type="String">陨石术</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Meteor_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Calls down an exploding Meteor that may stun targeted enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">召唤一颗陨石，造成爆炸并有几率眩晕目标。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_UmbralRay</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbral Ray</Data></Cell>
+    <Cell><Data ss:Type="String">本影射线</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_UmbralRay_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts multiple Umbral Rays towards nearby enemies. This Spell works only if targets are present.</Data></Cell>
+    <Cell><Data ss:Type="String">向附近的敌人释放多重暗影射线。必须有目标才能释放。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChainLightning</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Chain Lightning</Data></Cell>
+    <Cell><Data ss:Type="String">闪电链</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChainLightning_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Lightnings from your hands that may jumps from one target to another.</Data></Cell>
+    <Cell><Data ss:Type="String">从手中释放闪电，在敌人之间跳跃。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_RainOfFire</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Rain of Fire</Data></Cell>
+    <Cell><Data ss:Type="String">烈焰之雨</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_RainOfFire_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Calls down a Storm of Fire projectiles that may damage enemies around you.</Data></Cell>
+    <Cell><Data ss:Type="String">召唤火焰之雨对你周围的敌人造成伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_LightningBolt</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Lightning Bolt</Data></Cell>
+    <Cell><Data ss:Type="String">闪电箭</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_LightningBolt_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Throw several small Lightning projectiles around you, increasing in number with each consecutive cast.</Data></Cell>
+    <Cell><Data ss:Type="String">向周围投掷多个闪电飞弹，多次释放增加数量。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Bloodbath</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Bloodbath</Data></Cell>
+    <Cell><Data ss:Type="String">浴血之路</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Bloodbath_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You take the form of a moving pool of Blood, inflicting Bleeding Damage to enemies nearby while preventing Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">变成可移动的血池，对附近的敌人造成流血伤害，自身免疫伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_MassFrenzy</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mass Frenzy</Data></Cell>
+    <Cell><Data ss:Type="String">群体狂乱</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_MassFrenzy_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Enrage all nearby enemies, causing them to attack each other.</Data></Cell>
+    <Cell><Data ss:Type="String">激怒附近所有的敌人，致使它们互相攻击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_GroundStomp</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ground Stomp</Data></Cell>
+    <Cell><Data ss:Type="String">大地践踏</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_GroundStomp_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Violently slams the ground, stunning nearby enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">猛烈的踩踏地面，眩晕附近的敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_WarCry</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">War Cry</Data></Cell>
+    <Cell><Data ss:Type="String">战吼</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_WarCry_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You enter a Combat Frenzy, preventing part of incoming damage and generating more Rage on hits</Data></Cell>
+    <Cell><Data ss:Type="String">进入战斗狂暴状态，免疫部分伤害，攻击时会增加更多的怒气。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_BoneCrush</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Bone Crushing</Data></Cell>
+    <Cell><Data ss:Type="String">碎骨</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_BoneCrush_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A powerful Melee Strike that increases your Attack Speed</Data></Cell>
+    <Cell><Data ss:Type="String">提高攻击速度进行有力的攻击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ForceShield</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Force Shield</Data></Cell>
+    <Cell><Data ss:Type="String">立场护盾</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ForceShield_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Summons a Stone Shield that protects you from incoming attacks.</Data></Cell>
+    <Cell><Data ss:Type="String">召唤一个岩石屏障来阻挡攻击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_AbsorptionShield</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbral Shield</Data></Cell>
+    <Cell><Data ss:Type="String">本影护盾</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_AbsorptionShield_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Summons an Umbral Shield that absorbs a limited amount of Damage and deflects projectiles.</Data></Cell>
+    <Cell><Data ss:Type="String">召唤一个本影护盾，吸收有限的伤害并弹开抛射物。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_UmbralCatalyst</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbral Catalyst</Data></Cell>
+    <Cell><Data ss:Type="String">本影催化</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_UmbralCatalyst_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You enter a Magic state where your Umbra regenerates much faster but your Spells cost more Umbra to cast</Data></Cell>
+    <Cell><Data ss:Type="String">提高你的能量恢复速度并增加技能消耗。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboShield</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Shield Combo</Data></Cell>
+    <Cell><Data ss:Type="String">盾牌连击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboShield_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Performs a powerful Melee Combo with your Shield and equipped weapon.</Data></Cell>
+    <Cell><Data ss:Type="String">用盾牌和武器造成有力的近战连击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboOneHanded</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">One Handed Combo</Data></Cell>
+    <Cell><Data ss:Type="String">单持连击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboOneHanded_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Performs a long Melee Combo with your equipped weapon.</Data></Cell>
+    <Cell><Data ss:Type="String">使用武器进行近战连击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboDualWield</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Wield Combo</Data></Cell>
+    <Cell><Data ss:Type="String">双持连击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboDualWield_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Performs numerous attacks with your equipped weapons. Deals reduced damage per hit.</Data></Cell>
+    <Cell><Data ss:Type="String">用武器进行大量的攻击。击打伤害依次递减。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboGreatSword</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Greatsword combo</Data></Cell>
+    <Cell><Data ss:Type="String">巨剑连击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboGreatSword_desc</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Performs slow and wide-ranged thrusts with your equipped Greatsword.</Data></Cell>
+    <Cell><Data ss:Type="String">用你的巨剑进行依次缓慢但大范围的猛击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboWarhammer</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Warhammer Combo</Data></Cell>
+    <Cell><Data ss:Type="String">重锤连击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboWarhammer_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Performs very slow but powerful attacks with your Warhammer.</Data></Cell>
+    <Cell><Data ss:Type="String">用你的战锤进行依次缓慢但是强力的攻击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboBattleaxe</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Battleaxe Combo</Data></Cell>
+    <Cell><Data ss:Type="String">战斧连击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboBattleaxe_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Performs wide-ranged cleaving attacks with your Battleaxe.</Data></Cell>
+    <Cell><Data ss:Type="String">用你的战斧进行依次大范围的顺劈斩。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboDualDaggers</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Daggers Combo</Data></Cell>
+    <Cell><Data ss:Type="String">双匕首连击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ComboDualDaggers_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Performs a very quick assault with your Dual Daggers.</Data></Cell>
+    <Cell><Data ss:Type="String">用的双匕首进行一次非常快速的突袭。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackWarhammer</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Hammering</Data></Cell>
+    <Cell><Data ss:Type="String">锤击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackWarhammer_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A charged attack that inflicts severe Damage and may knock your enemies down. You may hold it for increased Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">进行一次充能攻击，造成大量伤害并有几率击倒你的敌人。可以蓄力以提高伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualWield</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Slash</Data></Cell>
+    <Cell><Data ss:Type="String">双重猛砍</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualWield_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A double charged attack that has high Critical Chance. You may hold it for increased Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">进行一次高暴击率的双倍充能攻击。可以蓄力提高伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackBattleaxe</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Air Blade</Data></Cell>
+    <Cell><Data ss:Type="String">气刃</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackBattleaxe_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A powerful charged attack that slashes the air and may hit far away enemies. You may hold it for increased Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">用一次强力的充能攻击猛击空气并有几率击打到远处的敌人。可以蓄力以提高伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackGreatsword</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Impalement</Data></Cell>
+    <Cell><Data ss:Type="String">穿刺</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackGreatsword_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A forward charged attack that pierces through enemies. You may hold it for increased Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">进行一次充能攻击刺穿敌人。可以蓄力以提高伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackShield</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Guard</Data></Cell>
+    <Cell><Data ss:Type="String">守护</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackShield_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Blocks frontal attacks, preventing part of incoming Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">阻挡正面攻击并阻止一部分伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualDagger</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Daggers Rend</Data></Cell>
+    <Cell><Data ss:Type="String">双匕首撕裂</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualDagger_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A wide Slash that inflict Open Wounds to all nearby enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">进行一次范围猛击并对附近的敌人造成创伤。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_FireAmmo</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Fire Ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">火焰弹药</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_FireAmmo_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Grants Fire Damage to your Ranged shots and inflicts Burning effect.</Data></Cell>
+    <Cell><Data ss:Type="String">给武器提供火焰伤害并造成燃烧效果。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_FrostAmmo</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Frost Ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">冰霜弹药</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_FrostAmmo_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Grants Frost Damage to your Ranged shots and may freeze you targets.</Data></Cell>
+    <Cell><Data ss:Type="String">给武器提供冰霜伤害并有几率冻结敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ElectricAmmo</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Shocking Ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">电能弹药</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ElectricAmmo_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Grants Lightning Damage to your Ranged shots and may Shock them.</Data></Cell>
+    <Cell><Data ss:Type="String">给武器提供闪电伤害并有几率震慑敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ExplosiveAmmo</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Explosive Ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">爆炸弹药</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ExplosiveAmmo_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">All your Ranged shots become Explosive.</Data></Cell>
+    <Cell><Data ss:Type="String">所有的远程攻击都会造成爆炸。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_KineticAmmo</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Kinetic Ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">动能弹药</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_KineticAmmo_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Grants a Physical Impulse to your Ranged shots.</Data></Cell>
+    <Cell><Data ss:Type="String">给武器提供一次充能攻击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_PoisonAmmo</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Poisoned Ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">毒素弹药</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_PoisonAmmo_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Grants Poison Damage to your Ranged shots. Causes a Poison Nova when combined with Explosive Ammunition.</Data></Cell>
+    <Cell><Data ss:Type="String">给武器提供毒素伤害。和爆炸弹药混合时引发剧毒新星。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_BleedingAmmo</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Bleeding Ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">鲜血弹药</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_BleedingAmmo_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your Ranged shots inflict Open Wounds to targets.</Data></Cell>
+    <Cell><Data ss:Type="String">你的远程射击对目标造成创伤。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_PiercingShot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Piercing Shot</Data></Cell>
+    <Cell><Data ss:Type="String">穿刺射击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_PiercingShot_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A concentrated Ranged shot that pierces through enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">进行一次集中的射击并穿透目标。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_RapidShot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Rapid Shot</Data></Cell>
+    <Cell><Data ss:Type="String">快速射击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_RapidShot_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Quickly shoots several times with your equipped weapon.</Data></Cell>
+    <Cell><Data ss:Type="String">用你的武器多次射击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_SpreadShot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Spread Shot</Data></Cell>
+    <Cell><Data ss:Type="String">扩散射击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_SpreadShot_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Shoots multiples projectiles at the same time with your equipped weapon.</Data></Cell>
+    <Cell><Data ss:Type="String">用你的武器同时射出多发弹药。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Whirlwind</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Whirlwind</Data></Cell>
+    <Cell><Data ss:Type="String">旋风斩</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_Whirlwind_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Swings your equipped weapon in a powerful circular motion, striking enemies around you while moving.</Data></Cell>
+    <Cell><Data ss:Type="String">猛烈地旋转你的武器击打周围的敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_StoneWall</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Stone Wall</Data></Cell>
+    <Cell><Data ss:Type="String">石墙</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_StoneWall_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Raises a Stone Wall in front of you.</Data></Cell>
+    <Cell><Data ss:Type="String">在前方升起一道石墙。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_SpiritWalk</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Spirit Walk</Data></Cell>
+    <Cell><Data ss:Type="String">灵魂漫步</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_SpiritWalk_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Greatly increases your Movement Speed.</Data></Cell>
+    <Cell><Data ss:Type="String">大幅提高移动速度。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_BrutalStrike</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Brutal Strike</Data></Cell>
+    <Cell><Data ss:Type="String">残酷打击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_BrutalStrike_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A violent Melee attack that may repel enemies</Data></Cell>
+    <Cell><Data ss:Type="String">进行一次重击并有几率击退敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_UmbralBomb</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbral Bomb</Data></Cell>
+    <Cell><Data ss:Type="String">本影炸弹</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_UmbralBomb_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Plants an Umbral bomb on the ground that explodes after a short delay.</Data></Cell>
+    <Cell><Data ss:Type="String">在地上放置一个本影炸弹，一小段延迟后爆炸。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_FrostNova</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Frost Nova</Data></Cell>
+    <Cell><Data ss:Type="String">冰霜新星</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_FrostNova_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A medium-ranged Nova that freezes nearby enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">释放一次小范围的新星冻结附近的敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_MagneticStrike</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Magnetic Strike</Data></Cell>
+    <Cell><Data ss:Type="String">电磁打击</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_MagneticStrike_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Shoots powerful thunderbolts at nearby enemies</Data></Cell>
+    <Cell><Data ss:Type="String">朝附近的敌人释放强大的雷霆霹雳。</Data></Cell>
+   </Row>
+   <Row ss:Index="112" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="246"/>
+   <Row ss:Index="394" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="398" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
+   <Row ss:Index="477" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="482" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="485" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="489" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="492" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="496" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="499" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="513" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="518" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="522" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="526" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51"/>
+   <Row ss:AutoFitHeight="0" ss:Height="45"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="535" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="538" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="542" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="556" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="558" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="565" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="570" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="574" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="578" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="580" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="583" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="587" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="589" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="593" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="596" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="603" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="606" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
+   <Row ss:Index="615" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="622" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>97</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
