@@ -332,7 +332,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_popup_content_PSTVersionModified</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">The Passive Skills have been modified since the last time you played and we had no other choice but to reset your progression in the Gate of Fates.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">被动技能已被改动，我们已经用命运之门重置了你的进度。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">被动技能已被改动，我们已经在命运之门里重置了你的进度。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_PST_not_impl_yet</Data></Cell>
@@ -575,7 +575,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_HUNT_1_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You have something on your head… got it.</Data></Cell>
-    <Cell><Data ss:Type="String">你头上有点东西。。。你明白了吧。</Data></Cell>
+    <Cell><Data ss:Type="String">你头上有点东西。。。明白了吧。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_HUNT_2_name</Data></Cell>
@@ -679,7 +679,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_HUNT_13_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steady Aim</Data></Cell>
-    <Cell><Data ss:Type="String">稳固标准</Data></Cell>
+    <Cell><Data ss:Type="String">稳固瞄准</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_HUNT_13_lore</Data></Cell>
@@ -724,7 +724,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_HUNT_18_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Shared Medicine</Data></Cell>
-    <Cell><Data ss:Type="String">Shared Medicine</Data></Cell>
+    <Cell><Data ss:Type="String">共享治疗</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_HUNT_18_lore</Data></Cell>
@@ -945,7 +945,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GUARD_18_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Metallic Aura</Data></Cell>
-    <Cell><Data ss:Type="String">Metallic光环</Data></Cell>
+    <Cell><Data ss:Type="String">金属光环</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GUARD_18_lore</Data></Cell>
@@ -1064,7 +1064,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_THIEF_7_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">They won't see it coming.</Data></Cell>
-    <Cell><Data ss:Type="String">他们看不到未来。</Data></Cell>
+    <Cell><Data ss:Type="String">他们将看不到未来。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_THIEF_8_name</Data></Cell>
@@ -1087,7 +1087,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_THIEF_10_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Rejuvenation orb</Data></Cell>
-    <Cell><Data ss:Type="String">回春眼</Data></Cell>
+    <Cell><Data ss:Type="String">回春之眼</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_THIEF_10_lore</Data></Cell>
@@ -1187,7 +1187,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_THIEF_21_name</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Time-Slowing Leap</Data></Cell>
-    <Cell><Data ss:Type="String">Time-Slowing Leap</Data></Cell>
+    <Cell><Data ss:Type="String">长时间跳跃</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_THIEF_21_lore</Data></Cell>
@@ -1206,7 +1206,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_0_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">People say a wizard never reveals his secrets, so I’m not going to tell you the rest of this story.</Data></Cell>
-    <Cell><Data ss:Type="String">人们常说一个法师从不展露他的秘诀，所以你要自己挖掘剩余的部分。</Data></Cell>
+    <Cell><Data ss:Type="String">人们常说一个法师从不展露他的秘诀，所以你得自己挖掘剩余的部分。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_1_name</Data></Cell>
@@ -1311,7 +1311,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_12_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Health Globe Understanding</Data></Cell>
-    <Cell><Data ss:Type="String">生命球Understanding</Data></Cell>
+    <Cell><Data ss:Type="String">生命球学识</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_12_lore</Data></Cell>
@@ -1320,7 +1320,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_13_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Magical Globe Understanding</Data></Cell>
-    <Cell><Data ss:Type="String">魔力球Understanding</Data></Cell>
+    <Cell><Data ss:Type="String">魔力球学识</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_13_lore</Data></Cell>
@@ -1338,7 +1338,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_15_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Rage Globe Understanding</Data></Cell>
-    <Cell><Data ss:Type="String">怒气球Understanding</Data></Cell>
+    <Cell><Data ss:Type="String">怒气球学识</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_15_lore</Data></Cell>
@@ -1347,7 +1347,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_16_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra Globe Understanding</Data></Cell>
-    <Cell><Data ss:Type="String">本影球Understanding</Data></Cell>
+    <Cell><Data ss:Type="String">本影球学识</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_16_lore</Data></Cell>
@@ -1366,7 +1366,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_18_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Extended Power Boost</Data></Cell>
-    <Cell><Data ss:Type="String">大幅提高能力</Data></Cell>
+    <Cell><Data ss:Type="String">大幅提高智力</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_18_lore</Data></Cell>
@@ -1375,7 +1375,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_19_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Longer Power Boost</Data></Cell>
-    <Cell><Data ss:Type="String">持久提高能力</Data></Cell>
+    <Cell><Data ss:Type="String">持久提高智力</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ARCAN_19_lore</Data></Cell>
@@ -1434,7 +1434,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_1_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Elemental Affinity</Data></Cell>
-    <Cell><Data ss:Type="String">Elemental Affinity</Data></Cell>
+    <Cell><Data ss:Type="String">元素亲和</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_1_lore</Data></Cell>
@@ -1443,7 +1443,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_2_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Stone Skin</Data></Cell>
-    <Cell><Data ss:Type="String">Stone Skin</Data></Cell>
+    <Cell><Data ss:Type="String">岩石皮肤</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_2_lore</Data></Cell>
@@ -1452,7 +1452,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_3_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Elemental Absorption</Data></Cell>
-    <Cell><Data ss:Type="String">Elemental Absorption</Data></Cell>
+    <Cell><Data ss:Type="String">元素吸收</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_3_lore</Data></Cell>
@@ -1461,7 +1461,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_4_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Medic</Data></Cell>
-    <Cell><Data ss:Type="String">Medic</Data></Cell>
+    <Cell><Data ss:Type="String">医务兵</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_4_lore</Data></Cell>
@@ -1470,7 +1470,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_5_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Immune System</Data></Cell>
-    <Cell><Data ss:Type="String">Immune System</Data></Cell>
+    <Cell><Data ss:Type="String">免疫系统</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_5_lore</Data></Cell>
@@ -1479,7 +1479,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_6_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Recuperation</Data></Cell>
-    <Cell><Data ss:Type="String">Recuperation</Data></Cell>
+    <Cell><Data ss:Type="String">再生</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_6_lore</Data></Cell>
@@ -1488,7 +1488,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_7_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blessing Alchemy</Data></Cell>
-    <Cell><Data ss:Type="String">Blessing Alchemy</Data></Cell>
+    <Cell><Data ss:Type="String">炼金祝福</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_7_lore</Data></Cell>
@@ -1497,7 +1497,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_8_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Natural healing</Data></Cell>
-    <Cell><Data ss:Type="String">Natural healing</Data></Cell>
+    <Cell><Data ss:Type="String">自然疗法</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_8_lore</Data></Cell>
@@ -1506,7 +1506,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_9_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Curative Magic</Data></Cell>
-    <Cell><Data ss:Type="String">Curative Magic</Data></Cell>
+    <Cell><Data ss:Type="String">治疗魔法</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_9_lore</Data></Cell>
@@ -1515,7 +1515,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_10_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Benediction</Data></Cell>
-    <Cell><Data ss:Type="String">Benediction</Data></Cell>
+    <Cell><Data ss:Type="String">赐福</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_10_lore</Data></Cell>
@@ -1524,7 +1524,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_11_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Rooted</Data></Cell>
-    <Cell><Data ss:Type="String">Rooted</Data></Cell>
+    <Cell><Data ss:Type="String">根深蒂固</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_11_lore</Data></Cell>
@@ -1533,7 +1533,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_12_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Health</Data></Cell>
-    <Cell><Data ss:Type="String">Iron Health</Data></Cell>
+    <Cell><Data ss:Type="String">钢铁之躯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_12_lore</Data></Cell>
@@ -1542,7 +1542,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_13_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Instant Blessing</Data></Cell>
-    <Cell><Data ss:Type="String">Instant Blessing</Data></Cell>
+    <Cell><Data ss:Type="String">即时祝福</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_13_lore</Data></Cell>
@@ -1551,7 +1551,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_14_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Umbral Constitution</Data></Cell>
-    <Cell><Data ss:Type="String">Umbral Constitution</Data></Cell>
+    <Cell><Data ss:Type="String">本影体质</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_14_lore</Data></Cell>
@@ -1560,7 +1560,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_15_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Offensive Protection</Data></Cell>
-    <Cell><Data ss:Type="String">Offensive Protection</Data></Cell>
+    <Cell><Data ss:Type="String">攻守兼备~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_15_lore</Data></Cell>
@@ -1569,7 +1569,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_16_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Endurance</Data></Cell>
-    <Cell><Data ss:Type="String">Endurance</Data></Cell>
+    <Cell><Data ss:Type="String">耐久</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_16_lore</Data></Cell>
@@ -1578,7 +1578,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_17_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Human Shield</Data></Cell>
-    <Cell><Data ss:Type="String">Human Shield</Data></Cell>
+    <Cell><Data ss:Type="String">人肉盾牌</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_17_lore</Data></Cell>
@@ -1587,7 +1587,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_18_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Healing Stamina</Data></Cell>
-    <Cell><Data ss:Type="String">Healing Stamina</Data></Cell>
+    <Cell><Data ss:Type="String">愈合耐力</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_18_lore</Data></Cell>
@@ -1596,7 +1596,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_19_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Experimental Alchemy</Data></Cell>
-    <Cell><Data ss:Type="String">Experimental Alchemy</Data></Cell>
+    <Cell><Data ss:Type="String">炼金实验</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_19_lore</Data></Cell>
@@ -1605,7 +1605,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_20_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Muscularity</Data></Cell>
-    <Cell><Data ss:Type="String">Muscularity</Data></Cell>
+    <Cell><Data ss:Type="String">肌肉发达</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_20_lore</Data></Cell>
@@ -1614,7 +1614,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_21_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Elemental Regeneration</Data></Cell>
-    <Cell><Data ss:Type="String">Elemental Regeneration</Data></Cell>
+    <Cell><Data ss:Type="String">元素再生</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_21_lore</Data></Cell>
@@ -1623,7 +1623,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_22_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Chosen</Data></Cell>
-    <Cell><Data ss:Type="String">Chosen</Data></Cell>
+    <Cell><Data ss:Type="String">选择</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_22_lore</Data></Cell>
@@ -1632,7 +1632,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_23_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Champion</Data></Cell>
-    <Cell><Data ss:Type="String">Champion</Data></Cell>
+    <Cell><Data ss:Type="String">冠军</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_23_lore</Data></Cell>
@@ -1641,7 +1641,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_24_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Biological Defense</Data></Cell>
-    <Cell><Data ss:Type="String">Biological Defense</Data></Cell>
+    <Cell><Data ss:Type="String">生物防御</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_24_lore</Data></Cell>
@@ -1650,7 +1650,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_25_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Life Ingestion</Data></Cell>
-    <Cell><Data ss:Type="String">Life Ingestion</Data></Cell>
+    <Cell><Data ss:Type="String">生命摄取</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_25_lore</Data></Cell>
@@ -1659,7 +1659,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_26_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Static Defense</Data></Cell>
-    <Cell><Data ss:Type="String">Static Defense</Data></Cell>
+    <Cell><Data ss:Type="String">静态防御</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_26_lore</Data></Cell>
@@ -1668,7 +1668,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_27_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Physical Preparation</Data></Cell>
-    <Cell><Data ss:Type="String">Physical Preparation</Data></Cell>
+    <Cell><Data ss:Type="String">身体准备~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_27_lore</Data></Cell>
@@ -1677,7 +1677,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_28_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Chainbreaker</Data></Cell>
-    <Cell><Data ss:Type="String">Chainbreaker</Data></Cell>
+    <Cell><Data ss:Type="String">连锁破坏者</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_28_lore</Data></Cell>
@@ -1686,7 +1686,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_29_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Path to Preservation</Data></Cell>
-    <Cell><Data ss:Type="String">Path to Preservation</Data></Cell>
+    <Cell><Data ss:Type="String">保留之路</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_29_lore</Data></Cell>
@@ -1695,7 +1695,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_30_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Elemental Embrace</Data></Cell>
-    <Cell><Data ss:Type="String">Elemental Embrace</Data></Cell>
+    <Cell><Data ss:Type="String">元素信仰</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_30_lore</Data></Cell>
@@ -1704,7 +1704,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_31_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Unmovable</Data></Cell>
-    <Cell><Data ss:Type="String">Unmovable</Data></Cell>
+    <Cell><Data ss:Type="String">寸步难行</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_31_lore</Data></Cell>
@@ -1713,7 +1713,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_32_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Protection Extended</Data></Cell>
-    <Cell><Data ss:Type="String">Protection Extended</Data></Cell>
+    <Cell><Data ss:Type="String">增强型防御</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WARD_32_lore</Data></Cell>
@@ -1727,7 +1727,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_1_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Heavy strike</Data></Cell>
-    <Cell><Data ss:Type="String">Heavy strike</Data></Cell>
+    <Cell><Data ss:Type="String">沉重打击</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_1_lore</Data></Cell>
@@ -1736,7 +1736,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_2_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Prediction</Data></Cell>
-    <Cell><Data ss:Type="String">Prediction</Data></Cell>
+    <Cell><Data ss:Type="String">预言</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_2_lore</Data></Cell>
@@ -1745,7 +1745,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_3_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Trained eye</Data></Cell>
-    <Cell><Data ss:Type="String">Trained eye</Data></Cell>
+    <Cell><Data ss:Type="String">训练有素的眼睛</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_3_lore</Data></Cell>
@@ -1754,7 +1754,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_4_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Renowned Target</Data></Cell>
-    <Cell><Data ss:Type="String">Renowned Target</Data></Cell>
+    <Cell><Data ss:Type="String">显著的目标</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_4_lore</Data></Cell>
@@ -1763,7 +1763,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_5_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Expert</Data></Cell>
-    <Cell><Data ss:Type="String">Expert</Data></Cell>
+    <Cell><Data ss:Type="String">专家</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_5_lore</Data></Cell>
@@ -1772,7 +1772,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_6_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Titan Strength</Data></Cell>
-    <Cell><Data ss:Type="String">Titan Strength</Data></Cell>
+    <Cell><Data ss:Type="String">泰坦之力</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_6_lore</Data></Cell>
@@ -1781,7 +1781,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_7_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Tough Head</Data></Cell>
-    <Cell><Data ss:Type="String">Tough Head</Data></Cell>
+    <Cell><Data ss:Type="String">硬汉~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_7_lore</Data></Cell>
@@ -1790,7 +1790,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_8_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Medium Armor Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">Medium Armor Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">中甲精通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_8_lore</Data></Cell>
@@ -1799,17 +1799,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_9_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Retaliation</Data></Cell>
-    <Cell><Data ss:Type="String">Retaliation</Data></Cell>
+    <Cell><Data ss:Type="String">报复</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_9_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">I will have my vengeance, in this life or the next.</Data></Cell>
-    <Cell><Data ss:Type="String">I will have my vengeance, in this life or the next.</Data></Cell>
+    <Cell><Data ss:Type="String">我将大仇得报，这辈子或者下辈子。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_10_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">First Aid</Data></Cell>
-    <Cell><Data ss:Type="String">First Aid</Data></Cell>
+    <Cell><Data ss:Type="String">急救</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_10_lore</Data></Cell>
@@ -1818,7 +1818,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_11_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Healing knowledge</Data></Cell>
-    <Cell><Data ss:Type="String">Healing knowledge</Data></Cell>
+    <Cell><Data ss:Type="String">治疗学识</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_11_lore</Data></Cell>
@@ -1827,7 +1827,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_12_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Tough</Data></Cell>
-    <Cell><Data ss:Type="String">Tough</Data></Cell>
+    <Cell><Data ss:Type="String">坚韧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_12_lore</Data></Cell>
@@ -1836,7 +1836,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_13_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Weaponized Dance</Data></Cell>
-    <Cell><Data ss:Type="String">Weaponized Dance</Data></Cell>
+    <Cell><Data ss:Type="String">战舞~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_13_lore</Data></Cell>
@@ -1845,7 +1845,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_14_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Anticipation</Data></Cell>
-    <Cell><Data ss:Type="String">Anticipation</Data></Cell>
+    <Cell><Data ss:Type="String">先发制人</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_14_lore</Data></Cell>
@@ -1854,7 +1854,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_15_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crossed Strikes</Data></Cell>
-    <Cell><Data ss:Type="String">Crossed Strikes</Data></Cell>
+    <Cell><Data ss:Type="String">交叉打击</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_15_lore</Data></Cell>
@@ -1863,7 +1863,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_16_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Commotion</Data></Cell>
-    <Cell><Data ss:Type="String">Commotion</Data></Cell>
+    <Cell><Data ss:Type="String">暴动</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_16_lore</Data></Cell>
@@ -1872,7 +1872,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_17_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Healing Dash</Data></Cell>
-    <Cell><Data ss:Type="String">Healing Dash</Data></Cell>
+    <Cell><Data ss:Type="String">治愈冲锋</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_17_lore</Data></Cell>
@@ -1881,7 +1881,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_18_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Warhammer Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">Warhammer Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">战锤精通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_18_lore</Data></Cell>
@@ -1890,7 +1890,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_19_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">One-Handed Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">One-Handed Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">单手精通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_19_lore</Data></Cell>
@@ -1899,7 +1899,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_20_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Battleaxe Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">Battleaxe Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">战斧精通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_20_lore</Data></Cell>
@@ -1908,7 +1908,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_21_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Sword And Shield Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">Sword And Shield Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">剑盾精通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_21_lore</Data></Cell>
@@ -1917,7 +1917,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_22_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Butchery</Data></Cell>
-    <Cell><Data ss:Type="String">Butchery</Data></Cell>
+    <Cell><Data ss:Type="String">屠宰场</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_22_lore</Data></Cell>
@@ -1926,7 +1926,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_23_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Deep Wounds</Data></Cell>
-    <Cell><Data ss:Type="String">Deep Wounds</Data></Cell>
+    <Cell><Data ss:Type="String">深度伤口</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_23_lore</Data></Cell>
@@ -1935,7 +1935,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_24_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brutality</Data></Cell>
-    <Cell><Data ss:Type="String">Brutality</Data></Cell>
+    <Cell><Data ss:Type="String">暴行</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_24_lore</Data></Cell>
@@ -1944,7 +1944,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_25_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Wide Reach</Data></Cell>
-    <Cell><Data ss:Type="String">Wide Reach</Data></Cell>
+    <Cell><Data ss:Type="String">范围传播~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_25_lore</Data></Cell>
@@ -1953,7 +1953,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_26_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">All against one</Data></Cell>
-    <Cell><Data ss:Type="String">All against one</Data></Cell>
+    <Cell><Data ss:Type="String">万象归一~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_26_lore</Data></Cell>
@@ -1962,7 +1962,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_27_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Path to Glory</Data></Cell>
-    <Cell><Data ss:Type="String">Path to Glory</Data></Cell>
+    <Cell><Data ss:Type="String">荣耀之路</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_27_lore</Data></Cell>
@@ -1971,17 +1971,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_28_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Killing Chain</Data></Cell>
-    <Cell><Data ss:Type="String">Killing Chain</Data></Cell>
+    <Cell><Data ss:Type="String">连锁杀戮</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_28_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A day without killing is a day wasted.</Data></Cell>
-    <Cell><Data ss:Type="String">A day without killing is a day wasted.</Data></Cell>
+    <Cell><Data ss:Type="String">一天不杀，浑身难受。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_29_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Sturdy Warrior Weaponry</Data></Cell>
-    <Cell><Data ss:Type="String">Sturdy Warrior Weaponry</Data></Cell>
+    <Cell><Data ss:Type="String">强健战士兵刃</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_29_lore</Data></Cell>
@@ -1990,7 +1990,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_30_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Killing Chain Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">Killing Chain Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">连锁杀戮精通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_30_lore</Data></Cell>
@@ -1999,7 +1999,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_31_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Swift Warrior Weaponry</Data></Cell>
-    <Cell><Data ss:Type="String">Swift Warrior Weaponry</Data></Cell>
+    <Cell><Data ss:Type="String">迅捷战士兵刃</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_31_lore</Data></Cell>
@@ -2008,7 +2008,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_32_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Killing Chain Extended</Data></Cell>
-    <Cell><Data ss:Type="String">Killing Chain Extended</Data></Cell>
+    <Cell><Data ss:Type="String">增强型连锁杀戮</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_32_lore</Data></Cell>
@@ -2017,7 +2017,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_33_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Greatsword Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">Greatsword Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">巨剑精通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_33_lore</Data></Cell>
@@ -2026,7 +2026,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_34_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dual-Wielding Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">Dual-Wielding Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">双持精通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_GLAD_34_lore</Data></Cell>
@@ -2040,7 +2040,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_1_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Practical weapons</Data></Cell>
-    <Cell><Data ss:Type="String">Practical weapons</Data></Cell>
+    <Cell><Data ss:Type="String">实用武器</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_1_lore</Data></Cell>
@@ -2049,7 +2049,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_2_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Daggers Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">Dual Daggers Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">双持匕首精通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_2_lore</Data></Cell>
@@ -2058,7 +2058,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_3_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Counter-Attack</Data></Cell>
-    <Cell><Data ss:Type="String">Counter-Attack</Data></Cell>
+    <Cell><Data ss:Type="String">防守反击</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_3_lore</Data></Cell>
@@ -2067,7 +2067,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_4_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Enhanced Toxin usage</Data></Cell>
-    <Cell><Data ss:Type="String">Enhanced Toxin usage</Data></Cell>
+    <Cell><Data ss:Type="String">增强型毒药使用</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_4_lore</Data></Cell>
@@ -2076,7 +2076,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_5_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Physiological Assault</Data></Cell>
-    <Cell><Data ss:Type="String">Physiological Assault</Data></Cell>
+    <Cell><Data ss:Type="String">生理袭击</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_5_lore</Data></Cell>
@@ -2094,7 +2094,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_7_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Chained Executions</Data></Cell>
-    <Cell><Data ss:Type="String">Chained Executions</Data></Cell>
+    <Cell><Data ss:Type="String">连锁处决</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_7_lore</Data></Cell>
@@ -2103,7 +2103,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_8_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Sneak Strike</Data></Cell>
-    <Cell><Data ss:Type="String">Sneak Strike</Data></Cell>
+    <Cell><Data ss:Type="String">鬼魅打击</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_8_lore</Data></Cell>
@@ -2112,7 +2112,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_9_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Deadlier poison</Data></Cell>
-    <Cell><Data ss:Type="String">Deadlier poison</Data></Cell>
+    <Cell><Data ss:Type="String">致命毒药</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_9_lore</Data></Cell>
@@ -2121,7 +2121,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_10_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Venom</Data></Cell>
-    <Cell><Data ss:Type="String">Venom</Data></Cell>
+    <Cell><Data ss:Type="String">毒液</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_10_lore</Data></Cell>
@@ -2130,7 +2130,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_11_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Mercyless</Data></Cell>
-    <Cell><Data ss:Type="String">Mercyless</Data></Cell>
+    <Cell><Data ss:Type="String">残忍无情</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_11_lore</Data></Cell>
@@ -2148,7 +2148,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_13_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Vein Cutter</Data></Cell>
-    <Cell><Data ss:Type="String">Vein Cutter</Data></Cell>
+    <Cell><Data ss:Type="String">血管切割者</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_13_lore</Data></Cell>
@@ -2157,7 +2157,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_14_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Frantic</Data></Cell>
-    <Cell><Data ss:Type="String">Frantic</Data></Cell>
+    <Cell><Data ss:Type="String">亡命之徒</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_14_lore</Data></Cell>
@@ -2175,7 +2175,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_16_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Critical Dash</Data></Cell>
-    <Cell><Data ss:Type="String">Critical Dash</Data></Cell>
+    <Cell><Data ss:Type="String">暴击冲锋</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_16_lore</Data></Cell>
@@ -2184,7 +2184,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_17_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Heavy Load</Data></Cell>
-    <Cell><Data ss:Type="String">Heavy Load</Data></Cell>
+    <Cell><Data ss:Type="String">负重</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_17_lore</Data></Cell>
@@ -2193,7 +2193,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_18_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Light Step</Data></Cell>
-    <Cell><Data ss:Type="String">Light Step</Data></Cell>
+    <Cell><Data ss:Type="String">猫步</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_18_lore</Data></Cell>
@@ -2202,7 +2202,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_19_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Backstab</Data></Cell>
-    <Cell><Data ss:Type="String">Backstab</Data></Cell>
+    <Cell><Data ss:Type="String">背刺</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_19_lore</Data></Cell>
@@ -2211,7 +2211,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_20_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">First Strike</Data></Cell>
-    <Cell><Data ss:Type="String">First Strike</Data></Cell>
+    <Cell><Data ss:Type="String">先发制人</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_20_lore</Data></Cell>
@@ -2220,7 +2220,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_21_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blood lust</Data></Cell>
-    <Cell><Data ss:Type="String">Blood lust</Data></Cell>
+    <Cell><Data ss:Type="String">嗜血之欲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_21_lore</Data></Cell>
@@ -2229,7 +2229,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_22_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Diversion</Data></Cell>
-    <Cell><Data ss:Type="String">Diversion</Data></Cell>
+    <Cell><Data ss:Type="String">转移</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_22_lore</Data></Cell>
@@ -2238,17 +2238,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_23_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Assassination</Data></Cell>
-    <Cell><Data ss:Type="String">Assassination</Data></Cell>
+    <Cell><Data ss:Type="String">暗杀</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_23_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Everybody dies eventually. But you first.</Data></Cell>
-    <Cell><Data ss:Type="String">Everybody dies eventually. But you first.</Data></Cell>
+    <Cell><Data ss:Type="String">每个人都会死。但你是第一个。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_24_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Invisible Executor</Data></Cell>
-    <Cell><Data ss:Type="String">Invisible Executor</Data></Cell>
+    <Cell><Data ss:Type="String">隐秘执行者</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_24_lore</Data></Cell>
@@ -2257,7 +2257,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_25_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Bloodshed</Data></Cell>
-    <Cell><Data ss:Type="String">Bloodshed</Data></Cell>
+    <Cell><Data ss:Type="String">杀戮</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_25_lore</Data></Cell>
@@ -2266,7 +2266,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_26_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Severing</Data></Cell>
-    <Cell><Data ss:Type="String">Severing</Data></Cell>
+    <Cell><Data ss:Type="String">切割</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_26_lore</Data></Cell>
@@ -2275,17 +2275,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_27_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Surgeon</Data></Cell>
-    <Cell><Data ss:Type="String">Surgeon</Data></Cell>
+    <Cell><Data ss:Type="String">外科医生</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_27_lore</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Did you know that if I take all the veins from your body and lay them end to end… you will die ?</Data></Cell>
-    <Cell><Data ss:Type="String">Did you know that if I take all the veins from your body and lay them end to end… you will die ?</Data></Cell>
+    <Cell><Data ss:Type="String">你猜猜如果我把你的动脉拉出来首尾相接围成一个圈。。。会死人不？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_28_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Confusion serum</Data></Cell>
-    <Cell><Data ss:Type="String">Confusion serum</Data></Cell>
+    <Cell><Data ss:Type="String">混乱血清</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ASSAS_28_lore</Data></Cell>
@@ -2610,7 +2610,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_TRICK_26_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">My girlfriend accused me of cheating. I told her she was starting to sound like my wife.</Data></Cell>
-    <Cell><Data ss:Type="String">My girlfriend accused me of cheating. I told her she was starting to sound like my wife.</Data></Cell>
+    <Cell><Data ss:Type="String">我的女伴指责我作弊。我告诉她她开始变得像我的妻子。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_TRICK_27_name</Data></Cell>
@@ -2733,7 +2733,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_7_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Who smells like bacon ?</Data></Cell>
-    <Cell><Data ss:Type="String">Who smells like bacon ?</Data></Cell>
+    <Cell><Data ss:Type="String">谁在烤培根？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_8_name</Data></Cell>
@@ -3024,7 +3024,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_39_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Who need swords when you control the Storm ?</Data></Cell>
-    <Cell><Data ss:Type="String">Who need swords when you control the Storm ?</Data></Cell>
+    <Cell><Data ss:Type="String">你施法的时候要不要来把剑？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
     <Cell ss:MergeAcross="2" ss:StyleID="m322208396"><Data ss:Type="String">PASSIVE SKILLS MAGIC EFFECTS DESCRIPTIONS</Data></Cell>
@@ -3032,7 +3032,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_PST_Dexterity</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1%2 to Dexterity</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2敏捷</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2 敏捷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DexterityWhenImmobile</Data></Cell>
@@ -3057,7 +3057,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Strength</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1%2 to Strength</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2力量</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2 力量</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthFromRage</Data></Cell>
@@ -3102,12 +3102,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Constitution</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1%2 to Constitution</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2体质</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2 体质</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Power</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1%2 to Power</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2智力</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2 智力</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PowerFromManaGlobe</Data></Cell>
@@ -3132,7 +3132,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AllStats</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1%2 to all Attributes</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2所有属性</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2 所有属性</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AllStatsWhenDodgeSuccess</Data></Cell>
@@ -3157,12 +3157,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Umbra</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1%2 to maximum Umbra</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2能量上限</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2 本影上限</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Stamina</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1%2 to maximum Stamina</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2耐力上限</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2 耐力上限</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StaminaRegen</Data></Cell>
@@ -4502,202 +4502,202 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_GlobesChanceOnElements</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the drop chance of Globes when hitting enemies with Elemental Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the drop chance of Globes when hitting enemies with Elemental Damage</Data></Cell>
+    <Cell><Data ss:Type="String">使用元素伤害攻击敌人时%2能量球掉落率</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_GlobesNova</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Casts a small Elemental Nova each time you pick up a Globe (the Element depends on the Globe type)</Data></Cell>
-    <Cell><Data ss:Type="String">Casts a small Elemental Nova each time you pick up a Globe (the Element depends on the Globe type)</Data></Cell>
+    <Cell><Data ss:Type="String">每次捡起一个能量球释放一次小元素新星(取决于能量球的类型)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PickRadius</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the radius of your auto-picking area (for Gold and Globes)</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the radius of your auto-picking area (for Gold and Globes)</Data></Cell>
+    <Cell><Data ss:Type="String">%2自动拾取区域半径(金币和能量球)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_GlobePickRadiusInc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the radius of your Globe picking area</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the radius of your Globe picking area</Data></Cell>
+    <Cell><Data ss:Type="String">%2自动拾取区域半径</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_UmbraGlobePickRadiusInc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the radius of your Umbra Globe picking area</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the radius of your Umbra Globe picking area</Data></Cell>
+    <Cell><Data ss:Type="String">%2本影能量球拾取区域半径</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HealthGlobePickRadiusInc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the radius of your Rage Globe picking area</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the radius of your Rage Globe picking area</Data></Cell>
+    <Cell><Data ss:Type="String">%2怒气能量球拾取区域半径</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RageGlobePickRadiusInc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the radius of your Health Globe picking area</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the radius of your Health Globe picking area</Data></Cell>
+    <Cell><Data ss:Type="String">%2生命能量球拾取区域半径</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_GlobePickRadiusFromHealth</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the radius of your Globe picking area when near death (bonus decreasing linearly the higher your current Health is)</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the radius of your Globe picking area when near death (bonus decreasing linearly the higher your current Health is)</Data></Cell>
+    <Cell><Data ss:Type="String">濒死时%2能量球拾取区域半径(生命值越高加成越低)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HealthGlobeIfLowLife</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the drop Rate of Health Globes when your current Health is below %1</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the drop Rate of Health Globes when your current Health is below %1</Data></Cell>
+    <Cell><Data ss:Type="String">当前生命值低于%1时%2生命能量球掉落几率 </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_UmbraGlobesRefillUmbraPotions</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra Globes now also refill your Umbra potions (up to %2)</Data></Cell>
-    <Cell><Data ss:Type="String">Umbra Globes now also refill your Umbra potions (up to %2)</Data></Cell>
+    <Cell><Data ss:Type="String">现在本影能量球会给本影药水充能(最高%2)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RageGlobesRefillRagePotions</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Rage Globes now also refill your Rage potions (up to %2)</Data></Cell>
-    <Cell><Data ss:Type="String">Rage Globes now also refill your Rage potions (up to %2)</Data></Cell>
+    <Cell><Data ss:Type="String">现在怒气能量球会给怒气药水充能(最高%2)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HealthGlobesRefillHealthPotions</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Health Globes now also refill your Health potions (up to %2)</Data></Cell>
-    <Cell><Data ss:Type="String">Health Globes now also refill your Health potions (up to %2)</Data></Cell>
+    <Cell><Data ss:Type="String">现在生命能量球会给生命药水充能(最高%2)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RegenOnPotions</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Health Potions no longer Heal, but greatly increase your Health Regeneration instead</Data></Cell>
-    <Cell><Data ss:Type="String">Health Potions no longer Heal, but greatly increase your Health Regeneration instead</Data></Cell>
+    <Cell><Data ss:Type="String">生命药水失去治愈效果，但会大幅度提高玩家的生命回复</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonRefillBonus</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Equipped Poisons refill %2 faster</Data></Cell>
-    <Cell><Data ss:Type="String">Equipped Poisons refill %2 faster</Data></Cell>
+    <Cell><Data ss:Type="String">装备毒药后充能速度加快%2~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Rooted</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Your Dodge roll is permanently replaced by a Protection Form that lasts %2 per Stamina point (stackable %1 times) and gives you extra Armor, Stun, Knock-back and Blown-Away Resistances while reducing you Movement Speed. Fully compatible with what previously affected the Dodge Roll.</Data></Cell>
-    <Cell><Data ss:Type="String">Your Dodge roll is permanently replaced by a Protection Form that lasts %2 per Stamina point (stackable %1 times) and gives you extra Armor, Stun, Knock-back and Blown-Away Resistances while reducing you Movement Speed. Fully compatible with what previously affected the Dodge Roll.</Data></Cell>
+    <Cell><Data ss:Type="String">翻滚被永久替换为保护形态，每个耐力点持续%2(叠加%1次),获得额外的护甲，眩晕，反击和击退抗性并降低玩家的移动速度。继承之前翻滚的所有效果。~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RootedInvuTime</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Increases by %2 the invulnerability time of the Protection Form</Data></Cell>
-    <Cell><Data ss:Type="String">Increases by %2 the invulnerability time of the Protection Form</Data></Cell>
+    <Cell><Data ss:Type="String">增加保护形态的无敌时间%2~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RootedHeal</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Instantly heals %2 of your maximum Health when you cast the Protection Form</Data></Cell>
-    <Cell><Data ss:Type="String">Instantly heals %2 of your maximum Health when you cast the Protection Form</Data></Cell>
+    <Cell><Data ss:Type="String">释放保护形态时立刻回复最大生命值的%2~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RootedDamageFromConst</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">When in Protection Form, you get a %2 Physical Damage bonus for each Constitution point you have</Data></Cell>
-    <Cell><Data ss:Type="String">When in Protection Form, you get a %2 Physical Damage bonus for each Constitution point you have</Data></Cell>
+    <Cell><Data ss:Type="String">进入保护形态后，获得体力值的%2转化为物理伤害加成~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RootedBreakStun</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Break Stun effect when you launch the Protection Form (%2 Cooldown)</Data></Cell>
-    <Cell><Data ss:Type="String">Break Stun effect when you launch the Protection Form (%2 Cooldown)</Data></Cell>
+    <Cell><Data ss:Type="String">启动保护形态打破眩晕效果(%2冷却时间~)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ImpulseOnHitHammer</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Each hit done with Two-handed Hammer increases by %1 your Physical Impulse Chance with Impulsion skills during %2 (stackable %3 times)</Data></Cell>
-    <Cell><Data ss:Type="String">Each hit done with Two-handed Hammer increases by %1 your Physical Impulse Chance with Impulsion skills during %2 (stackable %3 times)</Data></Cell>
+    <Cell><Data ss:Type="String">Each hit done with Two-handed Hammer increases by %1 your Physical Impulse Chance with Impulsion skills during %2(叠加%3次~)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HitStun</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to Stun enemies during %2 on each hit</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Chance to Stun enemies during %2 on each hit</Data></Cell>
+    <Cell><Data ss:Type="String">每一击有%1几率眩晕敌人，持续%2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StunChance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 Chance to cause Stun effects</Data></Cell>
-    <Cell><Data ss:Type="String">%2 Chance to cause Stun effects</Data></Cell>
+    <Cell><Data ss:Type="String">%2几率引发眩晕效果</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StunTime</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the duration of all Stun effects inflicted</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the duration of all Stun effects inflicted</Data></Cell>
+    <Cell><Data ss:Type="String">%2所有眩晕效果的持续时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StunResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Stun Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to Stun Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">%2眩晕抗性</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StunTimeIncPercent</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Increases by %2 the duration of all the Stun effects you inflict</Data></Cell>
-    <Cell><Data ss:Type="String">Increases by %2 the duration of all the Stun effects you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">增加%2所有眩晕效果的持续时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StunDurationReduction</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Reduces by %2 the duration of all the Stun effects you take</Data></Cell>
-    <Cell><Data ss:Type="String">Reduces by %2 the duration of all the Stun effects you take</Data></Cell>
+    <Cell><Data ss:Type="String">减少%2遭受的所有眩晕效果的持续时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StunOnCloseRanged</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to Stun close enemies with Ranged weapons (in a %2 range)</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Chance to Stun close enemies with Ranged weapons (in a %2 range)</Data></Cell>
+    <Cell><Data ss:Type="String">使用远程武器时增加%1几率眩晕离你过近的敌人(%2范围内)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_KnockBack</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to your Knock-back intensity</Data></Cell>
-    <Cell><Data ss:Type="String">%1 to your Knock-back intensity</Data></Cell>
+    <Cell><Data ss:Type="String">%1击退强度</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_KnockBackFromStr</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to your Knock-back Strength factor</Data></Cell>
-    <Cell><Data ss:Type="String">%1 to your Knock-back Strength factor</Data></Cell>
+    <Cell><Data ss:Type="String">%1击退力量系数</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_KnockBackResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Knock-back Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to Knock-back Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">%2击退抗性</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_KnockBackOnCloseRanged</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to Knock-back close enemies with Ranged weapons (in a %2 range)</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Chance to Knock-back close enemies with Ranged weapons (in a %2 range)</Data></Cell>
+    <Cell><Data ss:Type="String">使用远程武器时增加%1几率击退离你过近的敌人(%2范围内)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_KnockBackImmunityShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can't be Knocked-back by attacks blocked by your shield</Data></Cell>
-    <Cell><Data ss:Type="String">You can't be Knocked-back by attacks blocked by your shield</Data></Cell>
+    <Cell><Data ss:Type="String">用盾牌格挡时不会被击退</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_KnockbackOnDodgeroll</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Chance to Knock-down enemies around you when Dodge-rolling</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Chance to Knock-down enemies around you when Dodge-rolling</Data></Cell>
+    <Cell><Data ss:Type="String">翻滚时有%1几率击倒周围的敌人</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BlownAwayResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Knock-down Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to Knock-down Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">%2 击倒抗性</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BlownAwayImmunityShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can't be Knocked-down by attacks blocked by your shield</Data></Cell>
-    <Cell><Data ss:Type="String">You can't be Knocked-down by attacks blocked by your shield</Data></Cell>
+    <Cell><Data ss:Type="String">用盾牌格挡时不会被击倒</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_KnockDownRecoveryAlt</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You get back on your feet faster after a Knock-down</Data></Cell>
-    <Cell><Data ss:Type="String">You get back on your feet faster after a Knock-down</Data></Cell>
+    <Cell><Data ss:Type="String">被击倒后更快起身</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ShatterDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Shatter Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Shatter Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 粉碎伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ReturnBlownAwayShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can return a Knock-down effect to its source if you raise your shield in time</Data></Cell>
-    <Cell><Data ss:Type="String">You can return a Knock-down effect to its source if you raise your shield in time</Data></Cell>
+    <Cell><Data ss:Type="String">如果你即时举起盾牌，就能把击倒效果返还给来源</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HitPhysImpulseInc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to Physical Impulse Chance with Impulsion skills</Data></Cell>
-    <Cell><Data ss:Type="String">%1 to Physical Impulse Chance with Impulsion skills</Data></Cell>
+    <Cell><Data ss:Type="String">%1 to Physical Impulse Chance with Impulsion skills~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HitPhysImpulse</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Chance to expulse enemies on hit</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Chance to expulse enemies on hit</Data></Cell>
+    <Cell><Data ss:Type="String">攻击时有%1几率驱逐敌人</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BlownAway</Data></Cell>
