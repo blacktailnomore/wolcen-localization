@@ -233,7 +233,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ShadowStrike_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You merge with the Shadows and successively strike nearby enemies while preventing Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">你与暗影融合连续攻击附近的敌人并免疫伤害。</Data></Cell>
+    <Cell><Data ss:Type="String">与暗影融合连续攻击附近的敌人并免疫伤害。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_HeartOfWinter</Data></Cell>
