@@ -207,139 +207,139 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">NPC Names</Data></Cell>
     <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s77"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_healer_amarth</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Caracole</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">卡拉库勒</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier1</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Linus</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">莱纳斯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier3</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Karsh</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">卡尔西</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier4</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Jalan</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">贾兰</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier5</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Michel</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">米歇尔</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthBlacksmith</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Nyhlus</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">铁匠</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier8</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Horrock</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">霍诺克</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier7</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gangrel</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">流浪汉</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BrotherHorrock</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brother Horrock</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">霍诺克</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BrotherHuruem</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brother Huruem</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">胡鲁姆</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BrotherFenris</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brother Fenris</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">芬瑞斯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BrotherTorvus</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brother Torvus</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">托维斯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier10</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crinos</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">科诺瑞斯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier11</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Klayner</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">克雷内尔</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier12</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Torvus</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">托维斯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier9</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Xaviar</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">扎维尔</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Dagon</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dagon</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">达贡</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Jalan</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Jalan</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">贾兰</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier13</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Vargas</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">瓦尔加斯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier14</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alan</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">艾伦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier15</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Karadoc</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">卡拉多克</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthArenaMaster</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Arena Master</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">竞技场大师</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -420,7 +420,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">NPC Interactions</Data></Cell>
     <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s77"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -431,7 +431,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier3</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Be careful out there, big guy</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">在外面小心点，小伙子</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -462,7 +462,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier9</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Have you seen my wife? Oh god, I miss her.</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">你见过我妻子吗？天啊，我跟她走散了。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -478,7 +478,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier12</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Please, leave me alone.</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">请离我远点。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -489,25 +489,25 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier14</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Welcome to Amarth, friend.</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">欢迎来到阿玛斯，朋友。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier15</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">I think I've lost a chicken. Or maybe two.</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">我想我丢了一只鸡，或者可能是两只。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier16</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The arena is not ready yet, come back later.</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">竞技场还未开放，请晚点再来。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">World Waypoints</Data></Cell>
     <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s77"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -583,37 +583,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">Sleeping</Data></Cell>
     <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s77"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_innkeeper</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Innkeeper</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">客栈老板</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sleep</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Sleep</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">确定</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sleepingmenu_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Rest</Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">打尖</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_currenttime</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Current time : </Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">当前时间 : </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sleepuntil</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Sleep until : </Data></Cell>
-    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">睡到 : </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="20"/>

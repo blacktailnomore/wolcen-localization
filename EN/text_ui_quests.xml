@@ -244,77 +244,77 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_fire_and_burning_effects_are_less_effctive_in_water</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Fire and burning effects are less effective in water.</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Fire and burning effects are less effective in water.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_using_piercing_weapon_against_frozen_enemies_is_very_effecive</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Using piercing weapon against frozen enemies is very effective.</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Using piercing weapon against frozen enemies is very effective.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s81"/>
     <Cell ss:StyleID="Default"/>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_missionsuccessful</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Mission Successful</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Mission Successful</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_new</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">New</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">New</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">skill_unlocked</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Skill unlocked</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Skill unlocked</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_dialogtitlemsg</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Message</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Message</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_press_space_to_roll_and_dodge</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Press Space to perform a dodge roll</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Press Space to perform a dodge roll</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_press_middle_mouse_button_to_rotate_camera</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Hold down and move the middle mouse button to rotate the camera</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Hold down and move the middle mouse button to rotate the camera</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:Index="2" ss:StyleID="Default"/>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_each_weapon_types_have_their_own_attack_styles</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Each weapon type has its own attack style.</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Each weapon type has its own attack style.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_spending_a_ressource_fills_up_the_other</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Spending a resource fills up the other. Don't hesitate to mix magic spells and melee moves to take advantage of this feature.</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Spending a resource fills up the other. Don't hesitate to mix magic spells and melee moves to take advantage of this feature.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:Index="2" ss:StyleID="Default"/>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
@@ -325,55 +325,55 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="s75">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_or</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">or</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">or</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_level_up</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">level up</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">level up</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_power_level</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">power level</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">power level</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_utility_level</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">utility level</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">utility level</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_basic_chest</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">basic chest</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">basic chest</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_rare_chest</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">rare chest</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">rare chest</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_gold</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">gold</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">gold</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_level</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">level</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">level</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
@@ -389,19 +389,19 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_i_need_to_get_out_of_this_place</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">I need to get out of this cursed place.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">I need to get out of this cursed place.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_and_to_find_and_pant</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Maybe the rebels can offer me their help.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Maybe the rebels can offer me their help.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_rest_in_pieces</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">The usurper damned these souls.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">The usurper damned these souls.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -417,19 +417,19 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_light_finally</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Light, finally.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Light, finally.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_aaahhh</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">You, there !</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">You, there !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_help_me</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Help me !</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Help me !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -450,13 +450,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_they_are_coming_defend_yourself_my_brothers_are_close</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">My Brothers are coming soon, you have to hold on !</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">My Brothers are coming soon, you have to hold on !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_glory_to_amon</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Glory to Amon !</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Glory to Amon !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -467,7 +467,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_did_you_bring_a_pant</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Where did those foul creatures come from ?</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">Where did those foul creatures come from ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -488,13 +488,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
     <Cell ss:StyleID="s82"/>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">escape_the_prison</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Escape the prison</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Escape the prison</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -505,24 +505,24 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_talk_to_the_wounded_templar</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Talk to the wounded templar</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Talk to the wounded templar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">the_escape</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">The escape</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">The escape</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_survive_the_ambush</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Survive the ambush</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Survive the ambush</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -546,53 +546,53 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_combos_desc_shield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Weapon and Shield uses defense as a mean of offense. Attacking with your weapon increases the amount of damage reflected to the enemies, and blocking with your shield will increase armor vs. hits form the front.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Weapon and Shield uses defense as a mean of offense. Attacking with your weapon increases the amount of damage reflected to the enemies, and blocking with your shield will increase armor vs. hits form the front.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_combos_desc_onehandedblade</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Wield lighter one-handed weapons with all your strength to deliver swift and powerfull blows. You get increased attack damage while holding a single weapon, and get to equip any skill in your free-hand slot.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Wield lighter one-handed weapons with all your strength to deliver swift and powerfull blows. You get increased attack damage while holding a single weapon, and get to equip any skill in your free-hand slot.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_combos_desc_twohandedblade</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Great Swords require more finesse than other two-handed weapons. Slash at your enemies and finish on a thrusting hit. Charge-up a powerful thrust-attack that will pierce multiple enemies in its path. </Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Great Swords require more finesse than other two-handed weapons. Slash at your enemies and finish on a thrusting hit. Charge-up a powerful thrust-attack that will pierce multiple enemies in its path. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_combos_desc_hammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Great Hammers blows have a chance to stun and send your enemies flying away. The third hit always stuns a single enemy. Charge-up to expulse everyone around you with massive damage.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Great Hammers blows have a chance to stun and send your enemies flying away. The third hit always stuns a single enemy. Charge-up to expulse everyone around you with massive damage.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_combos_desc_dagger</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Daggers is a lightning-fast style that exploits the weaknesses of foes. Every stab will increase the amount of bleeding damage you can inflict, while the special attack makes enemies around you bleed for a portion of their current health</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Dual Daggers is a lightning-fast style that exploits the weaknesses of foes. Every stab will increase the amount of bleeding damage you can inflict, while the special attack makes enemies around you bleed for a portion of their current health</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_combos_desc_dualwield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Take a weapon in each hand to unleash fury upon your foes. Each blow increases your critical damage potential, while the charged attack will inflict a critical hit. You suffer reduced attack damage while dual wielding.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Take a weapon in each hand to unleash fury upon your foes. Each blow increases your critical damage potential, while the charged attack will inflict a critical hit. You suffer reduced attack damage while dual wielding.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_combo_desc_twohandedaxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Slash away at your foes. Charge your attack to slash the air so hard that a blade is fired at enemies in front of you</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Slash away at your foes. Charge your attack to slash the air so hard that a blade is fired at enemies in front of you</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -603,37 +603,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">the_rescue</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">The rescue</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">The rescue</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">escape_the_prison</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Escape the prison</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Escape the prison</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_talk_to_fathergernez</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Talk to Father Gernez</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Talk to Father Gernez</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_find_the_assault_location</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Find the assault location</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Find the assault location</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_talk_to_Luthor</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Talk to Luthor</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Talk to Luthor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_retrieve_luthors_stash</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Retrieve Luthors's stash</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Retrieve Luthors's stash</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -649,35 +649,35 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_luthor_stash</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Luthor's stash</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Luthor's stash</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"/>
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"/>
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_follow_me_my_friend</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Follow me, friend.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Follow me, friend.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_over_here</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Over here.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Over here.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_common_follow_me</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Come on, follow me.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Come on, follow me.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -707,7 +707,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -743,12 +743,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_I_am_here_to_assist_you</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">I am here to assist you.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">I am here to assist you.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -759,7 +759,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_who_are_you</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Who are you?</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Who are you?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -775,7 +775,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_no_kidding</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">No kidding.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">No kidding.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -786,24 +786,24 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_you_mean_there_is_some_stuff_to_loot_in_your_chariot_sure_lets_go</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Sure, let's go.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Sure, let's go.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_what_a_coward</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">What a coward.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">What a coward.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_why_are_we_even_doing_it</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Why are we even doing this ?</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Why are we even doing this ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -814,13 +814,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
     <Cell ss:StyleID="s82"/>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_thank_you_so_much_for_this_these_items_are_very_precious</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Thank you so much, these items are very precious to me.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Thank you so much, these items are very precious to me.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -831,7 +831,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
     <Cell ss:StyleID="s82"/>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -852,7 +852,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_this_is_what_I_afraid_of</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">This is what I was afraid of.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">This is what I was afraid of.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -868,7 +868,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_I_also_have_several_books_from_Sigmur_for_you_fatherGernez_he_said_they_are_precious_and_many_ancient_secret_are_hidden_in_them</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Sigmur also requested me to give you these books. They hold ancient and powerful secrets.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Sigmur also requested me to give you these books. They hold ancient and powerful secrets.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -879,13 +879,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_BrotherGoriel_wants_to_talk_to_you_oh_and_here_is_for_you_choose_one</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Oh wait, this is for you.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Oh wait, this is for you.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
     <Cell ss:StyleID="s82"/>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -896,25 +896,25 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_come_back_and_go_grab_an_armor</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Come back when you are ready. In the mean time, you should check our merchant's inventory and grab an armor.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Come back when you are ready. In the mean time, you should check our merchant's inventory and grab an armor.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_talk_to_Torvus</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">If you want to test yourself in combat, talk to Torvus on the other side of this place, he may have good challenges for you.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">If you want to test yourself in combat, talk to Torvus on the other side of this place, he may have good challenges for you.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -923,13 +923,13 @@
     <Cell ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_goot_to_see_you_are_ready_for_action</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Good to see you are willing to help.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Good to see you are willing to help.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -954,7 +954,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:Index="2" ss:StyleID="s26"/>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -970,7 +970,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_go_back_to_gernez</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Go back to Father Gernez</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Go back to Father Gernez</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -986,11 +986,11 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">the_cure</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Cure</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">The Cure</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -999,31 +999,31 @@
     <Cell ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">stalkers</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Stalkers</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Stalkers</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">find_the_old_ruins</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Find the old ruins</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Find the old ruins</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">kill_the_skeleton_overlord</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Kill the Skeleton Overlord</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Kill the Skeleton Overlord</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">I_have_a_very_important_task_for_you_and_no_one_else_can_manage_it_at_the_moment</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">I now have a much harder task for you that no one else can handle at the moment.</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">I now have a much harder task for you that no one else can handle at the moment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1072,7 +1072,7 @@
     <Cell ss:StyleID="s75"><Data ss:Type="String">I have work to do, but come back to me soon. It seems that Amon has sent you to us at the right time.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1093,29 +1093,29 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">exploration</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Exploration</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Exploration</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">explore_the_world</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Explore the world!</Data></Cell>
-    <Cell ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String">Explore the world!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s75" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>

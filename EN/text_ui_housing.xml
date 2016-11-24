@@ -278,7 +278,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_all</Data></Cell>
     <Cell ss:StyleID="s76"><Data ss:Type="String">All</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String">All</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
