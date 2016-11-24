@@ -6,8 +6,8 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>blacktail</LastAuthor>
-  <LastSaved>2016-11-26T17:05:19Z</LastSaved>
+  <LastAuthor>blacktail&&weiyun</LastAuthor>
+  <LastSaved>2016-11-24T17:05:19Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -3492,12 +3492,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ElemDotCrit</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Allows Burning and Shock effects to deal critical Damage and Freezing effects to get a critical duration multiplier</Data></Cell>
-    <Cell><Data ss:Type="String">允许燃烧和震慑效果产生暴击伤害，冰冻效果暴击翻倍~</Data></Cell>
+    <Cell><Data ss:Type="String">允许燃烧和震荡效果产生暴击伤害，冰冻效果暴击翻倍~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CricitalFrostAndFreezeChance</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1 to your Critical Chance (Spells &amp; Physical) with Frost Damage and %2 to your Freeze Chance with Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">冰冻伤害%1暴击几率，%2冰冻几率(法术 &amp; 物理)</Data></Cell>
+    <Cell><Data ss:Type="String">冰冻伤害%1暴击几率，%2冰冻几率(法术&amp;物理)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FreezeDuration</Data></Cell>
@@ -4417,7 +4417,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurnOnLightning</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Lightning Damage can set your enemies on Fire as well as Shocking them (based on your Shocking Chance and Damage)</Data></Cell>
-    <Cell><Data ss:Type="String">闪电伤害会点燃并震慑敌人(取决于震慑几率和伤害~)</Data></Cell>
+    <Cell><Data ss:Type="String">闪电伤害会点燃并震慑敌人(取决于震荡几率和伤害)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FreezeOnHit</Data></Cell>
@@ -4467,12 +4467,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ShockDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the Shock effect Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%2震慑效果伤害~</Data></Cell>
+    <Cell><Data ss:Type="String">%2震荡效果伤害~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ShockRadius</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the Shock effect area size</Data></Cell>
-    <Cell><Data ss:Type="String">%2震慑区域范围~</Data></Cell>
+    <Cell><Data ss:Type="String">%2震荡区域范围~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RandomDOTClearOnPotion</Data></Cell>
@@ -4772,7 +4772,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormLightning</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Lightning Storm Area each time you hit the same area with Lightning spells (stackable intensity). May Shock enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">使用闪电魔法攻击同一区域制造一片闪电风暴区(叠加强度)并震慑其中的敌人。</Data></Cell>
+    <Cell><Data ss:Type="String">使用闪电魔法攻击同一区域制造一片闪电风暴区(叠加强度)并震荡其中的敌人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormFrost</Data></Cell>
