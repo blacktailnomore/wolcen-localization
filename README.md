@@ -1,10 +1,10 @@
 # wolcen-localization
 the localization file about an open-world rpg game in steam named wolcen:lords of mayhem
 
-#collaboration
+###collaboration
 chinese translation by [@blacktail](https://github.com/blacktailnomore)</br> and [@weiyun](https://github.com/wynick27)</br>
 
-###dev-homepage:
+#dev-homepage:
 www.umbragame.com
 
 #steam:
