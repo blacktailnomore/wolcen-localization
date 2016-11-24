@@ -7,8 +7,8 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Title>Audio script template</Title>
-  <Author>MaÃ«lenn Lumineau</Author>
-  <LastAuthor>blacktail</LastAuthor>
+  <Author>Ma??lenn Lumineau</Author>
+  <LastAuthor>UBBOSATHLA</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
   <LastSaved>2016-10-20T15:08:40Z</LastSaved>
@@ -214,208 +214,208 @@
     <Cell><Data ss:Type="String">ui_healer_amarth</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Caracole</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">å¡æ‹‰åº“å‹’</Data></Cell>
+      ss:Type="String">¿¨À­¿âÀÕ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier1</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Linus</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">è±çº³æ–¯</Data></Cell>
+      ss:Type="String">À³ÄÉË¹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier3</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Karsh</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">å¡å°”è¥¿</Data></Cell>
+      ss:Type="String">¿¨¶ûÎ÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier4</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Jalan</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">è´¾å…°</Data></Cell>
+      ss:Type="String">¼ÖÀ¼</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier5</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Michel</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">ç±³æ­‡å°”</Data></Cell>
+      ss:Type="String">Ã×Ğª¶û</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthBlacksmith</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Nyhlus</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">é“åŒ </Data></Cell>
+      ss:Type="String">Ìú½³</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier8</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Horrock</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">éœè¯ºå…‹</Data></Cell>
+      ss:Type="String">»ôÅµ¿Ë</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier7</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gangrel</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">æµæµªæ±‰</Data></Cell>
+      ss:Type="String">Á÷ÀËºº</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BrotherHorrock</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brother Horrock</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">éœè¯ºå…‹</Data></Cell>
+      ss:Type="String">»ôÅµ¿Ë</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BrotherHuruem</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brother Huruem</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">èƒ¡é²å§†</Data></Cell>
+      ss:Type="String">ºúÂ³Ä·</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BrotherFenris</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brother Fenris</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">èŠ¬ç‘æ–¯</Data></Cell>
+      ss:Type="String">·ÒÈğË¹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BrotherTorvus</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brother Torvus</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">æ‰˜ç»´æ–¯</Data></Cell>
+      ss:Type="String">ÍĞÎ¬Ë¹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier10</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crinos</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">ç§‘è¯ºç‘æ–¯</Data></Cell>
+      ss:Type="String">¿ÆÅµÈğË¹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier11</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Klayner</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">å…‹é›·å†…å°”</Data></Cell>
+      ss:Type="String">¿ËÀ×ÄÚ¶û</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier12</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Torvus</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">æ‰˜ç»´æ–¯</Data></Cell>
+      ss:Type="String">ÍĞÎ¬Ë¹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier9</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Xaviar</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">æ‰ç»´å°”</Data></Cell>
+      ss:Type="String">ÔúÎ¬¶û</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Dagon</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dagon</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">è¾¾è´¡</Data></Cell>
+      ss:Type="String">´ï¹±</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Jalan</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Jalan</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">è´¾å…°</Data></Cell>
+      ss:Type="String">¼ÖÀ¼</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier13</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Vargas</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">ç“¦å°”åŠ æ–¯</Data></Cell>
+      ss:Type="String">Íß¶û¼ÓË¹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier14</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alan</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">è‰¾ä¼¦</Data></Cell>
+      ss:Type="String">°¬Â×</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthSoldier15</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Karadoc</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">å¡æ‹‰å¤šå…‹</Data></Cell>
+      ss:Type="String">¿¨À­¶à¿Ë</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPC_AmarthArenaMaster</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Arena Master</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">ç«æŠ€åœºå¤§å¸ˆ</Data></Cell>
+      ss:Type="String">¾º¼¼³¡´óÊ¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_FatherGernez</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">father gernez</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ç¥çˆ¶æ ¼å°¼å…¹</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Éñ¸¸¸ñÄá×È</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_luthor</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">luthor</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">å¢ç‘Ÿ</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Â¬Éª</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_brothergoriel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">brother goriel</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">é«˜åˆ©å°”</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">¸ßÀû¶û</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_brotherleon</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">brother leon</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">åˆ©æ˜‚</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Àû°º</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_brothernoctis</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">brother noctis</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">è¯ºå…‹ææ–¯</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Åµ¿ËÌáË¹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_brotheromnio</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">brother omnio</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">é˜¿å§†å°¼</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">°¢Ä·Äá</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_brothersigmur</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">brother sigmur</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">å¸Œæ ¼ç©†å°”</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Ï£¸ñÄÂ¶û</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_brotherHenoch</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">brother henoch</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">äº¨è¯ºå…‹</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ºàÅµ¿Ë</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_bortherleon</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">brother leon</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">åˆ©æ˜‚</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Àû°º</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_borthernoctis</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">brother noctis</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">è¯ºå…‹ææ–¯</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Åµ¿ËÌáË¹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_bortheromnio</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">brother omnio</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">é˜¿å§†å°¼</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">°¢Ä·Äá</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_borthersigmur</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">brother sigmur</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">å¸Œæ ¼ç©†å°”</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Ï£¸ñÄÂ¶û</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_bounty</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">bounty</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">èµé‡‘</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ÉÍ½ğ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_arena_master</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">arena master</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ç«æŠ€åœºå¤§å¸ˆ</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">¾º¼¼³¡´óÊ¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_merchant</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">merchant</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">å•†äºº</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ÉÌÈË</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">NPC Interactions</Data></Cell>
@@ -426,83 +426,83 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier1</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Our old village was down in the valley, but as the raids became more frequent, we decided to flee. We are much safer here in the mountains.</Data></Cell>
-    <Cell><Data ss:Type="String">æˆ‘ä»¬çš„è€æ‘åº„åœ¨å±±è°·é‡Œï¼Œä½†æ˜¯éšç€è¢­å‡»çš„æ„ˆåŠ é¢‘ç¹ï¼Œæˆ‘ä»¬å†³å®šæ’¤ç¦»ã€‚åœ¨å±±ä¸Šæˆ‘ä»¬æ›´åŠ å®‰å…¨ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÎÒÃÇµÄÀÏ´å×¯ÔÚÉ½¹ÈÀï£¬µ«ÊÇËæ×ÅÏ®»÷µÄÓú¼ÓÆµ·±£¬ÎÒÃÇ¾ö¶¨³·Àë¡£ÔÚÉ½ÉÏÎÒÃÇ¸ü¼Ó°²È«¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier3</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Be careful out there, big guy</Data></Cell>
     <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">åœ¨å¤–é¢å°å¿ƒç‚¹ï¼Œå°ä¼™å­</Data></Cell>
+      ss:Type="String">ÔÚÍâÃæĞ¡ĞÄµã£¬Ğ¡»ï×Ó</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier4</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">I can't fight anymore. I took an arrow in the elbow.</Data></Cell>
-    <Cell><Data ss:Type="String">æˆ‘æ›¾ç»è·Ÿä½ ä¸€æ ·ä¹Ÿæ˜¯ä¸ªæˆ˜å£«ï¼Œç›´åˆ°æˆ‘çš„è†ç›–ä¸­äº†ä¸€ç®­ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÎÒÔø¾­¸úÄãÒ»ÑùÒ²ÊÇ¸öÕ½Ê¿£¬Ö±µ½ÎÒµÄÏ¥¸ÇÖĞÁËÒ»¼ı¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier5</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">There are no women, as you can see. I think we lost them somewhere, and now we can't seem to find them again.</Data></Cell>
-    <Cell><Data ss:Type="String">æ­£å¦‚ä½ æ‰€çœ‹åˆ°çš„ï¼Œè¿™é‡Œæ²¡æœ‰å¥³äººã€‚æˆ‘æƒ³æˆ‘ä»¬æŠŠå¥¹ä»¬ä¸¢åœ¨äº†ä»€ä¹ˆåœ°æ–¹ï¼Œæˆ‘ä»¬ç°åœ¨ä¼¼ä¹æ— æ³•å†æ‰¾åˆ°å¥¹ä»¬äº†ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÕıÈçÄãËù¿´µ½µÄ£¬ÕâÀïÃ»ÓĞÅ®ÈË¡£ÎÒÏëÎÒÃÇ°ÑËıÃÇ¶ªÔÚÁËÊ²Ã´µØ·½£¬ÎÒÃÇÏÖÔÚËÆºõÎŞ·¨ÔÙÕÒµ½ËıÃÇÁË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_Blacksmith</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">My store is still under construction, but I will open up soon. Please come back later</Data></Cell>
-    <Cell><Data ss:Type="String">æˆ‘çš„åº—è¿˜åœ¨è£…ä¿®ï¼Œä½†æ˜¯å°±å¿«å®Œæˆäº†ï¼Œè¯·æ™šç‚¹å†æ¥ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÎÒµÄµê»¹ÔÚ×°ĞŞ£¬µ«ÊÇ¾Í¿ìÍê³ÉÁË£¬ÇëÍíµãÔÙÀ´¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier7</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The road is closed for now because of a landslide. We hope to clear the path soon.</Data></Cell>
-    <Cell><Data ss:Type="String">è¿™æ¡è·¯å› ä¸ºå±±å´©è¢«å°é—­äº†ã€‚å¸Œæœ›èƒ½æ—©ç‚¹æ¢å¤ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÕâÌõÂ·ÒòÎªÉ½±À±»·â±ÕÁË¡£Ï£ÍûÄÜÔçµã»Ö¸´¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier8</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">There are still giants in this world, you know. Up in the skies, above the valley of lakes.</Data></Cell>
-    <Cell><Data ss:Type="String">ä½ çŸ¥é“è¿™ä¸–ç•Œä¸Šä»ç„¶æœ‰å·¨äººå—ï¼Ÿæ®è¯´åœ¨æ¹–æ³Šè°·ä¸Šçš„äº‘ç«¯é‚£å°±æœ‰ä¸ªã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÄãÖªµÀÕâÊÀ½çÉÏÈÔÈ»ÓĞ¾ŞÈËÂğ£¿¾İËµÔÚºş²´¹ÈÉÏµÄÔÆ¶ËÄÇ¾ÍÓĞ¸ö¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier9</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Have you seen my wife? Oh god, I miss her.</Data></Cell>
     <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">ä½ è§è¿‡æˆ‘å¦»å­å—ï¼Ÿå¤©å•Šï¼Œæˆ‘è·Ÿå¥¹èµ°æ•£äº†ã€‚</Data></Cell>
+      ss:Type="String">Äã¼û¹ıÎÒÆŞ×ÓÂğ£¿Ìì°¡£¬ÎÒ¸úËı×ßÉ¢ÁË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier10</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">If you want to fight, there's an arena just up there. Seems like you could use a little training.</Data></Cell>
-    <Cell><Data ss:Type="String">å¦‚æœä½ æƒ³å°è¯•èº«æ‰‹ï¼Œé‚£æœ‰ä¸ªç«æŠ€åœºã€‚ä½ çœ‹ä¸Šå»ä¼¼ä¹å¯ä»¥è¿‡å»ç»ƒç»ƒ</Data></Cell>
+    <Cell><Data ss:Type="String">Èç¹ûÄãÏëĞ¡ÊÔÉíÊÖ£¬ÄÇÓĞ¸ö¾º¼¼³¡¡£Äã¿´ÉÏÈ¥ËÆºõ¿ÉÒÔ¹ıÈ¥Á·Á·</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier11</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">I have heard rumors about a hidden boat in the frozen lands. If only I could remember the name â€¦</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">æˆ‘å¬è¯´æœ‰ä¸€è‰˜éšç§˜çš„èˆ¹åœ¨å†»åœŸé‚£è¾¹ã€‚è¦æ˜¯æˆ‘èƒ½è®°ä½åå­—è¯¥å¤šå¥½ â€¦</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">I have heard rumors about a hidden boat in the frozen lands. If only I could remember the name a€|</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ÎÒÌıËµÓĞÒ»ËÒÒşÃØµÄ´¬ÔÚ¶³ÍÁÄÇ±ß¡£ÒªÊÇÎÒÄÜ¼Ç×¡Ãû×Ö¸Ã¶àºÃ ¡­</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier12</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Please, leave me alone.</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">è¯·ç¦»æˆ‘è¿œç‚¹ã€‚</Data></Cell>
+      ss:Type="String">ÇëÀëÎÒÔ¶µã¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">This Limbo is a curse that cannot be cured. Praise Amon for preserving us from it.</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">åœ°ç‹±å°±åƒä¸€ä¸ªä¸èƒ½è¢«æ²»æ„ˆçš„è¯…å’’ã€‚åŸƒè’™çš„ä¿æŠ¤è®©æˆ‘ä»¬è¿œç¦»å®ƒï¼Œèµç¾åŸƒè’™ã€‚</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">µØÓü¾ÍÏñÒ»¸ö²»ÄÜ±»ÖÎÓúµÄ×çÖä¡£°£ÃÉµÄ±£»¤ÈÃÎÒÃÇÔ¶ÀëËü£¬ÔŞÃÀ°£ÃÉ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier14</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Welcome to Amarth, friend.</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">æ¬¢è¿æ¥åˆ°é˜¿ç›æ–¯ï¼Œæœ‹å‹ã€‚</Data></Cell>
+      ss:Type="String">»¶Ó­À´µ½°¢ÂêË¹£¬ÅóÓÑ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier15</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">I think I've lost a chicken. Or maybe two.</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">æˆ‘æƒ³æˆ‘ä¸¢äº†ä¸€åªé¸¡ï¼Œæˆ–è€…å¯èƒ½æ˜¯ä¸¤åªã€‚</Data></Cell>
+      ss:Type="String">ÎÒÏëÎÒ¶ªÁËÒ»Ö»¼¦£¬»òÕß¿ÉÄÜÊÇÁ½Ö»¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier16</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The arena is not ready yet, come back later.</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">ç«æŠ€åœºè¿˜æœªå¼€æ”¾ï¼Œè¯·æ™šç‚¹å†æ¥ã€‚</Data></Cell>
+      ss:Type="String">¾º¼¼³¡»¹Î´¿ª·Å£¬ÇëÍíµãÔÙÀ´¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">World Waypoints</Data></Cell>
@@ -513,72 +513,72 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_waypoint</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">è·¯æ ‡</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Â·±ê</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_unlocked</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">unlocked</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">è§£é”</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">½âËø</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_waypoint_amarth</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Amarth Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">é˜¿ç›æ–¯</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">°¢ÂêË¹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_BeginMarlyForest</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Marly forest Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ç¹èŒ‚æ£®æ—</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">·±Ã¯É­ÁÖ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_Baios</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Baios Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">æ‹œå¥¥æ–¯</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">°İ°ÂË¹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_AbnobaForest</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Abnoba forest Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">é˜¿å¸ƒè¯ºå·´æ£®æ—</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">°¢²¼Åµ°ÍÉ­ÁÖ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_Geelbek_pit</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Geelbek pit Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">åŸºå°”è´å…‹çŸ¿å‘</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">»ù¶û±´¿Ë¿ó¿Ó</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_battlefront_forest</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Outlaws Den Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">å‰çº¿æ£®æ—</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Ç°ÏßÉ­ÁÖ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_Ancient_Village</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ancient village Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">å¤è€æ‘è½</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">¹ÅÀÏ´åÂä</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_swamp</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Swamp Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">æ²¼æ³½</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ÕÓÔó</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_Plain</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Plain Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">å¹³åŸ</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Æ½Ô­</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_GreenForest_Zonepass1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Green Forest Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ç»¿æ£®æ—</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ÂÌÉ­ÁÖ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_Dhur</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Dhur Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">æœå°”</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">¶Å¶û</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_Waypoint_RUNAVALEN</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Runavalen Waypoint</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">é²çº³ç“¦ä¼¦</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Â³ÄÉÍßÂ×</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">Sleeping</Data></Cell>
@@ -590,31 +590,31 @@
     <Cell><Data ss:Type="String">ui_innkeeper</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Innkeeper</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">å®¢æ ˆè€æ¿</Data></Cell>
+      ss:Type="String">¿ÍÕ»ÀÏ°å</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sleep</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Sleep</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">ç¡®å®š</Data></Cell>
+      ss:Type="String">È·¶¨</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sleepingmenu_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Rest</Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">æ‰“å°–</Data></Cell>
+      ss:Type="String">´ò¼â</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_currenttime</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Current time : </Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">å½“å‰æ—¶é—´ : </Data></Cell>
+      ss:Type="String">µ±Ç°Ê±¼ä : </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sleepuntil</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Sleep until : </Data></Cell>
     <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">ç¡åˆ° : </Data></Cell>
+      ss:Type="String">Ë¯µ½ : </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="20"/>
    <Row ss:Index="100" ss:AutoFitHeight="0" ss:Height="25.5"/>

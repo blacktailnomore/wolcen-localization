@@ -6,8 +6,8 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>blacktail</LastAuthor>
-  <LastSaved>2016-11-23T09:30:32Z</LastSaved>
+  <LastAuthor>UBBOSATHLA</LastAuthor>
+  <LastSaved>2016-11-02T13:35:28Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -42,7 +42,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m341265520">
+  <Style ss:ID="m338867808">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -108,7 +108,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m341265520"><Data ss:Type="String">CREATURES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m338867808"><Data ss:Type="String">CREATURES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Undeads</Data></Cell>
@@ -116,114 +116,114 @@
     <Cell ss:StyleID="s75"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_Undead</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_Zombie</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Undead</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä¸§å°¸</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">É¥Ê¬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadButcher</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieButcher</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Butcher</Data></Cell>
-    <Cell><Data ss:Type="String">ä¸§å°¸å± å¤«</Data></Cell>
+    <Cell><Data ss:Type="String">É¥Ê¬ÍÀ·ò</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadVomitter</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieVomitter</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Vomitter</Data></Cell>
-    <Cell><Data ss:Type="String">ä¸§å°¸å‘•åè€…</Data></Cell>
+    <Cell><Data ss:Type="String">É¥Ê¬Å»ÍÂÕß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadVomitterEnraged</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieVomitterEnraged</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Enraged Undead</Data></Cell>
-    <Cell><Data ss:Type="String">æš´æ€’çš„ä¸§å°¸å‘•åè€…</Data></Cell>
+    <Cell><Data ss:Type="String">±©Å­µÄÉ¥Ê¬Å»ÍÂÕß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadEnraged</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieEnraged</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Enraged Undead</Data></Cell>
-    <Cell><Data ss:Type="String">æš´æ€’çš„ä¸§å°¸</Data></Cell>
+    <Cell><Data ss:Type="String">±©Å­µÄÉ¥Ê¬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadFrost</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieFrost</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Freezing Undead</Data></Cell>
-    <Cell><Data ss:Type="String">å†°å†»çš„ä¸§å°¸</Data></Cell>
+    <Cell><Data ss:Type="String">±ù¶³µÄÉ¥Ê¬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadElectric</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieElectric</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Shock Undead</Data></Cell>
-    <Cell><Data ss:Type="String">ç”µå‡»çš„ä¸§å°¸</Data></Cell>
+    <Cell><Data ss:Type="String">µç»÷µÄÉ¥Ê¬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadFire</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieFire</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Burning Undead</Data></Cell>
-    <Cell><Data ss:Type="String">ç‡ƒçƒ§çš„ä¸§å°¸</Data></Cell>
+    <Cell><Data ss:Type="String">È¼ÉÕµÄÉ¥Ê¬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadPoison</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombiePoison</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Toxic Undead</Data></Cell>
-    <Cell><Data ss:Type="String">æœ‰æ¯’çš„ä¸§å°¸</Data></Cell>
+    <Cell><Data ss:Type="String">ÓĞ¶¾µÄÉ¥Ê¬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadStone</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieStone</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Stone Undead</Data></Cell>
-    <Cell><Data ss:Type="String">ä¸§å°¸æŠ•æ·è€…</Data></Cell>
+    <Cell><Data ss:Type="String">É¥Ê¬Í¶ÖÀÕß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadStarving</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieStarving</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Starving Undead</Data></Cell>
-    <Cell><Data ss:Type="String">é¥¥é¥¿çš„ä¸§å°¸</Data></Cell>
+    <Cell><Data ss:Type="String">¼¢¶öµÄÉ¥Ê¬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadExploder</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieExploder</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Exploding Undead</Data></Cell>
-    <Cell><Data ss:Type="String">ä¸§å°¸çˆ†ç ´è€…</Data></Cell>
+    <Cell><Data ss:Type="String">É¥Ê¬±¬ÆÆÕß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadOrc</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieOrc</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Orc</Data></Cell>
-    <Cell><Data ss:Type="String">ä¸§å°¸å…½äºº</Data></Cell>
+    <Cell><Data ss:Type="String">É¥Ê¬ÊŞÈË</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadWarrior</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieWarrior</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Warrior</Data></Cell>
-    <Cell><Data ss:Type="String">ä¸§å°¸æˆ˜å£«</Data></Cell>
+    <Cell><Data ss:Type="String">É¥Ê¬Õ½Ê¿</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadPrisoner</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombiePrisoner</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Prisoner</Data></Cell>
-    <Cell><Data ss:Type="String">ä¸§å°¸å›šå¾’</Data></Cell>
+    <Cell><Data ss:Type="String">É¥Ê¬ÇôÍ½</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadCeption</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieCeption</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Breeder</Data></Cell>
-    <Cell><Data ss:Type="String">ä¸§å°¸ç¹æ®–è€…</Data></Cell>
+    <Cell><Data ss:Type="String">É¥Ê¬·±Ö³Õß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadDogFire</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Infernal Hound</Data></Cell>
-    <Cell><Data ss:Type="String">åœ°ç‹±çŒçŠ¬</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieDogFire</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Infernal Hound</Data></Cell>
+    <Cell><Data ss:Type="String">µØÓüÁÔÈ®</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AIName_UndeadDog</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AIName_ZombieDog</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Hound</Data></Cell>
-    <Cell><Data ss:Type="String">ä¸§å°¸çŒçŠ¬</Data></Cell>
+    <Cell><Data ss:Type="String">É¥Ê¬ÁÔÈ®</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_WarDog</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">War Hound</Data></Cell>
-    <Cell><Data ss:Type="String">æˆ˜äº‰çŒçŠ¬</Data></Cell>
+    <Cell><Data ss:Type="String">Õ½ÕùÁÔÈ®</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Zombietrouille</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Pumpkin</Data></Cell>
-    <Cell><Data ss:Type="String">å—ç“œå¤´ä¸§å°¸</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Undead Pumpkin</Data></Cell>
+    <Cell><Data ss:Type="String">ÄÏ¹ÏÍ·É¥Ê¬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Butchertrouille</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Pumpkin Butcher</Data></Cell>
-    <Cell><Data ss:Type="String">å—ç“œå¤´å± å¤«</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Pumpkin Butcher</Data></Cell>
+    <Cell><Data ss:Type="String">ÄÏ¹ÏÍ·ÍÀ·ò</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_EnragedZombietrouille</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Enraged Undead Pumpkin</Data></Cell>
-    <Cell><Data ss:Type="String">æš´æ€’çš„å—ç“œå¤´ä¸§å°¸</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Enraged Undead Pumpkin</Data></Cell>
+    <Cell><Data ss:Type="String">±©Å­µÄÄÏ¹ÏÍ·É¥Ê¬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Skeletons</Data></Cell>
@@ -233,12 +233,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_SkeletonWarrior</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Skeleton Warrior</Data></Cell>
-    <Cell><Data ss:Type="String">éª·é«…æˆ˜å£«</Data></Cell>
+    <Cell><Data ss:Type="String">÷¼÷ÃÕ½Ê¿</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_SkeletonOverlord</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Skeleton Overlord</Data></Cell>
-    <Cell><Data ss:Type="String">éª·é«…é¢†ä¸»</Data></Cell>
+    <Cell><Data ss:Type="String">÷¼÷ÃÁìÖ÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Orcs</Data></Cell>
@@ -248,37 +248,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcNecromancer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Necromancer</Data></Cell>
-    <Cell><Data ss:Type="String">å…½äººæ­»çµå¸ˆ</Data></Cell>
+    <Cell><Data ss:Type="String">ÊŞÈËËÀÁéÊ¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcShaman</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Shaman</Data></Cell>
-    <Cell><Data ss:Type="String">å…½äººè¨æ»¡</Data></Cell>
+    <Cell><Data ss:Type="String">ÊŞÈËÈøÂú</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcMage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Warlock</Data></Cell>
-    <Cell><Data ss:Type="String">å…½äººæœ¯å£«</Data></Cell>
+    <Cell><Data ss:Type="String">ÊŞÈËÊõÊ¿</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcBrute</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Brute</Data></Cell>
-    <Cell><Data ss:Type="String">ç‹‚å…½äºº</Data></Cell>
+    <Cell><Data ss:Type="String">¿ñÊŞÈË</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcChampion</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Champion</Data></Cell>
-    <Cell><Data ss:Type="String">å…½æ—æˆ˜å£«</Data></Cell>
+    <Cell><Data ss:Type="String">ÊŞ×åÕ½Ê¿</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcCharger</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Charger</Data></Cell>
-    <Cell><Data ss:Type="String">å…½äººçªè¢­è€…</Data></Cell>
+    <Cell><Data ss:Type="String">ÊŞÈËÍ»Ï®Õß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcWarrior</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Warrior</Data></Cell>
-    <Cell><Data ss:Type="String">å…½äººæˆ˜å£«</Data></Cell>
+    <Cell><Data ss:Type="String">ÊŞÈËÕ½Ê¿</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Demons</Data></Cell>
@@ -288,22 +288,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_Abomination</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Abomination</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">æ†æ¶</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ô÷¶ñ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_InvokedDemon</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Invoked Demon</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">è¢«å¬å”¤çš„æ¶é­”</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">±»ÕÙ»½µÄ¶ñÄ§</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_SkullCrusher</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Skull Crusher</Data></Cell>
-    <Cell><Data ss:Type="String">ç¢é¢…è€…</Data></Cell>
+    <Cell><Data ss:Type="String">ËéÂ­Õß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_NightStalker</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Stalker</Data></Cell>
-    <Cell><Data ss:Type="String">è¿½çŒè€…</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Stalker</Data></Cell>
+    <Cell><Data ss:Type="String">×·ÁÔÕß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Monsters</Data></Cell>
@@ -318,27 +318,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_PithusDark</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dark Pithus</Data></Cell>
-    <Cell><Data ss:Type="String">é»‘æš—çš„Pithus</Data></Cell>
+    <Cell><Data ss:Type="String">ºÚ°µµÄPithus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_PithusPoison</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Toxic Pithus</Data></Cell>
-    <Cell><Data ss:Type="String">æœ‰æ¯’çš„Pithus</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Toxic Pithus</Data></Cell>
+    <Cell><Data ss:Type="String">ÓĞ¶¾µÄPithus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Ghoul</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ghoul</Data></Cell>
-    <Cell><Data ss:Type="String">é£Ÿå°¸é¬¼</Data></Cell>
+    <Cell><Data ss:Type="String">Ê³Ê¬¹í</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_GhoulAlpha</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alpha Ghoul</Data></Cell>
-    <Cell><Data ss:Type="String">é˜¿å°”æ³•é£Ÿå°¸é¬¼</Data></Cell>
+    <Cell><Data ss:Type="String">°¢¶û·¨Ê³Ê¬¹í</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_GhoulSmall</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Small Ghoul</Data></Cell>
-    <Cell><Data ss:Type="String">å°é£Ÿå°¸é¬¼</Data></Cell>
+    <Cell><Data ss:Type="String">Ğ¡Ê³Ê¬¹í</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Humans</Data></Cell>
@@ -348,17 +348,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_Brigand</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brigand</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¼ºç›—</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ç¿µÁ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_FireMage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Fire Mage</Data></Cell>
-    <Cell><Data ss:Type="String">ç«ç„°æ³•å¸ˆ</Data></Cell>
+    <Cell><Data ss:Type="String">»ğÑæ·¨Ê¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Templar</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar</Data></Cell>
-    <Cell><Data ss:Type="String">åœ£æ®¿éª‘å£«</Data></Cell>
+    <Cell><Data ss:Type="String">Ê¥µîÆïÊ¿</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Bosses</Data></Cell>
@@ -368,7 +368,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Driller</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Driller</Data></Cell>
-    <Cell><Data ss:Type="String">å¾·é‡Œå‹’</Data></Cell>
+    <Cell><Data ss:Type="String">µÂÀïÀÕ</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -392,8 +392,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>25</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveRow>19</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

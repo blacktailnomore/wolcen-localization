@@ -6,19 +6,18 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>yun wei</LastAuthor>
-  <LastSaved>2016-11-24T07:03:46Z</LastSaved>
+  <LastAuthor>UBBOSATHLA</LastAuthor>
+  <LastSaved>2016-11-15T13:24:39Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12240</WindowHeight>
+  <WindowHeight>12360</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
-  <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
  </ExcelWorkbook>
@@ -31,19 +30,19 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s62" ss:Name="40&#160;% - Accent1">
+  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s63" ss:Name="Neutre">
+  <Style ss:ID="s28" ss:Name="Neutre">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s64" ss:Name="Satisfaisant">
+  <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2166481294208">
+  <Style ss:ID="m356383360">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -54,7 +53,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2166481294228">
+  <Style ss:ID="m356383380">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -65,14 +64,14 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s65">
+  <Style ss:ID="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
   </Style>
-  <Style ss:ID="s66">
+  <Style ss:ID="s63">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s67">
+  <Style ss:ID="s64">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -82,7 +81,7 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s68">
+  <Style ss:ID="s65">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -92,15 +91,15 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s77" ss:Parent="s62">
+  <Style ss:ID="s74" ss:Parent="s40">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Italic="1"/>
   </Style>
-  <Style ss:ID="s78" ss:Parent="s62">
+  <Style ss:ID="s75" ss:Parent="s40">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
   </Style>
-  <Style ss:ID="s79">
+  <Style ss:ID="s76">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders/>
    <Font ss:FontName="Arial" x:Family="Swiss"/>
@@ -108,36 +107,27 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s81" ss:Parent="s64">
+  <Style ss:ID="s78" ss:Parent="s26">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s82">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-  </Style>
-  <Style ss:ID="s83">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Interior/>
-  </Style>
-  <Style ss:ID="s84">
+  <Style ss:ID="s79">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
    <Borders/>
    <Interior/>
   </Style>
-  <Style ss:ID="s85">
+  <Style ss:ID="s80">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
    <Borders/>
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s87" ss:Parent="s63">
+  <Style ss:ID="s82" ss:Parent="s28">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s88" ss:Parent="s63">
+  <Style ss:ID="s83" ss:Parent="s28">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
   </Style>
  </Styles>
@@ -146,1429 +136,1563 @@
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
   <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="278" x:FullColumns="1"
-   x:FullRows="1" ss:StyleID="s65" ss:DefaultColumnWidth="60">
-   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="225.75"/>
-   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="761.25"/>
-   <Column ss:StyleID="s65" ss:Width="363.75"/>
-   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s66">
-    <Cell ss:StyleID="s67"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="60">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="225.75"/>
+   <Column ss:StyleID="s62" ss:Width="402"/>
+   <Column ss:StyleID="s62" ss:Width="363.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s63">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+    <Cell ss:StyleID="s65"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2166481294208"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m356383360"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Character Creation Interface</Data></Cell>
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Character Creation Interface</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_character_creation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Character creation</Data></Cell>
-    <Cell><Data ss:Type="String">è§’è‰²åˆ›å»º</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_character_creation</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Character creation</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">½ÇÉ«´´½¨</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_body</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Body</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">èº«ä½“</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_body</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Body</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉíÌå</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_face</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Face</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">é¢éƒ¨</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_face</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Face</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ãæ²¿</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_skin_color</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Skin color</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">è‚¤è‰²</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_skin_color</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Skin color</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·ôÉ«</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_body_type</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Body type</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">ä½“å‹</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_body_type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Body type</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÌåĞÍ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_muscular</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Muscular</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">å¼ºå£®</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_muscular</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Muscular</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ç¿×³</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_skinny</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Puny</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">å­±å¼±</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_skinny</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Puny</Data></Cell>
+    <Cell><Data ss:Type="String">åîÈõ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_fat</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Fat</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">èƒ–</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_fat</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Fat</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÅÖ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_thin</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Thin</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">ç˜¦</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_thin</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Thin</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Êİ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_hair</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Hair</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">å¤´å‘</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_hair</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Hair</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Í··¢</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_haircut</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">å‘å‹</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_haircut</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_hair_color</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Hair color</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">å‘è‰²</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_hair_color</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Hair color</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢É«</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eyes</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eyes</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">çœ¼ç›</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_eyes</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eyes</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_left_eye</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Left eye</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">å·¦çœ¼</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_left_eye</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Left eye</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">×óÑÛ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_right_eye</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Right eye</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">å³çœ¼</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_right_eye</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Right eye</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÓÒÑÛ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_beard</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">èƒ¡å­</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_beard</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_beard_style</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard style</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">èƒ¡å­ç±»å‹</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_beard_style</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard style</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×ÓÀàĞÍ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_beard_color</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard color</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">èƒ¡å­é¢œè‰²</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_beard_color</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard color</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×ÓÑÕÉ«</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_saturation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Saturation</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">é¥±å’Œåº¦</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_saturation</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Saturation</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">±¥ºÍ¶È</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_color</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Color</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">é¢œè‰²</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_color</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Color</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÕÉ«</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_match_colors</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Match colors</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">åŒ¹é…é¢œè‰²</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_match_colors</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Match colors</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Æ¥ÅäÑÕÉ«</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_breast</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Chest</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">èƒ¸éƒ¨</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Chest</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ĞØ²¿</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_popup_title_nicknameTaken</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Name unavailable</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">åç§°ä¸å¯ç”¨</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_popup_title_nicknameTaken</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Name unavailable</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ãû³Æ²»¿ÉÓÃ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_popup_title_deleteCharacter</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Delete Character</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">åˆ é™¤è§’è‰²</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_popup_title_deleteCharacter</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Delete Character</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">É¾³ı½ÇÉ«</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_popup_content_nicknameTaken</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Sorry, the name %1 is already taken. Please chose another name.</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">æŠ±æ­‰ï¼Œåç§°%1å·²ç»è¢«ä½¿ç”¨ã€‚è¯·é€‰æ‹©å…¶ä»–åç§°ã€‚</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_popup_content_nicknameTaken</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Sorry, the name %1 is already taken. Please chose another name.</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±§Ç¸£¬Ãû³Æ%1ÒÑ¾­±»Ê¹ÓÃ¡£ÇëÑ¡ÔñÆäËûÃû³Æ¡£</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_popup_content_deleteCharacter</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Are you sure you want to delete %1 ? All your items and progression will be lost.</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ä½ ç¡®å®šè¦åˆ é™¤%1ï¼Ÿæ‰€æœ‰ç‰©å“å’Œè¿›åº¦éƒ½ä¼šä¸¢å¤±ã€‚</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_popup_content_deleteCharacter</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Are you sure you want to delete %1 ? All your items and progression will be lost.</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÄãÈ·¶¨ÒªÉ¾³ı%1£¿ËùÓĞÎïÆ·ºÍ½ø¶È¶¼»á¶ªÊ§¡£</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Eye Customization</Data></Cell>
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Eye Customization</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_1</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 1</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 1</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 1</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦1</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_2</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 2</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 2</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 2</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦2</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_3</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 3</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 3</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_3</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 3</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦3</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_4</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 4</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 4</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_4</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 4</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦4</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_5</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 5</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 5</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_5</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 5</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦5</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_6</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 6</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 6</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_6</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 6</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦6</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_7</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 7</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 7</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_7</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 7</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦7</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_8</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 8</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 8</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_8</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 8</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦8</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_9</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 9</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 9</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_9</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 9</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦9</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_10</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 10</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 10</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 10</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦10</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
-    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Eye_11</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Eye 11</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 11</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_11</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 11</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÑÛ¾¦11</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Hair Customization</Data></Cell>
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Hair Customization</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_1</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut 1</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 1</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_2</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut 2</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 2</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_3</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut 3</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 3</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 3</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_4</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut 4</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 4</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 4</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ4</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_5</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut 5</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 5</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 5</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ5</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_6</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut 6</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 6</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 6</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ6</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_7</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut 7</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 7</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 7</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ7</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_8</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut 8</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 8</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 8</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ8</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_9</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut 9</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 9</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 9</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ9</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_10</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Haircut 10</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 10</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¢ĞÍ10</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Beard Customization</Data></Cell>
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Beard Customization</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_1</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard 1</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 1</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_2</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard 2</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 2</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_3</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard 3</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 3</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 3</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_4</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard 4</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 4</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 4</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó4</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_5</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard 5</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 5</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 5</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó5</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_6</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard 6</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 6</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 6</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó6</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_7</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard 7</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 7</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 7</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó7</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_8</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard 8</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 8</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 8</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó8</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_9</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard 9</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 9</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 9</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó9</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_10</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Beard 10</Data></Cell>
-    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 10</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ºú×Ó10</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2166481294228"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m356383380"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Info Fields</Data></Cell>
-    <Cell ss:StyleID="s85"/>
-    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Info Fields</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_remainingpoints</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Remaining Points</Data></Cell>
-    <Cell><Data ss:Type="String">å‰©ä½™ç‚¹æ•°</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Remaining Points</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ê£ÓàµãÊı</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_experience</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Experience</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç»éªŒ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Experience</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¾­Ñé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_health</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Health</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç”Ÿå‘½</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Health</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉúÃü</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_healthregen</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Health Regeneration</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç”Ÿå‘½å†ç”Ÿ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Health Regeneration</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉúÃüÔÙÉú</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_strength</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Strength</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å¼ºå£®</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Strength</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ç¿×³</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dexterity</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Dexterity</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ•æ·</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Dexterity</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ãô½İ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_constitution</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Constitution</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ä½“è´¨</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Constitution</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÌåÖÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_power</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Power</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ³•åŠ›</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Power</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¨Á¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_armor</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Armor</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æŠ¤ç”²</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Armor</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»¤¼×</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_armorefficiency</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Armor Efficiency</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æŠ¤ç”²æ•ˆç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Armor Efficiency</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»¤¼×Ğ§ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_weapondmg</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Weapon Damage</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ­¦å™¨ä¼¤å®³</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Weapon Damage</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÎäÆ÷ÉËº¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_attackspeed</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Attack Speed</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ”»å‡»é€Ÿåº¦</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Attack Speed</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¹¥»÷ËÙ¶È</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_weapondps</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">DPS</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">DPS</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">DPS</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">DPS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_movespeed</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Movement Speed</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç§»åŠ¨é€Ÿåº¦</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Movement Speed</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÒÆ¶¯ËÙ¶È</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spelldmg</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Spells Damage Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ³•æœ¯ä¼¤å®³åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Spells Damage Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¨ÊõÉËº¦¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellcastingspeed</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Spells Casting Speed Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ–½æ³•é€Ÿåº¦åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Spells Casting Speed Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ê©·¨ËÙ¶È¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_resourcepool</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Resource Pool</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">èµ„æºæ± </Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Resource Pool</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">×ÊÔ´³Ø</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbrageneration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Umbra Regeneration</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æœ¬å½±å†ç”Ÿ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Umbra Regeneration</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±¾Ó°ÔÙÉú</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_rageconservation</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Rage Conservation</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ€’æ°”ä¿æŒ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rage Conservation</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Å­Æø±£³Ö</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ragegeneration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Rage Generation on Hits</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ”»å‡»æ—¶æ€’æ°”äº§ç”Ÿ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rage Generation on Hits</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¹¥»÷Ê±Å­Æø²úÉú</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_rageonhit</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Rage Generation on Received Hits</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å—æ”»å‡»æ—¶æ€’æ°”äº§ç”Ÿ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rage Generation on Received Hits</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÊÜ¹¥»÷Ê±Å­Æø²úÉú</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_channelingtime</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Channeling Time Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">è“„åŠ›æ—¶é—´åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Channeling Time Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ĞîÁ¦Ê±¼ä¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_damages</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Damage</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ä¼¤å®³</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Damage</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉËº¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_elementaldmg</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Damage per Type</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ¯ç§ç±»å‹çš„ä¼¤å®³</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Damage per Type</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ã¿ÖÖÀàĞÍµÄÉËº¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_elementalpercent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Damage Modifier per Type</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ¯ç§ç±»å‹çš„ä¼¤å®³åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Damage Modifier per Type</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ã¿ÖÖÀàĞÍµÄÉËº¦¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_physical</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Physical</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç‰©ç†</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Physical</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÎïÀí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_fire</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Fire</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç«ç„°</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Fire</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»ğÑæ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_frost</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Frost</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†°éœœ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Frost</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±ùËª</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_lightning</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Lightning</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">é—ªç”µ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Lightning</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉÁµç</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbra</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Umbra</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æœ¬å½±</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Umbra</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±¾Ó°</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_sacred</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Sacred</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç¥åœ£</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Sacred</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉñÊ¥</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shadow</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Shadow</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æš—å½±</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Shadow</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">°µÓ°</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_bleed</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Bleeding</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æµè¡€</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Bleeding</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Á÷Ñª</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_poison</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Poison</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ¯’ç´ </Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Poison</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¶¾ËØ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_critchances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Critical Chance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æš´å‡»å‡ ç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Critical Chance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±©»÷¼¸ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_critdmg</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Critical Damage</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æš´å‡»ä¼¤å®³</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Critical Damage</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±©»÷ÉËº¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellcritchances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Spells Critical Chance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ³•æœ¯æš´å‡»å‡ ç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Spells Critical Chance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¨Êõ±©»÷¼¸ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellcritdmg</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Spells Critical Damage</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ³•æœ¯æš´å‡»ä¼¤å®³</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Spells Critical Damage</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¨Êõ±©»÷ÉËº¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellcdr</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Spells Cooldown Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ³•æœ¯å†·å´æ—¶é—´åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Spells Cooldown Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¨ÊõÀäÈ´Ê±¼ä¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ragecostmod</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Rage Cost Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ€’æ°”æŸè€—åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rage Cost Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Å­ÆøËğºÄ¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_manacostmod</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Umbra Cost Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æœ¬å½±æŸè€—åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Umbra Cost Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±¾Ó°ËğºÄ¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_weaponrange</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Weapon Range</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ­¦å™¨èŒƒå›´</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Weapon Range</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÎäÆ÷·¶Î§</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashdmg</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Dash Damage</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†²åˆºä¼¤å®³</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Dash Damage</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">³å´ÌÉËº¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashrange</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Dash Range</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†²åˆºèŒƒå›´</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Dash Range</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">³å´Ì·¶Î§</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashragegeneration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Dash Rage Generation</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†²åˆºæ€’æ°”ç”Ÿæˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Dash Rage Generation</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">³å´ÌÅ­ÆøÉú³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashcdr</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Dash Cooldown Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†²åˆºå†·å´åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Dash Cooldown Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">³å´ÌÀäÈ´¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashspeed</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Dash Speed</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†²åˆºé€Ÿåº¦</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Dash Speed</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">³å´ÌËÙ¶È</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_thorndmg</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Thorns Damage</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">è†æ£˜ä¼¤å®³</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Thorns Damage</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¾£¼¬ÉËº¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_thornpercent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Thorns Damage Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">è†æ£˜ä¼¤å®³åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Thorns Damage Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¾£¼¬ÉËº¦¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_armorpiercing</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Armor Piercing</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æŠ¤ç”²ç©¿åˆº</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Armor Piercing</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»¤¼×´©´Ì</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_survivability</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Survivability</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç”Ÿå­˜æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Survivability</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Éú´æĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_resistances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Resistances per Type</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ¯ç§ç±»å‹çš„æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Resistances per Type</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ã¿ÖÖÀàĞÍµÄ¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stamina</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Stamina</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">è€åŠ›</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Stamina</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÄÍÁ¦</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_staminaregen</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Stamina Regeneration</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ä½“åŠ›æ¢å¤</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Stamina Regeneration</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÌåÁ¦»Ö¸´</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dodgechances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Dodge Chance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">é—ªé¿å‡ ç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Dodge Chance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉÁ±Ü¼¸ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dodgewindow</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Active Dodge Invulnerability</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ä¸»åŠ¨é—ªé¿æ— æ•Œæ—¶é—´</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Active Dodge Invulnerability</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ö÷¶¯ÉÁ±ÜÎŞµĞÊ±¼ä</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dodgespeed</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Active Dodge Speed</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ä¸»åŠ¨é—ªé¿é€Ÿåº¦</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Active Dodge Speed</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ö÷¶¯ÉÁ±ÜËÙ¶È</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_blockchances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Block Chance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ ¼æŒ¡å‡ ç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Block Chance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¸ñµ²¼¸ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_blockefficiency</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Block Efficiency</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ ¼æŒ¡æ•ˆç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Block Efficiency</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¸ñµ²Ğ§ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shieldangle</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Shield Angle</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç›¾ç‰Œè§’åº¦</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Shield Angle</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¶ÜÅÆ½Ç¶È</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_preventdmg</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Prevent Damage</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">é˜²æ­¢æŸä¼¤</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Prevent Damage</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·ÀÖ¹ËğÉË</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_status</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Status Effects</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">çŠ¶æ€æ•ˆæœ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Status Effects</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">×´Ì¬Ğ§¹û</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunresistance</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Stun Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å‡»æ™•æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Stun Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»÷ÔÎ¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_knockbackresistance</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Knock-back Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å‡»é€€æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Knock-back Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»÷ÍË¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_blownawayresistance</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Knock-down Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å‡»å€’æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Knock-down Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»÷µ¹¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunchances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Stun Chance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">çœ©æ™•å‡ ç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Stun Chance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ñ£ÔÎ¼¸ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_burnchances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Burn Chance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">çƒ§ä¼¤å‡ ç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Burn Chance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉÕÉË¼¸ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_freezechances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Freeze Chance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†»ç»“å‡ ç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Freeze Chance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¶³½á¼¸ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shockchances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Shock Chance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å‡éœ‡å‡ ç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Shock Chance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¼õÕğ¼¸ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_knockdownchances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Knock-down Chance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å‡»å€’å‡ ç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Knock-down Chance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»÷µ¹¼¸ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_knockbackchances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Knock-back Chance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å›å‡»å‡ ç‡</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Knock-back Chance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»Ø»÷¼¸ÂÊ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_openwoundchances</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Open-wound Chance Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">åˆ›ä¼¤å‡ ç‡åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Open-wound Chance Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">´´ÉË¼¸ÂÊ¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_openwounddmg</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Open-wound Damage Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">åˆ›ä¼¤ä¼¤å®³åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Open-wound Damage Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">´´ÉËÉËº¦¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_inflicteddotduration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Inflicted Effects Duration</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">é€ æˆçš„ç‰¹æ®ŠçŠ¶æ€æŒç»­æ—¶é—´</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Inflicted Effects Duration</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ôì³ÉµÄÌØÊâ×´Ì¬³ÖĞøÊ±¼ä</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_receiveddotduration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Received Effects Duration</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å—åˆ°çš„ç‰¹æ®ŠçŠ¶æ€æŒç»­æ—¶é—´</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Received Effects Duration</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÊÜµ½µÄÌØÊâ×´Ì¬³ÖĞøÊ±¼ä</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_poisonresreduction</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Poison Resistance Reduction</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å‡å°‘æ¯’æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Poison Resistance Reduction</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¼õÉÙ¶¾ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunduration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Stun Duration Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ™•çœ©æŒç»­æ—¶é—´åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Stun Duration Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÔÎÑ£³ÖĞøÊ±¼ä¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_burnduration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Burn Duration Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç‡ƒçƒ§æ—¶é—´åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Burn Duration Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">È¼ÉÕÊ±¼ä¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_freezeduration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Freeze Duration Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†»ç»“æ—¶é—´åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Freeze Duration Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¶³½áÊ±¼ä¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shockduration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Shock Damage Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†²å‡»ä¼¤å®³åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Shock Damage Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">³å»÷ÉËº¦¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunreduction</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Received Stun Duration</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å—åˆ°çœ©æ™•æ”»å‡»æŒç»­æ—¶é—´</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Received Stun Duration</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÊÜµ½Ñ£ÔÎ¹¥»÷³ÖĞøÊ±¼ä</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_inflictedelemdotduration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Elemental Effects Duration</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å…ƒç´ æ•ˆæœæŒç»­æ—¶é—´</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Elemental Effects Duration</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÔªËØĞ§¹û³ÖĞøÊ±¼ä</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_misc</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Miscellaneous</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ‚é¡¹</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Miscellaneous</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÔÓÏî</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_globepickradius</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Globes Picking Radius</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">çƒä½“æ‹¾å–åŠå¾„</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Globes Picking Radius</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÇòÌåÊ°È¡°ë¾¶</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_goldfind</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Gold Find</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">é»„é‡‘æœå¯»</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Gold Find</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»Æ½ğËÑÑ°</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_magicfind</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Magic Find</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">é­”æ³•æœå¯»</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Magic Find</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ä§·¨ËÑÑ°</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_cleavefactor</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Cleave Factor</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">åŠˆè£‚å› å­</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Cleave Factor</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÅüÁÑÒò×Ó</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_cleaveangle</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Cleave Angle</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">åŠˆè£‚è§’åº¦</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Cleave Angle</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÅüÁÑ½Ç¶È</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_potioncdr</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Potions Cooldown Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">è¯å‰‚å†·å´åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Potions Cooldown Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ò©¼ÁÀäÈ´¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_potionrefilltime</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Potions Refill-Time Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">è¯æ°´å……æ»¡æ—¶é—´åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Potions Refill-Time Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ò©Ë®³äÂúÊ±¼ä¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_potionheal</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Potions Healing factor Modifier</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">è¯æ°´æ²»ç–—å› å­åŠ æˆ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Potions Healing factor Modifier</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Ò©Ë®ÖÎÁÆÒò×Ó¼Ó³É</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_physicalres</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Physical Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç‰©ç†æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Physical Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÎïÀí¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_fireres</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Fire Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç«ç„°æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Fire Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»ğÑæ¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_frostres</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Frost Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†°éœœæŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Frost Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±ùËª¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_lightningres</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Lightning Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">é—ªç”µæŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Lightning Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉÁµç¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbrares</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Umbra Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æœ¬å½±æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Umbra Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±¾Ó°¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_sacredres</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Sacred Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç¥åœ£æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Sacred Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉñÊ¥¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shadowres</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Shadow Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æš—å½±æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Shadow Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">°µÓ°¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_bleedres</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Bleeding Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æµè¡€æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Bleeding Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Á÷Ñª¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_poisonres</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Poison Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ¯’ç´ æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Poison Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¶¾ËØ¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellres</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Spells Resistance</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ³•æœ¯æŠ—æ€§</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Spells Resistance</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">·¨Êõ¿¹ĞÔ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_physical_percent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Physical</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç‰©ç†</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Physical</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÎïÀí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_fire_percent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Fire</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç«ç„°</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Fire</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">»ğÑæ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_frost_percent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Frost</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">å†°éœœ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Frost</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±ùËª</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_lightning_percent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Lightning</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">é—ªç”µ</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Lightning</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉÁµç</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbra_percent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Umbra</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æœ¬å½±</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Umbra</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">±¾Ó°</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_sacred_percent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Sacred</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ç¥åœ£</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Sacred</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">ÉñÊ¥</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shadow_percent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Shadow</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æš—å½±</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Shadow</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">°µÓ°</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_bleed_percent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Bleeding</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æµè¡€</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Bleeding</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Á÷Ñª</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_poison_percent</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Poison</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">æ¯’ç´ </Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Poison</Data></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">¶¾ËØ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Tooltips</Data></Cell>
-    <Cell ss:StyleID="s85"/>
-    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Tooltips</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_remainingpoints_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your remaining Attributes Points.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„å‰©ä½™å±æ€§ç‚¹ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your remaining Attributes Points.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄÊ£ÓàÊôĞÔµã¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_health_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your maximum Health Points. When they reach 0, you die.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æœ€å¤§ç”Ÿå‘½å€¼ã€‚å½“ä»–ä»¬åˆ°è¾¾0æ—¶ï¼Œä½ å°±ä¼šæ­»äº¡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your maximum Health Points. When they reach 0, you die.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×î´óÉúÃüÖµ¡£µ±ËûÃÇµ½´ï0Ê±£¬Äã¾Í»áËÀÍö¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_healthregen_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The amount of Health Points you gain each second.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">æ¯ç§’å›å¤çš„ç”Ÿå‘½å€¼ç‚¹æ•°ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The amount of Health Points you gain each second.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ã¿Ãë»Ø¸´µÄÉúÃüÖµµãÊı¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_strength_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Strength. Increases your Damage and Critical Damage with Weapons and improve effects like Rage Generation or Stun duration.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»åŠ›é‡ã€‚å¢åŠ ä½ çš„æ­¦å™¨ä¼¤å®³å’Œæš´å‡»ä¼¤å®³ï¼Œå¹¶æé«˜æ€’æ°”ç”Ÿæˆä»¥åŠçœ©æ™•æŒç»­æ—¶é—´ç­‰ç‰¹æ®ŠçŠ¶æ€æ•ˆæœã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Strength. Increases your Damage and Critical Damage with Weapons and improve effects like Rage Generation or Stun duration.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×ÜÁ¦Á¿¡£Ôö¼ÓÄãµÄÎäÆ÷ÉËº¦ºÍ±©»÷ÉËº¦£¬²¢Ìá¸ßÅ­ÆøÉú³ÉÒÔ¼°Ñ£ÔÎ³ÖĞøÊ±¼äµÈÌØÊâ×´Ì¬Ğ§¹û¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dexterity_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Dexterity. Increases your Movement Speed, Dodge Chance and Critical Chance with Weapons.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»æ•æ·ã€‚å¢åŠ ä½ çš„ç§»åŠ¨é€Ÿåº¦ï¼Œé—ªé¿å‡ ç‡å’Œä½¿ç”¨æ­¦å™¨çš„æš´å‡»å‡ ç‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Dexterity. Increases your Movement Speed, Dodge Chance and Critical Chance with Weapons.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×ÜÃô½İ¡£Ôö¼ÓÄãµÄÒÆ¶¯ËÙ¶È£¬ÉÁ±Ü¼¸ÂÊºÍÊ¹ÓÃÎäÆ÷µÄ±©»÷¼¸ÂÊ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_constitution_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Constitution. Determines your Maximum Health and how you recover from negative effects like Stun or Knock-Down.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»ä½“è´¨ã€‚ç¡®å®šæœ€å¤§ç”Ÿå‘½å€¼ï¼Œä»¥åŠå¤šå¿«ä»è´Ÿé¢æ•ˆæœï¼ˆå¦‚â€œçœ©æ™•â€æˆ–â€œå‡»å€’â€ï¼‰ä¸­æ¢å¤ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Constitution. Determines your Maximum Health and how you recover from negative effects like Stun or Knock-Down.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×ÜÌåÖÊ¡£È·¶¨×î´óÉúÃüÖµ£¬ÒÔ¼°¶à¿ì´Ó¸ºÃæĞ§¹û£¨Èç¡°Ñ£ÔÎ¡±»ò¡°»÷µ¹¡±£©ÖĞ»Ö¸´¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_power_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Power. Determines your Maximum Resource pool and increases Spells Damage and Spells Critical Chance.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»èƒ½é‡ã€‚ç¡®å®šä½ çš„æœ€å¤§èµ„æºæ± ï¼Œå¹¶å¢åŠ æ³•æœ¯ä¼¤å®³å’Œæ³•æœ¯æš´å‡»å‡ ç‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Power. Determines your Maximum Resource pool and increases Spells Damage and Spells Critical Chance.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×ÜÄÜÁ¿¡£È·¶¨ÄãµÄ×î´ó×ÊÔ´³Ø£¬²¢Ôö¼Ó·¨ÊõÉËº¦ºÍ·¨Êõ±©»÷¼¸ÂÊ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_armor_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Armor. Reduces part of incoming Physical Damage within your Armor range. Damage points exceeding Armor range aren't affected by this reduction.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»æŠ¤ç”²ã€‚åœ¨ä½ çš„æŠ¤ç”²èŒƒå›´å†…å‡å°‘å—åˆ°çš„éƒ¨åˆ†ç‰©ç†ä¼¤å®³ã€‚è¶…è¿‡æŠ¤ç”²èŒƒå›´çš„ä¼¤å®³ä¸å—æ­¤å‡å°‘å½±å“ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Armor. Reduces part of incoming Physical Damage within your Armor range. Damage points exceeding Armor range aren't affected by this reduction.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü»¤¼×¡£ÔÚÄãµÄ»¤¼×·¶Î§ÄÚ¼õÉÙÊÜµ½µÄ²¿·ÖÎïÀíÉËº¦¡£³¬¹ı»¤¼×·¶Î§µÄÉËº¦²»ÊÜ´Ë¼õÉÙÓ°Ïì¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_armorefficiency_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Armor Efficiency. Represents the percentage of incoming Physical Damage within Armor range that is prevented. </Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æŠ¤ç”²æ•ˆç‡ã€‚è¡¨ç¤ºå¸æ”¶æŠ¤ç”²èŒƒå›´å†…ç‰©ç†ä¼¤å®³çš„ç™¾åˆ†æ¯”ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Armor Efficiency. Represents the percentage of incoming Physical Damage within Armor range that is prevented. </Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ»¤¼×Ğ§ÂÊ¡£±íÊ¾ÎüÊÕ»¤¼×·¶Î§ÄÚÎïÀíÉËº¦µÄ°Ù·Ö±È¡£ </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_weapondmg_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your average Weapon Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„å¹³å‡æ­¦å™¨ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your average Weapon Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄÆ½¾ùÎäÆ÷ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_attackspeed_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Attack Speed.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»æ”»å‡»é€Ÿåº¦ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Attack Speed.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü¹¥»÷ËÙ¶È¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_weapondps_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your average Damage Per Second.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„å¹³å‡æ¯ç§’ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your average Damage Per Second.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄÆ½¾ùÃ¿ÃëÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_movespeed_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Movement Speed.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">æ‚¨çš„æ€»ç§»åŠ¨é€Ÿåº¦ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Movement Speed.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄúµÄ×ÜÒÆ¶¯ËÙ¶È¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spelldmg_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The Damage bonus applied to your Spells.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">åº”ç”¨äºä½ çš„æ³•æœ¯çš„ä¼¤å®³åŠ æˆã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The Damage bonus applied to your Spells.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ó¦ÓÃÓÚÄãµÄ·¨ÊõµÄÉËº¦¼Ó³É¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellcastingspeed_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The Casting Speed bonus applied to your Spells.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">åº”ç”¨äºä½ çš„æ³•æœ¯çš„æ–½æ³•é€Ÿåº¦åŠ æˆã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The Casting Speed bonus applied to your Spells.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ó¦ÓÃÓÚÄãµÄ·¨ÊõµÄÊ©·¨ËÙ¶È¼Ó³É¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_resourcepool_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your maximum Resource, in both Umbra and Rage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æœ€å¤§èµ„æºï¼ŒåŒ…æ‹¬æœ¬å½±å’Œæ€’æ°”ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your maximum Resource, in both Umbra and Rage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×î´ó×ÊÔ´£¬°üÀ¨±¾Ó°ºÍÅ­Æø¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbrageneration_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">You natural Rage Loss over time, representing your Umbra Regeneration.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">éšæ—¶é—´çš„æ¨ç§»ä½ çš„è‡ªç„¶æ€’æ°”æŸå¤±ï¼Œä»£è¡¨ä½ çš„æœ¬å½±å†ç”Ÿã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">You natural Rage Loss over time, representing your Umbra Regeneration.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ËæÊ±¼äµÄÍÆÒÆÄãµÄ×ÔÈ»Å­ÆøËğÊ§£¬´ú±íÄãµÄ±¾Ó°ÔÙÉú¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_rageconservation_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The Delay before Umbra Regeneration restarts after gaining Rage. Rage Conservation is not triggered by spending Umbra or Rage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">åœ¨äº§ç”Ÿæ€’æ°”åæœ¬å½±å†ç”Ÿçš„å»¶è¿Ÿæ—¶é—´ã€‚æ€’æ°”ä¿å­˜ä¸ä¼šå› æ¶ˆè€—æœ¬å½±æˆ–æ€’æ°”è§¦å‘ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The Delay before Umbra Regeneration restarts after gaining Rage. Rage Conservation is not triggered by spending Umbra or Rage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÔÚ²úÉúÅ­Æøºó±¾Ó°ÔÙÉúµÄÑÓ³ÙÊ±¼ä¡£Å­Æø±£´æ²»»áÒòÏûºÄ±¾Ó°»òÅ­Æø´¥·¢¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ragegeneration_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The amount of Rage Points generated each time you hit an enemy.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">æ¯æ¬¡ä½ å‡»ä¸­æ•Œäººæ—¶äº§ç”Ÿçš„æ€’æ°”ç‚¹æ•°ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The amount of Rage Points generated each time you hit an enemy.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ã¿´ÎÄã»÷ÖĞµĞÈËÊ±²úÉúµÄÅ­ÆøµãÊı¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_rageonhit_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The amount of Rage Points generated each time you are hit.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">æ¯æ¬¡ä½ è¢«æ•Œäººå‡»ä¸­æ—¶äº§ç”Ÿçš„æ€’æ°”ç‚¹æ•°ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The amount of Rage Points generated each time you are hit.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ã¿´ÎÄã±»µĞÈË»÷ÖĞÊ±²úÉúµÄÅ­ÆøµãÊı¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_channelingtime_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The Casting Speed bonus applied to your Charged Attacks.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">åº”ç”¨äºä½ çš„è“„åŠ›æ”»å‡»çš„æ–½æ³•é€Ÿåº¦åŠ æˆã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The Casting Speed bonus applied to your Charged Attacks.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ó¦ÓÃÓÚÄãµÄĞîÁ¦¹¥»÷µÄÊ©·¨ËÙ¶È¼Ó³É¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_physical_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Physical Damage. Physical attacks are affected by target's Armor.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»ä½“ç‰©ç†ä¼¤å®³ã€‚ç‰©ç†æ”»å‡»å—ç›®æ ‡çš„æŠ¤ç”²å½±å“ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Physical Damage. Physical attacks are affected by target's Armor.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×ÜÌåÎïÀíÉËº¦¡£ÎïÀí¹¥»÷ÊÜÄ¿±êµÄ»¤¼×Ó°Ïì¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_fire_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Fire Damage. Fire attacks may burn target.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»ç«ç„°ä¼¤å®³ã€‚ç«ç„°æ”»å‡»å¯èƒ½ä¼šçƒ§ä¼¤ç›®æ ‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Fire Damage. Fire attacks may burn target.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü»ğÑæÉËº¦¡£»ğÑæ¹¥»÷¿ÉÄÜ»áÉÕÉËÄ¿±ê¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_frost_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Frost Damage. Frost attacks may Freeze target. </Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»å†°éœœä¼¤å®³ã€‚å†°éœœæ”»å‡»å¯å†»ç»“ç›®æ ‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Frost Damage. Frost attacks may Freeze target. </Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü±ùËªÉËº¦¡£±ùËª¹¥»÷¿É¶³½áÄ¿±ê¡£ </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_lightning_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Lightning Damage. Lightning attacks may Shock target.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»é—ªç”µä¼¤å®³ã€‚é—ªç”µæ”»å‡»å¯èƒ½ä¼šéœ‡æ…‘ç›®æ ‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Lightning Damage. Lightning attacks may Shock target.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×ÜÉÁµçÉËº¦¡£ÉÁµç¹¥»÷¿ÉÄÜ»áÕğÉåÄ¿±ê¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbra_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Umbra Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»æœ¬å½±ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Umbra Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü±¾Ó°ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_sacred_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Sacred Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»ç¥åœ£ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Sacred Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×ÜÉñÊ¥ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shadow_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Shadow Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»æš—å½±ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Shadow Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü°µÓ°ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_bleed_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Bleeding Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»æµè¡€ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Bleeding Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×ÜÁ÷ÑªÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_poison_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Poison Damage. Poison attacks may reduce target's Resistances.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»æ¯’ç´ ä¼¤å®³ã€‚æ¯’æ€§æ”»å‡»å¯èƒ½é™ä½ç›®æ ‡çš„æŠ—æ€§ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Poison Damage. Poison attacks may reduce target's Resistances.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü¶¾ËØÉËº¦¡£¶¾ĞÔ¹¥»÷¿ÉÄÜ½µµÍÄ¿±êµÄ¿¹ĞÔ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_physical_percent_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Increases your Physical Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¢åŠ ä½ çš„ç‰©ç†ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases your Physical Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôö¼ÓÄãµÄÎïÀíÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_fire_percent_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Increases your Fire Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¢åŠ ä½ çš„ç«ç„°ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases your Fire Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôö¼ÓÄãµÄ»ğÑæÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_frost_percent_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Increases your Frost Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¢åŠ ä½ çš„å†°éœœä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases your Frost Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôö¼ÓÄãµÄ±ùËªÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_lightning_percent_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Increases your Lightning Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¢åŠ ä½ çš„é—ªç”µä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases your Lightning Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôö¼ÓÄãµÄÉÁµçÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbra_percent_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Increases your Umbra Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¢åŠ ä½ çš„æœ¬å½±ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases your Umbra Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôö¼ÓÄãµÄ±¾Ó°ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_sacred_percent_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Increases your Sacred Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¢åŠ ä½ çš„ç¥åœ£ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases your Sacred Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôö¼ÓÄãµÄÉñÊ¥ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shadow_percent_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Increases your Shadow Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¢åŠ ä½ çš„æš—å½±ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases your Shadow Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôö¼ÓÄãµÄ°µÓ°ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_bleed_percent_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Increases your Bleeding Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¢åŠ ä½ çš„æµè¡€ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases your Bleeding Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôö¼ÓÄãµÄÁ÷ÑªÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_poison_percent_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Increases your Poison Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¢åŠ ä½ çš„æ¯’ç´ ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases your Poison Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôö¼ÓÄãµÄ¶¾ËØÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_critchances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Critical Chance with Weapons. A Critical hit deals extra Damage and has increased Status Effects Chance.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ­¦å™¨æ€»æš´å‡»å‡ ç‡ã€‚æš´å‡»é€ æˆé¢å¤–çš„ä¼¤å®³ï¼Œå¹¶å¢åŠ é€ æˆç‰¹æ®ŠçŠ¶æ€çš„å‡ ç‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Critical Chance with Weapons. A Critical hit deals extra Damage and has increased Status Effects Chance.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄÎäÆ÷×Ü±©»÷¼¸ÂÊ¡£±©»÷Ôì³É¶îÍâµÄÉËº¦£¬²¢Ôö¼ÓÔì³ÉÌØÊâ×´Ì¬µÄ¼¸ÂÊ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_critdmg_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Critical Damage Multiplier with Weapons. Represents the extra amount of Damage of Critical Strikes.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ­¦å™¨æ€»æš´å‡»ä¼¤å®³å€æ•°ã€‚è¡¨ç¤ºæš´å‡»çš„é¢å¤–ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Critical Damage Multiplier with Weapons. Represents the extra amount of Damage of Critical Strikes.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄÎäÆ÷×Ü±©»÷ÉËº¦±¶Êı¡£±íÊ¾±©»÷µÄ¶îÍâÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellcritchances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Critical Chance with Spells. A Critical Spell deals extra Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ³•æœ¯æ€»æš´å‡»å‡ ç‡ã€‚æš´å‡»æ³•æœ¯é€ æˆé¢å¤–çš„ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Critical Chance with Spells. A Critical Spell deals extra Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ·¨Êõ×Ü±©»÷¼¸ÂÊ¡£±©»÷·¨ÊõÔì³É¶îÍâµÄÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellcritdmg_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Critical Damage Multiplier with Spells. Represents the extra amount of Damage of Critical Spells.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ³•æœ¯æ€»æš´å‡»ä¼¤å®³å€æ•°ã€‚è¡¨ç¤ºæš´å‡»æ³•æœ¯çš„é¢å¤–ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Critical Damage Multiplier with Spells. Represents the extra amount of Damage of Critical Spells.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ·¨Êõ×Ü±©»÷ÉËº¦±¶Êı¡£±íÊ¾±©»÷·¨ÊõµÄ¶îÍâÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellcdr_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total modifier of your Spells Cooldown, increasing or decreasing their total duration.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ³•æœ¯å†·å´æ—¶é—´çš„æ€»ä¿®æ­£å€¼ï¼Œå¢åŠ æˆ–å‡å°‘ä»–ä»¬çš„æ€»æŒç»­æ—¶é—´ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total modifier of your Spells Cooldown, increasing or decreasing their total duration.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ·¨ÊõÀäÈ´Ê±¼äµÄ×ÜĞŞÕıÖµ£¬Ôö¼Ó»ò¼õÉÙËûÃÇµÄ×Ü³ÖĞøÊ±¼ä¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ragecostmod_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total modifier of your Spells Rage Cost, increasing or decreasing total costs.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ³•æœ¯æ€’æ°”æ¶ˆè€—çš„æ€»ä¿®æ­£å€¼ï¼Œå¢åŠ æˆ–å‡å°‘æ€»æ¶ˆè€—é‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total modifier of your Spells Rage Cost, increasing or decreasing total costs.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ·¨ÊõÅ­ÆøÏûºÄµÄ×ÜĞŞÕıÖµ£¬Ôö¼Ó»ò¼õÉÙ×ÜÏûºÄÁ¿¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_manacostmod_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total modifier of your Spells Umbra Cost, increasing or decreasing total costs.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">æ‚¨çš„æ³•æœ¯æœ¬å½±æ¶ˆè€—çš„æ€»ä¿®æ­£å€¼ï¼Œå¢åŠ æˆ–å‡å°‘æ€»æ¶ˆè€—é‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total modifier of your Spells Umbra Cost, increasing or decreasing total costs.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄúµÄ·¨Êõ±¾Ó°ÏûºÄµÄ×ÜĞŞÕıÖµ£¬Ôö¼Ó»ò¼õÉÙ×ÜÏûºÄÁ¿¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_weaponrange_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The maximum Range of your equipped Weapon (or the longest if two Weapons are equipped).</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ è£…å¤‡çš„æ­¦å™¨çš„æœ€å¤§å°„ç¨‹ï¼ˆå¦‚æœè£…å¤‡ä¸¤ä¸ªæ­¦å™¨å–æœ€é•¿çš„ï¼‰ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The maximum Range of your equipped Weapon (or the longest if two Weapons are equipped).</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã×°±¸µÄÎäÆ÷µÄ×î´óÉä³Ì£¨Èç¹û×°±¸Á½¸öÎäÆ÷È¡×î³¤µÄ£©¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashdmg_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The average Physical Damage dealt by your Auto-Dash.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„è‡ªåŠ¨å†²åˆºé€ æˆçš„å¹³å‡ç‰©ç†ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The average Physical Damage dealt by your Auto-Dash.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ô¶¯³å´ÌÔì³ÉµÄÆ½¾ùÎïÀíÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashrange_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The maximum Range of your Auto-Dash.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">è‡ªåŠ¨å†²åˆºçš„æœ€å¤§èŒƒå›´ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The maximum Range of your Auto-Dash.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">×Ô¶¯³å´ÌµÄ×î´ó·¶Î§¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashragegeneration_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The amount of Rage Points generated for each enemy hit by your Auto-Dash.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">è‡ªåŠ¨å†²åˆºå‘½ä¸­çš„æ¯ä¸ªæ•Œäººç”Ÿæˆçš„æ€’æ°”æ€»æ•°ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The amount of Rage Points generated for each enemy hit by your Auto-Dash.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">×Ô¶¯³å´ÌÃüÖĞµÄÃ¿¸öµĞÈËÉú³ÉµÄÅ­Æø×ÜÊı¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashcdr_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total modifier of your Auto-Dash Cooldown, increasing or decreasing its total duration.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">è‡ªåŠ¨å†²åˆºå†·å´æ—¶é—´çš„æ€»ä¿®æ­£å€¼ï¼Œå¢åŠ æˆ–å‡å°‘å…¶æ€»æŒç»­æ—¶é—´ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total modifier of your Auto-Dash Cooldown, increasing or decreasing its total duration.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">×Ô¶¯³å´ÌÀäÈ´Ê±¼äµÄ×ÜĞŞÕıÖµ£¬Ôö¼Ó»ò¼õÉÙÆä×Ü³ÖĞøÊ±¼ä¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashspeed_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Speed modifier of your Auto-Dash.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„è‡ªåŠ¨å†²åˆºçš„æ€»é€Ÿåº¦ä¿®æ­£å€¼ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Speed modifier of your Auto-Dash.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ô¶¯³å´ÌµÄ×ÜËÙ¶ÈĞŞÕıÖµ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_thorndmg_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Thorns Damage. Thorns are Physical Damage inflicted to enemies when they hit you and aren't affected by target's Armor.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»è†æ£˜ä¼¤å®³ã€‚è†æ£˜æ˜¯å½“æ•Œäººå‡»ä¸­ä½ æ—¶å—åˆ°çš„ç‰©ç†ä¼¤å®³ï¼Œä¸ä¼šå—åˆ°ç›®æ ‡çš„æŠ¤ç”²å½±å“ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Thorns Damage. Thorns are Physical Damage inflicted to enemies when they hit you and aren't affected by target's Armor.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü¾£¼¬ÉËº¦¡£¾£¼¬ÊÇµ±µĞÈË»÷ÖĞÄãÊ±ÊÜµ½µÄÎïÀíÉËº¦£¬²»»áÊÜµ½Ä¿±êµÄ»¤¼×Ó°Ïì¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_thornpercent_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Thorns Damage Modifier.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»ä¼¤å®³ä¿®æ­£å€¼ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Thorns Damage Modifier.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×ÜÉËº¦ĞŞÕıÖµ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_armorpiercing_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Armor Piercing, which reduces Armor Efficiency of target.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»æŠ¤ç”²ç©¿é€å€¼ï¼Œå‡å°‘ç›®æ ‡çš„æŠ¤ç”²æ•ˆç‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Armor Piercing, which reduces Armor Efficiency of target.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü»¤¼×´©Í¸Öµ£¬¼õÉÙÄ¿±êµÄ»¤¼×Ğ§ÂÊ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stamina_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">You maximum Stamina. Stamina is mainly used to cast Active Dodge-roll.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ æœ€å¤§çš„è€åŠ›ã€‚è€åŠ›ä¸»è¦ç”¨äºè¿›è¡Œä¸»åŠ¨é—ªé¿ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">You maximum Stamina. Stamina is mainly used to cast Active Dodge-roll.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã×î´óµÄÄÍÁ¦¡£ÄÍÁ¦Ö÷ÒªÓÃÓÚ½øĞĞÖ÷¶¯ÉÁ±Ü¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_staminaregen_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total delay before regenerating one Stamina point. Equals 0 if your Stamina Regeneration is cut.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">åœ¨å†ç”Ÿä¸€ç‚¹è€åŠ›å‰çš„æ€»å»¶è¿Ÿã€‚å¦‚æœä½ ä¸èƒ½æ¢å¤è€åŠ›ï¼Œåˆ™ä¸º0ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total delay before regenerating one Stamina point. Equals 0 if your Stamina Regeneration is cut.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÔÚÔÙÉúÒ»µãÄÍÁ¦Ç°µÄ×ÜÑÓ³Ù¡£Èç¹ûÄã²»ÄÜ»Ö¸´ÄÍÁ¦£¬ÔòÎª0¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dodgechances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your Passive Dodge Chance against all attacks types. Dodging an attack will completely ignore its effects.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ è¢«åŠ¨é—ªé¿æ‰€æœ‰æ”»å‡»ç±»å‹çš„å‡ ç‡ã€‚è¢«é—ªé¿çš„æ”»å‡»å°†ä¸ä¼šé€ æˆä»»ä½•å½±å“ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your Passive Dodge Chance against all attacks types. Dodging an attack will completely ignore its effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã±»¶¯ÉÁ±ÜËùÓĞ¹¥»÷ÀàĞÍµÄ¼¸ÂÊ¡£±»ÉÁ±ÜµÄ¹¥»÷½«²»»áÔì³ÉÈÎºÎÓ°Ïì¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dodgewindow_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your Total Invulnerability time when launching an Active Dodge-roll, during which your Dodge Chance is 100%.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¯åŠ¨ä¸»åŠ¨é—ªé¿æ—¶çš„æ€»æ— æ•Œæ—¶é—´ï¼Œåœ¨æ­¤æœŸé—´ä½ çš„é—ªé¿æ¦‚ç‡ä¸º100ï¼…ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your Total Invulnerability time when launching an Active Dodge-roll, during which your Dodge Chance is 100%.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Æô¶¯Ö÷¶¯ÉÁ±ÜÊ±µÄ×ÜÎŞµĞÊ±¼ä£¬ÔÚ´ËÆÚ¼äÄãµÄÉÁ±Ü¸ÅÂÊÎª100£¥¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dodgespeed_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Total Speed of your Active Dodge-roll.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ ä¸»åŠ¨é—ªé¿çš„æ€»é€Ÿåº¦ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Total Speed of your Active Dodge-roll.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãÖ÷¶¯ÉÁ±ÜµÄ×ÜËÙ¶È¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_blockchances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your Passive Block Chance. Blocking an attack will reduce its Damage depending on your Block Efficiency. You can only Block Physical attacks.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„è¢«åŠ¨æ ¼æŒ¡å‡ ç‡ã€‚æ ¼æŒ¡æ”»å‡»ä¼šå‡å°‘å…¶ä¼¤å®³ï¼Œå–å†³äºä½ çš„æ ¼æŒ¡æ•ˆç‡ã€‚åªèƒ½æ ¼æŒ¡ç‰©ç†æ”»å‡»ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your Passive Block Chance. Blocking an attack will reduce its Damage depending on your Block Efficiency. You can only Block Physical attacks.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ±»¶¯¸ñµ²¼¸ÂÊ¡£¸ñµ²¹¥»÷»á¼õÉÙÆäÉËº¦£¬È¡¾öÓÚÄãµÄ¸ñµ²Ğ§ÂÊ¡£Ö»ÄÜ¸ñµ²ÎïÀí¹¥»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_blockefficiency_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Block Efficiency. Represents the part of Damage reduction on Blocked attacks.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»æ ¼æŒ¡æ•ˆç‡ã€‚è¡¨ç¤ºæ ¼æŒ¡æ”»å‡»æ—¶ä¼¤å®³å‡å°‘çš„éƒ¨åˆ†ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Block Efficiency. Represents the part of Damage reduction on Blocked attacks.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü¸ñµ²Ğ§ÂÊ¡£±íÊ¾¸ñµ²¹¥»÷Ê±ÉËº¦¼õÉÙµÄ²¿·Ö¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shieldangle_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Protection Angle of your equipped Shield. Attacks taken in this frontal angle when Channeling will always be Blocked.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ è£…å¤‡çš„ç›¾ç‰Œçš„æ€»ä¿æŠ¤è§’åº¦ã€‚åœ¨æ­¤èº«å‰æ­¤è§’åº¦ä¸‹å—åˆ°çš„æ”»å‡»å°†å§‹ç»ˆè¢«æ ¼æŒ¡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Protection Angle of your equipped Shield. Attacks taken in this frontal angle when Channeling will always be Blocked.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã×°±¸µÄ¶ÜÅÆµÄ×Ü±£»¤½Ç¶È¡£ÔÚ´ËÉíÇ°´Ë½Ç¶ÈÏÂÊÜµ½µÄ¹¥»÷½«Ê¼ÖÕ±»¸ñµ²¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_preventdmg_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">This part of incoming Damage is always prevented.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">è¿™éƒ¨åˆ†å—åˆ°çš„ä¼¤å®³æ€»æ˜¯è¢«å¸æ”¶ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">This part of incoming Damage is always prevented.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Õâ²¿·ÖÊÜµ½µÄÉËº¦×ÜÊÇ±»ÎüÊÕ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunresistance_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Stun. May give you a chance to ignore an incoming Stun effect.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»å‡»æ™•æŠ—æ€§ã€‚ç»™ä½ ä¸€å®šå¿½ç•¥æ”»å‡»é€ æˆçš„çœ©æ™•æ•ˆæœçš„å‡ ç‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Stun. May give you a chance to ignore an incoming Stun effect.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü»÷ÔÎ¿¹ĞÔ¡£¸øÄãÒ»¶¨ºöÂÔ¹¥»÷Ôì³ÉµÄÑ£ÔÎĞ§¹ûµÄ¼¸ÂÊ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_knockbackresistance_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Knock-back. May give you a chance to ignore an incoming Knock-back effect.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»å‡»é€€æŠ—æ€§ã€‚ç»™ä½ ä¸€å®šå¿½ç•¥æ”»å‡»é€ æˆçš„å‡»é€€æ•ˆæœçš„å‡ ç‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Knock-back. May give you a chance to ignore an incoming Knock-back effect.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü»÷ÍË¿¹ĞÔ¡£¸øÄãÒ»¶¨ºöÂÔ¹¥»÷Ôì³ÉµÄ»÷ÍËĞ§¹ûµÄ¼¸ÂÊ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_blownawayresistance_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Knock-down. May give you a chance to ignore an incoming Knock-down effect.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»å‡»å€’æŠ—æ€§ã€‚ç»™ä½ ä¸€å®šå¿½ç•¥æ”»å‡»é€ æˆçš„å‡»å€’æ•ˆæœçš„å‡ ç‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Knock-down. May give you a chance to ignore an incoming Knock-down effect.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü»÷µ¹¿¹ĞÔ¡£¸øÄãÒ»¶¨ºöÂÔ¹¥»÷Ôì³ÉµÄ»÷µ¹Ğ§¹ûµÄ¼¸ÂÊ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunchances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Stun Chance with Physical attacks. Stun effect prevents targets from acting or moving.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ ç‰©ç†æ”»å‡»é€ æˆçœ©æ™•æ•ˆæœçš„æ€»å‡ ç‡ã€‚çœ©æ™•æ•ˆæœå¯é˜»æ­¢ç›®æ ‡æ”»å‡»æˆ–ç§»åŠ¨ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Stun Chance with Physical attacks. Stun effect prevents targets from acting or moving.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãÎïÀí¹¥»÷Ôì³ÉÑ£ÔÎĞ§¹ûµÄ×Ü¼¸ÂÊ¡£Ñ£ÔÎĞ§¹û¿É×èÖ¹Ä¿±ê¹¥»÷»òÒÆ¶¯¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_burnchances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Burning Chance with Fire attacks. Burn effect deals Fire Damage over time to targets.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ ç«ç„°æ”»å‡»é€ æˆç‡ƒçƒ§æ•ˆæœçš„æ€»å‡ ç‡ã€‚ç‡ƒçƒ§æ•ˆæœéšç€æ—¶é—´å¯¹ç›®æ ‡é€ æˆç«ç„°ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Burning Chance with Fire attacks. Burn effect deals Fire Damage over time to targets.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã»ğÑæ¹¥»÷Ôì³ÉÈ¼ÉÕĞ§¹ûµÄ×Ü¼¸ÂÊ¡£È¼ÉÕĞ§¹ûËæ×ÅÊ±¼ä¶ÔÄ¿±êÔì³É»ğÑæÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_freezechances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Freezing Chance with Frost attacks. Freeze effect prevent targets from acting or moving and make them vulnerable.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å†°éœœæ”»å‡»é€ æˆå†»ç»“æ•ˆæœçš„æ€»å‡ ç‡ã€‚å†»ç»“æ•ˆæœé˜²æ­¢ç›®æ ‡è¡ŒåŠ¨æˆ–ç§»åŠ¨ï¼Œå¹¶ä½¿ä»–ä»¬æ›´è„†å¼±ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Freezing Chance with Frost attacks. Freeze effect prevent targets from acting or moving and make them vulnerable.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã±ùËª¹¥»÷Ôì³É¶³½áĞ§¹ûµÄ×Ü¼¸ÂÊ¡£¶³½áĞ§¹û·ÀÖ¹Ä¿±êĞĞ¶¯»òÒÆ¶¯£¬²¢Ê¹ËûÃÇ¸ü´àÈõ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shockchances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Shocking Chance with Lightning attacks. Shock effect Deals Lightning Damage to surrounding targets and may stun them.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ é—ªç”µæ”»å‡»é€ æˆéœ‡è¡æ•ˆæœçš„æ€»å‡ ç‡ã€‚éœ‡è¡æ•ˆæœå¯¹å‘¨å›´ç›®æ ‡é€ æˆé—ªç”µä¼¤å®³ï¼Œå¹¶å¯èƒ½ä½¿ä»–ä»¬çœ©æ™•ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Shocking Chance with Lightning attacks. Shock effect Deals Lightning Damage to surrounding targets and may stun them.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãÉÁµç¹¥»÷Ôì³ÉÕğµ´Ğ§¹ûµÄ×Ü¼¸ÂÊ¡£Õğµ´Ğ§¹û¶ÔÖÜÎ§Ä¿±êÔì³ÉÉÁµçÉËº¦£¬²¢¿ÉÄÜÊ¹ËûÃÇÑ£ÔÎ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_knockdownchances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Knock-down Chance. Knock-down effect expulses targets on the ground and briefly prevent them from getting up.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»å‡»å€’å‡ ç‡ã€‚å‡»å€’æ•ˆæœå¯ä»¥å‡»å€’åœ°é¢ä¸Šçš„ç›®æ ‡ï¼Œå¹¶çŸ­æ—¶é—´é˜²æ­¢å®ƒä»¬ç«™èµ·ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Knock-down Chance. Knock-down effect expulses targets on the ground and briefly prevent them from getting up.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü»÷µ¹¼¸ÂÊ¡£»÷µ¹Ğ§¹û¿ÉÒÔ»÷µ¹µØÃæÉÏµÄÄ¿±ê£¬²¢¶ÌÊ±¼ä·ÀÖ¹ËüÃÇÕ¾Æğ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_knockbackchances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Knock-back Chance. Knock-back effect physically repels targets and may knock-them down afterwards.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»å‡»é€€å‡ ç‡ã€‚å‡»é€€æ•ˆæœå¯ä»¥è®©ç›®æ ‡åé€€ï¼Œå¹¶å¯èƒ½è¢«å‡»å€’ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Knock-back Chance. Knock-back effect physically repels targets and may knock-them down afterwards.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü»÷ÍË¼¸ÂÊ¡£»÷ÍËĞ§¹û¿ÉÒÔÈÃÄ¿±êºóÍË£¬²¢¿ÉÄÜ±»»÷µ¹¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_openwoundchances_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Open-Wounds Chance modifier, increasing or decreasing your probability of causing Open-Wounds. Open-Wounds deal Bleeding Damage over time to targets.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»åˆ›ä¼¤å‡ ç‡ä¿®æ­£å€¼ï¼Œå¢åŠ æˆ–å‡å°‘é€ æˆåˆ›ä¼¤çš„å¯èƒ½æ€§ã€‚åˆ›ä¼¤éšæ—¶é—´é€ æˆæµè¡€ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Open-Wounds Chance modifier, increasing or decreasing your probability of causing Open-Wounds. Open-Wounds deal Bleeding Damage over time to targets.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü´´ÉË¼¸ÂÊĞŞÕıÖµ£¬Ôö¼Ó»ò¼õÉÙÔì³É´´ÉËµÄ¿ÉÄÜĞÔ¡£´´ÉËËæÊ±¼äÔì³ÉÁ÷ÑªÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_openwounddmg_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Open-Wounds Damage modifier, increasing or decreasing the Damage dealt by your Open-Wounds.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»åˆ›ä¼¤ä¼¤å®³ä¿®æ­£å€¼ï¼Œå¢åŠ æˆ–å‡å°‘ä½ åˆ›ä¼¤æ•ˆæœæ‰€é€ æˆçš„ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Open-Wounds Damage modifier, increasing or decreasing the Damage dealt by your Open-Wounds.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü´´ÉËÉËº¦ĞŞÕıÖµ£¬Ôö¼Ó»ò¼õÉÙÄã´´ÉËĞ§¹ûËùÔì³ÉµÄÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_inflicteddotduration_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Duration modifier of all inflicted effects, such as Burning, Poisoning or Bleeding.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">æ‰€æœ‰é€ æˆæ•ˆæœçš„æ€»æŒç»­æ—¶é—´ä¿®æ­£å€¼ï¼Œä¾‹å¦‚ç‡ƒçƒ§ï¼Œä¸­æ¯’æˆ–å‡ºè¡€ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Duration modifier of all inflicted effects, such as Burning, Poisoning or Bleeding.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ËùÓĞÔì³ÉĞ§¹ûµÄ×Ü³ÖĞøÊ±¼äĞŞÕıÖµ£¬ÀıÈçÈ¼ÉÕ£¬ÖĞ¶¾»ò³öÑª¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_receiveddotduration_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Duration modifier of received effects, such as Burning, Poisoning or Bleeding.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">æ‰€æœ‰å—åˆ°æ•ˆæœçš„æ€»æŒç»­æ—¶é—´ä¿®æ­£å€¼ï¼Œä¾‹å¦‚ç‡ƒçƒ§ï¼Œä¸­æ¯’æˆ–å‡ºè¡€ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Duration modifier of received effects, such as Burning, Poisoning or Bleeding.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ËùÓĞÊÜµ½Ğ§¹ûµÄ×Ü³ÖĞøÊ±¼äĞŞÕıÖµ£¬ÀıÈçÈ¼ÉÕ£¬ÖĞ¶¾»ò³öÑª¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_poisonresreduction_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Resistances Reduction applied on Poisoned targets.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å¯¹ä¸­æ¯’ç›®æ ‡é€ æˆçš„æ€»æŠ—æ€§é™ä½ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Resistances Reduction applied on Poisoned targets.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">¶ÔÖĞ¶¾Ä¿±êÔì³ÉµÄ×Ü¿¹ĞÔ½µµÍ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunduration_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Duration modifier of inflicted Stun effects.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">é€ æˆçš„å‡»æ™•æ•ˆæœçš„æ€»æŒç»­æ—¶é—´ä¿®æ­£å€¼ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Duration modifier of inflicted Stun effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôì³ÉµÄ»÷ÔÎĞ§¹ûµÄ×Ü³ÖĞøÊ±¼äĞŞÕıÖµ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_burnduration_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Duration modifier of inflicted Burning effects.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">é€ æˆçš„ç‡ƒçƒ§æ•ˆæœçš„æ€»æŒç»­æ—¶é—´ä¿®æ­£å€¼ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Duration modifier of inflicted Burning effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôì³ÉµÄÈ¼ÉÕĞ§¹ûµÄ×Ü³ÖĞøÊ±¼äĞŞÕıÖµ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_freezeduration_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Duration modifier of inflicted Freezing effects.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">é€ æˆçš„å†»ç»“æ•ˆæœçš„æ€»æŒç»­æ—¶é—´ä¿®æ­£å€¼ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Duration modifier of inflicted Freezing effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôì³ÉµÄ¶³½áĞ§¹ûµÄ×Ü³ÖĞøÊ±¼äĞŞÕıÖµ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shockduration_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Damage modifier of inflicted Shocking effects.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">é€ æˆçš„éœ‡è¡æ•ˆæœçš„æ€»ä¼¤å®³ä¿®æ­£å€¼ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Damage modifier of inflicted Shocking effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôì³ÉµÄÕğµ´Ğ§¹ûµÄ×ÜÉËº¦ĞŞÕıÖµ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunreduction_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Duration modifier of received Stun effects.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">å—åˆ°çš„å‡»æ™•æ•ˆæœçš„æ€»æŒç»­æ—¶é—´ä¿®æ­£å€¼ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Duration modifier of received Stun effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÊÜµ½µÄ»÷ÔÎĞ§¹ûµÄ×Ü³ÖĞøÊ±¼äĞŞÕıÖµ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_inflictedelemdotduration_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Duration modifier of inflicted elemental effects (Burning, Freezing and Shocking only).</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">é€ æˆçš„å…ƒç´ æ•ˆæœçš„æ€»æŒç»­æ—¶é—´ä¿®æ­£å€¼ï¼ˆä»…é™ç‡ƒçƒ§ï¼Œå†»ç»“å’Œéœ‡è¡ï¼‰ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Duration modifier of inflicted elemental effects (Burning, Freezing and Shocking only).</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ôì³ÉµÄÔªËØĞ§¹ûµÄ×Ü³ÖĞøÊ±¼äĞŞÕıÖµ£¨½öÏŞÈ¼ÉÕ£¬¶³½áºÍÕğµ´£©¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_globepickradius_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total auto-picking radius of Globes.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">çƒä½“çš„æ€»è‡ªåŠ¨æ‹¾å–åŠå¾„ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total auto-picking radius of Globes.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÇòÌåµÄ×Ü×Ô¶¯Ê°È¡°ë¾¶¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_goldfind_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Gold Find modifier. Increases the amount of looted Gold.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»é»„é‡‘æœå¯»ä¿®æ­£å€¼ã€‚å¢åŠ è·å¾—çš„é»„é‡‘çš„æ•°ç›®ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Gold Find modifier. Increases the amount of looted Gold.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×Ü»Æ½ğËÑÑ°ĞŞÕıÖµ¡£Ôö¼Ó»ñµÃµÄ»Æ½ğµÄÊıÄ¿¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_magicfind_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Magic Find modifier. Increases the probability of looting Magic Items.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ€»é­”æ³•æœå¯»ä¿®æ­£å€¼ã€‚å¢åŠ è·å¾—é­”æ³•ç‰©å“çš„æ¦‚ç‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Magic Find modifier. Increases the probability of looting Magic Items.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄ×ÜÄ§·¨ËÑÑ°ĞŞÕıÖµ¡£Ôö¼Ó»ñµÃÄ§·¨ÎïÆ·µÄ¸ÅÂÊ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_cleavefactor_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Cleave Factor of your Melee attacks. Cleaving attacks will hit several enemies beyond your first target and deal reduced Damage to them.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">è¿‘æˆ˜æ”»å‡»çš„æ€»åŠˆè£‚ç³»æ•°ã€‚åŠˆè£‚æ”»å‡»ä¼šå‡»ä¸­ä½ çš„ç¬¬ä¸€ä¸ªç›®æ ‡ä¹‹å¤–çš„å‡ ä¸ªæ•Œäººï¼Œå¹¶å¯¹ä»–ä»¬é€ æˆå°‘é‡ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Cleave Factor of your Melee attacks. Cleaving attacks will hit several enemies beyond your first target and deal reduced Damage to them.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">½üÕ½¹¥»÷µÄ×ÜÅüÁÑÏµÊı¡£ÅüÁÑ¹¥»÷»á»÷ÖĞÄãµÄµÚÒ»¸öÄ¿±êÖ®ÍâµÄ¼¸¸öµĞÈË£¬²¢¶ÔËûÃÇÔì³ÉÉÙÁ¿ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_cleaveangle_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total Cleave Angle of your Melee attacks. Combined with Weapon range, it will determine which targets are hit by Cleaving attacks.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">è¿‘æˆ˜æ”»å‡»çš„æ€»åŠˆè£‚è§’åº¦ã€‚ç»“åˆæ­¦å™¨èŒƒå›´ï¼Œå®ƒå°†ç¡®å®šå“ªäº›ç›®æ ‡è¢«å—åˆ°åŠˆè£‚æ”»å‡»ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total Cleave Angle of your Melee attacks. Combined with Weapon range, it will determine which targets are hit by Cleaving attacks.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">½üÕ½¹¥»÷µÄ×ÜÅüÁÑ½Ç¶È¡£½áºÏÎäÆ÷·¶Î§£¬Ëü½«È·¶¨ÄÄĞ©Ä¿±ê±»ÊÜµ½ÅüÁÑ¹¥»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_potioncdr_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total modifier of your Potions Cooldown, increasing or decreasing their usage frequency.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„è¯å‰‚å†·å´çš„æ€»ä¿®æ­£å€¼ï¼Œå¢åŠ æˆ–å‡å°‘å®ƒä»¬çš„ä½¿ç”¨é¢‘ç‡ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total modifier of your Potions Cooldown, increasing or decreasing their usage frequency.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄÒ©¼ÁÀäÈ´µÄ×ÜĞŞÕıÖµ£¬Ôö¼Ó»ò¼õÉÙËüÃÇµÄÊ¹ÓÃÆµÂÊ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_potionrefilltime</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total modifier of your Potions Refill-time, increasing or decreasing the delay before they replenish.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„è¯å‰‚è¡¥å……æ—¶é—´çš„æ€»ä¿®æ­£å€¼ï¼Œå¢åŠ æˆ–å‡å°‘ä»–ä»¬è¡¥å……ä¹‹å‰çš„å»¶è¿Ÿã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total modifier of your Potions Refill-time, increasing or decreasing the delay before they replenish.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄÒ©¼Á²¹³äÊ±¼äµÄ×ÜĞŞÕıÖµ£¬Ôö¼Ó»ò¼õÉÙËûÃÇ²¹³äÖ®Ç°µÄÑÓ³Ù¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_potionheal_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The total modifier of the Healing capacity of your Healing Potions.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ çš„æ²»ç–—è¯æ°´çš„æ²»ç–—èƒ½åŠ›çš„æ€»ä¿®æ­£å€¼ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">The total modifier of the Healing capacity of your Healing Potions.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ÄãµÄÖÎÁÆÒ©Ë®µÄÖÎÁÆÄÜÁ¦µÄ×ÜĞŞÕıÖµ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_physicalres_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Physical attacks. Reduces part of all incoming Physical Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å¯¹ç‰©ç†æ”»å‡»çš„æ€»æŠ—æ€§ã€‚å‡å°‘éƒ¨åˆ†å—åˆ°çš„ç‰©ç†ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Physical attacks. Reduces part of all incoming Physical Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã¶ÔÎïÀí¹¥»÷µÄ×Ü¿¹ĞÔ¡£¼õÉÙ²¿·ÖÊÜµ½µÄÎïÀíÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_fireres_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Fire attacks. Reduces part of all incoming Fire Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å¯¹ç«ç„°æ”»å‡»çš„æ€»æŠ—æ€§ã€‚å‡å°‘éƒ¨åˆ†å—åˆ°çš„ç«ç„°ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Fire attacks. Reduces part of all incoming Fire Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã¶Ô»ğÑæ¹¥»÷µÄ×Ü¿¹ĞÔ¡£¼õÉÙ²¿·ÖÊÜµ½µÄ»ğÑæÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_frostres_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Frost attacks. Reduces part of all incoming Frost Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å¯¹å†°éœœæ”»å‡»çš„æ€»æŠ—æ€§ã€‚å‡å°‘éƒ¨åˆ†å—åˆ°çš„éœœå†»ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Frost attacks. Reduces part of all incoming Frost Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã¶Ô±ùËª¹¥»÷µÄ×Ü¿¹ĞÔ¡£¼õÉÙ²¿·ÖÊÜµ½µÄËª¶³ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_lightningres_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Lightning attacks. Reduces part of all incoming Lightning Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å¯¹é—ªç”µæ”»å‡»çš„æ€»æŠ—æ€§ã€‚å‡å°‘éƒ¨åˆ†å—åˆ°çš„é—ªç”µä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Lightning attacks. Reduces part of all incoming Lightning Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã¶ÔÉÁµç¹¥»÷µÄ×Ü¿¹ĞÔ¡£¼õÉÙ²¿·ÖÊÜµ½µÄÉÁµçÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbrares_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Umbra attacks. Reduces part of all incoming Umbra Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å¯¹æœ¬å½±æ”»å‡»çš„æ€»æŠ—æ€§ã€‚å‡å°‘éƒ¨åˆ†å—åˆ°çš„æœ¬å½±ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Umbra attacks. Reduces part of all incoming Umbra Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã¶Ô±¾Ó°¹¥»÷µÄ×Ü¿¹ĞÔ¡£¼õÉÙ²¿·ÖÊÜµ½µÄ±¾Ó°ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_sacredres_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Sacred attacks. Reduces part of all incoming Sacred Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å¯¹ç¥åœ£æ”»å‡»çš„æ€»æŠ—æ€§ã€‚å‡å°‘éƒ¨åˆ†å—åˆ°çš„ç¥åœ£ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Sacred attacks. Reduces part of all incoming Sacred Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã¶ÔÉñÊ¥¹¥»÷µÄ×Ü¿¹ĞÔ¡£¼õÉÙ²¿·ÖÊÜµ½µÄÉñÊ¥ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shadowres_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Shadow attacks. Reduces part of all incoming Shadow Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å¯¹æš—å½±æ”»å‡»çš„æ€»æŠ—æ€§ã€‚å‡å°‘éƒ¨åˆ†å—åˆ°çš„æš—å½±ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Shadow attacks. Reduces part of all incoming Shadow Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã¶Ô°µÓ°¹¥»÷µÄ×Ü¿¹ĞÔ¡£¼õÉÙ²¿·ÖÊÜµ½µÄ°µÓ°ÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_bleedres_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Bleeding attacks. Reduces part of all incoming Bleeding Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å¯¹æµè¡€æ”»å‡»çš„æ€»æŠ—æ€§ã€‚å‡å°‘éƒ¨åˆ†å—åˆ°çš„æµè¡€ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Bleeding attacks. Reduces part of all incoming Bleeding Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã¶ÔÁ÷Ñª¹¥»÷µÄ×Ü¿¹ĞÔ¡£¼õÉÙ²¿·ÖÊÜµ½µÄÁ÷ÑªÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_poisonres_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Poison attacks. Reduces part of all incoming Poison Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å¯¹æ¯’ç´ æ”»å‡»çš„æ€»æŠ—æ€§ã€‚å‡å°‘éƒ¨åˆ†å—åˆ°çš„æ¯’ç´ ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Poison attacks. Reduces part of all incoming Poison Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã¶Ô¶¾ËØ¹¥»÷µÄ×Ü¿¹ĞÔ¡£¼õÉÙ²¿·ÖÊÜµ½µÄ¶¾ËØÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellres_tooltip</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Resistance to Spells. Reduces part of all incoming Spell Damage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ä½ å¯¹æ³•æœ¯æŠ—æ€§çš„æ€»æŠ—æ€§ã€‚å‡å°‘éƒ¨åˆ†å—åˆ°çš„æ³•æœ¯ä¼¤å®³ã€‚</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Spells. Reduces part of all incoming Spell Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Äã¶Ô·¨Êõ¿¹ĞÔµÄ×Ü¿¹ĞÔ¡£¼õÉÙ²¿·ÖÊÜµ½µÄ·¨ÊõÉËº¦¡£</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -1589,12 +1713,12 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>81</TopRowVisible>
+   <TopRowVisible>170</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>87</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>199</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

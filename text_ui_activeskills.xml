@@ -7,11 +7,11 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Title>Audio script template</Title>
-  <Author>MaÃ«lenn Lumineau</Author>
-  <LastAuthor>blacktail</LastAuthor>
+  <Author>Ma??lenn Lumineau</Author>
+  <LastAuthor>UBBOSATHLA</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2016-11-22T16:29:59Z</LastSaved>
+  <LastSaved>2016-10-20T14:29:59Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -111,10 +111,10 @@
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#006100"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m164409536" ss:Parent="s40">
+  <Style ss:ID="m247517536" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -154,7 +154,7 @@
   <Style ss:ID="s65">
    <Borders/>
   </Style>
-  <Style ss:ID="s80" ss:Parent="s26">
+  <Style ss:ID="s78" ss:Parent="s26">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
@@ -183,547 +183,547 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell ss:MergeAcross="2" ss:StyleID="m164409536"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m247517536"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BaseAttack</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Weapon Attack</Data></Cell>
-    <Cell><Data ss:Type="String">æ­¦å™¨æ”»å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">ÎäÆ÷¹¥»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BaseAttack_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Perform a basic attack with your equipped weapon.</Data></Cell>
-    <Cell><Data ss:Type="String">ç”¨ä½ è£…å¤‡çš„æ­¦å™¨è¿›è¡ŒåŸºç¡€æ”»å‡»ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÓÃÄã×°±¸µÄÎäÆ÷½øĞĞ»ù´¡¹¥»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_UnlimitedPower</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Unlimited Power</Data></Cell>
-    <Cell><Data ss:Type="String">å¿ƒçµæ½œèƒ½</Data></Cell>
+    <Cell><Data ss:Type="String">ĞÄÁéÇ±ÄÜ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_UnlimitedPower_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Continuously casts Lightnings from your hands, shocking up to two targets at the same time.</Data></Cell>
-    <Cell><Data ss:Type="String">ä»ä½ çš„æ‰‹ä¸­é‡Šæ”¾é—ªç”µï¼ŒåŒæ—¶æ‰“å‡»ä¸¤ä¸ªæ•Œäººã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">´ÓÄãµÄÊÖÖĞÊÍ·ÅÉÁµç£¬Í¬Ê±´ò»÷Á½¸öµĞÈË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_DeepStrike</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Deep Strike</Data></Cell>
-    <Cell><Data ss:Type="String">çºµæ·±æ‰“å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">×İÉî´ò»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_DeepStrike_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You raise in the air and fall down on your enemies in a powerful blast that may stun them.</Data></Cell>
-    <Cell><Data ss:Type="String">è·³å‘ç©ºä¸­ç„¶åé‡é‡è½ä¸‹ï¼Œé‡Šæ”¾å¼ºçƒˆçš„å†²å‡»æ³¢å¹¶çœ©æ™•æ•Œäººã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÌøÏò¿ÕÖĞÈ»ºóÖØÖØÂäÏÂ£¬ÊÍ·ÅÇ¿ÁÒµÄ³å»÷²¨²¢Ñ£ÔÎµĞÈË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ExplosiveWave</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Explosive Wave</Data></Cell>
-    <Cell><Data ss:Type="String">å†²å‡»æ³¢</Data></Cell>
+    <Cell><Data ss:Type="String">³å»÷²¨</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ExplosiveWave_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a trail of successive explosions in front of you.</Data></Cell>
-    <Cell><Data ss:Type="String">åœ¨ä½ çš„å‰æ–¹åˆ¶é€ è¿ç»­çš„çˆ†ç‚¸ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÔÚÄãµÄÇ°·½ÖÆÔìÁ¬ĞøµÄ±¬Õ¨¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ShadowStrike</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Shadows Strike</Data></Cell>
-    <Cell><Data ss:Type="String">æš—å½±çªè¢­</Data></Cell>
+    <Cell><Data ss:Type="String">°µÓ°Í»Ï®</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ShadowStrike_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You merge with the Shadows and successively strike nearby enemies while preventing Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">ä¸æš—å½±èåˆè¿ç»­æ”»å‡»é™„è¿‘çš„æ•Œäººå¹¶å…ç–«ä¼¤å®³ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">Óë°µÓ°ÈÚºÏÁ¬Ğø¹¥»÷¸½½üµÄµĞÈË²¢ÃâÒßÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_HeartOfWinter</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Winter's Chill</Data></Cell>
-    <Cell><Data ss:Type="String">æ·±å†¬ä¹‹å¯’</Data></Cell>
+    <Cell><Data ss:Type="String">Éî¶¬Ö®º®</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_HeartOfWinter_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A wide-range Nova that Freeze all nearby enemies.</Data></Cell>
-    <Cell><Data ss:Type="String">é‡Šæ”¾å¤§èŒƒå›´çš„æ–°æ˜Ÿå¹¶å†»ç»“é™„è¿‘çš„æ•Œäººã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÊÍ·Å´ó·¶Î§µÄĞÂĞÇ²¢¶³½á¸½½üµÄµĞÈË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Fireball</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Fireball</Data></Cell>
-    <Cell><Data ss:Type="String">ç«çƒæœ¯</Data></Cell>
+    <Cell><Data ss:Type="String">»ğÇòÊõ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Fireball_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Throws a large and powerful Fire projectile in front of you.</Data></Cell>
-    <Cell><Data ss:Type="String">å‘å‰æ–¹æŠ•æ·ä¸€ä¸ªå¤§è€Œæœ‰åŠ›çš„ç«ç„°å¼¹ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÏòÇ°·½Í¶ÖÀÒ»¸ö´ó¶øÓĞÁ¦µÄ»ğÑæµ¯¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Ignite</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ignition</Data></Cell>
-    <Cell><Data ss:Type="String">ç‡ƒçƒ§</Data></Cell>
+    <Cell><Data ss:Type="String">È¼ÉÕ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Ignite_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Throws a large Fire projectile that may spread flames on the ground.</Data></Cell>
-    <Cell><Data ss:Type="String">æŠ•æ·ä¸€ä¸ªå¤§å‹ç«ç„°å¼¹å¹¶å¼•ç‡ƒç›®æ ‡ç‚¹ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">Í¶ÖÀÒ»¸ö´óĞÍ»ğÑæµ¯²¢ÒıÈ¼Ä¿±êµã¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_MultiFireball</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Multiple Fireballs</Data></Cell>
-    <Cell><Data ss:Type="String">å¤šé‡ç«çƒæœ¯</Data></Cell>
+    <Cell><Data ss:Type="String">¶àÖØ»ğÇòÊõ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_MultiFireball_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Throw several small Fireballs in front of you, increasing in number with each consecutive cast.</Data></Cell>
-    <Cell><Data ss:Type="String">å‘å‰æ–¹æŠ•æ·å¤šä¸ªå°ç«çƒï¼Œå¤šæ¬¡é‡Šæ”¾ä¼šå¢åŠ ç«çƒçš„æ•°é‡ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÏòÇ°·½Í¶ÖÀ¶à¸öĞ¡»ğÇò£¬¶à´ÎÊÍ·Å»áÔö¼Ó»ğÇòµÄÊıÁ¿¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ExpulseBlow</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Expulse Blow</Data></Cell>
-    <Cell><Data ss:Type="String">æ’å±±å€’æµ·</Data></Cell>
+    <Cell><Data ss:Type="String">ÅÅÉ½µ¹º£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ExpulseBlow_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A wide Melee blow that knocks your enemies down.</Data></Cell>
-    <Cell><Data ss:Type="String">è¿›è¡Œä¸€æ¬¡èŒƒå›´æ”»å‡»å¹¶å‡»å€’æ•Œäººã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">½øĞĞÒ»´Î·¶Î§¹¥»÷²¢»÷µ¹µĞÈË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Blizzard</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blizzard</Data></Cell>
-    <Cell><Data ss:Type="String">æš´é£é›ª</Data></Cell>
+    <Cell><Data ss:Type="String">±©·çÑ©</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Blizzard_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Conjures a Snow Storm that may damage and slow down enemies in the area.</Data></Cell>
-    <Cell><Data ss:Type="String">å¬å”¤æš´é£é›ªï¼Œå¯¹ç›®æ ‡èŒƒå›´å†…çš„æ•Œäººé€ æˆä¼¤å®³å¹¶å‡é€Ÿã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÕÙ»½±©·çÑ©£¬¶ÔÄ¿±ê·¶Î§ÄÚµÄµĞÈËÔì³ÉÉËº¦²¢¼õËÙ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Meteor</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Meteor</Data></Cell>
-    <Cell><Data ss:Type="String">é™¨çŸ³æœ¯</Data></Cell>
+    <Cell><Data ss:Type="String">ÔÉÊ¯Êõ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Meteor_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Calls down an exploding Meteor that may stun targeted enemies.</Data></Cell>
-    <Cell><Data ss:Type="String">å¬å”¤ä¸€é¢—é™¨çŸ³ï¼Œé€ æˆçˆ†ç‚¸å¹¶æœ‰å‡ ç‡çœ©æ™•ç›®æ ‡ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÕÙ»½Ò»¿ÅÔÉÊ¯£¬Ôì³É±¬Õ¨²¢ÓĞ¼¸ÂÊÑ£ÔÎÄ¿±ê¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_UmbralRay</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Umbral Ray</Data></Cell>
-    <Cell><Data ss:Type="String">æœ¬å½±å°„çº¿</Data></Cell>
+    <Cell><Data ss:Type="String">±¾Ó°ÉäÏß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_UmbralRay_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Casts multiple Umbral Rays towards nearby enemies. This Spell works only if targets are present.</Data></Cell>
-    <Cell><Data ss:Type="String">å‘é™„è¿‘çš„æ•Œäººé‡Šæ”¾å¤šé‡æš—å½±å°„çº¿ã€‚å¿…é¡»æœ‰ç›®æ ‡æ‰èƒ½é‡Šæ”¾ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">Ïò¸½½üµÄµĞÈËÊÍ·Å¶àÖØ°µÓ°ÉäÏß¡£±ØĞëÓĞÄ¿±ê²ÅÄÜÊÍ·Å¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChainLightning</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Chain Lightning</Data></Cell>
-    <Cell><Data ss:Type="String">é—ªç”µé“¾</Data></Cell>
+    <Cell><Data ss:Type="String">ÉÁµçÁ´</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChainLightning_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Lightnings from your hands that may jumps from one target to another.</Data></Cell>
-    <Cell><Data ss:Type="String">ä»æ‰‹ä¸­é‡Šæ”¾é—ªç”µï¼Œåœ¨æ•Œäººä¹‹é—´è·³è·ƒã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">´ÓÊÖÖĞÊÍ·ÅÉÁµç£¬ÔÚµĞÈËÖ®¼äÌøÔ¾¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_RainOfFire</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Rain of Fire</Data></Cell>
-    <Cell><Data ss:Type="String">çƒˆç„°ä¹‹é›¨</Data></Cell>
+    <Cell><Data ss:Type="String">ÁÒÑæÖ®Óê</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_RainOfFire_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Calls down a Storm of Fire projectiles that may damage enemies around you.</Data></Cell>
-    <Cell><Data ss:Type="String">å¬å”¤ç«ç„°ä¹‹é›¨å¯¹ä½ å‘¨å›´çš„æ•Œäººé€ æˆä¼¤å®³ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÕÙ»½»ğÑæÖ®Óê¶ÔÄãÖÜÎ§µÄµĞÈËÔì³ÉÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_LightningBolt</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Lightning Bolt</Data></Cell>
-    <Cell><Data ss:Type="String">é—ªç”µç®­</Data></Cell>
+    <Cell><Data ss:Type="String">ÉÁµç¼ı</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_LightningBolt_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Throw several small Lightning projectiles around you, increasing in number with each consecutive cast.</Data></Cell>
-    <Cell><Data ss:Type="String">å‘å‘¨å›´æŠ•æ·å¤šä¸ªé—ªç”µé£å¼¹ï¼Œå¤šæ¬¡é‡Šæ”¾å¢åŠ æ•°é‡ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÏòÖÜÎ§Í¶ÖÀ¶à¸öÉÁµç·Éµ¯£¬¶à´ÎÊÍ·ÅÔö¼ÓÊıÁ¿¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Bloodbath</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Bloodbath</Data></Cell>
-    <Cell><Data ss:Type="String">æµ´è¡€ä¹‹è·¯</Data></Cell>
+    <Cell><Data ss:Type="String">Ô¡ÑªÖ®Â·</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Bloodbath_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You take the form of a moving pool of Blood, inflicting Bleeding Damage to enemies nearby while preventing Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">å˜æˆå¯ç§»åŠ¨çš„è¡€æ± ï¼Œå¯¹é™„è¿‘çš„æ•Œäººé€ æˆæµè¡€ä¼¤å®³ï¼Œè‡ªèº«å…ç–«ä¼¤å®³ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">±ä³É¿ÉÒÆ¶¯µÄÑª³Ø£¬¶Ô¸½½üµÄµĞÈËÔì³ÉÁ÷ÑªÉËº¦£¬×ÔÉíÃâÒßÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_MassFrenzy</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Mass Frenzy</Data></Cell>
-    <Cell><Data ss:Type="String">ç¾¤ä½“ç‹‚ä¹±</Data></Cell>
+    <Cell><Data ss:Type="String">ÈºÌå¿ñÂÒ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_MassFrenzy_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Enrage all nearby enemies, causing them to attack each other.</Data></Cell>
-    <Cell><Data ss:Type="String">æ¿€æ€’é™„è¿‘æ‰€æœ‰çš„æ•Œäººï¼Œè‡´ä½¿å®ƒä»¬äº’ç›¸æ”»å‡»ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">¼¤Å­¸½½üËùÓĞµÄµĞÈË£¬ÖÂÊ¹ËüÃÇ»¥Ïà¹¥»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_GroundStomp</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ground Stomp</Data></Cell>
-    <Cell><Data ss:Type="String">å¤§åœ°è·µè¸</Data></Cell>
+    <Cell><Data ss:Type="String">´óµØ¼ùÌ¤</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_GroundStomp_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Violently slams the ground, stunning nearby enemies.</Data></Cell>
-    <Cell><Data ss:Type="String">çŒ›çƒˆçš„è¸©è¸åœ°é¢ï¼Œçœ©æ™•é™„è¿‘çš„æ•Œäººã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÃÍÁÒµÄ²ÈÌ¤µØÃæ£¬Ñ£ÔÎ¸½½üµÄµĞÈË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_WarCry</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">War Cry</Data></Cell>
-    <Cell><Data ss:Type="String">æˆ˜å¼</Data></Cell>
+    <Cell><Data ss:Type="String">Õ½ºğ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_WarCry_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You enter a Combat Frenzy, preventing part of incoming damage and generating more Rage on hits</Data></Cell>
-    <Cell><Data ss:Type="String">è¿›å…¥æˆ˜æ–—ç‹‚æš´çŠ¶æ€ï¼Œå…ç–«éƒ¨åˆ†ä¼¤å®³ï¼Œæ”»å‡»æ—¶ä¼šå¢åŠ æ›´å¤šçš„æ€’æ°”ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">½øÈëÕ½¶·¿ñ±©×´Ì¬£¬ÃâÒß²¿·ÖÉËº¦£¬¹¥»÷Ê±»áÔö¼Ó¸ü¶àµÄÅ­Æø¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BoneCrush</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Bone Crushing</Data></Cell>
-    <Cell><Data ss:Type="String">ç¢éª¨</Data></Cell>
+    <Cell><Data ss:Type="String">Ëé¹Ç</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BoneCrush_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A powerful Melee Strike that increases your Attack Speed</Data></Cell>
-    <Cell><Data ss:Type="String">æé«˜æ”»å‡»é€Ÿåº¦è¿›è¡Œæœ‰åŠ›çš„æ”»å‡»ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">Ìá¸ß¹¥»÷ËÙ¶È½øĞĞÓĞÁ¦µÄ¹¥»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ForceShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Force Shield</Data></Cell>
-    <Cell><Data ss:Type="String">ç«‹åœºæŠ¤ç›¾</Data></Cell>
+    <Cell><Data ss:Type="String">Á¢³¡»¤¶Ü</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ForceShield_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Summons a Stone Shield that protects you from incoming attacks.</Data></Cell>
-    <Cell><Data ss:Type="String">å¬å”¤ä¸€ä¸ªå²©çŸ³å±éšœæ¥é˜»æŒ¡æ”»å‡»ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÕÙ»½Ò»¸öÑÒÊ¯ÆÁÕÏÀ´×èµ²¹¥»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_AbsorptionShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Umbral Shield</Data></Cell>
-    <Cell><Data ss:Type="String">æœ¬å½±æŠ¤ç›¾</Data></Cell>
+    <Cell><Data ss:Type="String">±¾Ó°»¤¶Ü</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_AbsorptionShield_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Summons an Umbral Shield that absorbs a limited amount of Damage and deflects projectiles.</Data></Cell>
-    <Cell><Data ss:Type="String">å¬å”¤ä¸€ä¸ªæœ¬å½±æŠ¤ç›¾ï¼Œå¸æ”¶æœ‰é™çš„ä¼¤å®³å¹¶å¼¹å¼€æŠ›å°„ç‰©ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÕÙ»½Ò»¸ö±¾Ó°»¤¶Ü£¬ÎüÊÕÓĞÏŞµÄÉËº¦²¢µ¯¿ªÅ×ÉäÎï¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_UmbralCatalyst</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Umbral Catalyst</Data></Cell>
-    <Cell><Data ss:Type="String">æœ¬å½±å‚¬åŒ–</Data></Cell>
+    <Cell><Data ss:Type="String">±¾Ó°´ß»¯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_UmbralCatalyst_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You enter a Magic state where your Umbra regenerates much faster but your Spells cost more Umbra to cast</Data></Cell>
-    <Cell><Data ss:Type="String">æé«˜ä½ çš„èƒ½é‡æ¢å¤é€Ÿåº¦å¹¶å¢åŠ æŠ€èƒ½æ¶ˆè€—ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">Ìá¸ßÄãµÄÄÜÁ¿»Ö¸´ËÙ¶È²¢Ôö¼Ó¼¼ÄÜÏûºÄ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Shield Combo</Data></Cell>
-    <Cell><Data ss:Type="String">ç›¾ç‰Œè¿å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">¶ÜÅÆÁ¬»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboShield_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Performs a powerful Melee Combo with your Shield and equipped weapon.</Data></Cell>
-    <Cell><Data ss:Type="String">ç”¨ç›¾ç‰Œå’Œæ­¦å™¨é€ æˆæœ‰åŠ›çš„è¿‘æˆ˜è¿å‡»ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÓÃ¶ÜÅÆºÍÎäÆ÷Ôì³ÉÓĞÁ¦µÄ½üÕ½Á¬»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboOneHanded</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">One Handed Combo</Data></Cell>
-    <Cell><Data ss:Type="String">å•æŒè¿å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">µ¥³ÖÁ¬»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboOneHanded_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Performs a long Melee Combo with your equipped weapon.</Data></Cell>
-    <Cell><Data ss:Type="String">ä½¿ç”¨æ­¦å™¨è¿›è¡Œè¿‘æˆ˜è¿å‡»ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">Ê¹ÓÃÎäÆ÷½øĞĞ½üÕ½Á¬»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualWield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Wield Combo</Data></Cell>
-    <Cell><Data ss:Type="String">åŒæŒè¿å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">Ë«³ÖÁ¬»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualWield_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Performs numerous attacks with your equipped weapons. Deals reduced damage per hit.</Data></Cell>
-    <Cell><Data ss:Type="String">ç”¨æ­¦å™¨è¿›è¡Œå¤§é‡çš„æ”»å‡»ã€‚å‡»æ‰“ä¼¤å®³ä¾æ¬¡é€’å‡ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÓÃÎäÆ÷½øĞĞ´óÁ¿µÄ¹¥»÷¡£»÷´òÉËº¦ÒÀ´Îµİ¼õ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboGreatSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Greatsword combo</Data></Cell>
-    <Cell><Data ss:Type="String">å·¨å‰‘è¿å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">¾Ş½£Á¬»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboGreatSword_desc</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">Performs slow and wide-ranged thrusts with your equipped Greatsword.</Data></Cell>
-    <Cell><Data ss:Type="String">ç”¨ä½ çš„å·¨å‰‘è¿›è¡Œä¾æ¬¡ç¼“æ…¢ä½†å¤§èŒƒå›´çš„çŒ›å‡»ã€‚</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Performs slow and wide-ranged thrusts with your equipped Greatsword.</Data></Cell>
+    <Cell><Data ss:Type="String">ÓÃÄãµÄ¾Ş½£½øĞĞÒÀ´Î»ºÂıµ«´ó·¶Î§µÄÃÍ»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboWarhammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Warhammer Combo</Data></Cell>
-    <Cell><Data ss:Type="String">é‡é”¤è¿å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">ÖØ´¸Á¬»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboWarhammer_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Performs very slow but powerful attacks with your Warhammer.</Data></Cell>
-    <Cell><Data ss:Type="String">ç”¨ä½ çš„æˆ˜é”¤è¿›è¡Œä¾æ¬¡ç¼“æ…¢ä½†æ˜¯å¼ºåŠ›çš„æ”»å‡»ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÓÃÄãµÄÕ½´¸½øĞĞÒÀ´Î»ºÂıµ«ÊÇÇ¿Á¦µÄ¹¥»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboBattleaxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Battleaxe Combo</Data></Cell>
-    <Cell><Data ss:Type="String">æˆ˜æ–§è¿å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">Õ½¸«Á¬»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboBattleaxe_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Performs wide-ranged cleaving attacks with your Battleaxe.</Data></Cell>
-    <Cell><Data ss:Type="String">ç”¨ä½ çš„æˆ˜æ–§è¿›è¡Œä¾æ¬¡å¤§èŒƒå›´çš„é¡ºåŠˆæ–©ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÓÃÄãµÄÕ½¸«½øĞĞÒÀ´Î´ó·¶Î§µÄË³ÅüÕ¶¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualDaggers</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Daggers Combo</Data></Cell>
-    <Cell><Data ss:Type="String">åŒåŒ•é¦–è¿å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">Ë«Ø°Ê×Á¬»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualDaggers_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Performs a very quick assault with your Dual Daggers.</Data></Cell>
-    <Cell><Data ss:Type="String">ç”¨çš„åŒåŒ•é¦–è¿›è¡Œä¸€æ¬¡éå¸¸å¿«é€Ÿçš„çªè¢­ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÓÃµÄË«Ø°Ê×½øĞĞÒ»´Î·Ç³£¿ìËÙµÄÍ»Ï®¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackWarhammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Hammering</Data></Cell>
-    <Cell><Data ss:Type="String">é”¤å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">´¸»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackWarhammer_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A charged attack that inflicts severe Damage and may knock your enemies down. You may hold it for increased Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">è¿›è¡Œä¸€æ¬¡å……èƒ½æ”»å‡»ï¼Œé€ æˆå¤§é‡ä¼¤å®³å¹¶æœ‰å‡ ç‡å‡»å€’ä½ çš„æ•Œäººã€‚å¯ä»¥è“„åŠ›ä»¥æé«˜ä¼¤å®³ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">½øĞĞÒ»´Î³äÄÜ¹¥»÷£¬Ôì³É´óÁ¿ÉËº¦²¢ÓĞ¼¸ÂÊ»÷µ¹ÄãµÄµĞÈË¡£¿ÉÒÔĞîÁ¦ÒÔÌá¸ßÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualWield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Slash</Data></Cell>
-    <Cell><Data ss:Type="String">åŒé‡çŒ›ç </Data></Cell>
+    <Cell><Data ss:Type="String">Ë«ÖØÃÍ¿³</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualWield_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A double charged attack that has high Critical Chance. You may hold it for increased Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">è¿›è¡Œä¸€æ¬¡é«˜æš´å‡»ç‡çš„åŒå€å……èƒ½æ”»å‡»ã€‚å¯ä»¥è“„åŠ›æé«˜ä¼¤å®³ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">½øĞĞÒ»´Î¸ß±©»÷ÂÊµÄË«±¶³äÄÜ¹¥»÷¡£¿ÉÒÔĞîÁ¦Ìá¸ßÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackBattleaxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Air Blade</Data></Cell>
-    <Cell><Data ss:Type="String">æ°”åˆƒ</Data></Cell>
+    <Cell><Data ss:Type="String">ÆøÈĞ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackBattleaxe_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A powerful charged attack that slashes the air and may hit far away enemies. You may hold it for increased Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">ç”¨ä¸€æ¬¡å¼ºåŠ›çš„å……èƒ½æ”»å‡»çŒ›å‡»ç©ºæ°”å¹¶æœ‰å‡ ç‡å‡»æ‰“åˆ°è¿œå¤„çš„æ•Œäººã€‚å¯ä»¥è“„åŠ›ä»¥æé«˜ä¼¤å®³ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÓÃÒ»´ÎÇ¿Á¦µÄ³äÄÜ¹¥»÷ÃÍ»÷¿ÕÆø²¢ÓĞ¼¸ÂÊ»÷´òµ½Ô¶´¦µÄµĞÈË¡£¿ÉÒÔĞîÁ¦ÒÔÌá¸ßÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackGreatsword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Impalement</Data></Cell>
-    <Cell><Data ss:Type="String">ç©¿åˆº</Data></Cell>
+    <Cell><Data ss:Type="String">´©´Ì</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackGreatsword_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A forward charged attack that pierces through enemies. You may hold it for increased Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">è¿›è¡Œä¸€æ¬¡å……èƒ½æ”»å‡»åˆºç©¿æ•Œäººã€‚å¯ä»¥è“„åŠ›ä»¥æé«˜ä¼¤å®³ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">½øĞĞÒ»´Î³äÄÜ¹¥»÷´Ì´©µĞÈË¡£¿ÉÒÔĞîÁ¦ÒÔÌá¸ßÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Guard</Data></Cell>
-    <Cell><Data ss:Type="String">å®ˆæŠ¤</Data></Cell>
+    <Cell><Data ss:Type="String">ÊØ»¤</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackShield_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blocks frontal attacks, preventing part of incoming Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">é˜»æŒ¡æ­£é¢æ”»å‡»å¹¶é˜»æ­¢ä¸€éƒ¨åˆ†ä¼¤å®³ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">×èµ²ÕıÃæ¹¥»÷²¢×èÖ¹Ò»²¿·ÖÉËº¦¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualDagger</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Daggers Rend</Data></Cell>
-    <Cell><Data ss:Type="String">åŒåŒ•é¦–æ’•è£‚</Data></Cell>
+    <Cell><Data ss:Type="String">Ë«Ø°Ê×ËºÁÑ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualDagger_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A wide Slash that inflict Open Wounds to all nearby enemies.</Data></Cell>
-    <Cell><Data ss:Type="String">è¿›è¡Œä¸€æ¬¡èŒƒå›´çŒ›å‡»å¹¶å¯¹é™„è¿‘çš„æ•Œäººé€ æˆåˆ›ä¼¤ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">½øĞĞÒ»´Î·¶Î§ÃÍ»÷²¢¶Ô¸½½üµÄµĞÈËÔì³É´´ÉË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FireAmmo</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Fire Ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">ç«ç„°å¼¹è¯</Data></Cell>
+    <Cell><Data ss:Type="String">»ğÑæµ¯Ò©</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FireAmmo_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Grants Fire Damage to your Ranged shots and inflicts Burning effect.</Data></Cell>
-    <Cell><Data ss:Type="String">ç»™æ­¦å™¨æä¾›ç«ç„°ä¼¤å®³å¹¶é€ æˆç‡ƒçƒ§æ•ˆæœã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">¸øÎäÆ÷Ìá¹©»ğÑæÉËº¦²¢Ôì³ÉÈ¼ÉÕĞ§¹û¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostAmmo</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Frost Ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">å†°éœœå¼¹è¯</Data></Cell>
+    <Cell><Data ss:Type="String">±ùËªµ¯Ò©</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostAmmo_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Grants Frost Damage to your Ranged shots and may freeze you targets.</Data></Cell>
-    <Cell><Data ss:Type="String">ç»™æ­¦å™¨æä¾›å†°éœœä¼¤å®³å¹¶æœ‰å‡ ç‡å†»ç»“æ•Œäººã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">¸øÎäÆ÷Ìá¹©±ùËªÉËº¦²¢ÓĞ¼¸ÂÊ¶³½áµĞÈË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ElectricAmmo</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Shocking Ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">ç”µèƒ½å¼¹è¯</Data></Cell>
+    <Cell><Data ss:Type="String">µçÄÜµ¯Ò©</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ElectricAmmo_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Grants Lightning Damage to your Ranged shots and may Shock them.</Data></Cell>
-    <Cell><Data ss:Type="String">ç»™æ­¦å™¨æä¾›é—ªç”µä¼¤å®³å¹¶æœ‰å‡ ç‡éœ‡æ…‘æ•Œäººã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">¸øÎäÆ÷Ìá¹©ÉÁµçÉËº¦²¢ÓĞ¼¸ÂÊÕğÉåµĞÈË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ExplosiveAmmo</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Explosive Ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">çˆ†ç‚¸å¼¹è¯</Data></Cell>
+    <Cell><Data ss:Type="String">±¬Õ¨µ¯Ò©</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ExplosiveAmmo_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">All your Ranged shots become Explosive.</Data></Cell>
-    <Cell><Data ss:Type="String">æ‰€æœ‰çš„è¿œç¨‹æ”»å‡»éƒ½ä¼šé€ æˆçˆ†ç‚¸ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ËùÓĞµÄÔ¶³Ì¹¥»÷¶¼»áÔì³É±¬Õ¨¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_KineticAmmo</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Kinetic Ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">åŠ¨èƒ½å¼¹è¯</Data></Cell>
+    <Cell><Data ss:Type="String">¶¯ÄÜµ¯Ò©</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_KineticAmmo_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Grants a Physical Impulse to your Ranged shots.</Data></Cell>
-    <Cell><Data ss:Type="String">ç»™æ­¦å™¨æä¾›ä¸€æ¬¡å……èƒ½æ”»å‡»ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">¸øÎäÆ÷Ìá¹©Ò»´Î³äÄÜ¹¥»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_PoisonAmmo</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Poisoned Ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">æ¯’ç´ å¼¹è¯</Data></Cell>
+    <Cell><Data ss:Type="String">¶¾ËØµ¯Ò©</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_PoisonAmmo_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Grants Poison Damage to your Ranged shots. Causes a Poison Nova when combined with Explosive Ammunition.</Data></Cell>
-    <Cell><Data ss:Type="String">ç»™æ­¦å™¨æä¾›æ¯’ç´ ä¼¤å®³ã€‚å’Œçˆ†ç‚¸å¼¹è¯æ··åˆæ—¶å¼•å‘å‰§æ¯’æ–°æ˜Ÿã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">¸øÎäÆ÷Ìá¹©¶¾ËØÉËº¦¡£ºÍ±¬Õ¨µ¯Ò©»ìºÏÊ±Òı·¢¾ç¶¾ĞÂĞÇ¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BleedingAmmo</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Bleeding Ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">é²œè¡€å¼¹è¯</Data></Cell>
+    <Cell><Data ss:Type="String">ÏÊÑªµ¯Ò©</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BleedingAmmo_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Your Ranged shots inflict Open Wounds to targets.</Data></Cell>
-    <Cell><Data ss:Type="String">ä½ çš„è¿œç¨‹å°„å‡»å¯¹ç›®æ ‡é€ æˆåˆ›ä¼¤ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÄãµÄÔ¶³ÌÉä»÷¶ÔÄ¿±êÔì³É´´ÉË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_PiercingShot</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Piercing Shot</Data></Cell>
-    <Cell><Data ss:Type="String">ç©¿åˆºå°„å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">´©´ÌÉä»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_PiercingShot_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A concentrated Ranged shot that pierces through enemies.</Data></Cell>
-    <Cell><Data ss:Type="String">è¿›è¡Œä¸€æ¬¡é›†ä¸­çš„å°„å‡»å¹¶ç©¿é€ç›®æ ‡ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">½øĞĞÒ»´Î¼¯ÖĞµÄÉä»÷²¢´©Í¸Ä¿±ê¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_RapidShot</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Rapid Shot</Data></Cell>
-    <Cell><Data ss:Type="String">å¿«é€Ÿå°„å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">¿ìËÙÉä»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_RapidShot_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Quickly shoots several times with your equipped weapon.</Data></Cell>
-    <Cell><Data ss:Type="String">ç”¨ä½ çš„æ­¦å™¨å¤šæ¬¡å°„å‡»ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÓÃÄãµÄÎäÆ÷¶à´ÎÉä»÷¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SpreadShot</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Spread Shot</Data></Cell>
-    <Cell><Data ss:Type="String">æ‰©æ•£å°„å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">À©É¢Éä»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SpreadShot_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Shoots multiples projectiles at the same time with your equipped weapon.</Data></Cell>
-    <Cell><Data ss:Type="String">ç”¨ä½ çš„æ­¦å™¨åŒæ—¶å°„å‡ºå¤šå‘å¼¹è¯ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÓÃÄãµÄÎäÆ÷Í¬Ê±Éä³ö¶à·¢µ¯Ò©¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Whirlwind</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Whirlwind</Data></Cell>
-    <Cell><Data ss:Type="String">æ—‹é£æ–©</Data></Cell>
+    <Cell><Data ss:Type="String">Ğı·çÕ¶</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Whirlwind_desc</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Swings your equipped weapon in a powerful circular motion, striking enemies around you while moving.</Data></Cell>
-    <Cell><Data ss:Type="String">çŒ›çƒˆåœ°æ—‹è½¬ä½ çš„æ­¦å™¨å‡»æ‰“å‘¨å›´çš„æ•Œäººã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÃÍÁÒµØĞı×ªÄãµÄÎäÆ÷»÷´òÖÜÎ§µÄµĞÈË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_StoneWall</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Stone Wall</Data></Cell>
-    <Cell><Data ss:Type="String">çŸ³å¢™</Data></Cell>
+    <Cell><Data ss:Type="String">Ê¯Ç½</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_StoneWall_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Raises a Stone Wall in front of you.</Data></Cell>
-    <Cell><Data ss:Type="String">åœ¨å‰æ–¹å‡èµ·ä¸€é“çŸ³å¢™ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÔÚÇ°·½ÉıÆğÒ»µÀÊ¯Ç½¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SpiritWalk</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Spirit Walk</Data></Cell>
-    <Cell><Data ss:Type="String">çµé­‚æ¼«æ­¥</Data></Cell>
+    <Cell><Data ss:Type="String">Áé»êÂş²½</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SpiritWalk_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Greatly increases your Movement Speed.</Data></Cell>
-    <Cell><Data ss:Type="String">å¤§å¹…æé«˜ç§»åŠ¨é€Ÿåº¦ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">´ó·ùÌá¸ßÒÆ¶¯ËÙ¶È¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Brutal Strike</Data></Cell>
-    <Cell><Data ss:Type="String">æ®‹é…·æ‰“å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">²Ğ¿á´ò»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A violent Melee attack that may repel enemies</Data></Cell>
-    <Cell><Data ss:Type="String">è¿›è¡Œä¸€æ¬¡é‡å‡»å¹¶æœ‰å‡ ç‡å‡»é€€æ•Œäººã€‚</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">A violent Melee attack that deals severe Damage to nearby enemies</Data></Cell>
+    <Cell><Data ss:Type="String">½øĞĞÒ»´ÎÖØ»÷²¢ÓĞ¼¸ÂÊ»÷ÍËµĞÈË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_UmbralBomb</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Umbral Bomb</Data></Cell>
-    <Cell><Data ss:Type="String">æœ¬å½±ç‚¸å¼¹</Data></Cell>
+    <Cell><Data ss:Type="String">±¾Ó°Õ¨µ¯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_UmbralBomb_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Plants an Umbral bomb on the ground that explodes after a short delay.</Data></Cell>
-    <Cell><Data ss:Type="String">åœ¨åœ°ä¸Šæ”¾ç½®ä¸€ä¸ªæœ¬å½±ç‚¸å¼¹ï¼Œä¸€å°æ®µå»¶è¿Ÿåçˆ†ç‚¸ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÔÚµØÉÏ·ÅÖÃÒ»¸ö±¾Ó°Õ¨µ¯£¬Ò»Ğ¡¶ÎÑÓ³Ùºó±¬Õ¨¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostNova</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Frost Nova</Data></Cell>
-    <Cell><Data ss:Type="String">å†°éœœæ–°æ˜Ÿ</Data></Cell>
+    <Cell><Data ss:Type="String">±ùËªĞÂĞÇ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostNova_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">A medium-ranged Nova that freezes nearby enemies.</Data></Cell>
-    <Cell><Data ss:Type="String">é‡Šæ”¾ä¸€æ¬¡å°èŒƒå›´çš„æ–°æ˜Ÿå†»ç»“é™„è¿‘çš„æ•Œäººã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">ÊÍ·ÅÒ»´ÎĞ¡·¶Î§µÄĞÂĞÇ¶³½á¸½½üµÄµĞÈË¡£</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_MagneticStrike</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Magnetic Strike</Data></Cell>
-    <Cell><Data ss:Type="String">ç”µç£æ‰“å‡»</Data></Cell>
+    <Cell><Data ss:Type="String">µç´Å´ò»÷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_MagneticStrike_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Shoots powerful thunderbolts at nearby enemies</Data></Cell>
-    <Cell><Data ss:Type="String">æœé™„è¿‘çš„æ•Œäººé‡Šæ”¾å¼ºå¤§çš„é›·éœ†éœ¹é›³ã€‚</Data></Cell>
+    <Cell><Data ss:Type="String">³¯¸½½üµÄµĞÈËÊÍ·ÅÇ¿´óµÄÀ×öªÅùö¨¡£</Data></Cell>
    </Row>
    <Row ss:Index="112" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
@@ -817,11 +817,12 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
+   <TopRowVisible>69</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>97</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>111</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
