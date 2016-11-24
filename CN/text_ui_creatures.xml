@@ -1,0 +1,403 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>UBBOSATHLA</LastAuthor>
+  <LastSaved>2016-11-02T13:35:28Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12360</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s28" ss:Name="Neutre">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
+   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26" ss:Name="Satisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m338867808">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s74" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s75" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="54" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+   <Column ss:AutoFitWidth="0" ss:Width="225.75"/>
+   <Column ss:Width="402"/>
+   <Column ss:Width="363.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:MergeAcross="2" ss:StyleID="m338867808"><Data ss:Type="String">CREATURES</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Undeads</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_Zombie</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Undead</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">丧尸</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieButcher</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Butcher</Data></Cell>
+    <Cell><Data ss:Type="String">丧尸屠夫</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieVomitter</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Vomitter</Data></Cell>
+    <Cell><Data ss:Type="String">丧尸呕吐者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieVomitterEnraged</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Enraged Undead</Data></Cell>
+    <Cell><Data ss:Type="String">暴怒的丧尸呕吐者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieEnraged</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Enraged Undead</Data></Cell>
+    <Cell><Data ss:Type="String">暴怒的丧尸</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieFrost</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Freezing Undead</Data></Cell>
+    <Cell><Data ss:Type="String">冰冻的丧尸</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieElectric</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Shock Undead</Data></Cell>
+    <Cell><Data ss:Type="String">电击的丧尸</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieFire</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Burning Undead</Data></Cell>
+    <Cell><Data ss:Type="String">燃烧的丧尸</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombiePoison</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Toxic Undead</Data></Cell>
+    <Cell><Data ss:Type="String">有毒的丧尸</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieStone</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Stone Undead</Data></Cell>
+    <Cell><Data ss:Type="String">丧尸投掷者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieStarving</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Starving Undead</Data></Cell>
+    <Cell><Data ss:Type="String">饥饿的丧尸</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieExploder</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Exploding Undead</Data></Cell>
+    <Cell><Data ss:Type="String">丧尸爆破者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieOrc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Orc</Data></Cell>
+    <Cell><Data ss:Type="String">丧尸兽人</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieWarrior</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Warrior</Data></Cell>
+    <Cell><Data ss:Type="String">丧尸战士</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombiePrisoner</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Prisoner</Data></Cell>
+    <Cell><Data ss:Type="String">丧尸囚徒</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieCeption</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Breeder</Data></Cell>
+    <Cell><Data ss:Type="String">丧尸繁殖者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieDogFire</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Infernal Hound</Data></Cell>
+    <Cell><Data ss:Type="String">地狱猎犬</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_ZombieDog</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Undead Hound</Data></Cell>
+    <Cell><Data ss:Type="String">丧尸猎犬</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_WarDog</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">War Hound</Data></Cell>
+    <Cell><Data ss:Type="String">战争猎犬</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_Zombietrouille</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Undead Pumpkin</Data></Cell>
+    <Cell><Data ss:Type="String">南瓜头丧尸</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_Butchertrouille</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Pumpkin Butcher</Data></Cell>
+    <Cell><Data ss:Type="String">南瓜头屠夫</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_EnragedZombietrouille</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Enraged Undead Pumpkin</Data></Cell>
+    <Cell><Data ss:Type="String">暴怒的南瓜头丧尸</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Skeletons</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_SkeletonWarrior</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Skeleton Warrior</Data></Cell>
+    <Cell><Data ss:Type="String">骷髅战士</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_SkeletonOverlord</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Skeleton Overlord</Data></Cell>
+    <Cell><Data ss:Type="String">骷髅领主</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Orcs</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_OrcNecromancer</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Necromancer</Data></Cell>
+    <Cell><Data ss:Type="String">兽人死灵师</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_OrcShaman</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Shaman</Data></Cell>
+    <Cell><Data ss:Type="String">兽人萨满</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_OrcMage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Warlock</Data></Cell>
+    <Cell><Data ss:Type="String">兽人术士</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_OrcBrute</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Brute</Data></Cell>
+    <Cell><Data ss:Type="String">狂兽人</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_OrcChampion</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Champion</Data></Cell>
+    <Cell><Data ss:Type="String">兽族战士</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_OrcCharger</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Charger</Data></Cell>
+    <Cell><Data ss:Type="String">兽人突袭者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_OrcWarrior</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Warrior</Data></Cell>
+    <Cell><Data ss:Type="String">兽人战士</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Demons</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_Abomination</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Abomination</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">憎恶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_InvokedDemon</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Invoked Demon</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">被召唤的恶魔</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_SkullCrusher</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Skull Crusher</Data></Cell>
+    <Cell><Data ss:Type="String">碎颅者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_NightStalker</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Stalker</Data></Cell>
+    <Cell><Data ss:Type="String">追猎者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Monsters</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_Pithus</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Pithus</Data></Cell>
+    <Cell><Data ss:Type="String">Pithus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_PithusDark</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dark Pithus</Data></Cell>
+    <Cell><Data ss:Type="String">黑暗的Pithus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_PithusPoison</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Toxic Pithus</Data></Cell>
+    <Cell><Data ss:Type="String">有毒的Pithus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_Ghoul</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ghoul</Data></Cell>
+    <Cell><Data ss:Type="String">食尸鬼</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_GhoulAlpha</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Alpha Ghoul</Data></Cell>
+    <Cell><Data ss:Type="String">阿尔法食尸鬼</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_GhoulSmall</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Small Ghoul</Data></Cell>
+    <Cell><Data ss:Type="String">小食尸鬼</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Humans</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_Brigand</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Brigand</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">强盗</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_FireMage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Fire Mage</Data></Cell>
+    <Cell><Data ss:Type="String">火焰法师</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_Templar</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿骑士</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Bosses</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_Driller</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Driller</Data></Cell>
+    <Cell><Data ss:Type="String">德里勒</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>19</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

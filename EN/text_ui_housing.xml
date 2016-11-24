@@ -1,0 +1,1411 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Audio script template</Title>
+  <Author>Maëlenn Lumineau</Author>
+  <LastAuthor>HYDRA</LastAuthor>
+  <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
+  <Created>2002-06-17T19:14:00Z</Created>
+  <LastSaved>2016-10-08T20:01:39Z</LastSaved>
+  <Company>Electronic Arts</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
+   <SheetName>DropDown</SheetName>
+   <SheetName>Conversations</SheetName>
+   <Xct>
+    <Count>2</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>4</ColLast>
+     <Text>clean</Text>
+     <Text>TV</Text>
+     <Text>radio (disturbed) </Text>
+     <Text>radio (low)</Text>
+     <Text>radio (heavy)</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>41</ColLast>
+     <Text>Player</Text>
+     <Text>Barnes</Text>
+     <Text>Hawker</Text>
+     <Text>Sykes</Text>
+     <Text>Johnson</Text>
+     <Text>Cortez</Text>
+     <Text>Beck</Text>
+     <Text>Miller</Text>
+     <Text>Baxter</Text>
+     <Text>American scientist</Text>
+     <Text>Shark</Text>
+     <Text>Chia</Text>
+     <Text>Kirovski</Text>
+     <Text>Michaels</Text>
+     <Text>Chang</Text>
+     <Text>Marine Soldier a</Text>
+     <Text>Marine Soldier b</Text>
+     <Text>Chinese Soldier a</Text>
+     <Text>Chinese Soldier b</Text>
+     <Text>Chinese Soldier c</Text>
+     <Text>Chinese Soldier d</Text>
+     <Text>Chinese Soldier e</Text>
+     <Text>Chinese Soldier f</Text>
+     <Text>Chinese Officer a</Text>
+     <Text>Chinese Officer b</Text>
+     <Text>Chinese Scientist a</Text>
+     <Text>Chinese Scientist b</Text>
+     <Text>Chinese Scientist Female a</Text>
+     <Text>Chinese Scientist Female b</Text>
+     <Text>Filmcrew Member</Text>
+     <Text>Morrison</Text>
+     <Text>C17 Pilot a</Text>
+     <Text>C17 Pilot b</Text>
+     <Text>Submarine Commander Davis</Text>
+     <Text>Pilot (camera)</Text>
+     <Text>Bridge officer 1</Text>
+     <Text>Bridge officer 2</Text>
+     <Text>Carrier deck guide</Text>
+     <Text>Jet Pilot</Text>
+     <Text>VTOL Pilot</Text>
+     <Text>Commander (camera)</Text>
+     <Text>Team Two (camera)</Text>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>19428</WindowHeight>
+  <WindowWidth>30012</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>274</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s28" ss:Name="Neutre">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
+   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26" ss:Name="Satisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m5200304">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m5200324">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m5200344">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m5200364">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders/>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders/>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Top"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s76" ss:Parent="s26">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77" ss:Parent="s26">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s79" ss:Parent="s26">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s80" ss:Parent="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s83" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s84" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s88" ss:Parent="s28">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="characters"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
+  <NamedRange ss:Name="type"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="923" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="60"
+   ss:DefaultRowHeight="13.2">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="398.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="405.6"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="446.40000000000003"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="160.80000000000001"/>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s63">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:MergeAcross="2" ss:StyleID="m5200304"><Data ss:Type="String">HOUSING USER INTERFACE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_all</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">All</Data></Cell>
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">All</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DRhousing</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">House Master</Data></Cell>
+    <Cell><Data ss:Type="String">House Master</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_close</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Close</Data></Cell>
+    <Cell><Data ss:Type="String">Close</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_housing_count</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Count</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Count</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_housing_elementname</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Name</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_housing_craft</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Confirm</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Confirm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_housing_cancel</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Cancel</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Cancel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_title_nodoorfound</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">No door found</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">No door found</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_content_nodoorfound</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">There is no door in your house</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">There is no door in your house</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_title_shoppinglistnotempty</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Shopping list not empty</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Shopping list not empty</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_content_shoppinglistnotempty</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Please confirm or cancel first</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Please confirm or cancel first</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:MergeAcross="2" ss:StyleID="m5200324"><Data ss:Type="String">HOUSING TUTORIAL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_title_tutoHousing1</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Welcome in your house! (1/4)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Welcome in your house! (1/4)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_content_tutoHousing1</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">You can sleep and store your gear in your houseb (WIP). &#10;To switch into CONSTRUCTION MODE, click on the button below.&#10;</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">You can sleep and store your gear in your houseb (WIP). &#10;To switch into CONSTRUCTION MODE, click on the button below.&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_title_tutoHousing2</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Construction mode : ground and walls (2/4)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Construction mode : ground and walls (2/4)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_content_tutoHousing2</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">When placing a new tile of GROUND, a selectionned WALL will be automatically linked to it if there is none.&#10;You can also change each WALL by going in the WALL TAB.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">When placing a new tile of GROUND, a selectionned WALL will be automatically linked to it if there is none.&#10;You can also change each WALL by going in the WALL TAB.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_tutoHousing3</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Construction mode : Furnitures (3/4)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Construction mode : Furnitures (3/4)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_tutoHousing3</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">You can place any furniture you like! &#10;To ROTATE an object, maintain the RIGHT CLICK, or use the keys [Q] and [D]. &#10;You can also choose the size of the GRID and SNAP furnitures for a more precise placing.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">You can place any furniture you like! &#10;To ROTATE an object, maintain the RIGHT CLICK, or use the keys [Q] and [D]. &#10;You can also choose the size of the GRID and SNAP furnitures for a more precise placing.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_tutoHousing4</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Crafting (4/4)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Crafting (4/4)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_tutoHousing4</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Every object you place is displayed in the LIST.&#10;Once you want to buy the assets, just click on CONFIRM, and they'll be your. Removed object that are paid are stocked for future use.&#10;At the moment, only Gold is needed to pay, but a crafting notion will be added in the game.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Every object you place is displayed in the LIST.&#10;Once you want to buy the assets, just click on CONFIRM, and they'll be your. Removed object that are paid are stocked for future use.&#10;At the moment, only Gold is needed to pay, but a crafting notion will be added in the game.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:MergeAcross="2" ss:StyleID="m5200344"><Data ss:Type="String">HOUSING CONSTRUCTION ELEMENTS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Floors</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor02</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Old wooden planks</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Old wooden planks</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor03</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Grey stones</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Grey stones</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor04</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Parquet</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Parquet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor05</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Tiles 1</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Tiles 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor06</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Tiles 2</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Tiles 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor07</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Tiles 3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Tiles 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor08</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Tiles 4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Tiles 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor09</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Stone ground 1</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Stone ground 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor10</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Stone ground 2</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Stone ground 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor11</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Stone ground 3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Stone ground 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor12</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Motif</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Motif</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor13</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Marble tiles</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Marble tiles</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor14</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Tiles 4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Tiles 5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor15</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Beige marble</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Beige marble</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor16</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Marble motif</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Marble motif</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor17</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Marble motif</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Marble motif</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor18</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">White Marble</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">White Marble</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor19</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Black Marble</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Black Marble</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor20</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Floor20</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor21</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ui_Floor21</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Walls</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Housing_Wooden_Wall01</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Wooden Wall 1</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Wooden Wall 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Wooden_Wall02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Wooden Wall 2</Data></Cell>
+    <Cell><Data ss:Type="String">Wooden Wall 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Wooden_Wall03</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Wooden Wall 3</Data></Cell>
+    <Cell><Data ss:Type="String">Wooden Wall 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Wooden_Door1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Wooden Door</Data></Cell>
+    <Cell><Data ss:Type="String">Wooden Door</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Wooden_Window01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Wooden Window 1</Data></Cell>
+    <Cell><Data ss:Type="String">Wooden Window 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Wooden_Window02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Wooden Window 2</Data></Cell>
+    <Cell><Data ss:Type="String">Wooden Window 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_Wall01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone Wall 1</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Wall 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_Wall02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone Wall 2</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Wall 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_Wall03</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone Wall 3</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Wall 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_Door1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone door 1</Data></Cell>
+    <Cell><Data ss:Type="String">Stone door 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_Door2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone door 2</Data></Cell>
+    <Cell><Data ss:Type="String">Stone door 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_Window1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone window 1</Data></Cell>
+    <Cell><Data ss:Type="String">Stone window 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_Window2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone window 2</Data></Cell>
+    <Cell><Data ss:Type="String">Stone window 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_Window3</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone window 3</Data></Cell>
+    <Cell><Data ss:Type="String">Stone window 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_Fireplace</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone Fireplace</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Fireplace</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Marble_Wall01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Beige marble wall</Data></Cell>
+    <Cell><Data ss:Type="String">Beige marble wall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_MarbleWhite_Wall01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">White marble wall</Data></Cell>
+    <Cell><Data ss:Type="String">White marble wall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_MarbleBlack_Wall01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Black marble wall</Data></Cell>
+    <Cell><Data ss:Type="String">Black marble wall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Marble_window1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Beige marble window</Data></Cell>
+    <Cell><Data ss:Type="String">Beige marble window</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_MarbleWhite_window1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">White marble window</Data></Cell>
+    <Cell><Data ss:Type="String">White marble window</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_MarbleBlack_window1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Black marble window</Data></Cell>
+    <Cell><Data ss:Type="String">Black marble window</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Marble_Door1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Beige marble door</Data></Cell>
+    <Cell><Data ss:Type="String">Beige marble door</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_MarbleWhite_Door1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">White marble door</Data></Cell>
+    <Cell><Data ss:Type="String">White marble door</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_MarbleBlack_Door1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Black marble door</Data></Cell>
+    <Cell><Data ss:Type="String">Black marble door</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m5200364"><Data ss:Type="String">HOUSING FURNITURES</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Pillars</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Wooden_Pillar01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Wooden Pillar</Data></Cell>
+    <Cell><Data ss:Type="String">Wooden Pillar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_Pillar</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone pillar</Data></Cell>
+    <Cell><Data ss:Type="String">Stone pillar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_MarbleBeige_Pillar</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Beige marble pillar</Data></Cell>
+    <Cell><Data ss:Type="String">Beige marble pillar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_MarbleBlack_Pillar</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Black marble pillar</Data></Cell>
+    <Cell><Data ss:Type="String">Black marble pillar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_MarbleWhite_Pillar</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">White marble pillar</Data></Cell>
+    <Cell><Data ss:Type="String">White marble pillar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tables</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Table1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Table 1</Data></Cell>
+    <Cell><Data ss:Type="String">Table 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Table2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Table 2</Data></Cell>
+    <Cell><Data ss:Type="String">Table 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Table3</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Table 3</Data></Cell>
+    <Cell><Data ss:Type="String">Table 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Table4</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Table 4</Data></Cell>
+    <Cell><Data ss:Type="String">Table 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Mannequins</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Mannequin_male</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">mannequin male</Data></Cell>
+    <Cell><Data ss:Type="String">mannequin male</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Mannequin_female</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">mannequin female</Data></Cell>
+    <Cell><Data ss:Type="String">mannequin female</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Mannequin_male_champion</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">mannequin male champion</Data></Cell>
+    <Cell><Data ss:Type="String">mannequin male champion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Mannequin_female_champion</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">mannequin female champion</Data></Cell>
+    <Cell><Data ss:Type="String">mannequin female champion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Library</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_library_A</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Book Shelf medium</Data></Cell>
+    <Cell><Data ss:Type="String">Book Shelf medium</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_library_B</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Book Shelf tall</Data></Cell>
+    <Cell><Data ss:Type="String">Book Shelf tall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_library_C</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Book Cabinet</Data></Cell>
+    <Cell><Data ss:Type="String">Book Cabinet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_library_C2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Book Shelf large</Data></Cell>
+    <Cell><Data ss:Type="String">Book Shelf large</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Misc</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Wooden_rail1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Wooden rail</Data></Cell>
+    <Cell><Data ss:Type="String">Wooden rail</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_Stone_rail1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone rail</Data></Cell>
+    <Cell><Data ss:Type="String">Stone rail</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_marble_rail1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Marble rail</Data></Cell>
+    <Cell><Data ss:Type="String">Marble rail</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Cabinet</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Cabinet</Data></Cell>
+    <Cell><Data ss:Type="String">Cabinet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Anvil</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Anvil</Data></Cell>
+    <Cell><Data ss:Type="String">Anvil</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Barrel1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Barrel 1</Data></Cell>
+    <Cell><Data ss:Type="String">Barrel 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Barrel2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Barrel 2</Data></Cell>
+    <Cell><Data ss:Type="String">Barrel 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_scuttle1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Scuttle</Data></Cell>
+    <Cell><Data ss:Type="String">Scuttle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WoodenBox1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Wooden Box 1</Data></Cell>
+    <Cell><Data ss:Type="String">Wooden Box 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WoodenBox2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Wooden Box 2</Data></Cell>
+    <Cell><Data ss:Type="String">Wooden Box 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_stacked_logs_small</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stacked logs small</Data></Cell>
+    <Cell><Data ss:Type="String">Stacked logs small</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_stacked_logs_long</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stacked logs long</Data></Cell>
+    <Cell><Data ss:Type="String">Stacked logs long</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_stacked_logs_big</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stacked logs small</Data></Cell>
+    <Cell><Data ss:Type="String">Stacked logs small</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_pot1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Pot 1</Data></Cell>
+    <Cell><Data ss:Type="String">Pot 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_pot2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Pot 2</Data></Cell>
+    <Cell><Data ss:Type="String">Pot 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Baliste1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Baliste</Data></Cell>
+    <Cell><Data ss:Type="String">Baliste</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Statues</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_StoneStatue</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Stone statue</Data></Cell>
+    <Cell><Data ss:Type="String">Stone statue</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_CopperStatue</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Copper statue</Data></Cell>
+    <Cell><Data ss:Type="String">Copper statue</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Chairs</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BenchA</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Bench 1 </Data></Cell>
+    <Cell><Data ss:Type="String">Bench 1 </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BenchB</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Bench 2</Data></Cell>
+    <Cell><Data ss:Type="String">Bench 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Throne01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Throne</Data></Cell>
+    <Cell><Data ss:Type="String">Throne</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_couch_01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Couch 1</Data></Cell>
+    <Cell><Data ss:Type="String">Couch 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_couch_02</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Couch 2</Data></Cell>
+    <Cell><Data ss:Type="String">Couch 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_DoubleDeckCouch</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Double-Decker Couch</Data></Cell>
+    <Cell><Data ss:Type="String">Double-Decker Couch</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Chair_01</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Chair 1</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chair 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Chair_02</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Chair 2</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chair 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Throne_white</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Templar throne white</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Templar throne white</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Throne_black</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Templar throne black</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Templar throne black</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Beds</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Bed01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Medium bed</Data></Cell>
+    <Cell><Data ss:Type="String">Medium bed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Bed02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Small bed</Data></Cell>
+    <Cell><Data ss:Type="String">Small bed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Bed03</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Bid bed</Data></Cell>
+    <Cell><Data ss:Type="String">Bid bed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Lights</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_CandleGroup</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Candle group</Data></Cell>
+    <Cell><Data ss:Type="String">Candle group</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_CandleSimple</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Simple candle</Data></Cell>
+    <Cell><Data ss:Type="String">Simple candle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Chandelier</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Chandelier</Data></Cell>
+    <Cell><Data ss:Type="String">Chandelier</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Ceiling_Chandelier</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ceiling chandelier</Data></Cell>
+    <Cell><Data ss:Type="String">Ceiling chandelier</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Ceiling_Chandelier_gold</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ceiling chandelier gold</Data></Cell>
+    <Cell><Data ss:Type="String">Ceiling chandelier gold</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Lampe_Pillar_Big</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Big lamp on pillar</Data></Cell>
+    <Cell><Data ss:Type="String">Big lamp on pillar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Lampe_Pillar_Small</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Small lamp on pillar</Data></Cell>
+    <Cell><Data ss:Type="String">Small lamp on pillar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Foutains</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Fountain_01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Foutain</Data></Cell>
+    <Cell><Data ss:Type="String">Foutain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Natural</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Tree1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Small tree</Data></Cell>
+    <Cell><Data ss:Type="String">Small tree</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Tree2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Medium tree</Data></Cell>
+    <Cell><Data ss:Type="String">Medium tree</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_plant_palmstar1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Palmstar 1</Data></Cell>
+    <Cell><Data ss:Type="String">Palmstar 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Housing_plant_palmstar2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Palmstar 2</Data></Cell>
+    <Cell><Data ss:Type="String">Palmstar 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_housing_plant_palm1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Palm 1</Data></Cell>
+    <Cell><Data ss:Type="String">Palm 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_housing_plant_palm2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Palm 2</Data></Cell>
+    <Cell><Data ss:Type="String">Palm 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_housing_plant_palm3</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Palm 3</Data></Cell>
+    <Cell><Data ss:Type="String">Palm 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_housing_plant_smallbush1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Smallbuch 1</Data></Cell>
+    <Cell><Data ss:Type="String">Smallbuch 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_housing_plant_smallbush2</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Smallbuch 2</Data></Cell>
+    <Cell><Data ss:Type="String">Smallbuch 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_housing_plant_smallbush3</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Smallbuch 3</Data></Cell>
+    <Cell><Data ss:Type="String">Smallbuch 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_housing_plant_tallbush1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Tallbush</Data></Cell>
+    <Cell><Data ss:Type="String">Tallbush</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">OntablePropsObjects</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BottleA</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Bottle 1</Data></Cell>
+    <Cell><Data ss:Type="String">Bottle 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BottleB</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Bottle 2</Data></Cell>
+    <Cell><Data ss:Type="String">Bottle 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BottleC</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Bottle 3</Data></Cell>
+    <Cell><Data ss:Type="String">Bottle 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BottleD</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Bottle 4</Data></Cell>
+    <Cell><Data ss:Type="String">Bottle 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Dishes_Poor_01</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Wood dishes set 1</Data></Cell>
+    <Cell><Data ss:Type="String">Wood dishes set 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Dishes_Poor_02</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Wood dishes set 2</Data></Cell>
+    <Cell><Data ss:Type="String">Wood dishes set 2</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Dishes_Poor_03</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Wood dishes set 3</Data></Cell>
+    <Cell><Data ss:Type="String">Wood dishes set 3</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_Dishes_Rich_01</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Porcelain dishes set 1</Data></Cell>
+    <Cell><Data ss:Type="String">Porcelain dishes set 1</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Dishes_Rich_02</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Porcelain dishes set 2</Data></Cell>
+    <Cell><Data ss:Type="String">Porcelain dishes set 2</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Dishes_Rich_03</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Porcelain dishes set 3</Data></Cell>
+    <Cell><Data ss:Type="String">Porcelain dishes set 3</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Horne_Poor</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Iron Horn</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Horn</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Horne_Rich</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Gold Horn</Data></Cell>
+    <Cell><Data ss:Type="String">Gold Horn</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Tankard_Poor</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Wood Tankard</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Tankard</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Tankard_Rich</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Metal Tankard</Data></Cell>
+    <Cell><Data ss:Type="String">Metal Tankard</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Carpet</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Carpet01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Carpet 1</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Carpet02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Carpet 2</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Carpet03</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Carpet 3</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Carpet_deroll</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Carpet deroll</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet deroll</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Carpet_roll</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Carpet roll</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet roll</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Flags</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Flag_holder_big</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Flag holder big</Data></Cell>
+    <Cell><Data ss:Type="String">Flag holder big</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Flag_holder_middle</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Flag holder middle</Data></Cell>
+    <Cell><Data ss:Type="String">Flag holder middle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Flag_holder_small</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Flag holder small</Data></Cell>
+    <Cell><Data ss:Type="String">Flag holder small</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Wall Decoration</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Ogrehead</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ogre head</Data></Cell>
+    <Cell><Data ss:Type="String">Ogre head</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_DeerHead</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Deer head</Data></Cell>
+    <Cell><Data ss:Type="String">Deer head</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Paintings</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Painting_01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Painting 1</Data></Cell>
+    <Cell><Data ss:Type="String">Painting 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Painting_02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Painting 2</Data></Cell>
+    <Cell><Data ss:Type="String">Painting 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Painting_03</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Painting 3</Data></Cell>
+    <Cell><Data ss:Type="String">Painting 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Painting_04</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Painting 4</Data></Cell>
+    <Cell><Data ss:Type="String">Painting 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_Painting_05</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Painting 5</Data></Cell>
+    <Cell><Data ss:Type="String">Painting 5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_Painting_06</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Painting 6</Data></Cell>
+    <Cell><Data ss:Type="String">Painting 6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_Painting_07</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Painting 7</Data></Cell>
+    <Cell><Data ss:Type="String">Painting 7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_Painting_08</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Painting 8</Data></Cell>
+    <Cell><Data ss:Type="String">Painting 8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_Painting_09</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Painting 9</Data></Cell>
+    <Cell><Data ss:Type="String">Painting 9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Decals</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_DecalBloodSplat1</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Blood splash 1</Data></Cell>
+    <Cell><Data ss:Type="String">Blood splash 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_DecalBloodSplat2</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Blood splash 2</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Blood splash 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_DecalBloodSplat6</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Blood splash 3</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Blood splash 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_Decalbloodsplatx3</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Blood splash 4</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Blood splash 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_Decalbloodsplat4</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Blood splash 5</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Blood splash 5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tortures</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_ironvirgin</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Iron maiden</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Iron maiden</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_CageGrounded_Square</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Cage 1</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Cage 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_CageGrounded_Diag</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Cage 2</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Cage 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_CageGrounded_Cylinder</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Cage 3</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Cage 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_Cage_Wall_Small</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Wall cage 1</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Wall cage 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_Cage_Wall_Big</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Wall cage 2</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Wall cage 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Chest</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PLayerChest_whitemarble</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Chest White Marble</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chest White Marble</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_PLayerChest_small</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Chest Wood small</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chest Wood small</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ui_PLayerChest_big</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Chest Wood big</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chest Wood big</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="208" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
+   <Row ss:Index="216" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="8"/>
+   <Row ss:Index="226" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
+   <Row ss:Index="234" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
+   <Row ss:Index="240" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
+   <Row ss:Index="246" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="248" ss:AutoFitHeight="0" ss:Height="15" ss:Span="31"/>
+   <Row ss:Index="283" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="38"/>
+   <Row ss:Index="323" ss:AutoFitHeight="0" ss:Height="15" ss:Span="15"/>
+   <Row ss:Index="340" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="246"/>
+   <Row ss:Index="622" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="626" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
+   <Row ss:Index="705" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="710" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="713" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="717" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="720" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="724" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="727" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="741" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="746" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="750" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="754" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51"/>
+   <Row ss:AutoFitHeight="0" ss:Height="45"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="763" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="766" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="770" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="784" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="786" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="793" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="798" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="802" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="806" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="808" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="811" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="815" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="817" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="821" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="824" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="831" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="834" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
+   <Row ss:Index="843" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="850" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <GridlineColorIndex>8</GridlineColorIndex>
+   <TopRowVisible>166</TopRowVisible>
+   <GridlineColor>#000000</GridlineColor>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>206</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
