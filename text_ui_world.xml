@@ -426,7 +426,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier1</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Our old village was down in the valley, but as the raids became more frequent, we decided to flee. We are much safer here in the mountains.</Data></Cell>
-    <Cell><Data ss:Type="String">我们的老村庄在山谷里，但是随着袭击的愈加频繁，我们决定撤离。在山上我们更加安全。</Data></Cell>
+    <Cell><Data ss:Type="String">我们的旧村庄在山谷里，但是随着袭击的愈加频繁，我们决定撤离。躲在山里要安全的多。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier3</Data></Cell>
@@ -442,12 +442,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier5</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">There are no women, as you can see. I think we lost them somewhere, and now we can't seem to find them again.</Data></Cell>
-    <Cell><Data ss:Type="String">正如你所看到的，这里没有女人。我想我们把她们丢在了什么地方，我们现在似乎无法再找到她们了。</Data></Cell>
+    <Cell><Data ss:Type="String">正如你所看到的，这里没有女人。我想我们在旅途中失散了，自那时起就再也无法找到她们了。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_Blacksmith</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">My store is still under construction, but I will open up soon. Please come back later</Data></Cell>
-    <Cell><Data ss:Type="String">我的店还在装修，但是就快完成了，请晚点再来。</Data></Cell>
+    <Cell><Data ss:Type="String">我的商店还在装修，但是就快完成了，请晚点再来。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier7</Data></Cell>
@@ -457,7 +457,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier8</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">There are still giants in this world, you know. Up in the skies, above the valley of lakes.</Data></Cell>
-    <Cell><Data ss:Type="String">你知道这世界上仍然有巨人吗？据说在湖泊谷上的云端那就有个。</Data></Cell>
+    <Cell><Data ss:Type="String">你知道这世界上仍然有巨人吗？据说在山谷的上面就有个。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier9</Data></Cell>
@@ -468,7 +468,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier10</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">If you want to fight, there's an arena just up there. Seems like you could use a little training.</Data></Cell>
-    <Cell><Data ss:Type="String">如果你想小试身手，那有个竞技场。你看上去似乎可以过去练练</Data></Cell>
+    <Cell><Data ss:Type="String">如果你想小试身手，那有个竞技场。但你似乎需要再练练</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier11</Data></Cell>
@@ -484,7 +484,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">This Limbo is a curse that cannot be cured. Praise Amon for preserving us from it.</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">地狱就像一个不能被治愈的诅咒。埃蒙的保护让我们远离它，赞美埃蒙。</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">地狱是一个不能被治愈的诅咒。埃蒙的保护让我们远离它，赞美埃蒙。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier14</Data></Cell>
