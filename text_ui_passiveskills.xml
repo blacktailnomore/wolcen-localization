@@ -533,7 +533,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_LEGIO_18_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Here’s something they don’t teach in the Legion : failing.</Data></Cell>
-    <Cell><Data ss:Type="String">有件事军团是不会教你的：失败。</Data></Cell>
+    <Cell><Data ss:Type="String">在军团里永远学不到的事：失败。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_LEGIO_19_name</Data></Cell>
@@ -3242,7 +3242,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_MovespeedOnHit</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">%1 to Movement Speed during %2 on each hit (stackable %3 times, reset when you are hit)</Data></Cell>
-    <Cell><Data ss:Type="String">每次攻击%1移动速度%2(叠加%3次,被击中重置)</Data></Cell>
+    <Cell><Data ss:Type="String">每次攻击%1移动速度，持续%2(叠加%3次,被击中重置)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AttackSpeed</Data></Cell>
