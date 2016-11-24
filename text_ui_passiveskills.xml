@@ -2747,7 +2747,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_9_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Pyromancer</Data></Cell>
-    <Cell><Data ss:Type="String">烈焰术士</Data></Cell>
+    <Cell><Data ss:Type="String">纵火狂</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_9_lore</Data></Cell>
@@ -2821,7 +2821,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_17_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Unstable Orbs</Data></Cell>
-    <Cell><Data ss:Type="String">球形闪电~</Data></Cell>
+    <Cell><Data ss:Type="String">球状闪电~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_17_lore</Data></Cell>
@@ -2839,7 +2839,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_19_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Elemental Alterations</Data></Cell>
-    <Cell><Data ss:Type="String">元素变更~</Data></Cell>
+    <Cell><Data ss:Type="String">元素转变</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_19_lore</Data></Cell>
@@ -2848,7 +2848,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_20_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Cold Hands</Data></Cell>
-    <Cell><Data ss:Type="String">冰冷之手~</Data></Cell>
+    <Cell><Data ss:Type="String">冰冷之手</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_20_lore</Data></Cell>
@@ -3024,7 +3024,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_ELEM_39_lore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Who need swords when you control the Storm ?</Data></Cell>
-    <Cell><Data ss:Type="String">你施法的时候要不要来把剑？</Data></Cell>
+    <Cell><Data ss:Type="String">当你能控制风暴时谁还需要剑？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
     <Cell ss:MergeAcross="2" ss:StyleID="m322208396"><Data ss:Type="String">PASSIVE SKILLS MAGIC EFFECTS DESCRIPTIONS</Data></Cell>
@@ -3077,7 +3077,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthFromSwitchingTarget</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Strength during a short moment when switching targets (Melee only)</Data></Cell>
-    <Cell><Data ss:Type="String">切换目标后短时间内%2力量(近战)</Data></Cell>
+    <Cell><Data ss:Type="String">切换目标时短时间内%2力量(近战)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthFromRageGlobe</Data></Cell>
@@ -3197,7 +3197,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_IgnoreStaminaRegen</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can't regenerate Stamina points over time</Data></Cell>
-    <Cell><Data ss:Type="String">You can't regenerate Stamina points over time</Data></Cell>
+    <Cell><Data ss:Type="String">一段时间内停止耐力回复</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Root</Data></Cell>
@@ -3552,7 +3552,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 - %2 Poison Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 - %2 毒性伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2 毒素伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BleedingDamage</Data></Cell>
@@ -3567,7 +3567,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonDamageInc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Poison Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%2毒性伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%2毒素伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BleedDamageInc</Data></Cell>
@@ -3642,7 +3642,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonResist</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Poison Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">%2毒性抗性</Data></Cell>
+    <Cell><Data ss:Type="String">%2毒素抗性</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_UmbraResistance</Data></Cell>
@@ -3687,7 +3687,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonIgnore</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ignore Poison Damage</Data></Cell>
-    <Cell><Data ss:Type="String">无视毒性伤害</Data></Cell>
+    <Cell><Data ss:Type="String">无视毒素伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_UmbraIgnore</Data></Cell>
@@ -3732,7 +3732,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonHeal</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 of Poison Damage taken are healed instead</Data></Cell>
-    <Cell><Data ss:Type="String">受到的%2毒性伤害转化为生命</Data></Cell>
+    <Cell><Data ss:Type="String">受到的%2毒素伤害转化为生命</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_UmbraHeal</Data></Cell>
@@ -3747,7 +3747,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonIncOnBleeding</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Poison Damage on Bleeding enemies</Data></Cell>
-    <Cell><Data ss:Type="String">对受到流血伤害的敌人%2毒性伤害</Data></Cell>
+    <Cell><Data ss:Type="String">对受到流血伤害的敌人%2毒素伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonResistanceReduction</Data></Cell>
@@ -3937,12 +3937,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RageToManaTime</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Rage to Umbra transfert time</Data></Cell>
-    <Cell><Data ss:Type="String">%2 怒气->本影转化时间</Data></Cell>
+    <Cell><Data ss:Type="String">%2 怒气-&gt;本影转化时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ManaToRageTime</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Umbra to Rage transfert time</Data></Cell>
-    <Cell><Data ss:Type="String">%2 本影->怒气转化时间</Data></Cell>
+    <Cell><Data ss:Type="String">%2 本影-&gt;怒气转化时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Dodge</Data></Cell>
@@ -4382,7 +4382,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FrenzyOnPoison</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to trigger a %2 Frenzy when inflicting a Poisoning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">造成毒性伤害时有%1几率触发一次持续%2的狂暴</Data></Cell>
+    <Cell><Data ss:Type="String">造成毒素伤害时有%1几率触发一次持续%2的狂暴</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurnRecoveryOnDodgeroll</Data></Cell>
@@ -4597,7 +4597,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ImpulseOnHitHammer</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Each hit done with Two-handed Hammer increases by %1 your Physical Impulse Chance with Impulsion skills during %2 (stackable %3 times)</Data></Cell>
-    <Cell><Data ss:Type="String">双手锤每下命中会增加%1脉冲技能的物理脉冲几率，持续%2(叠加%3次~)</Data></Cell>
+    <Cell><Data ss:Type="String">双手锤每下命中会增加%1冲击技能的物理冲击几率，持续%2(叠加%3次~)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HitStun</Data></Cell>
@@ -4687,12 +4687,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ReturnBlownAwayShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can return a Knock-down effect to its source if you raise your shield in time</Data></Cell>
-    <Cell><Data ss:Type="String">如果你即时举起盾牌，就能把击倒效果返还给来源</Data></Cell>
+    <Cell><Data ss:Type="String">如果你及时举起盾牌，就能把击倒效果返还给来源</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HitPhysImpulseInc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to Physical Impulse Chance with Impulsion skills</Data></Cell>
-    <Cell><Data ss:Type="String">%1脉冲技能的物理脉冲几率~</Data></Cell>
+    <Cell><Data ss:Type="String">%1冲击技能的物理冲击几率~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HitPhysImpulse</Data></Cell>
