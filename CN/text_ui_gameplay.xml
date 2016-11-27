@@ -250,7 +250,7 @@
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frozen_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Frozen</Data></Cell>
     <Cell ss:StyleID="s81"><Data
-      ss:Type="String">冷冻</Data></Cell>
+      ss:Type="String">冰冻</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frozen_desc</Data></Cell>
@@ -292,7 +292,7 @@
     <Cell><Data ss:Type="String">ui_ActiveEffect_PreventDamage_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Protected</Data></Cell>
     <Cell ss:StyleID="s81"><Data
-      ss:Type="String">保护</Data></Cell>
+      ss:Type="String">防护</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_PreventDamage_desc</Data></Cell>
@@ -571,7 +571,7 @@
     <Cell><Data ss:Type="String">ui_BossModifier_ReturnDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Returns Damage</Data></Cell>
     <Cell ss:StyleID="s81"><Data
-      ss:Type="String">反弹伤害</Data></Cell>
+      ss:Type="String">反击伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SpellVortex</Data></Cell>

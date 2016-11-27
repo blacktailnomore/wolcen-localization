@@ -452,7 +452,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier7</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The road is closed for now because of a landslide. We hope to clear the path soon.</Data></Cell>
-    <Cell><Data ss:Type="String">这条路因为山崩被封闭了。希望能早点恢复。</Data></Cell>
+    <Cell><Data ss:Type="String">这条路因为山体滑坡被封闭了。希望能早点恢复。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier8</Data></Cell>
@@ -473,7 +473,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">I have heard rumors about a hidden boat in the frozen lands. If only I could remember the name …</Data></Cell>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">I have heard rumors about a hidden boat in the frozen lands. If only I could remember the name …</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">我听说有一艘隐秘的船在冻土那边。要是我能记住名字该多好 …</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NPCInteractions_AmarthSoldier12</Data></Cell>

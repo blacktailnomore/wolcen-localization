@@ -284,7 +284,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DRhousing</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">House Master</Data></Cell>
-    <Cell><Data ss:Type="String">房子主人</Data></Cell>
+    <Cell><Data ss:Type="String">房屋主人</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_close</Data></Cell>
@@ -342,37 +342,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_content_tutoHousing1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">You can sleep and store your gear in your houseb (WIP). &#10;To switch into CONSTRUCTION MODE, click on the button below.&#10;</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">你可以睡觉和存储你的装备在你的房子（WIP）。 ＃10;要切换到建筑模式，请点击下面的按钮；</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">你可以在房子中休息和存放你的战利品(开发中）。  &#10;点击下面的按钮切换到建造模式。&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_title_tutoHousing2</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Construction mode : ground and walls (2/4)</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">施工方式：地面和墙面（2/4）</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">建造模式：地板和墙壁（2/4）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_popup_content_tutoHousing2</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">When placing a new tile of GROUND, a selectionned WALL will be automatically linked to it if there is none.&#10;You can also change each WALL by going in the WALL TAB.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">当放置一个GROUND的新磁贴时，如果没有选择的WALL将被自动链接到它。＃10;你也可以通过进入WALL TAB来改变每个WALL。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">当你在地上放置一块新的瓷砖时，当前商店中选中的墙会自动与之链接。&#10;你也可以选择墙选项卡来改变每一面墙的样式。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_tutoHousing3</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Construction mode : Furnitures (3/4)</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">建筑模式：家具（3/4）</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">建造模式：家具（3/4）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_tutoHousing3</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">You can place any furniture you like! &#10;To ROTATE an object, maintain the RIGHT CLICK, or use the keys [Q] and [D]. &#10;You can also choose the size of the GRID and SNAP furnitures for a more precise placing.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">你可以放置任何你喜欢的家具！ ＃10;要旋转对象，请保持右键单击，或使用键[Q]和[D]。 ＃10;您还可以选择GRID和SNAP家具的尺寸，以更精确地放置。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你可以放置任何你喜欢的家具！&#10;要旋转物体，请按住右键不放，或使用键[Q]和[D]。 &#10;你还可以选择网格和吸附的精度以便更精确的控制布局。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_tutoHousing4</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Crafting (4/4)</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">工艺（4/4）</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">打造（4/4）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_tutoHousing4</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Every object you place is displayed in the LIST.&#10;Once you want to buy the assets, just click on CONFIRM, and they'll be your. Removed object that are paid are stocked for future use.&#10;At the moment, only Gold is needed to pay, but a crafting notion will be added in the game.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">你放置的每个对象都显示在LIST中。＃10;一旦你想购买资产，只需点击确认，他们就是你的。删除的对象被支付的库存以备将来使用＃10;目前，只需要金需要支付，但制作概念将被添加在游戏中。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你放置的每个物体都显示在右侧的列表中。&#10;假如你想购买材料，只需选中并确认，就可以购买。已购买但被移除的物体会收入仓库以备将来使用。&#10;目前只需用金币支付，未来会加入更多建筑材料。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:MergeAcross="2" ss:StyleID="m5200344"><Data ss:Type="String">HOUSING CONSTRUCTION ELEMENTS</Data></Cell>
@@ -385,12 +385,12 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor02</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Old wooden planks</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">旧木板条</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">旧木地板</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor03</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Grey stones</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">灰色的石头</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">灰色石砖地板</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor04</Data></Cell>
@@ -420,22 +420,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor09</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Stone ground 1</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">石地1</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">石头地板1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor10</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Stone ground 2</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">石地2</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">石头地板2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor11</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Stone ground 3</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">石地3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">石头地板3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor12</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Motif</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">主题</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">图案</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Floor13</Data></Cell>
@@ -565,7 +565,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Housing_Marble_Wall01</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Beige marble wall</Data></Cell>
-    <Cell><Data ss:Type="String">米黄大理石墙</Data></Cell>
+    <Cell><Data ss:Type="String">米色大理石墙</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Housing_MarbleWhite_Wall01</Data></Cell>
@@ -580,7 +580,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Housing_Marble_window1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Beige marble window</Data></Cell>
-    <Cell><Data ss:Type="String">米黄大理石窗</Data></Cell>
+    <Cell><Data ss:Type="String">米色大理石窗</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Housing_MarbleWhite_window1</Data></Cell>
@@ -595,7 +595,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Housing_Marble_Door1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Beige marble door</Data></Cell>
-    <Cell><Data ss:Type="String">米黄大理石门</Data></Cell>
+    <Cell><Data ss:Type="String">米色大理石门</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Housing_MarbleWhite_Door1</Data></Cell>
@@ -673,22 +673,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Mannequin_male</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">mannequin male</Data></Cell>
-    <Cell><Data ss:Type="String">模特男</Data></Cell>
+    <Cell><Data ss:Type="String">雕塑男</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Mannequin_female</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">mannequin female</Data></Cell>
-    <Cell><Data ss:Type="String">模特女</Data></Cell>
+    <Cell><Data ss:Type="String">雕塑女</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Mannequin_male_champion</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">mannequin male champion</Data></Cell>
-    <Cell><Data ss:Type="String">模特男性冠军</Data></Cell>
+    <Cell><Data ss:Type="String">男性战士雕塑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Mannequin_female_champion</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">mannequin female champion</Data></Cell>
-    <Cell><Data ss:Type="String">模特女性冠军</Data></Cell>
+    <Cell><Data ss:Type="String">女性战士雕塑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Library</Data></Cell>
@@ -698,12 +698,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_library_A</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Book Shelf medium</Data></Cell>
-    <Cell><Data ss:Type="String">书架中等</Data></Cell>
+    <Cell><Data ss:Type="String">中等书架</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_library_B</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Book Shelf tall</Data></Cell>
-    <Cell><Data ss:Type="String">书架高</Data></Cell>
+    <Cell><Data ss:Type="String">高书架</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_library_C</Data></Cell>
@@ -713,7 +713,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_library_C2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Book Shelf large</Data></Cell>
-    <Cell><Data ss:Type="String">书架大</Data></Cell>
+    <Cell><Data ss:Type="String">大书架</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Misc</Data></Cell>
@@ -728,22 +728,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Housing_Stone_rail1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Stone rail</Data></Cell>
-    <Cell><Data ss:Type="String">石轨</Data></Cell>
+    <Cell><Data ss:Type="String">石栏杆</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Housing_marble_rail1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Marble rail</Data></Cell>
-    <Cell><Data ss:Type="String">大理石轨</Data></Cell>
+    <Cell><Data ss:Type="String">大理石栏杆</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Cabinet</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Cabinet</Data></Cell>
-    <Cell><Data ss:Type="String">内阁</Data></Cell>
+    <Cell><Data ss:Type="String">橱柜</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Anvil</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Anvil</Data></Cell>
-    <Cell><Data ss:Type="String">砧</Data></Cell>
+    <Cell><Data ss:Type="String">铁毡</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Barrel1</Data></Cell>
@@ -758,7 +758,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_scuttle1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Scuttle</Data></Cell>
-    <Cell><Data ss:Type="String">Scuttle</Data></Cell>
+    <Cell><Data ss:Type="String">筐子</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WoodenBox1</Data></Cell>
@@ -773,32 +773,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_stacked_logs_small</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Stacked logs small</Data></Cell>
-    <Cell><Data ss:Type="String">堆叠的日志小</Data></Cell>
+    <Cell><Data ss:Type="String">原木堆（小）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_stacked_logs_long</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Stacked logs long</Data></Cell>
-    <Cell><Data ss:Type="String">堆叠日志长</Data></Cell>
+    <Cell><Data ss:Type="String">原木堆（长）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_stacked_logs_big</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Stacked logs small</Data></Cell>
-    <Cell><Data ss:Type="String">堆叠的日志小</Data></Cell>
+    <Cell><Data ss:Type="String">原木堆（大）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_pot1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Pot 1</Data></Cell>
-    <Cell><Data ss:Type="String">锅1</Data></Cell>
+    <Cell><Data ss:Type="String">壶1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_pot2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Pot 2</Data></Cell>
-    <Cell><Data ss:Type="String">锅2</Data></Cell>
+    <Cell><Data ss:Type="String">壶2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Baliste1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Baliste</Data></Cell>
-    <Cell><Data ss:Type="String">Baliste</Data></Cell>
+    <Cell><Data ss:Type="String">床弩</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Statues</Data></Cell>
@@ -808,12 +808,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_StoneStatue</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Stone statue</Data></Cell>
-    <Cell><Data ss:Type="String">石雕象</Data></Cell>
+    <Cell><Data ss:Type="String">石雕像</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_CopperStatue</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Copper statue</Data></Cell>
-    <Cell><Data ss:Type="String">铜雕象</Data></Cell>
+    <Cell><Data ss:Type="String">铜雕像</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Chairs</Data></Cell>
@@ -863,12 +863,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Throne_white</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Templar throne white</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">圣殿骑士宝座白色</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">圣殿骑士宝座（白色）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Throne_black</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Templar throne black</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">圣殿骑士宝座黑色</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">圣殿骑士宝座（黑色）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Beds</Data></Cell>
@@ -878,17 +878,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Bed01</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Medium bed</Data></Cell>
-    <Cell><Data ss:Type="String">中床</Data></Cell>
+    <Cell><Data ss:Type="String">中号床</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Bed02</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Small bed</Data></Cell>
-    <Cell><Data ss:Type="String">小床</Data></Cell>
+    <Cell><Data ss:Type="String">小号床</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Bed03</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Bid bed</Data></Cell>
-    <Cell><Data ss:Type="String">床头</Data></Cell>
+    <Cell><Data ss:Type="String">大号床</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Lights</Data></Cell>
@@ -898,37 +898,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_CandleGroup</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Candle group</Data></Cell>
-    <Cell><Data ss:Type="String">蜡烛组</Data></Cell>
+    <Cell><Data ss:Type="String">蜡烛组合</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_CandleSimple</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Simple candle</Data></Cell>
-    <Cell><Data ss:Type="String">简单的蜡烛</Data></Cell>
+    <Cell><Data ss:Type="String">单支蜡烛</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Chandelier</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Chandelier</Data></Cell>
-    <Cell><Data ss:Type="String">吊灯</Data></Cell>
+    <Cell><Data ss:Type="String">蜡烛灯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ceiling_Chandelier</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Ceiling chandelier</Data></Cell>
-    <Cell><Data ss:Type="String">天花板枝形吊灯</Data></Cell>
+    <Cell><Data ss:Type="String">枝形吊灯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ceiling_Chandelier_gold</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Ceiling chandelier gold</Data></Cell>
-    <Cell><Data ss:Type="String">天花板枝形吊灯金子</Data></Cell>
+    <Cell><Data ss:Type="String">枝形吊灯（金色）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Lampe_Pillar_Big</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Big lamp on pillar</Data></Cell>
-    <Cell><Data ss:Type="String">在柱子的大灯</Data></Cell>
+    <Cell><Data ss:Type="String">大号柱灯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Lampe_Pillar_Small</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Small lamp on pillar</Data></Cell>
-    <Cell><Data ss:Type="String">在柱子的小灯</Data></Cell>
+    <Cell><Data ss:Type="String">小号柱灯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Foutains</Data></Cell>
@@ -938,7 +938,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Fountain_01</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Foutain</Data></Cell>
-    <Cell><Data ss:Type="String">Foutain</Data></Cell>
+    <Cell><Data ss:Type="String">喷泉</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Natural</Data></Cell>
@@ -948,22 +948,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Tree1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Small tree</Data></Cell>
-    <Cell><Data ss:Type="String">小树</Data></Cell>
+    <Cell><Data ss:Type="String">小型树</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Tree2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Medium tree</Data></Cell>
-    <Cell><Data ss:Type="String">中等树</Data></Cell>
+    <Cell><Data ss:Type="String">中型树</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Housing_plant_palmstar1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Palmstar 1</Data></Cell>
-    <Cell><Data ss:Type="String">Palmstar 1</Data></Cell>
+    <Cell><Data ss:Type="String">星形棕榈1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Housing_plant_palmstar2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Palmstar 2</Data></Cell>
-    <Cell><Data ss:Type="String">Palmstar 2</Data></Cell>
+    <Cell><Data ss:Type="String">星形棕榈2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_housing_plant_palm1</Data></Cell>
@@ -983,22 +983,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_housing_plant_smallbush1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Smallbuch 1</Data></Cell>
-    <Cell><Data ss:Type="String">Smallbuch 1</Data></Cell>
+    <Cell><Data ss:Type="String">小灌木1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_housing_plant_smallbush2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Smallbuch 2</Data></Cell>
-    <Cell><Data ss:Type="String">Smallbuch 2</Data></Cell>
+    <Cell><Data ss:Type="String">小灌木 2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_housing_plant_smallbush3</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Smallbuch 3</Data></Cell>
-    <Cell><Data ss:Type="String">Smallbuch 3</Data></Cell>
+    <Cell><Data ss:Type="String">小灌木 3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_housing_plant_tallbush1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Tallbush</Data></Cell>
-    <Cell><Data ss:Type="String">Tallbush</Data></Cell>
+    <Cell><Data ss:Type="String">高灌木</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">OntablePropsObjects</Data></Cell>
@@ -1008,80 +1008,80 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BottleA</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Bottle 1</Data></Cell>
-    <Cell><Data ss:Type="String">瓶1</Data></Cell>
+    <Cell><Data ss:Type="String">瓶子1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BottleB</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Bottle 2</Data></Cell>
-    <Cell><Data ss:Type="String">瓶2</Data></Cell>
+    <Cell><Data ss:Type="String">瓶子2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BottleC</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Bottle 3</Data></Cell>
-    <Cell><Data ss:Type="String">瓶3</Data></Cell>
+    <Cell><Data ss:Type="String">瓶子3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BottleD</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Bottle 4</Data></Cell>
-    <Cell><Data ss:Type="String">瓶4</Data></Cell>
+    <Cell><Data ss:Type="String">瓶子4</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Dishes_Poor_01</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Wood dishes set 1</Data></Cell>
-    <Cell><Data ss:Type="String">木盘组1</Data></Cell>
+    <Cell><Data ss:Type="String">木制餐具1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Dishes_Poor_02</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Wood dishes set 2</Data></Cell>
-    <Cell><Data ss:Type="String">木盘子集2</Data></Cell>
+    <Cell><Data ss:Type="String">木制餐具2</Data></Cell>
     <Cell ss:Index="5" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Dishes_Poor_03</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Wood dishes set 3</Data></Cell>
-    <Cell><Data ss:Type="String">木盘子集3</Data></Cell>
+    <Cell><Data ss:Type="String">木制餐具3</Data></Cell>
     <Cell ss:Index="5" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s89"><Data ss:Type="String">ui_Dishes_Rich_01</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Porcelain dishes set 1</Data></Cell>
-    <Cell><Data ss:Type="String">瓷盘设置1</Data></Cell>
+    <Cell><Data ss:Type="String">陶瓷餐具1</Data></Cell>
     <Cell ss:Index="5" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Dishes_Rich_02</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Porcelain dishes set 2</Data></Cell>
-    <Cell><Data ss:Type="String">瓷盘设置2</Data></Cell>
+    <Cell><Data ss:Type="String">陶瓷餐具2</Data></Cell>
     <Cell ss:Index="5" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Dishes_Rich_03</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Porcelain dishes set 3</Data></Cell>
-    <Cell><Data ss:Type="String">瓷盘设置3</Data></Cell>
+    <Cell><Data ss:Type="String">陶瓷餐具3</Data></Cell>
     <Cell ss:Index="5" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Horne_Poor</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Iron Horn</Data></Cell>
-    <Cell><Data ss:Type="String">铁角</Data></Cell>
+    <Cell><Data ss:Type="String">铁号角</Data></Cell>
     <Cell ss:Index="5" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Horne_Rich</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Gold Horn</Data></Cell>
-    <Cell><Data ss:Type="String">金喇叭</Data></Cell>
+    <Cell><Data ss:Type="String">金号角</Data></Cell>
     <Cell ss:Index="5" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Tankard_Poor</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Wood Tankard</Data></Cell>
-    <Cell><Data ss:Type="String">木坦克</Data></Cell>
+    <Cell><Data ss:Type="String">木制酒杯</Data></Cell>
     <Cell ss:Index="5" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Tankard_Rich</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Metal Tankard</Data></Cell>
-    <Cell><Data ss:Type="String">金属罐</Data></Cell>
+    <Cell><Data ss:Type="String">金属酒杯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Carpet</Data></Cell>
@@ -1106,12 +1106,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Carpet_deroll</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Carpet deroll</Data></Cell>
-    <Cell><Data ss:Type="String">地毯deroll</Data></Cell>
+    <Cell><Data ss:Type="String">半卷的地毯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Carpet_roll</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Carpet roll</Data></Cell>
-    <Cell><Data ss:Type="String">地毯卷</Data></Cell>
+    <Cell><Data ss:Type="String">卷起的地毯</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Flags</Data></Cell>
@@ -1121,17 +1121,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Flag_holder_big</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Flag holder big</Data></Cell>
-    <Cell><Data ss:Type="String">国旗持有人大</Data></Cell>
+    <Cell><Data ss:Type="String">旗杆（大）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Flag_holder_middle</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Flag holder middle</Data></Cell>
-    <Cell><Data ss:Type="String">国旗持有人中间</Data></Cell>
+    <Cell><Data ss:Type="String">旗杆（中）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Flag_holder_small</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Flag holder small</Data></Cell>
-    <Cell><Data ss:Type="String">小旗持有人</Data></Cell>
+    <Cell><Data ss:Type="String">旗杆（小）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">Wall Decoration</Data></Cell>

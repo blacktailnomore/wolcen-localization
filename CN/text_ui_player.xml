@@ -547,7 +547,7 @@
     <Cell><Data ss:Type="String">ui_cs_strength</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Strength</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">强壮</Data></Cell>
+      ss:Type="String">力量</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dexterity</Data></Cell>
@@ -895,7 +895,7 @@
     <Cell><Data ss:Type="String">ui_cs_stunresistance</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Stun Resistance</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">击晕抗性</Data></Cell>
+      ss:Type="String">眩晕抗性</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_knockbackresistance</Data></Cell>
@@ -979,7 +979,7 @@
     <Cell><Data ss:Type="String">ui_cs_stunduration</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Stun Duration Modifier</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">晕眩持续时间加成</Data></Cell>
+      ss:Type="String">晕眩时间加成</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_burnduration</Data></Cell>
@@ -1267,7 +1267,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbrageneration_tooltip</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">You natural Rage Loss over time, representing your Umbra Regeneration.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">随时间的推移你的自然怒气损失，代表你的本影再生。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">随时间的推移你的怒气损失，同时你的本影回复。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_rageconservation_tooltip</Data></Cell>
@@ -1417,7 +1417,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_weaponrange_tooltip</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">The maximum Range of your equipped Weapon (or the longest if two Weapons are equipped).</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">你装备的武器的最大射程（如果装备两个武器取最长的）。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你装备的武器的最大范围（如果装备两个武器取最长的）。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashdmg_tooltip</Data></Cell>
@@ -1427,7 +1427,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashrange_tooltip</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">The maximum Range of your Auto-Dash.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">自动冲刺的最大范围。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">自动冲刺的最长距离。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashragegeneration_tooltip</Data></Cell>
@@ -1507,7 +1507,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunresistance_tooltip</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Resistance to Stun. May give you a chance to ignore an incoming Stun effect.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总击晕抗性。给你一定忽略攻击造成的眩晕效果的几率。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总眩晕抗性。给你一定忽略攻击造成的眩晕效果的几率。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_knockbackresistance_tooltip</Data></Cell>
@@ -1577,7 +1577,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunduration_tooltip</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">The total Duration modifier of inflicted Stun effects.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">造成的击晕效果的总持续时间修正值。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">造成的眩晕效果的总持续时间修正值。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_burnduration_tooltip</Data></Cell>
@@ -1597,7 +1597,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunreduction_tooltip</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">The total Duration modifier of received Stun effects.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">受到的击晕效果的总持续时间修正值。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">受到的眩晕效果的总持续时间修正值。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_inflictedelemdotduration_tooltip</Data></Cell>
@@ -1612,12 +1612,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_goldfind_tooltip</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Gold Find modifier. Increases the amount of looted Gold.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总黄金搜寻修正值。增加获得的黄金的数目。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总黄金掉落修正值。增加获得的黄金的数目。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_magicfind_tooltip</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Your total Magic Find modifier. Increases the probability of looting Magic Items.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总魔法搜寻修正值。增加获得魔法物品的概率。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总魔法物品掉落修正值。增加获得魔法物品的概率。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_cleavefactor_tooltip</Data></Cell>
@@ -1632,7 +1632,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_potioncdr_tooltip</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">The total modifier of your Potions Cooldown, increasing or decreasing their usage frequency.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">你的药剂冷却的总修正值，增加或减少它们的使用频率。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的药剂冷却时间的总修正值，增加或减少它们的使用频率。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_potionrefilltime</Data></Cell>

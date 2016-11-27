@@ -254,7 +254,7 @@
     <Cell><Data ss:Type="String">ui_potion_locked</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">This slot is currently locked</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">该栏位当前被缩短</Data></Cell>
+      ss:Type="String">该栏位当前被锁定</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SkillLocked</Data></Cell>
@@ -278,43 +278,43 @@
     <Cell><Data ss:Type="String">ui_skill_slot</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Empty skill slot</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Empty skill slot</Data></Cell>
+      ss:Type="String">空技能栏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_you_can_assign_a_skill_to_this_skill_slot</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can assign any skill to this slot</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">You can assign any skill to this slot</Data></Cell>
+      ss:Type="String">你可以为技能栏分配技能</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_LockedSkillSlot</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Locked skill slot</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Locked skill slot</Data></Cell>
+      ss:Type="String">锁定的技能栏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_LockedSkillSlot_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can unlock this slot from the passive skills tree</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">You can unlock this slot from the passive skills tree</Data></Cell>
+      ss:Type="String">你可以从被动技能树解锁这个栏位</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest_UnlockCost</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Unlock for %1 gold</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Unlock for %1 gold</Data></Cell>
+      ss:Type="String">需要%1金币解锁</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BlockedHit</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Blocked</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Blocked</Data></Cell>
+      ss:Type="String">格挡</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_inv_title</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">Inventory</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Inventory</Data></Cell>
+      ss:Type="String">物品栏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="2" ss:StyleID="m174675812"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
@@ -322,59 +322,59 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_KeyColor_red</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">red</Data></Cell>
-    <Cell><Data ss:Type="String">red</Data></Cell>
+    <Cell><Data ss:Type="String">红色</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_KeyPicking</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You have found a %1 key </Data></Cell>
-    <Cell><Data ss:Type="String">You have found a %1 key </Data></Cell>
+    <Cell><Data ss:Type="String">你发现了一把%1钥匙 </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_KeyRequired</Data></Cell>
     <Cell ss:StyleID="s28"><Data ss:Type="String">You need a %1 key to open this door</Data></Cell>
-    <Cell><Data ss:Type="String">You need a %1 key to open this door</Data></Cell>
+    <Cell><Data ss:Type="String">你需要一把%1钥匙打开这扇门</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">not_enough_gold</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Not Enough Gold</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Not Enough Gold</Data></Cell>
+      ss:Type="String">金币不足</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">not_enough_room_in_inventory</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough room in inventory</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Not enough room in inventory</Data></Cell>
+      ss:Type="String">物品栏没有足够空间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">it_took_time_to_heal_your_wounds_enemies_have_repopulated_the_world</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Your wounds have been healed, but Forces of Evil had time to regroup…</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Your wounds have been healed, but Forces of Evil had time to regroup…</Data></Cell>
+      ss:Type="String">你的创伤已被治愈，但是邪恶的力量也有时间重新聚集...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_you_cannot_replace_default_skills</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You cannot replace default skills</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">You cannot replace default skills</Data></Cell>
+      ss:Type="String">不能替换默认技能</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unable_to_equip_item_while_using_skill</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can't equip an item while using a skill.</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">You can&apos;t equip an item while using a skill.</Data></Cell>
+      ss:Type="String">使用技能时不能装备物品。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_no_town_portal_here</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can't use a town portal here.</Data></Cell>
     <Cell ss:StyleID="s87"><Data
-      ss:Type="String">You can&apos;t use a town portal here.</Data></Cell>
+      ss:Type="String">你不能在这使用城镇传送门。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_too_far_from_waypoint_to_teleport</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You need to stand near a Waypoint to teleport.</Data></Cell>
     <Cell ss:StyleID="s88"><Data
-      ss:Type="String">You need to stand near a Waypoint to teleport.</Data></Cell>
+      ss:Type="String">你需要在传送点附近才能传送。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NotEnoughMana</Data></Cell>
@@ -590,7 +590,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">offensive_effect_time_bonus_tooltip</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Time bonus for all offensive effects (freeze, burn, stun knock down ect…)</Data></Cell>
-    <Cell><Data ss:Type="String">Time bonus for all offensive effects (freeze, burn, stun knock down ect…)</Data></Cell>
+    <Cell><Data ss:Type="String">所有进攻效果的时间加成（冰冻、燃烧、眩晕、击倒等…）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">potion_coutdown_tooltip</Data></Cell>
@@ -631,13 +631,13 @@
     <Cell><Data ss:Type="String">ui_revamp</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Refactoring in progress</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Refactoring in progress</Data></Cell>
+      ss:Type="String">正在重构</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_comingsoon</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Coming soon</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Coming soon</Data></Cell>
+      ss:Type="String">即将开放</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="2" ss:StyleID="m174675852"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
@@ -645,7 +645,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_xp_at_level</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">XP at level</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">XP at level</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">等级经验</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_damagereduction</Data></Cell>
@@ -1339,12 +1339,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">plus_utility</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Reduces ressource costs and refresh time. More to come - work in progress</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Reduce resource cost and cooldown. Still a work in progress</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">降低能量的消耗和冷却(开发中)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">plus_power</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Increase the effective power of the skill.</Data></Cell>
-    <Cell><Data ss:Type="String">Increase the offensive power of the skill.</Data></Cell>
+    <Cell><Data ss:Type="String">增强技能的攻击力。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
@@ -1465,7 +1465,7 @@
     <Cell><Data ss:Type="String">right_click_to_learn_or_increase_current_level</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Right click to learn or increase current level.</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Right click to learn or increase current level.</Data></Cell>
+      ss:Type="String">右键点击学习技能或提升当前等级。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="47"/>
    <Row ss:Index="273" ss:AutoFitHeight="0" ss:Height="18"/>

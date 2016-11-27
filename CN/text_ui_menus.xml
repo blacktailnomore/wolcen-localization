@@ -771,12 +771,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_playerlight3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Ambient player light</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">环境玩家光</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">玩家环境光</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_playerlight3TT</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">A slightly multiplied ambient light around the player is improving visibility</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">播放器周围的稍微增加的环境光提高了可见性</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">稍许增加玩家周围的环境光提高能见度</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Difficulty Menu</Data></Cell>
@@ -1051,7 +1051,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_sys_svotiTT</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">SVOTI - medium:occlusion    high:full gi     very high:best full gi</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">SVOTI  - 稀疏体素Octree总照明＃10;中等：仅阻塞＃10;高：全GI＃10;非常高：最佳全GI</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">SVOTI  - 稀疏体素八叉树全局照明&#10;中等：仅排除部分&#10;高：全GI&#10;非常高：最佳全GI</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_sys_animation</Data></Cell>
@@ -1131,7 +1131,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">To_be_fully_fonctionnal_restart_game</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">You must restart Wolcen in order to have your chosen language fully fonctionnal</Data></Cell>
-    <Cell><Data ss:Type="String">您必须重新启动Wolcen，以使您选择的语言完全正式</Data></Cell>
+    <Cell><Data ss:Type="String">您必须重新启动Wolcen，以使您选择的语言完全生效</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_GoreMode</Data></Cell>
@@ -1156,7 +1156,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_hudscale</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">HUD scale</Data></Cell>
-    <Cell><Data ss:Type="String">HUD量表</Data></Cell>
+    <Cell><Data ss:Type="String">HUD尺寸</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_hudscaleTT</Data></Cell>
@@ -1266,12 +1266,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipPotions</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Auto equip potions</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">自动装药药水</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">自动装备药水</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipPotionsTT</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Auto equip the potion you loot if you have a free slot</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">如果你有一个自由槽，自动装药水你掠夺</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">如果有一个空闲栏位，捡起的药水会自动装备</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipSkills</Data></Cell>
@@ -1281,17 +1281,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipSkillsTT</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Auto equip a skill you learn if you have a free slot</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">如果你有一个空闲插槽，自动装备你学习的技能</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">如果你有一个空闲栏位，学习的技能会自动装备</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipArmors</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Auto equip armors</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">自动装备装甲</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">自动装备护甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.55">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipArmorsTT</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Auto equip the armor you loot if you have a free slot</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">如果你有一个自由槽，自动装备你的战甲</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">如果你有一个空闲栏位，捡起的护甲会自动装备</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Singleplayer Menu</Data></Cell>

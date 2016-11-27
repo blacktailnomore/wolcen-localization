@@ -412,7 +412,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_srsly_none_of_this_zombies_had_a_pant</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">I'll also need pants.</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">I&apos;ll also need some pants ….</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">我还需要一双裤子。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_light_finally</Data></Cell>
@@ -424,7 +424,7 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_aaahhh</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">You, there !</Data></Cell>
     <Cell ss:StyleID="s75"><Data
-      ss:Type="String">你在那里！</Data></Cell>
+      ss:Type="String">那边的！</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_help_me</Data></Cell>
@@ -457,7 +457,7 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_glory_to_amon</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Glory to Amon !</Data></Cell>
     <Cell><Data
-      ss:Type="String">埃蒙的荣耀！</Data></Cell>
+      ss:Type="String">荣耀归于埃蒙！</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_need_any_help_seems_we_arrive_at_the_right_time</Data></Cell>
@@ -483,7 +483,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_brothernoctis_help_brotherleon_we_go_back_to_amarth</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Brother Noctis, give a hand to Brother Leon. We go back to Amarth, I'll explain everything there.</Data></Cell>
-    <Cell><Data ss:Type="String">诺克提斯，在我们撤回阿玛斯的时候帮帮利昂，。我会解释这里发生的一切。</Data></Cell>
+    <Cell><Data ss:Type="String">诺克提斯，在我们撤回阿玛斯的时候帮帮利昂。我会解释这里发生的一切。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
@@ -500,7 +500,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_find_your_way_out_of_prison</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Find a safe place</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">逃生</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">到达安全地点</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_talk_to_the_wounded_templar</Data></Cell>
@@ -565,7 +565,7 @@
     <Cell><Data ss:Type="String">ui_combos_desc_hammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Great Hammers blows have a chance to stun and send your enemies flying away. The third hit always stuns a single enemy. Charge-up to expulse everyone around you with massive damage.</Data></Cell>
     <Cell ss:StyleID="s75"><Data
-      ss:Type="String">巨锤攻击有一定几率击晕和击飞你的敌人。第三次攻击总是击晕一个敌人。充能攻击会用巨大的伤害推开周围的敌人。</Data></Cell>
+      ss:Type="String">巨锤攻击有一定几率眩晕和击飞你的敌人。第三次攻击总是眩晕一个敌人。充能攻击会用巨大的伤害推开周围的敌人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_combos_desc_dagger</Data></Cell>
@@ -610,7 +610,7 @@
     <Cell ss:StyleID="s75"><Data ss:Type="String">escape_the_prison</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Escape the prison</Data></Cell>
     <Cell ss:StyleID="s75"><Data
-      ss:Type="String">逃脱监狱</Data></Cell>
+      ss:Type="String">逃离监狱</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_talk_to_fathergernez</Data></Cell>
@@ -713,7 +713,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_hm_wait_a_minut_something_is_going_on</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Hmm, wait a minute. Something unexpected is going on.</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Hmm ... Wait a minute, something is going on …</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">嗯，等等，有情况。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_FatherGernez_we_see_a_burning_chariot_close_from_here</Data></Cell>
@@ -858,7 +858,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_what_are_you_talking_about_do_you_know_why_everybody_loose_its_memory</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">What are you talking about? Do you know why everybody lost his memory?</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">你的意思是？你知道为什么每个人都失去记忆？</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">你的意思是？你知道为什么每个人都失去了记忆？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_not_really_but_we_are_not_affected_by_it_nor_the_people_who_captured_you</Data></Cell>
@@ -976,7 +976,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_find_the_river_close_to_amarth</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Find the river close to Amarth</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">找到Amarth附近的河流</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">找到阿玛斯附近的河流</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_find_fern_in_the_forest</Data></Cell>
@@ -1064,7 +1064,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">all_templars_are_teach_how_to_manipulate_the_Umbra_but_you_my_friend_shows_amazing_abilities_to_shape_its_power</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">All templars are taught to understand and manipulate the Umbra, but you shown amazing abilities with it without even noticing. That's… unusual.</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">All templars are taught to understand and manipulate the Umbra, but you have shown amazing abilities to interact with it without any understanding of it. That&apos;s… unusual.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">所有圣殿骑士都学会了理解和控制本影的力量，但你在不知道本影的情况下展示出了神奇的力量，这非同寻常。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">We_have_work_to_do_but_come_back_to_me_soon_you_may_be_the_key_of_what_amon_is_preparing_for_us</Data></Cell>
@@ -1078,17 +1078,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_housing_available</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can stay with us if you wish. Talk to the HOUSE MASTER, we may have an empty house for you.</Data></Cell>
-    <Cell><Data ss:Type="String">你可以留在我们如果你愿意。谈到房子主人，我们可能有一个空房子给你。</Data></Cell>
+    <Cell><Data ss:Type="String">如果你愿意的话可以在这里住下。找房屋主人谈谈，我们可能能给你找一间空房子。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">buildYourHouse</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Build your house!</Data></Cell>
-    <Cell><Data ss:Type="String">建立你的房子！</Data></Cell>
+    <Cell><Data ss:Type="String">建造你的房子！</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">talk_to_house_master</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Talk to the House Master</Data></Cell>
-    <Cell><Data ss:Type="String">与房子主人谈话</Data></Cell>
+    <Cell><Data ss:Type="String">与房屋主人谈话</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">exploration</Data></Cell>
