@@ -3248,7 +3248,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RangedSpeed</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%2 to Attack Speed (Ranged only)</Data></Cell>
-    <Cell><Data ss:Type="String">%2攻击速度(近战)</Data></Cell>
+    <Cell><Data ss:Type="String">%2攻击速度(远程)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AttackSpeedMeleeWithDual</Data></Cell>
@@ -3448,7 +3448,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SpellResist</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Spells Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">%2法术抗性</Data></Cell>
+    <Cell><Data ss:Type="String">%2 法术抗性</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SpellResistIfFullLife</Data></Cell>
