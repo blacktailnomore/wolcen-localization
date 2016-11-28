@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -8,10 +8,10 @@
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Title>Audio script template</Title>
   <Author>Maëlenn Lumineau</Author>
-  <LastAuthor>陆晨强</LastAuthor>
+  <LastAuthor>UBBOSATHLA</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2016-09-29T13:28:25Z</LastSaved>
+  <LastSaved>2016-11-02T14:12:10Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -85,12 +85,11 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>11460</WindowHeight>
+  <WindowHeight>12360</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <TabRatio>274</TabRatio>
-  <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
  </ExcelWorkbook>
@@ -103,28 +102,36 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s62" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
-   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
+  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s63" ss:Name="Satisfaisant">
+  <Style ss:ID="s27" ss:Name="Insatisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#800000"/>
+   <Interior ss:Color="#FFC7CE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s64">
+  <Style ss:ID="m506747616" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s65">
+  <Style ss:ID="s63">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-  </Style>
-  <Style ss:ID="s66">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -132,10 +139,9 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s67">
+  <Style ss:ID="s64">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -143,54 +149,31 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s68">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
-   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s69">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
-   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s70">
+  <Style ss:ID="s75">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-   <Interior/>
+   <Borders/>
   </Style>
-  <Style ss:ID="s71">
+  <Style ss:ID="s76">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
    <Font ss:FontName="Arial" x:Family="Swiss"/>
-   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s72">
+  <Style ss:ID="s82" ss:Parent="s26">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+   <Borders/>
   </Style>
-  <Style ss:ID="s73">
+  <Style ss:ID="s83">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -199,72 +182,17 @@
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s74">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-  </Style>
-  <Style ss:ID="s78">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
-  </Style>
-  <Style ss:ID="s79" ss:Parent="s63">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-  </Style>
-  <Style ss:ID="s80">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Interior/>
-  </Style>
-  <Style ss:ID="s83">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
-   <Interior/>
   </Style>
   <Style ss:ID="s84">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
-   <Font ss:FontName="宋体" x:CharSet="134"/>
-   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s85">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Font ss:FontName="宋体" x:CharSet="134"/>
-  </Style>
-  <Style ss:ID="s86">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Font ss:FontName="宋体" x:CharSet="134"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s88" ss:Parent="s63">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
-   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s89">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  <Style ss:ID="s87">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
    <Font ss:FontName="Arial" x:Family="Swiss"/>
    <Interior/>
-   <NumberFormat/>
-   <Protection/>
-  </Style>
-  <Style ss:ID="s90">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
-   <Font ss:FontName="宋体" x:CharSet="134"/>
-  </Style>
-  <Style ss:ID="s91">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
-  </Style>
-  <Style ss:ID="s92" ss:Parent="s62">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
-   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
  </Styles>
  <Names>
@@ -275,1213 +203,960 @@
  </Names>
  <Worksheet ss:Name="Sheet1">
   <Names>
-   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C3:R2C4"/>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="937" x:FullColumns="1"
-   x:FullRows="1" ss:DefaultColumnWidth="60">
-   <Column ss:AutoFitWidth="0" ss:Width="13.5"/>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="881" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
    <Column ss:AutoFitWidth="0" ss:Width="499.5"/>
-   <Column ss:StyleID="s91" ss:AutoFitWidth="0" ss:Width="370.5"/>
-   <Column ss:StyleID="s91" ss:AutoFitWidth="0" ss:Width="329.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="370.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="329.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="51" ss:StyleID="s64">
-    <Cell ss:StyleID="s65"/>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
-      ss:Name="Print_Area"/></Cell>
-    <Cell><Data ss:Type="String">CONTEXT</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
-    <Cell ss:StyleID="s65"/>
-    <Cell ss:StyleID="s68"/>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">This contains original text meant for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data><NamedCell
-      ss:Name="Print_Area"/></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">This contains text for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data><NamedCell
+    <Cell ss:StyleID="s64"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s71"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="m506747616"><Data ss:Type="String">QUESTS / REFACTORING IN PROGRESS</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">TUTORIAL</Data></Cell>
-    <Cell ss:StyleID="s73"/>
-    <Cell ss:StyleID="s73"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Tutorial</Data></Cell>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="Default"><Data ss:Type="String">UI_TUTORIAL</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">TUTORIAL</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">教程</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">TUTORIAL</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">教程</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_you_picked_a_book_open_inventory_to_read_it</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">You picked a book. Open your inventory (I) to read it (Right Click).</Data></Cell>
-    <Cell ss:StyleID="s85"><ss:Data ss:Type="String"
-      xmlns="http://www.w3.org/TR/REC-html40">你捡起了一本技能书，打开背包（<Font html:Face="Arial"
-       x:Family="Swiss">I</Font><Font>）来进行阅读（右键点击）。</Font></ss:Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_you_picked_a_book_open_inventory_to_read_it</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">You picked a book. Open your inventory (I) to read it (Right Click).</Data></Cell>
+    <Cell><Data ss:Type="String">你捡起了一本技能书，打开背包（I）来进行阅读（右键点击）。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_lightining_attacks_are_effective_in_water</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Lightning attacks are more powerful in water. Use the (S) key to assign Hands of Power in your Skills Bar.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">闪电攻击在水中非常有效。通过打开技能窗口（S）并将技能拖到空的技能栏来分配该技能。</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_lightining_attacks_are_effective_in_water</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Lightning attacks are more powerful in water. Use the (S) key to assign Hands of Power in your Skills Bar.</Data></Cell>
+    <Cell><Data ss:Type="String">闪电攻击在水中非常有效。通过打开技能窗口（S）并将技能拖到空的技能栏来分配该技能。 </Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_fire_and_burning_effects_are_less_effctive_in_water</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Fire and burning effects are less effective in water.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">火焰和燃烧效果在水中的效果有所降低。</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_fire_and_burning_effects_are_less_effctive_in_water</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Fire and burning effects are less effective in water.</Data></Cell>
+    <Cell><Data
+      ss:Type="String">火焰和燃烧效果在水中的效果有所降低。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_using_piercing_weapon_against_frozen_enemies_is_very_effecive</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Using piercing weapon against frozen enemies is very effective.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">对被冰冻的敌人使用穿刺武器非常有效。</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_using_piercing_weapon_against_frozen_enemies_is_very_effecive</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Using piercing weapon against frozen enemies is very effective.</Data></Cell>
+    <Cell><Data
+      ss:Type="String">对被冰冻的敌人使用穿刺武器非常有效。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s81"/>
     <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s89"/>
+    <Cell><Data
+      ss:Type="String"></Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_missionsuccessful</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Mission Successful</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">任务完成</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_missionsuccessful</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Mission Successful</Data></Cell>
+    <Cell><Data
+      ss:Type="String">任务完成</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_new</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">New</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">新</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">New</Data></Cell>
+    <Cell><Data
+      ss:Type="String">新</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">skill_unlocked</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Skill unlocked</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">技能解锁</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Skill unlocked</Data></Cell>
+    <Cell><Data
+      ss:Type="String">技能解锁</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_dialogtitlemsg</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Message</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">消息</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Message</Data></Cell>
+    <Cell><Data
+      ss:Type="String">信息</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell><Data ss:Type="String">you_need_a</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">you need a</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">你需要一把</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell><Data ss:Type="String">key_to_open_this_portal</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">key to open this portal</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">钥匙来打开这个传送门</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_press_space_to_roll_and_dodge</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Press Space to perform a dodge roll</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">按空格键来躲闪翻滚</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Press Space to perform a dodge roll</Data></Cell>
+    <Cell><Data
+      ss:Type="String">按空格键来躲闪翻滚</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_press_middle_mouse_button_to_rotate_camera</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Hold down and move the middle mouse button to rotate the camera</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">按住并移动鼠标中键来旋转镜头</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Hold down and move the middle mouse button to rotate the camera</Data></Cell>
+    <Cell><Data
+      ss:Type="String">按住并移动鼠标中键来旋转镜头</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:Index="3" ss:StyleID="s89"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:Index="2" ss:StyleID="Default"/>
+    <Cell><Data
+      ss:Type="String"></Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_each_weapon_types_have_their_own_attack_styles</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Each weapon type has its own attack style.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">每种武器类型有自己的攻击方式。总共有六种攻击方式：</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Each weapon type has its own attack style.</Data></Cell>
+    <Cell><Data
+      ss:Type="String">每种武器类型都有自己的攻击方式。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell><Data ss:Type="String">ui_spending_a_ressource_fills_up_the_other</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Spending a resource fills up the other. Don't hesitate to mix magic spells and melee moves to take advantage of this feature.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">消耗一种资源来补充其他资源。混合使用法术和近战技能来获取这一特性的优势。</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Spending a resource fills up the other. Don't hesitate to mix magic spells and melee moves to take advantage of this feature.</Data></Cell>
+    <Cell><Data
+      ss:Type="String">消耗一种资源来补充其他资源。混合使用法术和近战技能来获取这一特性的优势。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:Index="3" ss:StyleID="s89"/>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:Index="2" ss:StyleID="Default"/>
+    <Cell><Data
       ss:Type="String"></Data></Cell>
    </Row>
-   <Row ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">QUESTS</Data></Cell>
-    <Cell ss:StyleID="s73"/>
-    <Cell ss:StyleID="s73"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">QUESTS REWARDS</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ui_or</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">or</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">或</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s75">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_or</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">or</Data></Cell>
+    <Cell><Data
+      ss:Type="String">或</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ui_level_up</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">level up</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">升级</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_level_up</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">level up</Data></Cell>
+    <Cell><Data
+      ss:Type="String">升级</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ui_power_level</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">power level</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">强度等级</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_power_level</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">power level</Data></Cell>
+    <Cell><Data
+      ss:Type="String">强度等级</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ui_utility_level</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">utility level</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">实用等级</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_utility_level</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">utility level</Data></Cell>
+    <Cell><Data
+      ss:Type="String">实用等级</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ui_basic_chest</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">basic chest</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">基础宝箱</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_basic_chest</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">basic chest</Data></Cell>
+    <Cell><Data
+      ss:Type="String">基础宝箱</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ui_rare_chest</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">rare chest</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">稀有宝箱</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_rare_chest</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">rare chest</Data></Cell>
+    <Cell><Data
+      ss:Type="String">稀有宝箱</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ui_gold</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">gold</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">金币</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_gold</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">gold</Data></Cell>
+    <Cell><Data
+      ss:Type="String">金币</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s80"><Data ss:Type="String">ui_level</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">level</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">等级</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_level</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">level</Data></Cell>
+    <Cell><Data
+      ss:Type="String">等级</Data></Cell>
    </Row>
-   <Row ss:StyleID="s74">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s89"/>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data
       ss:Type="String"></Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s89"/>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Amarth NPC</Data></Cell>
-    <Cell ss:StyleID="s73"/>
-    <Cell ss:StyleID="s73"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_our_old_village_was_down_the_valley</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Our village was down the valley, but we experienced too much attacks. We are much safer here in the moutains.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">我们的旧村庄在山谷下面，但随着袭击越来越频繁，我们决定逃离。躲在山里要安全得多。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_be_careful_out_there</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Be careful out there, big guy</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">一定要特别小心，大个子。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_i_cant_fight_anymore_i_got_an_arrow_in_the_knee</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">I can't fight anymore, I took an arrow in the elbow.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">我的膝盖中了一箭后就再也不能战斗了。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_there_is_no_women_i_know</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">There are no women, as you can see. I think we lost them somewhere, and now we can't seem to find them again.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">你可能注意到了营地里没有女人。我们在旅途中分散了，自那时起我们就找不到她们了。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_my_store_will_be_available_soon</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">My store will be available soon, come back later.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">我的商店还在建造中，但很快就会开放，过段时间再来看看吧。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_the_road_is_closed_we_hope_amon_help_us</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The road is closed for now. There was a landslide. We hope to open it soon.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">这条道路因为滑坡被关闭了。我们希望能尽快清理一下。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_there_is_still_giants_out_there_you_know</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">There are still giants in this world, you know. Up in the air, above the lakes valley.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">这个世界仍然有巨人。不确定在什么地方，大概在山谷的上面吧。</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">QUESTS</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_have_you_seen_my_wife_oh_god_i_miss_her</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Have you seen my wife? Oh god, I miss her.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">你看到我的妻子了吗？哦，神啊，我太想她了。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_so_weird_no_woman_in_this_place</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Where are the women ? So weird…</Data></Cell>
+    <Cell><Data ss:Type="String">这里好像少了点什么…女人都到哪里去了？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_you_want_to_fight_there_is_an_arena_up_there_you_obviously_need_training</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">If you want to fight, there's an arena just up there. Seems like you could use a little training.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">如果你想要与其他人较量一下，这里有一个竞技场，但你似乎需要进行一些训练。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_i_need_to_get_out_of_this_place</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">I need to get out of this cursed place.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">我需要离开这个被诅咒的地方。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_I_heard_about_a_hidden_boat_in_the_frozen_lands_i_just_cant_remember_the_name</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">I heard about an hidden boat, somewhere in the frozen lands. I just can't remember the name…</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">我听说在冰冻之地有一艘隐藏的船，要是我能记住它的名字就好了。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_and_to_find_and_pant</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Maybe the rebels can offer me their help.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">叛军可能会提供帮助。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Return_to_me_when_you_will_be_toughen_up</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Please, leave me alone.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">请让我一个人待着。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_rest_in_pieces</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">The usurper damned these souls.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">篡位者亵渎了这些灵魂。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_this_limbo_is_a_curse_it_cannot_be_cured_hail_amon_for_preserving_us_from_it</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">This Limbo is a curse that cannot be cured. Thanks Amon for preserving us from it.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">地狱是一种诅咒，而且无法被治愈。愿埃蒙能够保护我们…</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_this_door_is_blocked</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">The way is blocked.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">这条路被挡住了。我需要找另一条路。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_welcome_to_amarth_friend</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Welcome to Amarth, friend.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">欢迎来到阿玛斯，朋友。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_srsly_none_of_this_zombies_had_a_pant</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">I'll also need pants.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">我还需要一双裤子。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_i_think_ive_lost_a_chicken</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">I think I've lost a chicken. Or maybe two.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">我想我丢了一只鸡，或者两只。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_light_finally</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Light, finally.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">终于看到光了。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_the_arena_is_under_maintenance</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The arena is not ready yet, come back later.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">竞技场还未准备就绪，过段时间再来看看吧。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_aaahhh</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">You, there !</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">那边的！</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_help_me</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Help me !</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">帮帮我！</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_is_that_you</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Over here ! We were looking for you when a savage creature wounded me.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">你在那里！我们在找你的时候受到了一个可怕的怪物的攻击！</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">right_click_to_learn_or_increase_current_level</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Right click to learn or increase current level.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">右键点击来学习或提高当前等级</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_we_were_looking_for_you</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">It disappeard when I struck it with my blade. Help me up, we have to join my Brothers.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">我用剑攻击的时候它逃走了。把我扶起来，我们还要去找其他人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_careful_this_place_is_doomed</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Wait... I sense a powerful dark spell being cast upon us. Get ready, it's a trap !</Data></Cell>
+    <Cell><Data ss:Type="String">等等！我感觉到一股强大的黑暗魔法。准备好！这是个陷阱！</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_they_are_coming_defend_yourself_my_brothers_are_close</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">My Brothers are coming soon, you have to hold on !</Data></Cell>
+    <Cell><Data
+      ss:Type="String">我的兄弟们马上就来了！坚持住！</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_glory_to_amon</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Glory to Amon !</Data></Cell>
+    <Cell><Data
+      ss:Type="String">荣耀归于埃蒙！</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_need_any_help_seems_we_arrive_at_the_right_time</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Thanks Amon we arrived in time.</Data></Cell>
+    <Cell><Data ss:Type="String">感谢埃蒙我们来得还算及时。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_did_you_bring_a_pant</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Where did those foul creatures come from ?</Data></Cell>
+    <Cell><Data
+      ss:Type="String">这些怪物是从哪里来的？</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_wat_hm_impressive_fighting_talent_you_have_we_can_use_your_help</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">These monstrosities are the fruit of the Usurper's work, and I guess they were going to run the same experiments on you.</Data></Cell>
+    <Cell><Data ss:Type="String">这些怪物是篡位者的实验品。我想他们准备对你做同样的实验。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_if_you_say_so</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Is that because of these strange powers I have ? Do you know what is happening to me ?</Data></Cell>
+    <Cell><Data ss:Type="String">这难道就是我获得这些奇怪力量的原因么？我到底怎么了？</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_brothernoctis_help_brotherleon_we_go_back_to_amarth</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Brother Noctis, give a hand to Brother Leon. We go back to Amarth, I'll explain everything there.</Data></Cell>
+    <Cell><Data ss:Type="String">诺克提斯，在我们撤回阿玛斯的时候帮帮利昂。我会解释这里发生的一切。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s81"><Data ss:Type="String">escape_the_prison</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Escape the prison</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">逃离监狱</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_find_your_way_out_of_prison</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Find a safe place</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">到达安全地点</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_talk_to_the_wounded_templar</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Talk to the wounded templar</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">与受伤的圣殿骑士交谈</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">the_escape</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">The escape</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">逃离</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_survive_the_ambush</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Survive the ambush</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">在伏击中存活</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">QUESTSARENA TRAINING</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_we_will_need_to_test_your_abilities_in_combat_Go_find_Torvus_in_front_of_the_arena_and_come_back_to_me_when_you_are_trained</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_I_heard_we_finally_found_you_lets_see_what_you_worth_in_combat_big_guy</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_pick_a_weapon_to_learn_how_to_use_them</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_combos_desc_shield</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Weapon and Shield uses defense as a mean of offense. Attacking with your weapon increases the amount of damage reflected to the enemies, and blocking with your shield will increase armor vs. hits form the front.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">武器和盾牌以攻为守。用你的武器攻击会提高对敌人的反弹伤害，用盾牌格挡会提高前方攻击的护甲。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_combos_desc_onehandedblade</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Wield lighter one-handed weapons with all your strength to deliver swift and powerfull blows. You get increased attack damage while holding a single weapon, and get to equip any skill in your free-hand slot.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">用你的全部力量装备轻型单手武器来发动快速而强力的打击。装备一把武器时，你的攻击伤害有所提高，并且可以在徒手栏装备任何技能。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_combos_desc_twohandedblade</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Great Swords require more finesse than other two-handed weapons. Slash at your enemies and finish on a thrusting hit. Charge-up a powerful thrust-attack that will pierce multiple enemies in its path. </Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">巨剑需要的技巧比其他双手武器更多。朝敌人猛砍并用强大的攻击终结他们。充能攻击会穿刺路径上的多个敌人。 </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_combos_desc_hammer</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Great Hammers blows have a chance to stun and send your enemies flying away. The third hit always stuns a single enemy. Charge-up to expulse everyone around you with massive damage.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">巨锤攻击有一定几率眩晕和击飞你的敌人。第三次攻击总是眩晕一个敌人。充能攻击会用巨大的伤害推开周围的敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_combos_desc_dagger</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Daggers is a lightning-fast style that exploits the weaknesses of foes. Every stab will increase the amount of bleeding damage you can inflict, while the special attack makes enemies around you bleed for a portion of their current health</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">双匕首是利用敌人弱点的快如闪电的攻击方式。每次攻击会提高你造成的流血伤害，而特殊攻击会使周围的敌人流血，造成他们当前生命值一定百分比的伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_combos_desc_dualwield</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Take a weapon in each hand to unleash fury upon your foes. Each blow increases your critical damage potential, while the charged attack will inflict a critical hit. You suffer reduced attack damage while dual wielding.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">在每个手上装备一把武器朝你的敌人释放怒火。每次攻击提高你的爆击伤害，而充能冲击会造成爆击。装备两把武器时你受到的攻击伤害降低。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_combo_desc_twohandedaxe</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Slash away at your foes. Charge your attack to slash the air so hard that a blade is fired at enemies in front of you</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">猛砍你的敌人。充能攻击会点燃你前方的敌人。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_healer_amarth</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Caracole</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">卡拉库勒</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_linus</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Linus</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">莱纳斯</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_karsh</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Karsh</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">卡尔西</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Jalan</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Jalan</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">贾兰</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Michel</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Michel</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">米歇尔</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_blacksmith</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Nyhlus</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">铁匠</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Horrock</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Horrock</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">霍洛克</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Gangrel</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Gangrel</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">流浪汉</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_BrotherHorrock</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Brother Horrock</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">霍洛克</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_BrotherHuruem</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Brother Huruem</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">胡鲁姆</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_BrotherFenris</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Brother Fenris</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">芬瑞斯</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_BrotherTorvus</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Brother Torvus</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">托维斯</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Crinos</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Crinos</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">科诺瑞斯</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Klayner</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Klayner</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">克雷内尔</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Torvus</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Torvus</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">托维斯</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Xaviar</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Xaviar</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">扎维尔</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Dagon</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Dagon</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">达贡</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Jalan</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Jalan</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">贾兰</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Vargas</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Vargas</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">瓦尔加斯</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Alan</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Alan</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">艾伦</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_karadoc</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Karadoc</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">卡拉多克</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_ArenaMaster</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Arena Master</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">竞技场大师</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"/>
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s83"><Data ss:Type="String">QUESTS 2</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">the_rescue</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">The rescue</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">援救</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">escape_the_prison</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Escape the prison</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">逃离监狱</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ui_talk_to_fathergernez</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Talk to Father Gernez</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">与神父格尼兹交谈</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ui_find_the_assault_location</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Find the assault location</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">找到进攻位置</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ui_talk_to_Luthor</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Talk to Luthor</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">与卢瑟交谈</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ui_retrieve_luthors_stash</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Retrieve Luthors's stash</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">找到卢瑟的藏匿处</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ui_go_back_to_luthor</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Go back to Luthor</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">向卢瑟汇报</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ui_return_in_town_and_talk_to_fathergernez</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Return in town and talk to Father Gernez</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">回到城镇并与神父格尼兹交谈</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ui_luthor_stash</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Luthor's stash</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">卢瑟的藏匿处</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">QUESTS</Data></Cell>
-    <Cell ss:StyleID="s73"/>
-    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_follow_me_my_friend</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Follow me, friend.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">跟着我，朋友。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_so_weird_no_woman_in_this_place</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Where are the women ? So weird…</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">这里好像少了点什么…女人都到哪里去了？</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_over_here</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Over here.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">这边。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_i_need_to_get_out_of_this_place</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">I need to get out of this cursed place.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">我需要离开这个被诅咒的地方。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_common_follow_me</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Come on, follow me.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">跟我来。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_and_to_find_and_pant</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Maybe the rebels can offer me their help.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">叛军可能会提供帮助。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_I_am_waiting_for_you_common_follow_me</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">I am waiting for you. Follow me now.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">我正在等你，过来，跟着我。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_rest_in_pieces</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">The usurper damned these souls.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">篡位者亵渎了这些灵魂。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ah_finally_long_time_we_are_looking_for_you_ui_we_heard_about_your_unusual_magical_abilities_you_should_be_very_powerful_to_escape_the_republic_prison</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ah, finally! We were looking for you. We heard about your unusual abilities. They must be very helpful, considering you escaped the Republic's Prison.</Data></Cell>
+    <Cell><Data ss:Type="String">啊， 终于！我们找你找了很久了，我听说了你的非同寻常的能力。他们肯定没有夸大其词，因为你成功逃离了共和国的监狱。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_this_door_is_blocked</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">The way is blocked.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">这条路被挡住了。我需要找另一条路。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_welcome_in_amarth_our_hidden_camp_located_in_the_ruin_of_an_old_mountain_fortress_dont_worry_we_all_share_magical_powers_here_a_long_time_ago_it_was_a_usual_trait_among_our_people</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Welcome to Amarth. Don't be afraid, we all share magical powers here. It used to be a common thing amongst our people.</Data></Cell>
+    <Cell><Data ss:Type="String">欢迎来到阿玛斯。别担心，我们会在这里分享魔法能量，这是件很普通的事情。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_srsly_none_of_this_zombies_had_a_pant</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">I'll also need pants.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">我还需要一些裤子。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_we_are_the_templars_of_amon_and_were_supposed_to_be_the_personnal_guard_of_theking_lineage</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">We are the templars of Amon, former personal guards of the slayed King.</Data></Cell>
+    <Cell><Data ss:Type="String">我们是埃蒙的圣殿骑士，在此之间，我们是被杀死的国王和皇室的私人保镖。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_light_finally</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Light, finally.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">终于看到光了。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_so_yes_theking_was_beheaded_and_we_failed_in_our_tasks_and_amon_is_now_angry_against_the_one_who_killed_his_representent_on_this_earth</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">His Grace was beheaded a long time ago. We failed our king, and Amon's anger is plain to see everywhere since then.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">国王身首异处的时候我们没能履行我们的职责。自那时起，埃蒙的愤怒从那时起遍布各地。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_aaahhh</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">You, there !</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">你在那里！</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_help_me</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Help me !</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">帮帮我！</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_is_that_you</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Over here ! We were looking for you when a savage creature wounded me.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">你在那里！我们在找你的时候受到了一个可怕的怪物的攻击！</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_we_were_looking_for_you</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">It disappeard when I struck it with my blade. Help me up, we have to join my Brothers.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">我用剑攻击的时候它逃走了。把我扶起来，我们还要去找其他人。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_careful_this_place_is_doomed</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Wait... I sense a powerful dark spell being cast upon us. Get ready, it's a trap !</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">等等！我感觉到一股强大的黑暗魔法。准备好！这是个陷阱！</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_they_are_coming_defend_yourself_my_brothers_are_close</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">My Brothers are coming soon, you have to hold on !</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">我的兄弟们马上就来了！坚持住！</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_glory_to_amon</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Glory to Amon !</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">埃蒙的荣耀！</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_need_any_help_seems_we_arrive_at_the_right_time</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Thanks Amon we arrived in time.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">感谢埃蒙我们来得还算及时。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_did_you_bring_a_pant</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Where did those foul creatures come from ?</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">这些怪物是从哪里来的？</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_wat_hm_impressive_fighting_talent_you_have_we_can_use_your_help</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">These monstrosities are the fruit of the Usurper's work, and I guess they were going to run the same experiments on you.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">这些怪物是篡位者的实验品。我想他们准备对你做同样的实验。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_if_you_say_so</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Is that because of these strange powers I have ? Do you know what is happening to me ?</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">这难道就是我获得这些奇怪力量的原因么？我到底怎么了？</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_brothernoctis_help_brotherleon_we_go_back_to_amarth</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Brother Noctis, give a hand to Brother Leon. We go back to Amarth, I'll explain everything there.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">诺克提斯，在我们撤回阿玛斯的时候帮帮利昂，。我会解释这里发生的一切。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:StyleID="s79"/>
-    <Cell ss:StyleID="s74"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">escape_the_prison</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Escape the prison</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">逃离监狱</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_find_your_way_out_of_prison</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Find a safe place</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">逃生</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_talk_to_the_wounded_templar</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Talk to the wounded templar</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">与受伤的圣殿骑士交谈</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">the_escape</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">The escape</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">逃离</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_survive_the_ambush</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Survive the ambush</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">在伏击中存活</Data></Cell>
-   </Row>
-   <Row>
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">QUESTSARENA TRAINING</Data></Cell>
-    <Cell ss:StyleID="s73"/>
-    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_hm_wait_a_minut_something_is_going_on</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Hmm, wait a minute. Something unexpected is going on.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">嗯，等等，有情况。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_we_will_need_to_test_your_abilities_in_combat_Go_find_Torvus_in_front_of_the_arena_and_come_back_to_me_when_you_are_trained</Data></Cell>
-    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_FatherGernez_we_see_a_burning_chariot_close_from_here</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Father Gernez, we just spotted a burning chariot not far from here.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">神父，我们发现附近有一辆战车正在燃烧。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_I_heard_we_finally_found_you_lets_see_what_you_worth_in_combat_big_guy</Data></Cell>
-    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_strange_we_are_not_expecting_anyone_we_should_take_a_look</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Strange, it may be another outlaw raid. Go take a look.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">奇怪，可能是又一次暴徒袭击，我们应该过去看看。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_pick_a_weapon_to_learn_how_to_use_them</Data></Cell>
-    <Cell ss:StyleID="s92"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="116" ss:Height="45">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_combos_desc_shield</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Weapon and Shield uses defense as a mean of offense. Attacking with your weapon increases the amount of damage reflected to the enemies, and blocking with your shield will increase armor vs. hits form the front.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">武器和盾牌以攻为守。用你的武器攻击会提高对敌人的反弹伤害，用盾牌格挡会提高前方攻击的护甲。</Data></Cell>
-   </Row>
-   <Row ss:Height="45">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_combos_desc_onehandedblade</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Wield lighter one-handed weapons with all your strength to deliver swift and powerfull blows. You get increased attack damage while holding a single weapon, and get to equip any skill in your free-hand slot.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">用你的全部力量装备轻型单手武器来发动快速而强力的打击。装备一把武器时，你的攻击伤害有所提高，并且可以在徒手栏装备任何技能。</Data></Cell>
-   </Row>
-   <Row ss:Height="45">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_combos_desc_twohandedblade</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Great Swords require more finesse than other two-handed weapons. Slash at your enemies and finish on a thrusting hit. Charge-up a powerful thrust-attack that will pierce multiple enemies in its path. </Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">巨剑需要的技巧比其他双手武器更多。朝敌人猛砍并用强大的攻击终结他们。充能攻击会穿刺路径上的多个敌人。</Data></Cell>
-   </Row>
-   <Row ss:Height="45">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_combos_desc_hammer</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Great Hammers blows have a chance to stun and send your enemies flying away. The third hit always stuns a single enemy. Charge-up to expulse everyone around you with massive damage.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">巨锤攻击有一定几率击晕和击飞你的敌人。第三次攻击总是击晕一个敌人。充能攻击会用巨大的伤害推开周围的敌人。</Data></Cell>
-   </Row>
-   <Row ss:Height="45">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_combos_desc_dagger</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Dual Daggers is a lightning-fast style that exploits the weaknesses of foes. Every stab will increase the amount of bleeding damage you can inflict, while the special attack makes enemies around you bleed for a portion of their current health</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">双匕首是利用敌人弱点的快如闪电的攻击方式。每次攻击会提高你造成的流血伤害，而特殊攻击会使周围的敌人流血，造成他们当前生命值一定百分比的伤害。</Data></Cell>
-   </Row>
-   <Row ss:Height="45">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_combos_desc_dualwield</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Take a weapon in each hand to unleash fury upon your foes. Each blow increases your critical damage potential, while the charged attack will inflict a critical hit. You suffer reduced attack damage while dual wielding.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">在每个手上装备一把武器朝你的敌人释放怒火。每次攻击提高你的爆击伤害，而充能冲击会造成爆击。装备两把武器时你受到的攻击伤害降低。</Data></Cell>
-   </Row>
-   <Row ss:Height="30">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_combo_desc_twohandedaxe</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Slash away at your foes. Charge your attack to slash the air so hard that a blade is fired at enemies in front of you</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">猛砍你的敌人。充能攻击会点燃你前方的敌人。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">BrotherHenoch_go_take_a_look_and_take_our_new_friend_with_you_he_will_visit_the_area_that_way</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">And bring our new friend with you, he may prove resourceful.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">带上你的新朋友吧，他是个足智多谋的家伙。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_you_lead_the_way</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Please, lead the way.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">你带路吧。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_I_am_following_you</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">I am following you.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">我会跟着你。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_I_am_here_to_assist_you</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">I am here to assist you.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">我来帮你。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_Are_Amons_Templar_I_come_to_join_the_forces_of_father_gernez</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Greetings, Templars of Amon. I came to join the forces of Father Gernez.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">你好，埃蒙的圣殿骑士！我也来加入神父格尼兹的教团。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">QUESTS 2</Data></Cell>
-    <Cell ss:StyleID="s73"/>
-    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_who_are_you</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Who are you?</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">你是谁？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"><Data ss:Type="String">the_rescue</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">The rescue</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">援救</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"><Data ss:Type="String">escape_the_prison</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Escape the prison</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">逃脱监狱</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"><Data ss:Type="String">ui_talk_to_fathergernez</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Talk to Father Gernez</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">与神父格尼兹交谈</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"><Data ss:Type="String">ui_find_the_assault_location</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Find the assault location</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">找到进攻位置</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"><Data ss:Type="String">ui_talk_to_Luthor</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Talk to Luthor</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">与卢瑟交谈</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"><Data ss:Type="String">ui_retrieve_luthors_stash</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Retrieve Luthors's stash</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">找到卢瑟的藏匿处</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"><Data ss:Type="String">ui_go_back_to_luthor</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Go back to Luthor</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">向卢瑟汇报</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"><Data ss:Type="String">ui_return_in_town_and_talk_to_fathergernez</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Return in town and talk to Father Gernez</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">回到城镇并与神父格尼兹交谈</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"><Data ss:Type="String">ui_luthor_stash</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Luthor's stash</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">卢瑟的藏匿处</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"/>
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s74"/>
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_follow_me_my_friend</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Follow me, friend.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">跟着我，朋友。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_over_here</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Over here.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">这边。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_common_follow_me</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Come on, follow me.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">跟我来。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_I_am_waiting_for_you_common_follow_me</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">I am waiting for you. Follow me now.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">我正在等你，过来，跟着我。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_ah_finally_long_time_we_are_looking_for_you_ui_we_heard_about_your_unusual_magical_abilities_you_should_be_very_powerful_to_escape_the_republic_prison</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Ah, finally! We were looking for you. We heard about your unusual abilities. They must be very helpful, considering you escaped the Republic's Prison.</Data></Cell>
-    <Cell ss:StyleID="s85"><ss:Data ss:Type="String"
-      xmlns="http://www.w3.org/TR/REC-html40">啊，<Font html:Face="Arial"
-       x:Family="Swiss"> </Font><Font>终于！我们找你找了很久了，我听说了你的非同寻常的魔法技能。他们肯定没有夸大其词，因为你成功逃离了共和国的监狱。</Font></ss:Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_welcome_in_amarth_our_hidden_camp_located_in_the_ruin_of_an_old_mountain_fortress_dont_worry_we_all_share_magical_powers_here_a_long_time_ago_it_was_a_usual_trait_among_our_people</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Welcome to Amarth. Don't be afraid, we all share magical powers here. It used to be a common thing amongst our people.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">欢迎来到阿玛斯。别担心，我们会在这里分享魔法能量，这是件很普通的事情。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_we_are_the_templars_of_amon_and_were_supposed_to_be_the_personnal_guard_of_theking_lineage</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">We are the templars of Amon, former personal guards of the slayed King.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">我们是埃蒙的圣殿骑士，在此之间，我们是被杀死的国王和皇室的私人保镖。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_so_yes_theking_was_beheaded_and_we_failed_in_our_tasks_and_amon_is_now_angry_against_the_one_who_killed_his_representent_on_this_earth</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">His Grace was beheaded a long time ago. We failed our king, and Amon's anger is plain to see everywhere since then.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">国王身首异处的时候我们没能履行我们的职责。自那时起，埃蒙的愤怒从那时起遍布各地。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:Index="4" ss:StyleID="s74"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_hm_wait_a_minut_something_is_going_on</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Hmm, wait a minute. Something unexpected is going on.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">嗯，等等，有情况。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_FatherGernez_we_see_a_burning_chariot_close_from_here</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Father Gernez, we just spotted a burning chariot not far from here.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">神父格尼兹，我们发现附近有一辆战车正在燃烧。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_strange_we_are_not_expecting_anyone_we_should_take_a_look</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Strange, it may be another outlaw raid. Go take a look.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">奇怪，可能是又一次暴徒袭击，我们应该过去看看。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">BrotherHenoch_go_take_a_look_and_take_our_new_friend_with_you_he_will_visit_the_area_that_way</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">And bring our new friend with you, he may prove resourceful.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">带上你的新朋友吧，他是个足智多谋的家伙。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_you_lead_the_way</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Please, lead the way.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">你带路吧。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_I_am_following_you</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">I am following you.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">我会跟着你。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_I_am_here_to_assist_you</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">I am here to assist you.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">我来帮你。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:Index="4" ss:StyleID="s74"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_Are_Amons_Templar_I_come_to_join_the_forces_of_father_gernez</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Greetings, Templars of Amon. I came to join the forces of Father Gernez.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">你好，埃蒙的圣殿骑士！我也来加入神父格尼兹的部队。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_who_are_you</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Who are you?</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">你是谁？</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_I_am_general_Luthor_ex_officer_of_the_republic_I_was_approched_by_BrotherSigmur_in_the_capitol</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">I am General Luthor, former officer of the Republic. I was approched by Brother Sigmur in the Capitol.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">我是卢瑟将军，前共和国军官。议会的希格穆尔派我来这里。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_I_am_general_Luthor_ex_officer_of_the_republic_I_was_approched_by_BrotherSigmur_in_the_capitol</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">I am General Luthor, former officer of the Republic. I was approched by Brother Sigmur in the Capitol.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">我是卢瑟将军，前共和国军官。议会的希格穆尔派我来这里。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_he_new_about_my_special_powers_and_asked_me_to_join_your_campement_before_anything_wrong_happened_to_me_Seems_our_leaders_enjoy_experiencing_over_the_body_of_magical_infused_people</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">He knew about my special powers and asked me to join your camp. Rumors say that people like us are tortured and experimented on by several Republic leaders.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">他了解了我的特殊的能力然后让我来加入你们。有传言说有多个共和国领袖对那些似乎有魔法的人进行了折磨和实验。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_he_new_about_my_special_powers_and_asked_me_to_join_your_campement_before_anything_wrong_happened_to_me_Seems_our_leaders_enjoy_experiencing_over_the_body_of_magical_infused_people</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">He knew about my special powers and asked me to join your camp. Rumors say that people like us are tortured and experimented on by several Republic leaders.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">他知道我拥有特殊技能的情况，要求我在局面失去控制之前加入你的营地。有传言说像多个共和国领袖对那些似乎有魔法的人进行了折磨和实验。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_no_kidding</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">No kidding.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">不开玩笑。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_no_kidding</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">No kidding.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">不开玩笑。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_listen_I_have_important_info_about_the_limbo_that_spread_among_the_population_please_help_me_to_get_my_stuff_back_from_my_chariot_and_I_will_glady_reward_you</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Listen, I have important information about the curse that spread amongst us. Just help me get my stuff back from the chariot and then we'll talk.</Data></Cell>
+    <Cell><Data ss:Type="String">听着，我有很重要的关于诅咒在人们中扩散的消息。但首先，我的战车在来营地的路上遭到了伏击。请帮我拿回我的东西。我很愿意给你奖励。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_listen_I_have_important_info_about_the_limbo_that_spread_among_the_population_please_help_me_to_get_my_stuff_back_from_my_chariot_and_I_will_glady_reward_you</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Listen, I have important information about the curse that spread amongst us. Just help me get my stuff back from the chariot and then we'll talk.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">听着，我有很重要的关于诅咒在人们中扩散的消息。但首先，我的战车在来营地的路上遭到了伏击。请帮我拿回我的东西。我很愿意给你奖励。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_you_mean_there_is_some_stuff_to_loot_in_your_chariot_sure_lets_go</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Sure, let's go.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">没问题，我们走。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_you_mean_there_is_some_stuff_to_loot_in_your_chariot_sure_lets_go</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Sure, let's go.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">没问题，我们走。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_what_a_coward</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">What a coward.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">真是个懦夫。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_what_a_coward</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">What a coward.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">真是个懦夫。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_why_are_we_even_doing_it</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Why are we even doing this ?</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">我们为什么要这么做？</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_why_are_we_even_doing_it</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Why are we even doing this ?</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">我们为什么要这么做？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_he_said_loot</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">I heard &quot;loot&quot;.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">他说有战利品。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_he_said_loot</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">I heard &quot;loot&quot;.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">他说有战利品。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:StyleID="s79"/>
-    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_thank_you_so_much_for_this_these_items_are_very_precious</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Thank you so much, these items are very precious to me.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">非常感谢，这些物品真的很宝贵。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_thank_you_so_much_for_this_these_items_are_very_precious</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Thank you so much, these items are very precious to me.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">非常感谢，这些物品真的很宝贵。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_lets_go_and_meet_gather_gernez</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Let's go and meet Father Gernez now.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">让我们回到神父格尼兹那里。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_lets_go_and_meet_gather_gernez</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Let's go and meet Father Gernez now.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">让我们回到神父格尼兹那里。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:StyleID="s79"/>
-    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_so_here_is_our_mysterious_stranger</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Looks like another mysterious stranger.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">看来我们的营地又来了个神秘的陌生人。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_so_here_is_our_mysterious_stranger</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Looks like another mysterious stranger.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">看来我们的营地又来了个神秘的陌生人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_fathergernez_brotherSigmur_is_sending_me_here_because_of_my_special_abilities</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Father Gernez, Brother Sigmur sent me here for my own protection, and he said maybe I could help you.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">神父格尼兹，希格穆尔出于保护我的原因把我送到了这里，他说我能帮助你。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_fathergernez_brotherSigmur_is_sending_me_here_because_of_my_special_abilities</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Father Gernez, Brother Sigmur sent me here for my own protection, and he said maybe I could help you.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">神父格尼兹，希格穆尔出于保护我的原因把我送到了这里，他说我能帮助你。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_Sigmur_also_wanted_me_to_confirm_that_the_curse_of_limo_is_now_affecting_everyone_in_the_cities_except_the_rulers_of_the_republic</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">He also wanted me to tell you that the curse of Limbo has now affected everyone in the cities except Republic leaders.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">希格穆尔也想让我给你传达个信息。诅咒似乎正在影响这个城市中的每个人。奇怪的是，共和国的统治者似乎不受影响。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_Sigmur_also_wanted_me_to_confirm_that_the_curse_of_limo_is_now_affecting_everyone_in_the_cities_except_the_rulers_of_the_republic</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">He also wanted me to tell you that the curse of Limbo has now affected everyone in the cities except Republic leaders.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">希格穆尔也想让我给你传达个信息。诅咒似乎正在影响这个城市中的每个人。奇怪的是，共和国的统治者似乎不受影响。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_this_is_what_I_afraid_of</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">This is what I was afraid of.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">这是我所害怕的。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_this_is_what_I_afraid_of</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">This is what I was afraid of.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">这是我所害怕的。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_what_are_you_talking_about_do_you_know_why_everybody_loose_its_memory</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">What are you talking about? Do you know why everybody lost his memory?</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">你的意思是？你知道为什么每个人都失去记忆？</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_what_are_you_talking_about_do_you_know_why_everybody_loose_its_memory</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">What are you talking about? Do you know why everybody lost his memory?</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">你的意思是？你知道为什么每个人都失去了记忆？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_not_really_but_we_are_not_affected_by_it_nor_the_people_who_captured_you</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Maybe. Neither are we affected by it, nor the Usurper of the throne.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">不全是，但似乎我们还没有受到影响，还有抓你的那些人。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_not_really_but_we_are_not_affected_by_it_nor_the_people_who_captured_you</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Maybe. Neither are we affected by it, nor the Usurper of the throne.</Data></Cell>
+    <Cell><Data ss:Type="String">不全是，但似乎我们还没有受到影响，还有抓你的那些人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_I_also_have_several_books_from_Sigmur_for_you_fatherGernez_he_said_they_are_precious_and_many_ancient_secret_are_hidden_in_them</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Sigmur also requested me to give you these books. They hold ancient and powerful secrets.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">希格穆尔还有几本书要我带给你，这些书里有着古老而强大的秘密。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_I_also_have_several_books_from_Sigmur_for_you_fatherGernez_he_said_they_are_precious_and_many_ancient_secret_are_hidden_in_them</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Sigmur also requested me to give you these books. They hold ancient and powerful secrets.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">希格穆尔还有几本书要我带给你，这些书里有着古老而强大的秘密。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_interesting_I_will_check_than_leave_me_alone_for_now</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Thanks, I will take a look. Leave me alone for now.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">有趣…原谅我还需要进行更进一步的调查。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_interesting_I_will_check_than_leave_me_alone_for_now</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Thanks, I will take a look. Leave me alone for now.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">有趣…原谅我还需要进行更进一步的调查。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_BrotherGoriel_wants_to_talk_to_you_oh_and_here_is_for_you_choose_one</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Oh wait, this is for you.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">哦稍等，这是给你的。</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_BrotherGoriel_wants_to_talk_to_you_oh_and_here_is_for_you_choose_one</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Oh wait, this is for you.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">哦稍等，这是给你的。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s78"/>
-    <Cell ss:StyleID="s79"/>
-    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_good_job_on_thisrecon_my_son_here_is_agift_for_you_come_back_to_me_when_you_are_rested</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Good job on this recon my Son, here's a gift for you. You should rest, and come back when you are ready for more action.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">侦查工作干得好，小子。这是对你的努力的奖励。你先休息一下，完全恢复后再来找我吧。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">ui_good_job_on_thisrecon_my_son_here_is_agift_for_you_come_back_to_me_when_you_are_rested</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Good job on this recon my Son, here's a gift for you. You should rest, and come back when you are ready for more action.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">侦查工作干得好，小子。这是对你的努力的奖励。你先休息一下，完全恢复后再来找我吧。</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_come_back_and_go_grab_an_armor</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Come back when you are ready. In the mean time, you should check our merchant's inventory and grab an armor.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">准备好后就回来吧。同时，你应该到商人处看看并获得一件护甲。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
-    <Cell ss:Index="2" ss:StyleID="s83"><Data ss:Type="String">ui_come_back_and_go_grab_an_armor</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Come back when you are ready. In the mean time, you should check our merchant's inventory and grab an armor.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">准备好后就回来吧。同时，你应该到商人处看看并获得一件护甲。</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_talk_to_Torvus</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">If you want to test yourself in combat, talk to Torvus on the other side of this place, he may have good challenges for you.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">如果你想在战斗中测试你自己，和另一边的托维斯谈谈，他可能有些不错的挑战。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s83"><Data ss:Type="String">ui_talk_to_Torvus</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">If you want to test yourself in combat, talk to Torvus on the other side of this place, he may have good challenges for you.</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">如果你想在战斗中测试你自己，和另一边的托维斯谈谈，他可能有些不错的挑战。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">QUESTS 3</Data></Cell>
-    <Cell ss:StyleID="s73"/>
-    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">QUESTS 3</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_goot_to_see_you_are_ready_for_action</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Good to see you are willing to help.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">很高兴看到你愿意提供帮助。</Data></Cell>
+    <Cell><Data ss:Type="String">ui_goot_to_see_you_are_ready_for_action</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Good to see you are willing to help.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">很高兴看到你愿意提供帮助。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_we_hide_here_in_amarth_aplace_of_peace_in_the_middle_of_a_savage_world_full_of_dangers_and_monstruous_creature</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">We hide here in Amarth, a land of peace lost in a quite brutal world. We built this camp in the ruins of an old fortress, and are shielded by the moutains surrounding it.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">我们藏在阿玛斯，一个迷失在野蛮世界中的平静之地。我们在一座古代要塞的废墟中建立了这座营地，受到周围的山脉保护。</Data></Cell>
+    <Cell><Data ss:Type="String">ui_we_hide_here_in_amarth_aplace_of_peace_in_the_middle_of_a_savage_world_full_of_dangers_and_monstruous_creature</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">We hide here in Amarth, a land of peace lost in a quite brutal world. We built this camp in the ruins of an old fortress, and are shielded by the moutains surrounding it.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">我们藏在阿玛斯，一个迷失在野蛮世界中的平静之地。我们在一座古代要塞的废墟中建立了这座营地，受到周围的山脉保护。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_you_will_need_to_know_your_environement_if_you_want_to_survive</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">But even here, you're not safe. You need to know your environment if you want to survive.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">但即使在这里，你也不是真正的安全。如果你想生存，你需要先了解我们的环境。</Data></Cell>
+    <Cell><Data ss:Type="String">ui_you_will_need_to_know_your_environement_if_you_want_to_survive</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">But even here, you're not safe. You need to know your environment if you want to survive.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">但即使在这里，你也不是真正的安全。如果你想活下来，需要先了解周围的环境。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_the_area_around_our_fortified_camp_is_full_of_danger_but_you_can_find_a_lot_of_useful_plants_and_materials</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The wild land nearby is quite dangerous, but you can find a lot of useful plants and materials there if you know where to look.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">周围的荒地充满了危险，但你可以找到很多有用的植物和材料。</Data></Cell>
+    <Cell><Data ss:Type="String">ui_the_area_around_our_fortified_camp_is_full_of_danger_but_you_can_find_a_lot_of_useful_plants_and_materials</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The wild land nearby is quite dangerous, but you can find a lot of useful plants and materials there if you know where to look.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">周围的荒地充满了危险，但你可以找到很多有用的植物和材料。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_go_ande_explore_the_area_around_amarth_and_bring_me_back_healing_ferns_I_will_cook_you_a_helpful_potion</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Explore the forest and bring me some healing ferns that grow near the river. I will craft you a helpful potion with those.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">探索这片森林，然后给我带回一些生长在河流周围的治疗蕨类植物吧。我会为你制作一些有用的药水。</Data></Cell>
+    <Cell><Data ss:Type="String">ui_go_ande_explore_the_area_around_amarth_and_bring_me_back_healing_ferns_I_will_cook_you_a_helpful_potion</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Explore the forest and bring me some healing ferns that grow near the river. I will craft you a helpful potion with those.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">探索这片森林，然后给我带回一些生长在河流周围的治疗蕨类植物吧。我会为你制作一些有用的药水。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s88"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_great_job_my_son_these_plants_are_very_powerful</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Great job, Son. These plants are very useful, you should remember it.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">干得好，小子，这些植物非常强大。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_let_me_mix_it_with_mmy_preparation_annnd__here_it_is_this_is_for_you</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Let me mix it with my preparation…  And please take this potion as a gift.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">我需要一些时间在准备混合剂。拿着这个，对你应该会有用。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_go_back_to_gernez</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Go back to Father Gernez</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">回到神父格尼兹那里</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="198" ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">the_cure</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The Cure</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">治愈</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="2" ss:StyleID="s26"/>
+    <Cell ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data ss:Type="String">ui_great_job_my_son_these_plants_are_very_powerful</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Great job, Son. These plants are very useful, you should remember it.</Data></Cell>
+    <Cell><Data ss:Type="String">干得好，小子，这些植物非常强大。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_let_me_mix_it_with_mmy_preparation_annnd__here_it_is_this_is_for_you</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Let me mix it with my preparation…  And please take this potion as a gift.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">我需要一些时间在准备混合剂。拿着这个，对你应该会有用。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_go_back_to_gernez</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Go back to Father Gernez</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">回到神父格尼兹那里</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_find_the_river_close_to_amarth</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Find the river close to Amarth</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">找到阿玛斯附近的河流</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_find_fern_in_the_forest</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Find Ferns close to the river</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">沿河找到蕨类植物</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">the_cure</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Cure</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">治愈</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:StyleID="s83"><Data ss:Type="String">QUESTS 4</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">stalkers</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Stalkers</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">追踪者</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">find_the_old_ruins</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Find the old ruins</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">找到旧废墟</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">QUESTS 4</Data></Cell>
-    <Cell ss:StyleID="s73"/>
-    <Cell ss:StyleID="s73"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">stalkers</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Stalkers</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">追踪者</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">find_the_old_ruins</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Find the old ruins</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">找到旧废墟</Data></Cell>
+    <Cell><Data ss:Type="String">kill_the_skeleton_overlord</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Kill the Skeleton Overlord</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">杀死骷髅王</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
-    <Cell ss:Index="2"><Data ss:Type="String">kill_the_skeleton_overlord</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Kill the Skeleton Overlord</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">杀死骷髅王</Data></Cell>
+    <Cell><Data ss:Type="String">I_have_a_very_important_task_for_you_and_no_one_else_can_manage_it_at_the_moment</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I now have a much harder task for you that no one else can handle at the moment.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">我现在有更困难的任务给你，目前还没有其他人能够完成。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">I_have_a_very_important_task_for_you_and_no_one_else_can_manage_it_at_the_moment</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">I now have a much harder task for you that no one else can handle at the moment.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">我现在有更困难的任务给你，目前还没有其他人能够完成。</Data></Cell>
+    <Cell><Data ss:Type="String">undeads_raise_everywhere_around_amarth_and_we_need_to_make_it_stop_there_is_an_ancient_ruin_not_far_from_here</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Undeads are rising everywhere around Amarth, and we need to act before they outnumber us.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">亡灵在阿玛斯周围复活了，我们需要在它们的数量超过我们之前尽快采取行动。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
-    <Cell ss:Index="2"><Data ss:Type="String">undeads_raise_everywhere_around_amarth_and_we_need_to_make_it_stop_there_is_an_ancient_ruin_not_far_from_here</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Undeads are rising everywhere around Amarth, and we need to act before they outnumber us.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">亡灵在阿玛斯周围复活了，我们需要在它们的数量超过我们之前尽快采取行动。</Data></Cell>
+    <Cell><Data ss:Type="String">Leon_thinks_he_saw_a_giant_skeleton_warrior_there_We_cannot_allow_these_dread_creature_to_come_so_close_from_amarth</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Brother Leon saw a giant skeleton warrior not far from here, and we cannot allow it to breed more creatures so close from us.</Data></Cell>
+    <Cell><Data ss:Type="String">利昂说他看到不远处有一个巨大的骷髅战士，我们不能让它在离我们如此近的地方复活更多的怪物。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">Leon_thinks_he_saw_a_giant_skeleton_warrior_there_We_cannot_allow_these_dread_creature_to_come_so_close_from_amarth</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Brother Leon saw a giant skeleton warrior not far from here, and we cannot allow it to breed more creatures so close from us.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">利昂说他看到不远处有一个巨大的骷髅战士，我们不能让它在离我们如此近的地方复活更多的怪物。</Data></Cell>
+    <Cell><Data ss:Type="String">find_the_old_ruin_and_kill_hat_undead_warrior</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Find the old ruin in the East and kill that aberration. Be careful though, it won't be alone.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">找到东边的旧废墟并杀死那个怪物。小心点，它可不会单独作战。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">find_the_old_ruin_and_kill_hat_undead_warrior</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Find the old ruin in the East and kill that aberration. Be careful though, it won't be alone.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">找到东边的旧废墟并杀死那个怪物。小心点，它可不会单独作战。</Data></Cell>
+    <Cell><Data ss:Type="String">great_job_The_growing_presence_of_undead_around_amarth_is_the_result_of_experiment_from_the_republic</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Great job, Son. You need to know that the ongoing breeding of undeads around here is the result of dark experiments conducted by sorcerers of the Republic.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">你击败了骷髅王？干得好。同时我们了解到那一大群复活的亡灵是共和国的巫师们的黑暗实验的结果。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">great_job_The_growing_presence_of_undead_around_amarth_is_the_result_of_experiment_from_the_republic</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Great job, Son. You need to know that the ongoing breeding of undeads around here is the result of dark experiments conducted by sorcerers of the Republic.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">你击败了骷髅王？干得好。同时我们了解到那一大群复活的亡灵是共和国的巫师们的黑暗实验的结果。</Data></Cell>
+    <Cell><Data ss:Type="String">for_a_long_time_the_usurpators_try_to_harness_the_power_of_shaping_life</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">For ages, the Usurper has tried to harness the power of shaping existence according to his will. This sacred force is known as Umbra.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">篡位者已经尝试利用这种塑造生命的力量很久了。这种神圣的力量被称之为本影。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">for_a_long_time_the_usurpators_try_to_harness_the_power_of_shaping_life</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">For ages, the Usurper has tried to harness the power of shaping existence according to his will. This sacred force is known as Umbra.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">篡位者已经尝试利用塑造生命的力量很久了。这种神圣的力量称之为本影。</Data></Cell>
+    <Cell><Data ss:Type="String">the_reason_they_captured_you_was_mostly_to_study_your_ability_to_shape_the_world_thanks_to_the_Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I'm guessing they captured you in order to study your affinity with the Umbra, since you seem to interact with it without knowing its existence.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">我想他们抓你的原因是为了学习你与本影之间的联系，因为你似乎能在不知道本影存在的情况下与之产生相互作用。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">the_reason_they_captured_you_was_mostly_to_study_your_ability_to_shape_the_world_thanks_to_the_Umbra</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">I'm guessing they captured you in order to study your affinity with the Umbra, since you seem to interact with it without knowing its existence.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">我想他们抓你的原因是为了学习你与本影之间的联系，因为你似乎能在不知道本影存在的情况下产生相互作用。</Data></Cell>
+    <Cell><Data ss:Type="String">The_Umbra_is_the_power_Amon_provdied_us_hundred_years_ago_to_free_ourself_from_the_tyranny_of_the_Devourer_a_faction_of_giant_creature_feeding_from_humans_flesh</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You should know that Umbra is the power Amon provided us hundreds of years ago, to free ourself from the tyranny of the Devourers, giant creatures feeding from our flesh.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">本影是埃蒙几百年以前赋予我们的力量，为了将我们从吞噬者的残暴统治中解救出来，他们巨人以我们人类的肉体为食。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">The_Umbra_is_the_power_Amon_provdied_us_hundred_years_ago_to_free_ourself_from_the_tyranny_of_the_Devourer_a_faction_of_giant_creature_feeding_from_humans_flesh</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">You should know that Umbra is the power Amon provided us hundreds of years ago, to free ourself from the tyranny of the Devourers, giant creatures feeding from our flesh.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">本影是埃蒙几百年以前给我们的力量，为了将我们从吞噬者的残暴统治中解救出来，他们巨人以我们人类的肉体为食。</Data></Cell>
+    <Cell><Data ss:Type="String">all_templars_are_teach_how_to_manipulate_the_Umbra_but_you_my_friend_shows_amazing_abilities_to_shape_its_power</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">All templars are taught to understand and manipulate the Umbra, but you shown amazing abilities with it without even noticing. That's… unusual.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">所有圣殿骑士都学会了理解和控制本影的力量，但你在不知道本影的情况下展示出了神奇的力量，这非同寻常。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
-    <Cell ss:Index="2"><Data ss:Type="String">all_templars_are_teach_how_to_manipulate_the_Umbra_but_you_my_friend_shows_amazing_abilities_to_shape_its_power</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">All templars are taught to understand and manipulate the Umbra, but you shown amazing abilities with it without even noticing. That's… unusual.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">所有圣殿骑士都被教会了理解和控制本影的力量，但你在不知道本影的情况下展示出了神奇的力量，这非同寻常。</Data></Cell>
+    <Cell><Data ss:Type="String">We_have_work_to_do_but_come_back_to_me_soon_you_may_be_the_key_of_what_amon_is_preparing_for_us</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Right now I have work to do, but come back to me soon. It seems that Amon sent you to us at the right time.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">现在我还有工作要做，但请尽快回到我这里来。看来埃蒙在正确的时间把你送到我们这里来了。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">We_have_work_to_do_but_come_back_to_me_soon_you_may_be_the_key_of_what_amon_is_preparing_for_us</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Right now I have work to do, but come back to me soon. It seems that Amon sent you to us at the right time.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">现在我还有工作要做，但尽快回到我这里来。看来埃蒙在正确的时间把你送到我们这里来。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="222" ss:AutoFitHeight="0" ss:Height="25.5">
-    <Cell ss:Index="2"><Data ss:Type="String">exploration</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Exploration</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">探索</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">explore_the_world</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Explore the world!</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">探索世界</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">QUESTS 5</Data></Cell>
-    <Cell ss:StyleID="s73"/>
-    <Cell ss:StyleID="s73"/>
+    <Cell><Data ss:Type="String">ui_housing_available</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can stay with us if you wish. Talk to the HOUSE MASTER, we may have an empty house for you.</Data></Cell>
+    <Cell><Data ss:Type="String">如果你愿意的话可以在这里住下。找房屋主人谈谈，我们可能能给你找一间空房子。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell><Data ss:Type="String">buildYourHouse</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Build your house!</Data></Cell>
+    <Cell><Data ss:Type="String">建造你的房子！</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">talk_to_house_master</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Talk to the House Master</Data></Cell>
+    <Cell><Data ss:Type="String">与房屋主人谈话</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">exploration</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Exploration</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">探索</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">explore_the_world</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Explore the world!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data
+      ss:Type="String">探索世界</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">the_raid</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">The raid</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">突袭</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">good_to_see_you_we_need_your_help_more_and_more_cursed_creature_are_around_recently</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">This time, we need you to help us contain cursed creatures from the north. Not undeads, but wild orcs.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">这次我们需要你帮助我们牵制住北面的被诅咒的怪物。不是亡灵，而是野蛮的兽人。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
-    <Cell ss:Index="2"><Data ss:Type="String">we_have_spotted_a_large_group_of_orcs_close_to_this_place_god_know_why_they_are_here</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">We have spotted a large group of them patrolling the forest, and Amon alone knows what they are doing in those parts.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">我们发现有一大群兽人正在巡逻这片森林，只有埃蒙知道它们在干什么。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">they_are_using_an_abandonned_village_in_the_north_as_their_base_camp__we_certainly_dont_want_to_see_them_around</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">They are using an abandonned village in the north to regroup, and I fear their next raid could lead them here.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">它们正利用北面一座废弃的村庄来重新聚集，我担心它们的下一次袭击会把它们带到这里来。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">goriel_henoch_andseveral_other_brothers_are_on_site_goriel_wants_you_to_be_part_of_the_assault</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Brother Goriel, Henoch and several others are scouting not far from the village. I want you to join them for the assault.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">高利尔、亨诺克和其他人已经在村庄不远处侦查，我想让你也参与这次突袭。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2"><Data ss:Type="String">brother_huruem_fenris_and_horrock_will_follow_you_go_find_goriel_clean_the_area_and_try_to_find_why_these_cursed_creature_are_here</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Brother Huruem, Fenris and Horrock will follow you there. Find Goriel, clean the area and try to understand those creatures.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">胡鲁姆、芬瑞斯和霍洛克会跟着你。找到高利尔，清理那片区域，然后找到试着搞清楚这些怪物。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+    <Cell ss:Index="3" ss:StyleID="s75"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="240" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="174" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="8"/>
+   <Row ss:Index="184" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
-   <Row ss:Index="248" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="192" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
-   <Row ss:Index="254" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="198" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
-   <Row ss:Index="260" ss:AutoFitHeight="0" ss:Height="25.5"/>
-   <Row ss:Index="262" ss:AutoFitHeight="0" ss:Height="15" ss:Span="31"/>
-   <Row ss:Index="297" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="38"/>
-   <Row ss:Index="337" ss:AutoFitHeight="0" ss:Height="15" ss:Span="15"/>
-   <Row ss:Index="354" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="204" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="206" ss:AutoFitHeight="0" ss:Height="15" ss:Span="31"/>
+   <Row ss:Index="241" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="38"/>
+   <Row ss:Index="281" ss:AutoFitHeight="0" ss:Height="15" ss:Span="15"/>
+   <Row ss:Index="298" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="246"/>
-   <Row ss:Index="636" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="580" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="640" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
-   <Row ss:Index="719" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:Index="584" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
+   <Row ss:Index="663" ss:AutoFitHeight="0" ss:Height="18"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="724" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="727" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="731" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="734" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="738" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="741" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
-   <Row ss:Index="755" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="668" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="671" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="675" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="678" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="682" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="685" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="699" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="760" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="704" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="764" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="768" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="708" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="712" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
@@ -1489,11 +1164,11 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="777" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="721" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="780" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="724" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="784" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="728" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
@@ -1504,33 +1179,33 @@
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="798" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="800" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="742" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="744" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="807" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
-   <Row ss:Index="812" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="751" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="756" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="816" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
-   <Row ss:Index="820" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="822" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="825" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="829" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="831" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="760" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="764" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="766" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="769" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="773" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="775" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="835" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="838" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="845" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="779" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="782" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="789" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="848" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="792" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
-   <Row ss:Index="857" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="864" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+   <Row ss:Index="801" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="808" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -1541,6 +1216,7 @@
     <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
      x:Top="0.98425196850393704"/>
    </PageSetup>
+   <Unsynced/>
    <Print>
     <ValidPrinterInfo/>
     <PaperSizeIndex>9</PaperSizeIndex>
@@ -1549,12 +1225,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>105</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>121</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveRow>23</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
