@@ -1279,7 +1279,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_rageconservation_tooltip</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">The Delay before Umbra Regeneration restarts after gaining Rage. Rage Conservation is not triggered by spending Umbra or Rage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">在产生怒气后本影重新回复的延迟时间。怒气保存不会因消耗本影或怒气触发。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">在产生怒气后本影重新回复的延迟时间。怒气守恒不会因消耗本影或怒气触发。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ragegeneration_tooltip</Data></Cell>

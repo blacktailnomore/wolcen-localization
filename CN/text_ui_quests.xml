@@ -412,7 +412,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_srsly_none_of_this_zombies_had_a_pant</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">I'll also need pants.</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">我还需要一双裤子。</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">我还需要一条裤子。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_light_finally</Data></Cell>
@@ -1078,7 +1078,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_housing_available</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can stay with us if you wish. Talk to the HOUSE MASTER, we may have an empty house for you.</Data></Cell>
-    <Cell><Data ss:Type="String">如果你愿意的话可以在这里住下。找房屋主人谈谈，我们可能能给你找一间空房子。</Data></Cell>
+    <Cell><Data ss:Type="String">如果你愿意的话可以在这里住下。找房屋总管谈谈，我们可能能给你找一间空房子。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">buildYourHouse</Data></Cell>
@@ -1088,7 +1088,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">talk_to_house_master</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Talk to the House Master</Data></Cell>
-    <Cell><Data ss:Type="String">与房屋主人谈话</Data></Cell>
+    <Cell><Data ss:Type="String">与房屋总管谈话</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">exploration</Data></Cell>
