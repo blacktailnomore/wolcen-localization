@@ -548,7 +548,7 @@
     <Cell><Data ss:Type="String">ui_cs_healthregen</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Health Regeneration</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">生命再生</Data></Cell>
+      ss:Type="String">生命回复</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_strength</Data></Cell>
@@ -632,13 +632,13 @@
     <Cell><Data ss:Type="String">ui_cs_umbrageneration</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Umbra Regeneration</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">本影再生</Data></Cell>
+      ss:Type="String">本影回复</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_rageconservation</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Rage Conservation</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">怒气保持</Data></Cell>
+      ss:Type="String">怒气守恒</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ragegeneration</Data></Cell>
@@ -782,31 +782,31 @@
     <Cell><Data ss:Type="String">ui_cs_dashdmg</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Dash Damage</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">冲刺伤害</Data></Cell>
+      ss:Type="String">冲锋伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashrange</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Dash Range</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">冲刺范围</Data></Cell>
+      ss:Type="String">冲锋范围</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashragegeneration</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Dash Rage Generation</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">冲刺怒气生成</Data></Cell>
+      ss:Type="String">冲锋怒气生成</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashcdr</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Dash Cooldown Modifier</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">冲刺冷却加成</Data></Cell>
+      ss:Type="String">冲锋冷却加成</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dashspeed</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Dash Speed</Data></Cell>
     <Cell ss:StyleID="s79"><Data
-      ss:Type="String">冲刺速度</Data></Cell>
+      ss:Type="String">冲锋速度</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_thorndmg</Data></Cell>
@@ -1279,7 +1279,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_rageconservation_tooltip</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">The Delay before Umbra Regeneration restarts after gaining Rage. Rage Conservation is not triggered by spending Umbra or Rage.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">在产生怒气后本影再生的延迟时间。怒气保存不会因消耗本影或怒气触发。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">在产生怒气后本影重新回复的延迟时间。怒气保存不会因消耗本影或怒气触发。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ragegeneration_tooltip</Data></Cell>

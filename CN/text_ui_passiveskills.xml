@@ -4024,7 +4024,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CounterStrike</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Chance to perform a counter-attack when dodging (resolved as Thorns Damage)</Data></Cell>
-    <Cell><Data ss:Type="String">翻滚中有%1几率进行反击(同反弹伤害)</Data></Cell>
+    <Cell><Data ss:Type="String">翻滚中有%1几率进行反击(同荆棘伤害)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DualWieldDamageFactor</Data></Cell>
@@ -4034,7 +4034,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DualWieldDamageFactorBonus</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the Damage Factor of your weapons in Dual Wield (compensation to the natural damage reduction of Dual Wielding)</Data></Cell>
-    <Cell><Data ss:Type="String">%2武器伤害系数(提高自然伤害并降低双持伤害~)</Data></Cell>
+    <Cell><Data ss:Type="String">%2武器伤害系数(补偿双持伤害本身的伤害削减~)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_OneHandedMastery</Data></Cell>
@@ -4764,22 +4764,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Thorns</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 Thorns Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%2 反击伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%2 荆棘伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ThornsInc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Thorns Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%2 玩家的反击伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%2 玩家的荆棘伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ThornsIncMobsRadius</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to your Thorns Damage for each enemy in a %2 radius</Data></Cell>
-    <Cell><Data ss:Type="String">%2半径内每个敌人给玩家%1反弹伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%2半径内每个敌人给玩家%1荆棘伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ThornsIncOnHit</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to your Thorns Damage during %2 each time you hit an enemy (stackable %3 times)</Data></Cell>
-    <Cell><Data ss:Type="String">每次攻击敌人%1反弹伤害，持续%2(叠加%3次)</Data></Cell>
+    <Cell><Data ss:Type="String">每次攻击敌人%1荆棘伤害，持续%2(叠加%3次)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DeprecatedSkill</Data></Cell>
@@ -4894,7 +4894,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HealFromThorns</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Heals you from %2 of all the Thorns Damage you inflict</Data></Cell>
-    <Cell><Data ss:Type="String">所有反弹伤害的%2会治疗玩家</Data></Cell>
+    <Cell><Data ss:Type="String">所有荆棘伤害的%2会治疗玩家</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PhysResistWhenChanneling</Data></Cell>
