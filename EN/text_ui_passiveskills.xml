@@ -7,15 +7,15 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>UBBOSATHLA</LastAuthor>
-  <LastSaved>2016-10-26T16:05:19Z</LastSaved>
+  <LastSaved>2016-11-25T09:24:46Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>8430</WindowHeight>
-  <WindowWidth>24750</WindowWidth>
+  <WindowHeight>12360</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <ProtectStructure>False</ProtectStructure>
@@ -42,7 +42,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m323868368">
+  <Style ss:ID="m251083296">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -53,7 +53,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m323868388">
+  <Style ss:ID="m251083316">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -64,7 +64,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m323868408">
+  <Style ss:ID="m251083336">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -75,7 +75,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m323868428">
+  <Style ss:ID="m251083356">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -148,7 +148,10 @@
   <Style ss:ID="s84" ss:Parent="s26">
    <Alignment ss:Vertical="Center"/>
   </Style>
-  <Style ss:ID="s87" ss:Parent="s26">
+  <Style ss:ID="s87" ss:Parent="s28">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s88" ss:Parent="s26">
    <NumberFormat ss:Format="0%"/>
   </Style>
  </Styles>
@@ -156,7 +159,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="1004" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="1011" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:AutoFitWidth="0" ss:Width="225.75"/>
    <Column ss:AutoFitWidth="0" ss:Width="486.75"/>
@@ -170,7 +173,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m323868368"><Data ss:Type="String">CLASS NAMES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m251083296"><Data ss:Type="String">CLASS NAMES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_Section_Legionary</Data></Cell>
@@ -273,7 +276,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Necromancer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s72">
-    <Cell ss:MergeAcross="2" ss:StyleID="m323868388"><Data ss:Type="String">PST USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m251083316"><Data ss:Type="String">PST USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_cant_reach_this_skill_yet</Data></Cell>
@@ -346,7 +349,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Lore Master</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s72">
-    <Cell ss:MergeAcross="2" ss:StyleID="m323868408"><Data ss:Type="String">PASSIVE SKILLS NAMES AND LORE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m251083336"><Data ss:Type="String">PASSIVE SKILLS NAMES AND LORE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Legionary</Data></Cell>
@@ -2120,8 +2123,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_11_name</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Mercyless</Data></Cell>
-    <Cell><Data ss:Type="String">Mercyless</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Merciless</Data></Cell>
+    <Cell><Data ss:Type="String">Merciless</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_11_lore</Data></Cell>
@@ -2364,6 +2367,24 @@
     <Cell ss:StyleID="s26"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_38_name</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Perforation</Data></Cell>
+    <Cell><Data ss:Type="String">Perforation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_38_lore</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_39_name</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Fracture</Data></Cell>
+    <Cell><Data ss:Type="String">Fracture</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_39_lore</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Trickster</Data></Cell>
     <Cell ss:StyleID="s79"/>
     <Cell ss:StyleID="s80"/>
@@ -2388,8 +2409,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_3_name</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Perfect Dodge</Data></Cell>
-    <Cell><Data ss:Type="String">Perfect Dodge</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Gifted</Data></Cell>
+    <Cell><Data ss:Type="String">Gifted</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_3_lore</Data></Cell>
@@ -3018,7 +3039,7 @@
     <Cell><Data ss:Type="String">Who need swords when you control the Storm ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
-    <Cell ss:MergeAcross="2" ss:StyleID="m323868428"><Data ss:Type="String">PASSIVE SKILLS MAGIC EFFECTS DESCRIPTIONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m251083356"><Data ss:Type="String">PASSIVE SKILLS MAGIC EFFECTS DESCRIPTIONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_PST_Dexterity</Data></Cell>
@@ -3127,8 +3148,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AllStatsWhenDodgeSuccess</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">%1 to all Attributes during %2 when dodging an attack</Data></Cell>
-    <Cell><Data ss:Type="String">%1 to all Attributes during %2 when dodging an attack</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 to all Attributes during %2 when dodging or blocking an attack</Data></Cell>
+    <Cell><Data ss:Type="String">%1 to all Attributes during %2 when dodging or blocking an attack</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AllStatsButConstWhenFullHealth</Data></Cell>
@@ -3432,7 +3453,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SpellDamage</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to Spells Damage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Spells Damage</Data></Cell>
     <Cell><Data ss:Type="String">%2 to Spells Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -3482,22 +3503,22 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ElementalDOTDuration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">%2 to the duration of Burning, Freezing and Shocking effects you inflict</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">%2 to the duration of Burning, Freezing and Shocking effects you inflict</Data></Cell>
     <Cell><Data ss:Type="String">%2 to the duration of Burning, Freezing and Shocking effects you inflict</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ElemDotCrit</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Allows Burning and Shock effects to deal critical Damage and Freezing effects to get a critical duration multiplier</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Allows Burning and Shock effects to deal critical Damage and Freezing effects to get a critical duration multiplier</Data></Cell>
     <Cell><Data ss:Type="String">Allows Burning and Shock effects to deal critical Damage and Freezing effects to get a critical duration multiplier</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CricitalFrostAndFreezeChance</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 to your Critical Chance (Spells &amp; Physical) with Frost Damage and %2 to your Freeze Chance with Frost Damage</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">%1 to your Critical Chance (Spells &amp; Physical) with Frost Damage and %2 to your Freeze Chance with Frost Damage</Data></Cell>
     <Cell><Data ss:Type="String">%1 to your Critical Chance (Spells &amp; Physical) with Frost Damage and %2 to your Freeze Chance with Frost Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FreezeDuration</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">%2 to the duration of all Freezing effects you inflict</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">%2 to the duration of all Freezing effects you inflict</Data></Cell>
     <Cell><Data ss:Type="String">%2 to the duration of all Freezing effects you inflict</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4147,8 +4168,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CriticalChanceAgainstPoisoned</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Critical Chance (Spells &amp; Physical) against poisoned enemies</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to Critical Chance (Spells &amp; Physical) against poisoned enemies</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to Critical Chance (Spells &amp; Physical) against poisoned or bleeding enemies</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to Critical Chance (Spells &amp; Physical) against poisoned or bleeding enemies</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CritChanceAgainstBleeding</Data></Cell>
@@ -4566,6 +4587,11 @@
     <Cell><Data ss:Type="String">Equipped Poisons refill %2 faster</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_PotionRefillBonus</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Equipped Potions and Poisons refill %2 faster</Data></Cell>
+    <Cell><Data ss:Type="String">Equipped Potions and Poisons refill %2 faster</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Rooted</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Your Dodge roll is permanently replaced by a Protection Form that lasts %2 per Stamina point (stackable %1 times) and gives you extra Armor, Stun, Knock-back and Blown-Away Resistances while reducing you Movement Speed. Fully compatible with what previously affected the Dodge Roll.</Data></Cell>
     <Cell><Data ss:Type="String">Your Dodge roll is permanently replaced by a Protection Form that lasts %2 per Stamina point (stackable %1 times) and gives you extra Armor, Stun, Knock-back and Blown-Away Resistances while reducing you Movement Speed. Fully compatible with what previously affected the Dodge Roll.</Data></Cell>
@@ -4677,7 +4703,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ShatterDamage</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Damage dealt to Frozen enemies</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Damage dealt to Frozen enemies</Data></Cell>
     <Cell><Data ss:Type="String">%1 Damage dealt to Frozen enemies</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4897,13 +4923,23 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BlockChance</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Blocking Chance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Blocking Chance</Data></Cell>
     <Cell><Data ss:Type="String">%2 to your Blocking Chance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BlockEfficiency</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Blocking Efficiency</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Blocking Efficiency</Data></Cell>
     <Cell><Data ss:Type="String">%2 to your Blocking Efficiency</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CriticalResistanceReduction</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Critical Strikes reduce all target's Resistances by %1 during %2</Data></Cell>
+    <Cell><Data ss:Type="String">Critical Strikes reduce all target's Resistances by %1 during %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_ArmorPiercingOnCritical</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 Armor Piercing on Critical Strikes</Data></Cell>
+    <Cell><Data ss:Type="String">%2 Armor Piercing on Critical Strikes</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -4923,11 +4959,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>939</TopRowVisible>
+   <TopRowVisible>409</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>963</ActiveRow>
+     <ActiveRow>431</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

@@ -11,7 +11,7 @@
   <LastAuthor>UBBOSATHLA</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2016-10-20T14:29:59Z</LastSaved>
+  <LastSaved>2016-12-01T13:29:25Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>8430</WindowHeight>
-  <WindowWidth>24750</WindowWidth>
+  <WindowHeight>12360</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -107,14 +107,14 @@
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s28" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#9C5700"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m369135104" ss:Parent="s40">
+  <Style ss:ID="m342390784" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +125,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m369135124" ss:Parent="s40">
+  <Style ss:ID="m342390804" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -136,7 +136,73 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m369135144" ss:Parent="s40">
+  <Style ss:ID="m342390824" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m342388912" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m342388932" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m342388952" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m342388972" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m342388992" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m342389012" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -183,10 +249,15 @@
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s80">
+  <Style ss:ID="s82">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
    <Interior/>
+  </Style>
+  <Style ss:ID="s83" ss:Parent="s28">
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
+   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
  </Styles>
  <Names>
@@ -199,7 +270,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="169" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="235" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:AutoFitWidth="0" ss:Width="243"/>
    <Column ss:AutoFitWidth="0" ss:Width="290.25"/>
@@ -213,7 +284,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m369135104"><Data ss:Type="String">WEAPONS </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342388912"><Data ss:Type="String">WEAPONS </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Shields</Data></Cell>
@@ -355,6 +426,36 @@
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Dagger</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">兽人匕首</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_PrimitiveDagger</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Primitive Dagger</Data></Cell>
+    <Cell><Data ss:Type="String">原始匕首</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_HuntingDagger</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hunting Dagger</Data></Cell>
+    <Cell><Data ss:Type="String">狩猎匕首</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_HuntingKnife</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hunting Knife</Data></Cell>
+    <Cell><Data ss:Type="String">狩猎刀</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_SteelDagger</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Steel Dagger</Data></Cell>
+    <Cell><Data ss:Type="String">钢匕首</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_IronDagger</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Iron Dagger</Data></Cell>
+    <Cell><Data ss:Type="String">铁匕首</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_SalvagedDagger</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Salvaged Dagger</Data></Cell>
+    <Cell><Data ss:Type="String">破旧的匕首</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">2H Hammers</Data></Cell>
@@ -537,17 +638,17 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_DrillerHammer</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">The Driller</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Driller</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">钻孔者</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_TheIceBreaker</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">The Ice Breaker</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Ice Breaker</Data></Cell>
     <Cell><Data ss:Type="String">破冰者</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m369135124"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342388932"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorType_Heavy</Data></Cell>
@@ -575,7 +676,7 @@
     <Cell><Data ss:Type="String">配件</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m369135144"><Data ss:Type="String">ARMORS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342388952"><Data ss:Type="String">ARMORS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Heavy</Data></Cell>
@@ -1140,50 +1241,340 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Bronze</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Bronze Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s82"><Data
       ss:Type="String">铜戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Emerald</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Emerald Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s82"><Data
       ss:Type="String">翡翠戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Pyrite</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Pyrite Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s82"><Data
       ss:Type="String">黄铁戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Ruby</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ruby Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s82"><Data
       ss:Type="String">红宝石戒指</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Ring_Silver</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Silver Ring</Data></Cell>
+    <Cell ss:StyleID="s82"><Data
+      ss:Type="String">银戒指</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Ring_Gold</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Gold ring</Data></Cell>
+    <Cell ss:StyleID="s82"><Data
+      ss:Type="String">金戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Amber</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Amber Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s82"><Data
       ss:Type="String">琥珀项链</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Amethyst</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Amethyst Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s82"><Data
       ss:Type="String">紫水晶项链</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Jade</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Jade Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s82"><Data
       ss:Type="String">翡翠项链</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Topaz</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Topaz Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s82"><Data
       ss:Type="String">黄宝石项链</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Amulet_Templar</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Amulet</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿骑士护身符</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Amulet_Barbarian</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Savage Amulet</Data></Cell>
+    <Cell><Data ss:Type="String">野蛮护身符</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Belt_Alchemist</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Alchemist Sash</Data></Cell>
+    <Cell><Data ss:Type="String">炼金术士腰带</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Belt_Warrior</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Heavy Belt</Data></Cell>
+    <Cell><Data ss:Type="String">重型腰带</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Belt_Assassin</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Assassin Waistband</Data></Cell>
+    <Cell><Data ss:Type="String">刺客腰带</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Belt_Gladiator</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Gladiator Belt</Data></Cell>
+    <Cell><Data ss:Type="String">角斗士腰带</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Belt_Thief</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Thief Sash</Data></Cell>
+    <Cell><Data ss:Type="String">盗贼腰带</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Belt_Templar</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Waistband</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿骑士腰带</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="2" ss:StyleID="m342388972"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_reqLevel</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Required Level</Data></Cell>
+    <Cell><Data ss:Type="String">等级需求</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_durability</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Durability</Data></Cell>
+    <Cell><Data ss:Type="String">耐久度</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_sellvalue</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Value</Data></Cell>
+    <Cell><Data ss:Type="String">价值</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_equipped</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Equipped</Data></Cell>
+    <Cell><Data ss:Type="String">已装备</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_charges</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Charges left</Data></Cell>
+    <Cell><Data ss:Type="String">充能剩余</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_refreshtime</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Cooldown</Data></Cell>
+    <Cell><Data ss:Type="String">冷却</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_rechargetime</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Refill time</Data></Cell>
+    <Cell><Data ss:Type="String">充能时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m342388992"><Data ss:Type="String">LOOT RARITY</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_rarity_normal</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Normal</Data></Cell>
+    <Cell><Data ss:Type="String">正常</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_rarity_magic</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Magic</Data></Cell>
+    <Cell><Data ss:Type="String">魔法</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_rarity_rare</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Rare</Data></Cell>
+    <Cell><Data ss:Type="String">稀有</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_rarity_legendary</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Legendary</Data></Cell>
+    <Cell><Data ss:Type="String">传奇</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_rarity_set</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Set</Data></Cell>
+    <Cell><Data ss:Type="String">套装</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_rarity_unique</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Unique</Data></Cell>
+    <Cell><Data ss:Type="String">独特</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m342389012"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_quality_broken</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Broken</Data></Cell>
+    <Cell><Data ss:Type="String">破损的</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_quality_used</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Used</Data></Cell>
+    <Cell><Data ss:Type="String">用旧的</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_quality_normal</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Normal</Data></Cell>
+    <Cell><Data ss:Type="String">普通</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_quality_reinforced</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Reinforced</Data></Cell>
+    <Cell><Data ss:Type="String">强化</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_quality_superior</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Superior</Data></Cell>
+    <Cell><Data ss:Type="String">优越</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_quality_exceptional</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Exceptional</Data></Cell>
+    <Cell><Data ss:Type="String">超凡</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_quality_epic</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Epic</Data></Cell>
+    <Cell><Data ss:Type="String">史诗</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="2" ss:StyleID="m342390784"><Data ss:Type="String">POTIONS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_potiontype_health</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Health potion</Data></Cell>
+    <Cell><Data ss:Type="String">生命药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_potiontype_poison</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Poison</Data></Cell>
+    <Cell><Data ss:Type="String">毒药</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_potiontype_rage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Rage potion</Data></Cell>
+    <Cell><Data ss:Type="String">怒气药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_potiontype_stamina</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Stamina potion</Data></Cell>
+    <Cell><Data ss:Type="String">耐力药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_loot_potiontype_umbra</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Umbra potion</Data></Cell>
+    <Cell><Data ss:Type="String">本影药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_loot_potiontype_misc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Utility potion</Data></Cell>
+    <Cell><Data ss:Type="String">效用药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potions_HealthSmall</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Flask of Health</Data></Cell>
+    <Cell><Data ss:Type="String">生命瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potions_UmbraSmall</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Flask of Umbra</Data></Cell>
+    <Cell><Data ss:Type="String">本影瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potions_RageSmall</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Flask of Rage</Data></Cell>
+    <Cell><Data ss:Type="String">怒气瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potions_StaminaSmall</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Flask of Stamina</Data></Cell>
+    <Cell><Data ss:Type="String">耐力瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potions_PoisonSmall</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Weak Poison</Data></Cell>
+    <Cell><Data ss:Type="String">弱毒药</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="2" ss:StyleID="m342390804"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WeaponType_1HSword</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sword</Data></Cell>
+    <Cell><Data ss:Type="String">剑</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WeaponType_2HSword</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Greatsword</Data></Cell>
+    <Cell><Data ss:Type="String">大剑</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WeaponType_1HMace</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Mace</Data></Cell>
+    <Cell><Data ss:Type="String">狼牙棒</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WeaponType_2HMace</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Warhammer</Data></Cell>
+    <Cell><Data ss:Type="String">战锤</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WeaponType_1HAxe</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Axe</Data></Cell>
+    <Cell><Data ss:Type="String">斧头</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WeaponType_2HAxe</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Battleaxe</Data></Cell>
+    <Cell><Data ss:Type="String">战斧</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WeaponType_Dagger</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Dagger</Data></Cell>
+    <Cell><Data ss:Type="String">匕首</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WeaponType_Crossbow</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Crossbow</Data></Cell>
+    <Cell><Data ss:Type="String">弩</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WeaponType_SmallShield</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Shield</Data></Cell>
+    <Cell><Data ss:Type="String">盾牌</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_WeaponType_Staff</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Staff</Data></Cell>
+    <Cell><Data ss:Type="String">法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="2" ss:StyleID="m342390824"><Data ss:Type="String">INGREDIENTS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_loot_Ingredient</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Ingredient</Data></Cell>
+    <Cell><Data ss:Type="String">配方</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Ingredients_Fern</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Fern</Data></Cell>
+    <Cell><Data ss:Type="String">蕨类</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Ingredients_Mushroom</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Mushroom</Data></Cell>
+    <Cell><Data ss:Type="String">蘑菇</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -1203,12 +1594,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>20</TopRowVisible>
+   <TopRowVisible>163</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>57</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>188</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
