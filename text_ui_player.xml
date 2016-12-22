@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -6,17 +6,18 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>UBBOSATHLA</LastAuthor>
+  <LastSaved>2016-11-15T13:24:39Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>9105</WindowHeight>
-  <WindowWidth>25695</WindowWidth>
+  <WindowHeight>12360</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
-  <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
  </ExcelWorkbook>
@@ -29,16 +30,16 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s62" ss:Name="40&#160;% - Accent1">
+  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s63" ss:Name="Satisfaisant">
+  <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1540009730224">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+  <Style ss:ID="m524990144">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -48,12 +49,26 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s64">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+  <Style ss:ID="m524990164">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s65">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -62,8 +77,8 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s66">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -72,391 +87,1609 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s74">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-  </Style>
-  <Style ss:ID="s76" ss:Parent="s62">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+  <Style ss:ID="s74" ss:Parent="s40">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Italic="1"/>
   </Style>
-  <Style ss:ID="s77" ss:Parent="s62">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+  <Style ss:ID="s75" ss:Parent="s40">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
   </Style>
-  <Style ss:ID="s81">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s78" ss:Parent="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
    <Borders/>
    <Interior/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s81" ss:Parent="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s85" ss:Parent="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="70" x:FullColumns="1"
-   x:FullRows="1" ss:DefaultColumnWidth="60">
-   <Column ss:AutoFitWidth="0" ss:Width="225.75"/>
-   <Column ss:Width="402"/>
-   <Column ss:Width="363.75"/>
-   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s64">
-    <Cell ss:StyleID="s65"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="278" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="60">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="225.75"/>
+   <Column ss:StyleID="s62" ss:Width="402"/>
+   <Column ss:StyleID="s62" ss:Width="363.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s63">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+    <Cell ss:StyleID="s65"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1540009730224"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m524990144"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="s76"><Data ss:Type="String">Character Creation Interface</Data></Cell>
-    <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Character Creation Interface</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_character_creation</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Character creation</Data></Cell>
-    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Character creation</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_character_creation</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Character creation</Data></Cell>
+    <Cell><Data
+      ss:Type="String">角色创建</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_body</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Body</Data></Cell>
-    <Cell><Data ss:Type="String">身体</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_body</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Body</Data></Cell>
+    <Cell><Data
+      ss:Type="String">身体</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_face</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Face</Data></Cell>
-    <Cell><Data ss:Type="String">面部</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_face</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Face</Data></Cell>
+    <Cell><Data
+      ss:Type="String">面部</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_skin_color</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Skin color</Data></Cell>
-    <Cell><Data ss:Type="String">肤色</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_skin_color</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Skin color</Data></Cell>
+    <Cell><Data
+      ss:Type="String">肤色</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_body_type</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Body type</Data></Cell>
-    <Cell><Data ss:Type="String">体型</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_body_type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Body type</Data></Cell>
+    <Cell><Data
+      ss:Type="String">体型</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_muscular</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Muscular</Data></Cell>
-    <Cell><Data ss:Type="String">强壮</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_muscular</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Muscular</Data></Cell>
+    <Cell><Data
+      ss:Type="String">强壮</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_skinny</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Puny</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_skinny</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Puny</Data></Cell>
     <Cell><Data ss:Type="String">孱弱</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_fat</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Fat</Data></Cell>
-    <Cell><Data ss:Type="String">胖</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_fat</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Fat</Data></Cell>
+    <Cell><Data
+      ss:Type="String">胖</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_thin</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Thin</Data></Cell>
-    <Cell><Data ss:Type="String">瘦</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_thin</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Thin</Data></Cell>
+    <Cell><Data
+      ss:Type="String">瘦</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_hair</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Hair</Data></Cell>
-    <Cell><Data ss:Type="String">头发</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_hair</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Hair</Data></Cell>
+    <Cell><Data
+      ss:Type="String">头发</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_haircut</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut</Data></Cell>
-    <Cell><Data ss:Type="String">发型</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_haircut</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut</Data></Cell>
+    <Cell><Data
+      ss:Type="String">发型</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_hair_color</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Hair color</Data></Cell>
-    <Cell><Data ss:Type="String">发色</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_hair_color</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Hair color</Data></Cell>
+    <Cell><Data
+      ss:Type="String">发色</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_eyes</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eyes</Data></Cell>
-    <Cell><Data ss:Type="String">眼睛</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_eyes</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eyes</Data></Cell>
+    <Cell><Data
+      ss:Type="String">眼睛</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_left_eye</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Left eye</Data></Cell>
-    <Cell><Data ss:Type="String">左眼</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_left_eye</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Left eye</Data></Cell>
+    <Cell><Data
+      ss:Type="String">左眼</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_right_eye</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Right eye</Data></Cell>
-    <Cell><Data ss:Type="String">右眼</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_right_eye</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Right eye</Data></Cell>
+    <Cell><Data
+      ss:Type="String">右眼</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_beard</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard</Data></Cell>
-    <Cell><Data ss:Type="String">胡子</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_beard</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard</Data></Cell>
+    <Cell><Data
+      ss:Type="String">胡子</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_beard_style</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard style</Data></Cell>
-    <Cell><Data ss:Type="String">胡子类型</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_beard_style</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard style</Data></Cell>
+    <Cell><Data
+      ss:Type="String">胡子类型</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_beard_color</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard color</Data></Cell>
-    <Cell><Data ss:Type="String">胡子颜色</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_beard_color</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard color</Data></Cell>
+    <Cell><Data
+      ss:Type="String">胡子颜色</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_saturation</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Saturation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">饱和度</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_saturation</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Saturation</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">饱和度</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_color</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Color</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">颜色</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_color</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Color</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">颜色</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_match_colors</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Match colors</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">匹配颜色</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_match_colors</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Match colors</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">匹配颜色</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_breast</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Chest</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">胸部</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Chest</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胸部</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_nicknameTaken</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Name unavailable</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">名称不可用</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_popup_title_nicknameTaken</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Name unavailable</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">名称不可用</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_deleteCharacter</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Delete Character</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">删除角色</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_popup_title_deleteCharacter</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Delete Character</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">删除角色</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_nicknameTaken</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Sorry, the name %1 is already taken. Please chose another name.</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">抱歉，名称%1已经被使用。请选择其他名称。</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_popup_content_nicknameTaken</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Sorry, the name %1 is already taken. Please chose another name.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">抱歉，名称%1已经被使用。请选择其他名称。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_deleteCharacter</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Are you sure you want to delete %1 ? All your items and progression will be lost.</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">你确定要删除%1？所有物品和进度都会丢失。</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_popup_content_deleteCharacter</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Are you sure you want to delete %1 ? All your items and progression will be lost.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">你确定要删除%1？所有物品和进度都会丢失。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="s76"><Data ss:Type="String">Eye Customization</Data></Cell>
-    <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Eye Customization</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_1</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 1</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 1</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 1</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛1</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_2</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 2</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 2</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 2</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛2</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_3</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 3</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 3</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_3</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 3</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛3</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_4</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 4</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 4</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_4</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 4</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛4</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_5</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 5</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 5</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_5</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 5</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛5</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_6</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 6</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 6</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_6</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 6</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛6</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_7</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 7</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 7</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_7</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 7</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛7</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_8</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 8</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 8</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_8</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 8</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛8</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_9</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 9</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 9</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_9</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 9</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛9</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_10</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 10</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 10</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 10</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛10</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s74">
-    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Eye_11</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Eye 11</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Eye 11</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_Eye_11</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Eye 11</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眼睛11</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s76"><Data ss:Type="String">Hair Customization</Data></Cell>
-    <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Hair Customization</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_1</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 1</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 1</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">发型1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_2</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 2</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 2</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">发型2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_3</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 3</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 3</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 3</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">发型3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_4</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 4</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 4</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 4</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">发型4</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_5</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 5</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 5</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 5</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">发型5</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_6</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 6</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 6</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 6</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">发型6</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_7</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 7</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 7</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 7</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">发型7</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_8</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 8</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 8</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 8</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">发型8</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_9</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 9</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 9</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 9</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">发型9</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Haircut_10</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haircut 10</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Haircut 10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Haircut 10</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">发型10</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s76"><Data ss:Type="String">Beard Customization</Data></Cell>
-    <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Beard Customization</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_1</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 1</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 1</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胡子1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_2</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 2</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 2</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胡子2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_3</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 3</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 3</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 3</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胡子3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_4</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 4</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 4</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 4</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胡子4</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_5</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 5</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 5</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 5</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胡子5</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_6</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 6</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 6</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 6</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胡子6</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_7</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 7</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 7</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 7</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胡子7</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_8</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 8</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 8</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 8</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胡子8</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_9</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 9</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 9</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 9</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胡子9</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Beard_10</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Beard 10</Data></Cell>
-    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">Beard 10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Beard 10</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">胡子10</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m524990164"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="3" ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Info Fields</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_remainingpoints</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Remaining Points</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">剩余点数</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_experience</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Experience</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">经验</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_health</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Health</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">生命</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_healthregen</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Health Regeneration</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">生命回复</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_strength</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Strength</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">力量</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dexterity</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Dexterity</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">敏捷</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_constitution</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Constitution</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">体质</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_power</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Power</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">法力</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_armor</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Armor</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">护甲</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_armorefficiency</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Armor Efficiency</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">护甲效率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_weapondmg</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Weapon Damage</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">武器伤害</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_attackspeed</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Attack Speed</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">攻击速度</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_weapondps</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">DPS</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">DPS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_movespeed</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Movement Speed</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">移动速度</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spelldmg</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Spells Damage Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">法术伤害加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spellcastingspeed</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Spells Casting Speed Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">施法速度加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_resourcepool</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Resource Pool</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">资源池</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_umbrageneration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Umbra Regeneration</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">本影回复</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_rageconservation</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Rage Conservation</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">怒气守恒</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_ragegeneration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Rage Generation on Hits</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">攻击时怒气产生</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_rageonhit</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Rage Generation on Received Hits</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">受攻击时怒气产生</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_channelingtime</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Channeling Time Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">蓄力时间加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_damages</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Damage</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">伤害</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_elementaldmg</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Damage per Type</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">每种类型的伤害</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_elementalpercent</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Damage Modifier per Type</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">每种类型的伤害加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_physical</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Physical</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">物理</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_fire</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Fire</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">火焰</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_frost</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Frost</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冰霜</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_lightning</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Lightning</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">闪电</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_umbra</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Umbra</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">本影</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_sacred</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Sacred</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">神圣</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shadow</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Shadow</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">暗影</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_bleed</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Bleeding</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">流血</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_poison</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Poison</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">毒素</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_critchances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Critical Chance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">暴击几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_critdmg</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Critical Damage</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">暴击伤害</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spellcritchances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Spells Critical Chance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">法术暴击几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spellcritdmg</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Spells Critical Damage</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">法术暴击伤害</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spellcdr</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Spells Cooldown Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">法术冷却时间加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_ragecostmod</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Rage Cost Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">怒气损耗加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_manacostmod</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Umbra Cost Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">本影损耗加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_weaponrange</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Weapon Range</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">武器范围</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dashdmg</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Dash Damage</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冲锋伤害</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dashrange</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Dash Range</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冲锋范围</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dashragegeneration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Dash Rage Generation</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冲锋怒气生成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dashcdr</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Dash Cooldown Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冲锋冷却加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dashspeed</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Dash Speed</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冲锋速度</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_thorndmg</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Thorns Damage</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">荆棘伤害</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_thornpercent</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Thorns Damage Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">荆棘伤害加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_armorpiercing</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Armor Piercing</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">护甲穿刺</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_survivability</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Survivability</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">生存性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_resistances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Resistances per Type</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">每种类型的抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_stamina</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Stamina</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">耐力</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_staminaregen</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Stamina Regeneration</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">体力恢复</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dodgechances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Dodge Chance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">闪避几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dodgewindow</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Active Dodge Invulnerability</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">主动闪避无敌时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dodgespeed</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Active Dodge Speed</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">主动闪避速度</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_blockchances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Block Chance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">格挡几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_blockefficiency</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Block Efficiency</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">格挡效率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shieldangle</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Shield Angle</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">盾牌角度</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_preventdmg</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Prevent Damage</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">防止损伤</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_status</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Status Effects</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">状态效果</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_stunresistance</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Stun Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眩晕抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_knockbackresistance</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Knock-back Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">击退抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_blownawayresistance</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Knock-down Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">击倒抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_stunchances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Stun Chance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">眩晕几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_burnchances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Burn Chance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">烧伤几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_freezechances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Freeze Chance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冻结几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shockchances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Shock Chance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">减震几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_knockdownchances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Knock-down Chance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">击倒几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_knockbackchances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Knock-back Chance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">回击几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_openwoundchances</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Open-wound Chance Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">创伤几率加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_openwounddmg</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Open-wound Damage Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">创伤伤害加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_inflicteddotduration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Inflicted Effects Duration</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">造成的特殊状态持续时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_receiveddotduration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Received Effects Duration</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">受到的特殊状态持续时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_poisonresreduction</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Poison Resistance Reduction</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">减少毒性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_stunduration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Stun Duration Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">晕眩时间加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_burnduration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Burn Duration Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">燃烧时间加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_freezeduration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Freeze Duration Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冻结时间加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shockduration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Shock Damage Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冲击伤害加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_stunreduction</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Received Stun Duration</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">受到眩晕攻击持续时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_inflictedelemdotduration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Elemental Effects Duration</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">元素效果持续时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_misc</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Miscellaneous</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">杂项</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_globepickradius</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Globes Picking Radius</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">球体拾取半径</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_goldfind</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Gold Find</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">黄金搜寻</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_magicfind</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Magic Find</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">魔法物品搜寻</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_cleavefactor</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Cleave Factor</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">劈裂因子</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_cleaveangle</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Cleave Angle Bonus</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">劈裂角度</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_potioncdr</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Potions Cooldown Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">药剂冷却加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_potionrefilltime</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Potions Refill-Time Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">药水充满时间加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_potionheal</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Potions Healing factor Modifier</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">药水治疗因子加成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_physicalres</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Physical Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">物理抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_fireres</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Fire Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">火焰抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_frostres</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Frost Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冰霜抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_lightningres</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Lightning Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">闪电抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_umbrares</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Umbra Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">本影抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_sacredres</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Sacred Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">神圣抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shadowres</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Shadow Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">暗影抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_bleedres</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Bleeding Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">流血抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_poisonres</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Poison Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">毒素抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spellres</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Spells Resistance</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">法术抗性</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_physical</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Physical</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">物理</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_fire</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Fire</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">火焰</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_frost</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Frost</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">冰霜</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_lightning</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Lightning</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">闪电</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_umbra</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Umbra</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">本影</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_sacred</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Sacred</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">神圣</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_shadow</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Shadow</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">暗影</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_bleed</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Bleeding</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">流血</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_poison</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Poison</Data></Cell>
+    <Cell ss:StyleID="s79"><Data
+      ss:Type="String">毒素</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Tooltips</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_remainingpoints_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your remaining Attributes Points.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的剩余属性点。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_health_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your maximum Health Points. When they reach 0, you die.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的最大生命值。当他们到达0时，你就会死亡。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_healthregen_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The amount of Health Points you gain each second.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">每秒回复的生命值点数。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_strength_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Strength. Increases your Damage and Critical Damage with Weapons and improve effects like Rage Generation or Stun duration.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总力量。增加你的武器伤害和暴击伤害，并提高怒气生成以及眩晕持续时间等特殊状态效果。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dexterity_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Dexterity. Increases your Movement Speed, Dodge Chance and Critical Chance with Weapons.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总敏捷。增加你的移动速度，闪避几率和使用武器的暴击几率。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_constitution_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Constitution. Determines your Maximum Health and how you recover from negative effects like Stun or Knock-Down.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总体质。确定最大生命值，以及多快从负面效果（如“眩晕”或“击倒”）中恢复。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_power_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Power. Determines your Maximum Resource pool and increases Spells Damage and Spells Critical Chance.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总能量。确定你的最大资源池，并增加法术伤害和法术暴击几率。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_armor_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Armor. Reduces part of incoming Physical Damage within your Armor range. Damage points exceeding Armor range aren't affected by this reduction.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总护甲。在你的护甲范围内减少受到的部分物理伤害。超过护甲范围的伤害不受此减少影响。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_armorefficiency_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Armor Efficiency. Represents the percentage of incoming Physical Damage within Armor range that is prevented. </Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的护甲效率。表示吸收护甲范围内物理伤害的百分比。 </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_weapondmg_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your average Weapon Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的平均武器伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_attackspeed_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Attack Speed.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总攻击速度。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_weapondps_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your average Damage Per Second.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的平均每秒伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_movespeed_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Movement Speed.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">您的总移动速度。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spelldmg_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The Damage bonus applied to your Spells.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">应用于你的法术的伤害加成。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spellcastingspeed_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The Casting Speed bonus applied to your Spells.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">应用于你的法术的施法速度加成。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_resourcepool_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your maximum Resource, in both Umbra and Rage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的最大资源，包括本影和怒气。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_umbrageneration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">You natural Rage Loss over time, representing your Umbra Regeneration.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">随时间的推移你的怒气损失，同时你的本影回复。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_rageconservation_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The Delay before Umbra Regeneration restarts after gaining Rage. Rage Conservation is not triggered by spending Umbra or Rage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">在产生怒气后本影再生的延迟时间。怒气保存不会因消耗本影或怒气触发。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_ragegeneration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The amount of Rage Points generated each time you hit an enemy.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">每次你击中敌人时产生的怒气点数。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_rageonhit_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The amount of Rage Points generated each time you are hit.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">每次你被敌人击中时产生的怒气点数。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_channelingtime_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The Casting Speed bonus applied to your Charged Attacks.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">应用于你的蓄力攻击的施法速度加成。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_physical_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Physical Damage. Physical attacks are affected by target's Armor.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总体物理伤害。物理攻击受目标的护甲影响。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_fire_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Fire Damage. Fire attacks may burn target.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总火焰伤害。火焰攻击可能会烧伤目标。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_frost_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Frost Damage. Frost attacks may Freeze target. </Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总冰霜伤害。冰霜攻击可冻结目标。 </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_lightning_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Lightning Damage. Lightning attacks may Shock target.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总闪电伤害。闪电攻击可能会震慑目标。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_umbra_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Umbra Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总本影伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_sacred_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Sacred Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总神圣伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shadow_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Shadow Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总暗影伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_bleed_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Bleeding Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总流血伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_poison_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Poison Damage. Poison attacks may reduce target's Resistances.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总毒素伤害。毒性攻击可能降低目标的抗性。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_physical_percent_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Increases your Physical Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">增加你的物理伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_fire_percent_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Increases your Fire Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">增加你的火焰伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_frost_percent_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Increases your Frost Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">增加你的冰霜伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_lightning_percent_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Increases your Lightning Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">增加你的闪电伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_umbra_percent_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Increases your Umbra Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">增加你的本影伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_sacred_percent_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Increases your Sacred Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">增加你的神圣伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shadow_percent_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Increases your Shadow Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">增加你的暗影伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_bleed_percent_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Increases your Bleeding Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">增加你的流血伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_poison_percent_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Increases your Poison Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">增加你的毒素伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_critchances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Critical Chance with Weapons. A Critical hit deals extra Damage and has increased Status Effects Chance.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的武器总暴击几率。暴击造成额外的伤害，并增加造成特殊状态的几率。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_critdmg_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Critical Damage Multiplier with Weapons. Represents the extra amount of Damage of Critical Strikes.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的武器总暴击伤害倍数。表示暴击的额外伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spellcritchances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Critical Chance with Spells. A Critical Spell deals extra Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的法术总暴击几率。暴击法术造成额外的伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spellcritdmg_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Critical Damage Multiplier with Spells. Represents the extra amount of Damage of Critical Spells.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的法术总暴击伤害倍数。表示暴击法术的额外伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spellcdr_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total modifier of your Spells Cooldown, increasing or decreasing their total duration.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的法术冷却时间的总修正值，增加或减少他们的总持续时间。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_ragecostmod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total modifier of your Spells Rage Cost, increasing or decreasing total costs.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的法术怒气消耗的总修正值，增加或减少总消耗量。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_manacostmod_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total modifier of your Spells Umbra Cost, increasing or decreasing total costs.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">您的法术本影消耗的总修正值，增加或减少总消耗量。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_weaponrange_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The maximum Range of your equipped Weapon (or the longest if two Weapons are equipped).</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你装备的武器的最大范围（如果装备两个武器取最长的）。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dashdmg_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The average Physical Damage dealt by your Auto-Dash.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的自动冲锋造成的平均物理伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dashrange_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The maximum Range of your Auto-Dash.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">自动冲锋的最长距离。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dashragegeneration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The amount of Rage Points generated for each enemy hit by your Auto-Dash.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">自动冲锋命中的每个敌人生成的怒气总数。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dashcdr_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total modifier of your Auto-Dash Cooldown, increasing or decreasing its total duration.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">自动冲锋冷却时间的总修正值，增加或减少其总持续时间。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dashspeed_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Speed modifier of your Auto-Dash.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的自动冲锋的总速度修正值。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_thorndmg_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Thorns Damage. Thorns are Physical Damage inflicted to enemies when they hit you and aren't affected by target's Armor.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总荆棘伤害。荆棘是当敌人击中你时受到的物理伤害，不会受到目标的护甲影响。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_thornpercent_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Thorns Damage Modifier.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总伤害修正值。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_armorpiercing_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Armor Piercing, which reduces Armor Efficiency of target.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总护甲穿透值，减少目标的护甲效率。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_stamina_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">You maximum Stamina. Stamina is mainly used to cast Active Dodge-roll.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你最大的耐力。耐力主要用于进行主动闪避。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_staminaregen_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total delay before regenerating one Stamina point. Equals 0 if your Stamina Regeneration is cut.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">在再生一点耐力前的总延迟。如果你不能恢复耐力，则为0。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dodgechances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your Passive Dodge Chance against all attacks types. Dodging an attack will completely ignore its effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你被动闪避所有攻击类型的几率。被闪避的攻击将不会造成任何影响。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dodgewindow_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your Total Invulnerability time when launching an Active Dodge-roll, during which your Dodge Chance is 100%.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">启动主动闪避时的总无敌时间，在此期间你的闪避概率为100％。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_dodgespeed_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Total Speed of your Active Dodge-roll.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你主动闪避的总速度。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_blockchances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your Passive Block Chance. Blocking an attack will reduce its Damage depending on your Block Efficiency. You can only Block Physical attacks.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的被动格挡几率。格挡攻击会减少其伤害，取决于你的格挡效率。只能格挡物理攻击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_blockefficiency_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Block Efficiency. Represents the part of Damage reduction on Blocked attacks.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总格挡效率。表示格挡攻击时伤害减少的部分。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shieldangle_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Protection Angle of your equipped Shield. Attacks taken in this frontal angle when Channeling will always be Blocked.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你装备的盾牌的总保护角度。在此身前此角度下受到的攻击将始终被格挡。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_preventdmg_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">This part of incoming Damage is always prevented.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">这部分受到的伤害总是被吸收。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_stunresistance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Stun. May give you a chance to ignore an incoming Stun effect.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总眩晕抗性。给你一定忽略攻击造成的眩晕效果的几率。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_knockbackresistance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Knock-back. May give you a chance to ignore an incoming Knock-back effect.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总击退抗性。给你一定忽略攻击造成的击退效果的几率。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_blownawayresistance_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Knock-down. May give you a chance to ignore an incoming Knock-down effect.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总击倒抗性。给你一定忽略攻击造成的击倒效果的几率。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_stunchances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Stun Chance with Physical attacks. Stun effect prevents targets from acting or moving.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你物理攻击造成眩晕效果的总几率。眩晕效果可阻止目标攻击或移动。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_burnchances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Burning Chance with Fire attacks. Burn effect deals Fire Damage over time to targets.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你火焰攻击造成燃烧效果的总几率。燃烧效果随着时间对目标造成火焰伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_freezechances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Freezing Chance with Frost attacks. Freeze effect prevent targets from acting or moving and make them vulnerable.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你冰霜攻击造成冻结效果的总几率。冻结效果防止目标行动或移动，并使他们更脆弱。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shockchances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Shocking Chance with Lightning attacks. Shock effect Deals Lightning Damage to surrounding targets and may stun them.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你闪电攻击造成震荡效果的总几率。震荡效果对周围目标造成闪电伤害，并可能使他们眩晕。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_knockdownchances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Knock-down Chance. Knock-down effect expulses targets on the ground and briefly prevent them from getting up.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总击倒几率。击倒效果可以击倒地面上的目标，并短时间防止它们站起。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_knockbackchances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Knock-back Chance. Knock-back effect physically repels targets and may knock-them down afterwards.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总击退几率。击退效果可以让目标后退，并可能被击倒。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_openwoundchances_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Open-Wounds Chance modifier, increasing or decreasing your probability of causing Open-Wounds. Open-Wounds deal Bleeding Damage over time to targets.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总创伤几率修正值，增加或减少造成创伤的可能性。创伤随时间造成流血伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_openwounddmg_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Open-Wounds Damage modifier, increasing or decreasing the Damage dealt by your Open-Wounds.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总创伤伤害修正值，增加或减少你创伤效果所造成的伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_inflicteddotduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Duration modifier of all inflicted effects, such as Burning, Poisoning or Bleeding.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">所有造成效果的总持续时间修正值，例如燃烧，中毒或出血。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_receiveddotduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Duration modifier of received effects, such as Burning, Poisoning or Bleeding.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">所有受到效果的总持续时间修正值，例如燃烧，中毒或出血。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_poisonresreduction_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Resistances Reduction applied on Poisoned targets.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">对中毒目标造成的总抗性降低。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_stunduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Duration modifier of inflicted Stun effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">造成的眩晕效果的总持续时间修正值。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_burnduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Duration modifier of inflicted Burning effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">造成的燃烧效果的总持续时间修正值。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_freezeduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Duration modifier of inflicted Freezing effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">造成的冻结效果的总持续时间修正值。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shockduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Damage modifier of inflicted Shocking effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">造成的震荡效果的总伤害修正值。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_stunreduction_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Duration modifier of received Stun effects.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">受到的眩晕效果的总持续时间修正值。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_inflictedelemdotduration_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Duration modifier of inflicted elemental effects (Burning, Freezing and Shocking only).</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">造成的元素效果的总持续时间修正值（仅限燃烧，冻结和震荡）。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_globepickradius_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total auto-picking radius of Globes.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">球体的总自动拾取半径。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_goldfind_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Gold Find modifier. Increases the amount of looted Gold.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总黄金掉落修正值。增加获得的黄金的数目。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_magicfind_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Magic Find modifier. Increases the probability of looting Magic Items.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的总魔法物品掉落修正值。增加获得魔法物品的概率。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_cleavefactor_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Cleave Factor of your Melee attacks. Cleaving attacks will hit several enemies beyond your first target and deal reduced Damage to them.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">近战攻击的总劈裂系数。劈裂攻击会击中你的第一个目标之外的几个敌人，并对他们造成少量伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_cleaveangle_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Cleave Angle Bonus of your Melee attacks (added to the base value of Skills). Combined with Weapon range, it will determine which targets are hit by Cleaving attacks.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">近战攻击的总劈裂角度。结合武器范围，它将确定哪些目标被受到劈裂攻击。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_potioncdr_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total modifier of your Potions Cooldown, increasing or decreasing their usage frequency.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的药剂冷却时间的总修正值，增加或减少它们的使用频率。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_potionrefilltime</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total modifier of your Potions Refill-time, increasing or decreasing the delay before they replenish.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的药剂补充时间的总修正值，增加或减少他们补充之前的延迟。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_potionheal_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total modifier of the Healing capacity of your Healing Potions.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你的治疗药水的治疗能力的总修正值。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_physicalres_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Physical attacks. Reduces part of all incoming Physical Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你对物理攻击的总抗性。减少部分受到的物理伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_fireres_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Fire attacks. Reduces part of all incoming Fire Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你对火焰攻击的总抗性。减少部分受到的火焰伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_frostres_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Frost attacks. Reduces part of all incoming Frost Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你对冰霜攻击的总抗性。减少部分受到的霜冻伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_lightningres_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Lightning attacks. Reduces part of all incoming Lightning Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你对闪电攻击的总抗性。减少部分受到的闪电伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_umbrares_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Umbra attacks. Reduces part of all incoming Umbra Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你对本影攻击的总抗性。减少部分受到的本影伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_sacredres_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Sacred attacks. Reduces part of all incoming Sacred Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你对神圣攻击的总抗性。减少部分受到的神圣伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_shadowres_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Shadow attacks. Reduces part of all incoming Shadow Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你对暗影攻击的总抗性。减少部分受到的暗影伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_bleedres_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Bleeding attacks. Reduces part of all incoming Bleeding Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你对流血攻击的总抗性。减少部分受到的流血伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_poisonres_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Poison attacks. Reduces part of all incoming Poison Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你对毒素攻击的总抗性。减少部分受到的毒素伤害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_cs_spellres_tooltip</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your total Resistance to Spells. Reduces part of all incoming Spell Damage.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你对法术抗性的总抗性。减少部分受到的法术伤害。</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -476,12 +1709,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>18</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>29</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>7</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
