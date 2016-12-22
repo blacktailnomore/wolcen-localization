@@ -107,14 +107,25 @@
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s28" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#9C5700"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m5256848" ss:Parent="s40">
+  <Style ss:ID="m313624304" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m313624324" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -186,48 +197,7 @@
    <Borders/>
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
   </Style>
-  <Style ss:ID="s86">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s87">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Interior/>
-  </Style>
-  <Style ss:ID="s88">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
-   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s89">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
-   <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
-   <Interior/>
-   <NumberFormat/>
-   <Protection/>
-  </Style>
-  <Style ss:ID="s90" ss:Parent="s26">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <NumberFormat/>
-   <Protection/>
-  </Style>
-  <Style ss:ID="s91">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
-  </Style>
-  <Style ss:ID="s92">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders/>
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
-   <Interior/>
-  </Style>
-  <Style ss:ID="s95" ss:Parent="s28">
+  <Style ss:ID="s87" ss:Parent="s28">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
@@ -240,6 +210,71 @@
      ss:Color="#7F7F7F"/>
    </Borders>
   </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s91" ss:Parent="s28">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s92" ss:Parent="s28">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s94" ss:Parent="s26">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s95" ss:Parent="s28">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
  </Styles>
  <Names>
   <NamedRange ss:Name="characters"
@@ -251,7 +286,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="471" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="489" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="60"
    ss:DefaultRowHeight="13.2">
    <Column ss:StyleID="s63" ss:Width="201.6"/>
@@ -266,7 +301,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s65">
-    <Cell ss:MergeAcross="2" ss:StyleID="m5256848"><Data ss:Type="String">GAME MENU</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m313624304"><Data ss:Type="String">GAME MENU</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="Default">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Language Selection</Data></Cell>
@@ -641,7 +676,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ok</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Ok</Data></Cell>
-    <Cell><Data ss:Type="String">好的</Data></Cell>
+    <Cell><Data ss:Type="String">确定</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_Yes</Data></Cell>
@@ -681,12 +716,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Resume</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Resume</Data></Cell>
-    <Cell><Data ss:Type="String">恢复</Data></Cell>
+    <Cell><Data ss:Type="String">继续</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_ResumeTT</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Resume game</Data></Cell>
-    <Cell><Data ss:Type="String">恢复游戏</Data></Cell>
+    <Cell><Data ss:Type="String">继续游戏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_Loading</Data></Cell>
@@ -770,46 +805,46 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_playerlight3</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Ambient player light</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Ambient player light</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">玩家环境光</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_playerlight3TT</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">A slightly multiplied ambient light around the player is improving visibility</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">A slightly multiplied ambient light around the player is improving visibility</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">稍许增加玩家周围的环境光提高能见度</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Difficulty Menu</Data></Cell>
-    <Cell ss:StyleID="s86"/>
-    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_Normal</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_Normal</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Normal</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">普通</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">普通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_Gehenna</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_Gehenna</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Gehenna</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">地狱</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">地狱</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_Apocalypse</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_Apocalypse</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Apocalypse</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">天启</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">天启</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Graphics Menu</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_GraphicSettingsTitle</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">GRAPHICS SETTINGS</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">图像设置</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">图像设置</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_GraphicSettings</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_GraphicSettings</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Graphic Settings</Data></Cell>
     <Cell><Data ss:Type="String">图像设置</Data></Cell>
    </Row>
@@ -896,12 +931,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_OcclusionOnly</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Occlusion only</Data></Cell>
-    <Cell><Data ss:Type="String">封闭区域照明</Data></Cell>
+    <Cell><Data ss:Type="String">仅遮蔽区域</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_OcclusionGI</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">FULL GI</Data></Cell>
-    <Cell><Data ss:Type="String">全局照明</Data></Cell>
+    <Cell><Data ss:Type="String">完整全局照明</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_SVOGIPrecision</Data></Cell>
@@ -911,7 +946,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_SvogiTT</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Sparse voxel octree global illumination</Data></Cell>
-    <Cell><Data ss:Type="String">SVOGI全局照明</Data></Cell>
+    <Cell><Data ss:Type="String">稀疏体素八叉树全局照明</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_SVOGIActive</Data></Cell>
@@ -1040,8 +1075,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_sys_textureTT</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Mostly filtering quality</Data></Cell>
-    <Cell><Data ss:Type="String">主要过滤质量</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Filtering quality and resolution</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">过滤质量和分辨率</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_sys_svoti</Data></Cell>
@@ -1050,8 +1085,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_sys_svotiTT</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">SVOTI - medium:occlusion    high:full gi     very high:best full gi</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">SVOTI  - 稀疏体素八叉树全局照明&#10;中等：仅排除部分&#10;高：全GI&#10;非常高：最佳全GI</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">SVOGI - Sparse Voxel Octree Global Illumination. This feature enables high quality indirect lighting.&#10;[Medium: occlusion only]   [High: Full GI]    [Very High: Best Full GI]</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">SVOTI  - 稀疏体素八叉树全局照明。本功能会激活高质量间接光照效果。&#10;【中等：仅排除部分】 【高：全GI】 【非常高：最佳全GI】</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_sys_animation</Data></Cell>
@@ -1075,13 +1110,13 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_VLspecmode</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Low effects</Data></Cell>
-    <Cell><Data ss:Type="String">低效果</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Performance mode</Data></Cell>
+    <Cell><Data ss:Type="String">高性能模式</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_VLspecmodeTT</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Disable many graphical effects</Data></Cell>
-    <Cell><Data ss:Type="String">关闭大部分图像效果</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">This mode is meant to be used along with the LOW mode. It greatly improves performance. It disables many graphical effects, but can result to break some rendering elements, like the hair</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">【实验性质】需要和低特效配合使用。可以大幅提高性能，但会关闭大部分特效，可能导致部分元素显示出现问题，例如头发。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_soft</Data></Cell>
@@ -1126,7 +1161,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_QuestMarkersTT</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">quest markers on the minimap</Data></Cell>
-    <Cell><Data ss:Type="String">小地图上的任务标志</Data></Cell>
+    <Cell><Data ss:Type="String">小地图上的任务标志。金色表示主线任务，银色表示支线任务。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">To_be_fully_fonctionnal_restart_game</Data></Cell>
@@ -1155,7 +1190,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_hudscale</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">HUD scale</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">HUD scale</Data></Cell>
     <Cell><Data ss:Type="String">HUD尺寸</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1185,102 +1220,102 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_Enemyblink</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Enemy blink</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Enemy blink</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">敌人闪烁</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_EnemyblinkTT</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Displaying of enemy blink (white)</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Displaying of enemy blink (white)</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">显示敌人闪烁（白色）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_Enemyhealth</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Enemy health bar</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Enemy health bar</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">敌人血条</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_EnemyhealthTT</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Displaying enemy health bar</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Displaying enemy health bar</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">显示敌人血条</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_sharpen</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Sharpening</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Sharpening</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">加深</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_sharpenTT</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Post effect sharpening</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Post effect sharpening</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">后期效果加深</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_chromaticaberration</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Chromatic aberration</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Chromatic aberration</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">色差</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_chromaticaberrationTT</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Post effect chromatic aberration</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Post effect chromatic aberration</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">后期效果色差</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_antialiasing</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Antialiasing</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Antialiasing</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">抗锯齿</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_antialiasingTT</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Antialiasing modes</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Antialiasing modes</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">抗锯齿模式</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_smaa1x</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Low: Smaa 1X</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Low: Smaa 1X</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">低：Smaa 1X</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_smaa1tx</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Med: Smaa 1TX</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Med: Smaa 1TX</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">中：Smaa 1TX</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_smaa2tx</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">High: Smaa 2TX</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">High: Smaa 2TX</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">高：Smaa 2TX</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_vignetting</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Vignetting</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Vignetting</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">渐晕</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_motionblur</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Motion blur</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Motion blur</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">运动模糊</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_motionblurTT</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Motion blur</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Motion blur</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">运动模糊</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipPotions</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Auto equip potions</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Auto equip potions</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">自动装备药水</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipPotionsTT</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Auto equip the potion you loot if you have a free slot</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Auto equip the potion you loot if you have a free slot</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">如果有一个空闲栏位，捡起的药水会自动装备</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipSkills</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Auto equip skills</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Auto equip skills</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">自动装备技能</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipSkillsTT</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Auto equip a skill you learn if you have a free slot</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Auto equip a skill you learn if you have a free slot</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">如果你有一个空闲栏位，学习的技能会自动装备</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1290,13 +1325,78 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.55">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_AutoEquipArmorsTT</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Auto equip the armor you loot if you have a free slot</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Auto equip the armor you loot if you have a free slot</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">如果你有一个空闲栏位，捡起的护甲会自动装备</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_VisualSettings</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Visual Settings</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">视觉选项</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_VisualSettingsTT</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Visual and gameplay settings</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">视觉和游戏选项</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_VisualSettingsTitle</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Visual Settings</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">视觉选项</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_EnemySilhouette</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Enemy Silhouette</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">敌人轮廓</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_EnemySilhouetteTT</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Red silhouette around enemies</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">敌人周围显示红色轮廓</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_usableSilhouette</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Usable silhouette</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">互动物体轮廓</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_usableSilhouetteTT</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Yellow silhouette around usable objects</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">互动物体周围显示黄色轮廓</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_FriendlySilhouette</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Friendly Silhouette</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">友军轮廓</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_FriendlySilhouetteTT</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Green silhouette around friendly characters</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">友军周围显示绿色轮廓</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_ShowDamages</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Show Damages</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">显示伤害</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_ShowDamagesTT</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Show Damages when an enemy is hit</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">击中敌人时显示伤害</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_DisplayContextualText</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Display contextual text</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">显示上下文文本</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_DisplayContextualTextTT</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Display text around your character like &quot;Dodged&quot;, &quot;Blocked&quot; or &quot;+X gold&quot;</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">在角色周围显示 &quot;闪避&quot;, &quot;格挡&quot; 或 &quot;+X 金币&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Singleplayer Menu</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SingleplayerTitle</Data></Cell>
@@ -1304,9 +1404,9 @@
     <Cell><Data ss:Type="String">单人游戏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_Singleplayer</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_Singleplayer</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Singleplayer</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">单人游戏</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">单人游戏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SingleplayerTT</Data></Cell>
@@ -1355,8 +1455,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Multiplayer Menu</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_MultiplayerTitle</Data></Cell>
@@ -1364,9 +1464,9 @@
     <Cell><Data ss:Type="String">多人游戏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_Multiplayer</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_Multiplayer</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Multiplayer</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">多人游戏</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">多人游戏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_MultiplayerTT</Data></Cell>
@@ -1395,8 +1495,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">User stats Menu</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_UserStats_Title</Data></Cell>
@@ -1410,8 +1510,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Leaderboard Menu</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_Leaderboard_Title</Data></Cell>
@@ -1425,8 +1525,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Class Selection Menu</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_ClassSelectionTitle</Data></Cell>
@@ -1455,8 +1555,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Multiplayer Menu - Host</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_HostMPTitle</Data></Cell>
@@ -1588,10 +1688,10 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">Only display levels/Multiplayer folder</Data></Cell>
     <Cell><Data ss:Type="String">只显示levels/Multiplayer文件夹</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s91">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s96">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Multiplayer Menu - Custom Settings</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_HostMPCustomSettingsTitle</Data></Cell>
@@ -1613,10 +1713,10 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">GDC Prototype</Data></Cell>
     <Cell><Data ss:Type="String">GDC Prototype</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s91">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s96">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Connection Menu - Custom Settings</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_Login</Data></Cell>
@@ -1639,9 +1739,19 @@
     <Cell><Data ss:Type="String">在线游戏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_Play_OnlineTT</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Not yet available</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">尚不可用</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_Play_Offline</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Play offline</Data></Cell>
     <Cell><Data ss:Type="String">离线游戏</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_Play_OfflineTT</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Local saving, no connection required</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">本地存储，无需网络连接。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_connection</Data></Cell>
@@ -1723,10 +1833,10 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">available soon</Data></Cell>
     <Cell><Data ss:Type="String">即将开放</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s91">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s96">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Multiplayer Menu - Join</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_JoinMpTitle</Data></Cell>
@@ -1773,10 +1883,10 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">List of available servers</Data></Cell>
     <Cell><Data ss:Type="String">可用服务器列表</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s91">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s96">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Multiplayer Menu - Connecting</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_ConnectTitle</Data></Cell>
@@ -1793,20 +1903,20 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">Could not connect to server!</Data></Cell>
     <Cell><Data ss:Type="String">无法连接到服务器！</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s91">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s96">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Game Settings Menu</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_GameSettingsTitle</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">GAME SETTINGS</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">游戏设置</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">游戏设置</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_GameSettings</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_GameSettings</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Game Settings</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">游戏设置</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">游戏设置</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_GameSettingsTT</Data></Cell>
@@ -1843,10 +1953,10 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">Invert controller Y axis</Data></Cell>
     <Cell><Data ss:Type="String">反转手柄Y轴</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s91">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s96">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Sound Settings Menu</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SoundSettingsTitle</Data></Cell>
@@ -1854,9 +1964,9 @@
     <Cell><Data ss:Type="String">声音设置</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_SoundSettings</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_SoundSettings</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Sound Settings</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">声音设置</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">声音设置</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SoundSettingsTT</Data></Cell>
@@ -1903,25 +2013,25 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">Change ambience volume</Data></Cell>
     <Cell><Data ss:Type="String">修改环境音量</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s91">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s96">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Controls Menu</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_ControlsSettingsTitle</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">CONTROLS</Data></Cell>
-    <Cell><Data ss:Type="String">控制</Data></Cell>
+    <Cell><Data ss:Type="String">控制选项</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s92"><Data ss:Type="String">ui_GamepadLayout</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Show Controls</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">显示控制</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">ui_GamepadLayout</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Controls</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">控制选项</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_GamepadLayoutTT</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">View controls</Data></Cell>
-    <Cell><Data ss:Type="String">查看控制</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">View and modify controls</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">查看或修改按键</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Controller</Data></Cell>
@@ -1963,10 +2073,10 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">Keyboard / Mouse</Data></Cell>
     <Cell><Data ss:Type="String">键盘/鼠标</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s91">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s96">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Profile Menu</Data></Cell>
-    <Cell ss:StyleID="s88"/>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"><Data ss:Type="String">ui_ProfileSettingsTitle</Data></Cell>
@@ -1999,87 +2109,152 @@
     <Cell><Data ss:Type="String">设置昵称</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="m313624324"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_KeybindingTitle</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Keyboard Binding</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">按键绑定</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_action</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Action</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">动作</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_key</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Key</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">键位</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_activedodge</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Active Dodge / Protection Form</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">主动闪避/保护形态</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_skill1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Skill Slot 1</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">技能栏1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_skill2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Skill Slot 2</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">技能栏2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_skill3</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Skill Slot 3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">技能栏3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_skill4</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Skill Slot 4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">技能栏4</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_skill5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Skill Slot 5</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">技能栏5</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_skill6</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Skill Slot 6</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">技能栏6</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_belt0</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Belt Item 1</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">腰带物品1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_belt1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Belt Item 2</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">腰带物品2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_belt2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Belt Item 3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">腰带物品3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_belt3</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Belt Item 4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">腰带物品4</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_belt4</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Belt Item 5</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">腰带物品5</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_charactersheet</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Character Sheet</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">角色属性</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_inventory</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">物品栏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_activeskilltree</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Active Skills</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">主动技能</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_passiveskilltree</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Passive Skills</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">被动技能</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_worldmap</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">World Map</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">世界地图</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_townportal</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Town Portal</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">城镇传送</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_showitems</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Show Items on ground</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">显示地面上的物品</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_showenemyhealthbar</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Show Enemies health bar</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">显示敌人生命条</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_popup_title_rebindingkey</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Key binding</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">按键绑定</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_popup_content_rebindingkey</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Press any key to rebind or Escape to cancel</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">按任意键修改绑定或按Esc键取消</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_popup_title_keyTaken</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Key already used</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">按键已被使用</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_popup_content_keyTaken</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">%1 is already assigned to another function. Please choose an unassigned key.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">%1已分配给另一个功能。请选择未分配的键。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_unassigned</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Unassigned</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">未分配</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ui_mm_kb_toggleautodash</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Toggle auto dash</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">切换自动冲刺</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s62"/>
@@ -2103,10 +2278,10 @@
     <Cell ss:StyleID="s62"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="36"/>
-   <Row ss:Index="438" ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="440" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
-   <Row ss:Index="454" ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="467" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="456" ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="458" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="472" ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="485" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -2126,11 +2301,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>23</TopRowVisible>
+   <TopRowVisible>204</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>49</ActiveRow>
+     <ActiveRow>237</ActiveRow>
      <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>

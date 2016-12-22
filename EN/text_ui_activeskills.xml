@@ -106,15 +106,11 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s28" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#9C5700"/>
-   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
-  </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m171183808" ss:Parent="s40">
+  <Style ss:ID="m340173536" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -154,7 +150,7 @@
   <Style ss:ID="s65">
    <Borders/>
   </Style>
-  <Style ss:ID="s78" ss:Parent="s26">
+  <Style ss:ID="s81" ss:Parent="s26">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
@@ -183,11 +179,11 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell ss:MergeAcross="2" ss:StyleID="m171183808"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m340173536"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AST_BookOf</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Tome of %1</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Tome of %1</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">Tome of %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -467,7 +463,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboGreatSword_desc</Data></Cell>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">Performs slow and wide-ranged thrusts with your equipped Greatsword.</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Performs slow and wide-ranged thrusts with your equipped Greatsword.</Data></Cell>
     <Cell><Data ss:Type="String">Performs slow and wide-ranged thrusts with your equipped Greatsword.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">

@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>8430</WindowHeight>
-  <WindowWidth>24750</WindowWidth>
+  <WindowHeight>12360</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -106,15 +106,11 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s28" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
-   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
-  </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m174675792" ss:Parent="s40">
+  <Style ss:ID="m333795168" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +121,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m174675812">
+  <Style ss:ID="m333795188">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -136,7 +132,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m174675832">
+  <Style ss:ID="m333795208">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -147,7 +143,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m174675852">
+  <Style ss:ID="m333795228">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -224,7 +220,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m174675792"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m333795168"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_equip_potion_here_title</Data></Cell>
@@ -300,24 +296,24 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest_UnlockCost</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Unlock for %1 gold</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Unlock for %1 gold</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Unlock for %1 gold</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BlockedHit</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Blocked</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Blocked</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Blocked</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_inv_title</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Inventory</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Inventory</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m174675812"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m333795188"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_KeyColor_red</Data></Cell>
@@ -331,7 +327,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_KeyRequired</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">You need a %1 key to open this door</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You need a %1 key to open this door</Data></Cell>
     <Cell><Data ss:Type="String">You need a %1 key to open this door</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -425,7 +421,7 @@
     <Cell ss:StyleID="s77"><Data ss:Type="String">item level is too high</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m174675832"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m333795208"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">frost_resistance_tooltip</Data></Cell>
@@ -640,7 +636,7 @@
       ss:Type="String">Coming soon</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m174675852"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m333795228"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_xp_at_level</Data></Cell>
@@ -1554,11 +1550,12 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
+   <TopRowVisible>130</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>16</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>200</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

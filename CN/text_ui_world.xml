@@ -106,15 +106,11 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s28" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#9C5700"/>
-   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
-  </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m261196912" ss:Parent="s40">
+  <Style ss:ID="m527603744" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -206,7 +202,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell ss:MergeAcross="2" ss:StyleID="m261196912"><Data ss:Type="String">OPEN WORLD</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m527603744"><Data ss:Type="String">OPEN WORLD</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">NPC Names</Data></Cell>
@@ -628,7 +624,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Personal Chest</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Personal Chest</Data></Cell>
     <Cell><Data ss:Type="String">个人储物箱</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="18"/>
@@ -723,12 +719,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>50</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>78</ActiveRow>
-     <RangeSelection>R79C1:R79C2</RangeSelection>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

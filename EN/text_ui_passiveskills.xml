@@ -7,7 +7,7 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>UBBOSATHLA</LastAuthor>
-  <LastSaved>2016-11-25T09:24:46Z</LastSaved>
+  <LastSaved>2016-12-19T16:11:19Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -42,7 +42,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m251083296">
+  <Style ss:ID="m229095104">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -53,7 +53,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m251083316">
+  <Style ss:ID="m229095124">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -64,7 +64,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m251083336">
+  <Style ss:ID="m229095144">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -75,7 +75,18 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m251083356">
+  <Style ss:ID="m229095164">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m229095184">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -148,7 +159,7 @@
   <Style ss:ID="s84" ss:Parent="s26">
    <Alignment ss:Vertical="Center"/>
   </Style>
-  <Style ss:ID="s87" ss:Parent="s28">
+  <Style ss:ID="s86" ss:Parent="s28">
    <Borders/>
   </Style>
   <Style ss:ID="s88" ss:Parent="s26">
@@ -159,10 +170,10 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="1011" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="1018" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:AutoFitWidth="0" ss:Width="225.75"/>
-   <Column ss:AutoFitWidth="0" ss:Width="486.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="538.5"/>
    <Column ss:AutoFitWidth="0" ss:Width="510"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
@@ -173,7 +184,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m251083296"><Data ss:Type="String">CLASS NAMES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m229095104"><Data ss:Type="String">CLASS NAMES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_Section_Legionary</Data></Cell>
@@ -276,7 +287,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Necromancer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s72">
-    <Cell ss:MergeAcross="2" ss:StyleID="m251083316"><Data ss:Type="String">PST USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m229095124"><Data ss:Type="String">PST USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_cant_reach_this_skill_yet</Data></Cell>
@@ -349,7 +360,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Lore Master</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s72">
-    <Cell ss:MergeAcross="2" ss:StyleID="m251083336"><Data ss:Type="String">PASSIVE SKILLS NAMES AND LORE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m229095144"><Data ss:Type="String">PASSIVE SKILLS NAMES AND LORE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Legionary</Data></Cell>
@@ -2123,7 +2134,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_11_name</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Merciless</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Merciless</Data></Cell>
     <Cell><Data ss:Type="String">Merciless</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -2368,7 +2379,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_38_name</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Perforation</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Perforation</Data></Cell>
     <Cell><Data ss:Type="String">Perforation</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -2377,7 +2388,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_39_name</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Fracture</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Fracture</Data></Cell>
     <Cell><Data ss:Type="String">Fracture</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -2409,7 +2420,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_3_name</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Gifted</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gifted</Data></Cell>
     <Cell><Data ss:Type="String">Gifted</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -2418,8 +2429,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_4_name</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Shot</Data></Cell>
-    <Cell><Data ss:Type="String">Perfect Shot</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Perseverance</Data></Cell>
+    <Cell><Data ss:Type="String">Perseverance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_4_lore</Data></Cell>
@@ -2676,6 +2687,15 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_32_lore</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_33_name</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Bayonet</Data></Cell>
+    <Cell><Data ss:Type="String">Bayonet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_33_lore</Data></Cell>
     <Cell ss:StyleID="s26"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -3039,7 +3059,25 @@
     <Cell><Data ss:Type="String">Who need swords when you control the Storm ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
-    <Cell ss:MergeAcross="2" ss:StyleID="m251083356"><Data ss:Type="String">PASSIVE SKILLS MAGIC EFFECTS DESCRIPTIONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m229095164"><Data ss:Type="String">MAGIC EFFECTS DESCRIPTIONS UNITS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_UnitSymbols_Seconds</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_UnitSymbols_Meter</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">m</Data></Cell>
+    <Cell><Data ss:Type="String">m</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_UnitSymbols_Position</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">th</Data></Cell>
+    <Cell><Data ss:Type="String">th</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m229095184"><Data ss:Type="String">PASSIVE SKILLS MAGIC EFFECTS DESCRIPTIONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_PST_Dexterity</Data></Cell>
@@ -3148,7 +3186,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AllStatsWhenDodgeSuccess</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 to all Attributes during %2 when dodging or blocking an attack</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">%1 to all Attributes during %2 when dodging or blocking an attack</Data></Cell>
     <Cell><Data ss:Type="String">%1 to all Attributes during %2 when dodging or blocking an attack</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -3313,8 +3351,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AtkSpeedRangedXShots</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Each %1th shot with a Crossbow will give you a short %2 Attack Speed bonus</Data></Cell>
-    <Cell><Data ss:Type="String">Each %1th shot with a Crossbow will give you a short %2 Attack Speed bonus</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Each %1 shot with a Crossbow will give you a short %2 Attack Speed bonus</Data></Cell>
+    <Cell><Data ss:Type="String">Each %1 shot with a Crossbow will give you a short %2 Attack Speed bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CleaveFactor</Data></Cell>
@@ -4168,7 +4206,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CriticalChanceAgainstPoisoned</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to Critical Chance (Spells &amp; Physical) against poisoned or bleeding enemies</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Critical Chance (Spells &amp; Physical) against poisoned or bleeding enemies</Data></Cell>
     <Cell><Data ss:Type="String">%2 to Critical Chance (Spells &amp; Physical) against poisoned or bleeding enemies</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4258,8 +4296,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DoubleShotTimed</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">If you shoot with a ranged weapon on an enemy that has just been hit by another shot (%2 window), your shot will be doubled</Data></Cell>
-    <Cell><Data ss:Type="String">If you shoot with a ranged weapon on an enemy that has just been hit by another shot (%2 window), your shot will be doubled</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Continuously shooting the same enemy may double your next shot</Data></Cell>
+    <Cell><Data ss:Type="String">Continuously shooting the same enemy may double your next shot</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SeekingShots</Data></Cell>
@@ -4293,8 +4331,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_OpenWoundIncDaggers</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Each strike with Dual Daggers increases by %1 the Open Wound Chance of Bleeding skills during %2</Data></Cell>
-    <Cell><Data ss:Type="String">Each strike with Dual Daggers increases by %1 the Open Wound Chance of Bleeding skills during %2</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Each strike with Dual Daggers increases by %1 the Open Wound Chance of Bleeding skills during %2 (stackable %3 times)</Data></Cell>
+    <Cell><Data ss:Type="String">Each strike with Dual Daggers increases by %1 the Open Wound Chance of Bleeding skills during %2 (stackable %3 times)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_OpenWoundFromCritMelee</Data></Cell>
@@ -4403,8 +4441,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurnRecoveryOnDodgeroll</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 Chance to clear Burning effects when Dodge-rolling (Chance is increased if you are in water, even more if it rains)</Data></Cell>
-    <Cell><Data ss:Type="String">%2 Chance to clear Burning effects when Dodge-rolling (Chance is increased if you are in water, even more if it rains)</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 Chance to clear up to %1 Burning stacks when Dodge-rolling (Chance is increased if you are in water, even more if it rains)</Data></Cell>
+    <Cell><Data ss:Type="String">%2 Chance to clear up to %1 Burning stacks when Dodge-rolling (Chance is increased if you are in water, even more if it rains)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurningTimeBonus</Data></Cell>
@@ -4428,8 +4466,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurnOnHit</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Burning Damage during %2 on hits</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Burning Damage during %2 on hits</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Burning Stack(s) during %2 on hits</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Burning Stack(s) during %2 on hits</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurnOnLightning</Data></Cell>
@@ -4508,8 +4546,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DotDurationReduction</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Reduces by %2 the duration of the Burning, Poison, Bleeding and Freezing effects you suffer</Data></Cell>
-    <Cell><Data ss:Type="String">Reduces by %2 the duration of the Burning, Poison, Bleeding and Freezing effects you suffer</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Reduces by %2 the duration of all Status Ailments you suffer</Data></Cell>
+    <Cell><Data ss:Type="String">Reduces by %2 the duration of all Status Ailments you suffer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_2HTo1H</Data></Cell>
@@ -4523,8 +4561,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_GlobesNova</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts a small Elemental Nova each time you pick up a Globe (the Element depends on the Globe type)</Data></Cell>
-    <Cell><Data ss:Type="String">Casts a small Elemental Nova each time you pick up a Globe (the Element depends on the Globe type)</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to cast a small Elemental Nova when picking up a Globe (the Element depends on the Globe type)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Chance to cast a small Elemental Nova when picking up a Globe (the Element depends on the Globe type)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PickRadius</Data></Cell>
@@ -4588,7 +4626,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PotionRefillBonus</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Equipped Potions and Poisons refill %2 faster</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Equipped Potions and Poisons refill %2 faster</Data></Cell>
     <Cell><Data ss:Type="String">Equipped Potions and Poisons refill %2 faster</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4933,13 +4971,18 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CriticalResistanceReduction</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Critical Strikes reduce all target's Resistances by %1 during %2</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Critical Strikes reduce all target's Resistances by %1 during %2</Data></Cell>
     <Cell><Data ss:Type="String">Critical Strikes reduce all target's Resistances by %1 during %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ArmorPiercingOnCritical</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 Armor Piercing on Critical Strikes</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 Armor Piercing on Critical Strikes</Data></Cell>
     <Cell><Data ss:Type="String">%2 Armor Piercing on Critical Strikes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_ArmorPiercingCloseShots</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Gives all your shots an Armor Piercing bonus depending on your distance to the target (up to %1 if the target is closer than %2</Data></Cell>
+    <Cell><Data ss:Type="String">Gives all your shots an Armor Piercing bonus depending on your distance to the target (up to %1 if the target is closer than %2</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -4959,12 +5002,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>409</TopRowVisible>
+   <TopRowVisible>900</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>431</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>914</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

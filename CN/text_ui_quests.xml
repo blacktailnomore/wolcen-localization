@@ -390,7 +390,7 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_i_need_to_get_out_of_this_place</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">I need to get out of this cursed place.</Data></Cell>
     <Cell ss:StyleID="s75"><Data
-      ss:Type="String">我需要离开这个被诅咒的地方。</Data></Cell>
+      ss:Type="String">我要离开这个被诅咒的地方。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_and_to_find_and_pant</Data></Cell>

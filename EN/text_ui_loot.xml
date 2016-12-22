@@ -114,7 +114,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m342390784" ss:Parent="s40">
+  <Style ss:ID="m342479792" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +125,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342390804" ss:Parent="s40">
+  <Style ss:ID="m342479812" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -136,7 +136,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342390824" ss:Parent="s40">
+  <Style ss:ID="m342479832" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -147,7 +147,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342388912" ss:Parent="s40">
+  <Style ss:ID="m342479852" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -158,7 +158,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342388932" ss:Parent="s40">
+  <Style ss:ID="m342476672" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -169,7 +169,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342388952" ss:Parent="s40">
+  <Style ss:ID="m342476692" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -180,7 +180,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342388972" ss:Parent="s40">
+  <Style ss:ID="m342476712" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -191,7 +191,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342388992" ss:Parent="s40">
+  <Style ss:ID="m342476732" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -202,7 +202,18 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342389012" ss:Parent="s40">
+  <Style ss:ID="m342476752" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m342476772" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -249,12 +260,15 @@
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s82">
+  <Style ss:ID="s80">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
    <Interior/>
   </Style>
-  <Style ss:ID="s83" ss:Parent="s28">
+  <Style ss:ID="s83" ss:Parent="s26">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s84" ss:Parent="s28">
    <Borders/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
@@ -270,7 +284,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="235" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="246" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:AutoFitWidth="0" ss:Width="243"/>
    <Column ss:AutoFitWidth="0" ss:Width="290.25"/>
@@ -284,7 +298,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342388912"><Data ss:Type="String">WEAPONS </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342476672"><Data ss:Type="String">WEAPONS </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Shields</Data></Cell>
@@ -429,32 +443,32 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_PrimitiveDagger</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Primitive Dagger</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Dagger</Data></Cell>
     <Cell><Data ss:Type="String">Primitive Dagger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_HuntingDagger</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Hunting Dagger</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Hunting Dagger</Data></Cell>
     <Cell><Data ss:Type="String">Hunting Dagger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_HuntingKnife</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Hunting Knife</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Hunting Knife</Data></Cell>
     <Cell><Data ss:Type="String">Hunting Knife</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_SteelDagger</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Steel Dagger</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Dagger</Data></Cell>
     <Cell><Data ss:Type="String">Steel Dagger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_IronDagger</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Iron Dagger</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Dagger</Data></Cell>
     <Cell><Data ss:Type="String">Iron Dagger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_SalvagedDagger</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Salvaged Dagger</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Salvaged Dagger</Data></Cell>
     <Cell><Data ss:Type="String">Salvaged Dagger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -648,7 +662,7 @@
     <Cell><Data ss:Type="String">The Ice Breaker</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342388932"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342476692"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorType_Heavy</Data></Cell>
@@ -676,7 +690,7 @@
     <Cell><Data ss:Type="String">Accessory</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342388952"><Data ss:Type="String">ARMORS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342476712"><Data ss:Type="String">ARMORS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Heavy</Data></Cell>
@@ -1241,272 +1255,277 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Bronze</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Bronze Ring</Data></Cell>
-    <Cell ss:StyleID="s82"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">Bronze Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Emerald</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Emerald Ring</Data></Cell>
-    <Cell ss:StyleID="s82"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">Emerald Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Pyrite</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Pyrite Ring</Data></Cell>
-    <Cell ss:StyleID="s82"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">Pyrite Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Ruby</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ruby Ring</Data></Cell>
-    <Cell ss:StyleID="s82"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">Ruby Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Silver</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Silver Ring</Data></Cell>
-    <Cell ss:StyleID="s82"><Data
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Silver Ring</Data></Cell>
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">Silver Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Gold</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Gold ring</Data></Cell>
-    <Cell ss:StyleID="s82"><Data
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gold ring</Data></Cell>
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">Gold ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Amber</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Amber Amulet</Data></Cell>
-    <Cell ss:StyleID="s82"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">Amber Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Amethyst</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Amethyst Amulet</Data></Cell>
-    <Cell ss:StyleID="s82"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">Amethyst Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Jade</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Jade Amulet</Data></Cell>
-    <Cell ss:StyleID="s82"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">Jade Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Topaz</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Topaz Amulet</Data></Cell>
-    <Cell ss:StyleID="s82"><Data
+    <Cell ss:StyleID="s80"><Data
       ss:Type="String">Topaz Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Templar</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Amulet</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Amulet</Data></Cell>
     <Cell><Data ss:Type="String">Templar Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Barbarian</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Savage Amulet</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Savage Amulet</Data></Cell>
     <Cell><Data ss:Type="String">Savage Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Belt_Alchemist</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Alchemist Sash</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Alchemist Sash</Data></Cell>
     <Cell><Data ss:Type="String">Alchemist Sash</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Belt_Warrior</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Heavy Belt</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Heavy Belt</Data></Cell>
     <Cell><Data ss:Type="String">Heavy Belt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Belt_Assassin</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Assassin Waistband</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Assassin Waistband</Data></Cell>
     <Cell><Data ss:Type="String">Assassin Waistband</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Belt_Gladiator</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Gladiator Belt</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gladiator Belt</Data></Cell>
     <Cell><Data ss:Type="String">Gladiator Belt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Belt_Thief</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Thief Sash</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Thief Sash</Data></Cell>
     <Cell><Data ss:Type="String">Thief Sash</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Belt_Templar</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Waistband</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Waistband</Data></Cell>
     <Cell><Data ss:Type="String">Templar Waistband</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342388972"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342476732"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_reqLevel</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Required Level</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Required Level</Data></Cell>
     <Cell><Data ss:Type="String">Required Level</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_durability</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Durability</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Durability</Data></Cell>
     <Cell><Data ss:Type="String">Durability</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_sellvalue</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Value</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Value</Data></Cell>
     <Cell><Data ss:Type="String">Value</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_equipped</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Equipped</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Equipped</Data></Cell>
     <Cell><Data ss:Type="String">Equipped</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_charges</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Charges left</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Charges left</Data></Cell>
     <Cell><Data ss:Type="String">Charges left</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_refreshtime</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Cooldown</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Cooldown</Data></Cell>
     <Cell><Data ss:Type="String">Cooldown</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_rechargetime</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Refill time</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Refill time</Data></Cell>
     <Cell><Data ss:Type="String">Refill time</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342388992"><Data ss:Type="String">LOOT RARITY</Data></Cell>
+    <Cell><Data ss:Type="String">ui_ic_hold</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hold MAJ to switch between left and right item comparison</Data></Cell>
+    <Cell><Data ss:Type="String">Hold MAJ to switch between left and right item comparison</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m342476752"><Data ss:Type="String">LOOT RARITY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_normal</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Normal</Data></Cell>
-    <Cell><Data ss:Type="String">Normal</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Common</Data></Cell>
+    <Cell><Data ss:Type="String">Common</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_magic</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Magic</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Magic</Data></Cell>
     <Cell><Data ss:Type="String">Magic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_rare</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Rare</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Rare</Data></Cell>
     <Cell><Data ss:Type="String">Rare</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_legendary</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Legendary</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Legendary</Data></Cell>
     <Cell><Data ss:Type="String">Legendary</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_set</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Set</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Set</Data></Cell>
     <Cell><Data ss:Type="String">Set</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_unique</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Unique</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Unique</Data></Cell>
     <Cell><Data ss:Type="String">Unique</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342389012"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342476772"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_broken</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Broken</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Broken</Data></Cell>
     <Cell><Data ss:Type="String">Broken</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_used</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Used</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Used</Data></Cell>
     <Cell><Data ss:Type="String">Used</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_normal</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Normal</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Normal</Data></Cell>
     <Cell><Data ss:Type="String">Normal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_reinforced</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Reinforced</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Reinforced</Data></Cell>
     <Cell><Data ss:Type="String">Reinforced</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_superior</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Superior</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Superior</Data></Cell>
     <Cell><Data ss:Type="String">Superior</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_exceptional</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Exceptional</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Exceptional</Data></Cell>
     <Cell><Data ss:Type="String">Exceptional</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_epic</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Epic</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Epic</Data></Cell>
     <Cell><Data ss:Type="String">Epic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342390784"><Data ss:Type="String">POTIONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342479792"><Data ss:Type="String">POTIONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_potiontype_health</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Health potion</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Health potion</Data></Cell>
     <Cell><Data ss:Type="String">Health potion</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_potiontype_poison</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Poison</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Poison</Data></Cell>
     <Cell><Data ss:Type="String">Poison</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_potiontype_rage</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Rage potion</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Rage potion</Data></Cell>
     <Cell><Data ss:Type="String">Rage potion</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_potiontype_stamina</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Stamina potion</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Stamina potion</Data></Cell>
     <Cell><Data ss:Type="String">Stamina potion</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_potiontype_umbra</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Umbra potion</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra potion</Data></Cell>
     <Cell><Data ss:Type="String">Umbra potion</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_loot_potiontype_misc</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Utility potion</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Utility potion</Data></Cell>
     <Cell><Data ss:Type="String">Utility potion</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Potions_HealthSmall</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Flask of Health</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Health</Data></Cell>
     <Cell><Data ss:Type="String">Flask of Health</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Potions_UmbraSmall</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Flask of Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Umbra</Data></Cell>
     <Cell><Data ss:Type="String">Flask of Umbra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Potions_RageSmall</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Flask of Rage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Rage</Data></Cell>
     <Cell><Data ss:Type="String">Flask of Rage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Potions_StaminaSmall</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Flask of Stamina</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Stamina</Data></Cell>
     <Cell><Data ss:Type="String">Flask of Stamina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Potions_PoisonSmall</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Weak Poison</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Weak Poison</Data></Cell>
     <Cell><Data ss:Type="String">Weak Poison</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342390804"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342479812"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_1HSword</Data></Cell>
@@ -1559,7 +1578,7 @@
     <Cell><Data ss:Type="String">Staff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342390824"><Data ss:Type="String">INGREDIENTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m342479832"><Data ss:Type="String">INGREDIENTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_loot_Ingredient</Data></Cell>
@@ -1575,6 +1594,54 @@
     <Cell><Data ss:Type="String">ui_Ingredients_Mushroom</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Mushroom</Data></Cell>
     <Cell><Data ss:Type="String">Mushroom</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="2" ss:StyleID="m342479852"><Data ss:Type="String">WEAPON SPEED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_speed_slowest</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Slowest</Data></Cell>
+    <Cell><Data ss:Type="String">Slowest</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_speed_veryslow</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Very slow</Data></Cell>
+    <Cell><Data ss:Type="String">Very slow</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_speed_slow</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Slow</Data></Cell>
+    <Cell><Data ss:Type="String">Slow</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_speed_belownormal</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Below average speed</Data></Cell>
+    <Cell><Data ss:Type="String">Below average speed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_speed_normal</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Medium speed</Data></Cell>
+    <Cell><Data ss:Type="String">Medium speed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_speed_abovenormal</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Above average speed</Data></Cell>
+    <Cell><Data ss:Type="String">Above average speed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_speed_fast</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Fast</Data></Cell>
+    <Cell><Data ss:Type="String">Fast</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_speed_veryfast</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Very fast</Data></Cell>
+    <Cell><Data ss:Type="String">Very fast</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_speed_fastest</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Fastest</Data></Cell>
+    <Cell><Data ss:Type="String">Fastest</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -1594,12 +1661,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>163</TopRowVisible>
+   <TopRowVisible>185</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>188</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>195</ActiveRow>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

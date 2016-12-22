@@ -34,15 +34,11 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s28" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
-   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
-  </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m251545072">
+  <Style ss:ID="m524990144">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -53,7 +49,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m251545092">
+  <Style ss:ID="m524990164">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -127,13 +123,6 @@
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s83" ss:Parent="s28">
-   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
-   <Borders/>
-  </Style>
-  <Style ss:ID="s84" ss:Parent="s28">
-   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
-  </Style>
   <Style ss:ID="s85" ss:Parent="s26">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
   </Style>
@@ -156,7 +145,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m251545072"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m524990144"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s63">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Character Creation Interface</Data></Cell>
@@ -519,7 +508,7 @@
       ss:Type="String">Beard 10</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m251545092"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m524990164"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Info Fields</Data></Cell>
@@ -1050,7 +1039,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_cleaveangle</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Cleave Angle Bonus</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Cleave Angle Bonus</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">Cleave Angle Bonus</Data></Cell>
    </Row>
@@ -1133,55 +1122,55 @@
       ss:Type="String">Spells Resistance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cs_percent_physical</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_physical</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Physical</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">Physical</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cs_percent_fire</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_fire</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Fire</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">Fire</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cs_percent_frost</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_frost</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Frost</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">Frost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cs_percent_lightning</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_lightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Lightning</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">Lightning</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cs_percent_umbra</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_umbra</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Umbra</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">Umbra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cs_percent_sacred</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_sacred</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Sacred</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">Sacred</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cs_percent_shadow</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_shadow</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Shadow</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">Shadow</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cs_percent_bleed</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_bleed</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Bleeding</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">Bleeding</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cs_percent_poison</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_percent_poison</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Poison</Data></Cell>
     <Cell ss:StyleID="s79"><Data
       ss:Type="String">Poison</Data></Cell>
@@ -1633,7 +1622,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_cleaveangle_tooltip</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">The total Cleave Angle Bonus of your Melee attacks (added to the base value of Skills). Combined with Weapon range, it will determine which targets are hit by Cleaving attacks.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The total Cleave Angle Bonus of your Melee attacks (added to the base value of Skills). Combined with Weapon range, it will determine which targets are hit by Cleaving attacks.</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">The total Cleave Angle of your Melee attacks. Combined with Weapon range, it will determine which targets are hit by Cleaving attacks.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1720,11 +1709,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>150</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>170</ActiveRow>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>7</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

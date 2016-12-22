@@ -106,11 +106,15 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
+  <Style ss:ID="s28" ss:Name="Neutre">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#9C5700"/>
+   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
+  </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#006100"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m348924784" ss:Parent="s40">
+  <Style ss:ID="m189883584" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -121,7 +125,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m348924804" ss:Parent="s40">
+  <Style ss:ID="m189883604" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -178,6 +182,9 @@
    <Borders/>
    <Interior/>
   </Style>
+  <Style ss:ID="s83" ss:Parent="s28">
+   <Borders/>
+  </Style>
  </Styles>
  <Names>
   <NamedRange ss:Name="characters"
@@ -203,7 +210,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell ss:MergeAcross="2" ss:StyleID="m348924784"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m189883584"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">Status Effects</Data></Cell>
@@ -475,7 +482,7 @@
       ss:Type="String">持续用你的武器进行攻击，以执行新的组合攻击</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m348924804"><Data ss:Type="String">BOSS MODIFIERS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m189883604"><Data ss:Type="String">BOSS MODIFIERS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_BleedingAttacks</Data></Cell>
@@ -705,9 +712,37 @@
     <Cell ss:StyleID="s81"><Data
       ss:Type="String">吸收冰霜伤害</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15"/>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65"/>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="30"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BossModifier_Armored</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Armored</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">护甲强化</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">ui_BossModifier_MeteorRain</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Casts Meteors</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">施放陨石</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BossModifier_UmbralNova</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Umbral Nova</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">施放本影新星</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BossModifier_FireNova</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Fire Nova</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">施放火焰新星</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BossModifier_LightningNova</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Lightning Nova</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">施放闪电新星</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="27"/>
    <Row ss:Index="201" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -800,12 +835,12 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
+   <TopRowVisible>60</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>48</ActiveRow>
+     <ActiveRow>103</ActiveRow>
      <ActiveCol>1</ActiveCol>
-     <RangeSelection>R49C2:R86C2</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
