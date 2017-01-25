@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -7,7 +7,7 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>UBBOSATHLA</LastAuthor>
-  <LastSaved>2016-12-19T16:11:19Z</LastSaved>
+  <LastSaved>2017-01-19T08:56:40Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -34,6 +34,10 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
+  <Style ss:ID="s27" ss:Name="Insatisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#800000"/>
+   <Interior ss:Color="#FFC7CE" ss:Pattern="Solid"/>
+  </Style>
   <Style ss:ID="s28" ss:Name="Neutre">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
@@ -42,7 +46,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m229095104">
+  <Style ss:ID="m188449728">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -53,7 +57,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m229095124">
+  <Style ss:ID="m188449748">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -64,7 +68,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m229095144">
+  <Style ss:ID="m188449768">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -75,7 +79,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m229095164">
+  <Style ss:ID="m188449788">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -86,7 +90,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m229095184">
+  <Style ss:ID="m188449808">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -156,21 +160,21 @@
   <Style ss:ID="s83" ss:Parent="s26">
    <Borders/>
   </Style>
-  <Style ss:ID="s84" ss:Parent="s26">
+  <Style ss:ID="s86" ss:Parent="s26">
    <Alignment ss:Vertical="Center"/>
   </Style>
-  <Style ss:ID="s86" ss:Parent="s28">
-   <Borders/>
-  </Style>
-  <Style ss:ID="s88" ss:Parent="s26">
+  <Style ss:ID="s87" ss:Parent="s26">
    <NumberFormat ss:Format="0%"/>
+  </Style>
+  <Style ss:ID="s90" ss:Parent="s28">
+   <Borders/>
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="1018" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="1065" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:AutoFitWidth="0" ss:Width="225.75"/>
    <Column ss:AutoFitWidth="0" ss:Width="538.5"/>
@@ -184,7 +188,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m229095104"><Data ss:Type="String">CLASS NAMES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m188449728"><Data ss:Type="String">CLASS NAMES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_Section_Legionary</Data></Cell>
@@ -287,7 +291,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Necromancer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s72">
-    <Cell ss:MergeAcross="2" ss:StyleID="m229095124"><Data ss:Type="String">PST USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m188449748"><Data ss:Type="String">PST USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_cant_reach_this_skill_yet</Data></Cell>
@@ -360,7 +364,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Lore Master</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s72">
-    <Cell ss:MergeAcross="2" ss:StyleID="m229095144"><Data ss:Type="String">PASSIVE SKILLS NAMES AND LORE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m188449768"><Data ss:Type="String">PASSIVE SKILLS NAMES AND LORE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Legionary</Data></Cell>
@@ -519,7 +523,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_LEGIO_16_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Some say I'm quick tempered. The truth is, they are too slow.</Data></Cell>
+    <Cell><Data ss:Type="String">Some say I'm quick tempered. The truth is, they are too slow.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_LEGIO_17_name</Data></Cell>
@@ -556,7 +561,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_LEGIO_20_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">I don't need arrows or bolts with a sword that long.</Data></Cell>
+    <Cell><Data ss:Type="String">I don't need arrows or bolts with a sword that long.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Hunter</Data></Cell>
@@ -692,8 +698,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_14_name</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Light Armor Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">Light Armor Mastery</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Strategist</Data></Cell>
+    <Cell><Data ss:Type="String">Strategist</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_14_lore</Data></Cell>
@@ -773,11 +779,30 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_23_name</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Retreat</Data></Cell>
-    <Cell><Data ss:Type="String">Retreat</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Marksman</Data></Cell>
+    <Cell><Data ss:Type="String">Marksman</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_23_lore</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_24_name</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Isolated</Data></Cell>
+    <Cell><Data ss:Type="String">Isolated</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_24_lore</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Keep your friends distant, and your enemies even more.</Data></Cell>
+    <Cell><Data ss:Type="String">Keep your friends distant, and your enemies even more.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_25_name</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Distant Outburst</Data></Cell>
+    <Cell><Data ss:Type="String">Distant Outburst</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_25_lore</Data></Cell>
     <Cell ss:StyleID="s26"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1199,6 +1224,24 @@
     <Cell ss:StyleID="s26"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_THIEF_22_name</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Light Armor Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">Light Armor Mastery</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_THIEF_22_lore</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_THIEF_23_name</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Retreat</Data></Cell>
+    <Cell><Data ss:Type="String">Retreat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_THIEF_23_lore</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Arcanist</Data></Cell>
     <Cell ss:StyleID="s79"/>
     <Cell ss:StyleID="s80"/>
@@ -1420,7 +1463,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ARCAN_23_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">I'm one with the Umbra, and the Umbra is with me.</Data></Cell>
+    <Cell><Data ss:Type="String">I'm one with the Umbra, and the Umbra is with me.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ARCAN_24_name</Data></Cell>
@@ -1461,7 +1505,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_3_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Adaptation is the only reason our World survived so far.</Data></Cell>
+    <Cell><Data ss:Type="String">Adaptation is the only reason our World survived so far.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_4_name</Data></Cell>
@@ -1497,7 +1542,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_7_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">I don't think that's intended, but that mixture tastes pretty good.</Data></Cell>
+    <Cell><Data ss:Type="String">I don't think that's intended, but that mixture tastes pretty good.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_8_name</Data></Cell>
@@ -2284,7 +2330,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_27_lore</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Did you know that if I take all the veins from your body and lay them end to end… you will die ?</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Did you know that if I take all the veins from your body and lay them end to end… you will die ?</Data></Cell>
     <Cell><Data ss:Type="String">Did you know that if I take all the veins from your body and lay them end to end… you will die ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -2396,6 +2442,15 @@
     <Cell ss:StyleID="s26"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_40_name</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hitman</Data></Cell>
+    <Cell><Data ss:Type="String">Hitman</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_40_lore</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Trickster</Data></Cell>
     <Cell ss:StyleID="s79"/>
     <Cell ss:StyleID="s80"/>
@@ -2429,12 +2484,13 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_4_name</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">Perseverance</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Perseverance</Data></Cell>
     <Cell><Data ss:Type="String">Perseverance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_4_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">I'm going to fill your body with holes. So to speak.</Data></Cell>
+    <Cell><Data ss:Type="String">I'm going to fill your body with holes. So to speak.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_5_name</Data></Cell>
@@ -2691,12 +2747,13 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_33_name</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Bayonet</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Bayonet</Data></Cell>
     <Cell><Data ss:Type="String">Bayonet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_33_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Who said ranged weapons were meant to be used from a long distance ?</Data></Cell>
+    <Cell><Data ss:Type="String">Who said ranged weapons were meant to be used from a long distance ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Elementalist</Data></Cell>
@@ -2783,8 +2840,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ELEM_9_lore</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">I fight fire with fire.</Data></Cell>
-    <Cell><Data ss:Type="String">I fight fire with fire.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Of course you should fight fire with fire. You should fight everything with fire.</Data></Cell>
+    <Cell><Data ss:Type="String">Of course you should fight fire with fire. You should fight everything with fire.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ELEM_10_name</Data></Cell>
@@ -2821,7 +2878,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ELEM_13_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your body is a maze designed for Lightning to propagate.</Data></Cell>
+    <Cell><Data ss:Type="String">Your body is a maze designed for Lightning to propagate.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ELEM_14_name</Data></Cell>
@@ -3059,25 +3117,25 @@
     <Cell><Data ss:Type="String">Who need swords when you control the Storm ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
-    <Cell ss:MergeAcross="2" ss:StyleID="m229095164"><Data ss:Type="String">MAGIC EFFECTS DESCRIPTIONS UNITS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m188449788"><Data ss:Type="String">MAGIC EFFECTS DESCRIPTIONS UNITS</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_UnitSymbols_Seconds</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">s</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">s</Data></Cell>
     <Cell><Data ss:Type="String">s</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_UnitSymbols_Meter</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">m</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">m</Data></Cell>
     <Cell><Data ss:Type="String">m</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_UnitSymbols_Position</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">th</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">th</Data></Cell>
     <Cell><Data ss:Type="String">th</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m229095184"><Data ss:Type="String">PASSIVE SKILLS MAGIC EFFECTS DESCRIPTIONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m188449808"><Data ss:Type="String">PASSIVE SKILLS MAGIC EFFECTS DESCRIPTIONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_PST_Dexterity</Data></Cell>
@@ -3351,7 +3409,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AtkSpeedRangedXShots</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">Each %1 shot with a Crossbow will give you a short %2 Attack Speed bonus</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Each %1 shot with a Crossbow will give you a short %2 Attack Speed bonus</Data></Cell>
     <Cell><Data ss:Type="String">Each %1 shot with a Crossbow will give you a short %2 Attack Speed bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -3541,22 +3599,22 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ElementalDOTDuration</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">%2 to the duration of Burning, Freezing and Shocking effects you inflict</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%2 to the duration of Burning, Freezing and Shocking effects you inflict</Data></Cell>
     <Cell><Data ss:Type="String">%2 to the duration of Burning, Freezing and Shocking effects you inflict</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ElemDotCrit</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Allows Burning and Shock effects to deal critical Damage and Freezing effects to get a critical duration multiplier</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Allows Burning and Shock effects to deal critical Damage and Freezing effects to get a critical duration multiplier</Data></Cell>
     <Cell><Data ss:Type="String">Allows Burning and Shock effects to deal critical Damage and Freezing effects to get a critical duration multiplier</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CricitalFrostAndFreezeChance</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">%1 to your Critical Chance (Spells &amp; Physical) with Frost Damage and %2 to your Freeze Chance with Frost Damage</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 to your Critical Chance (Spells &amp; Physical) with Frost Damage and %2 to your Freeze Chance with Frost Damage</Data></Cell>
     <Cell><Data ss:Type="String">%1 to your Critical Chance (Spells &amp; Physical) with Frost Damage and %2 to your Freeze Chance with Frost Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FreezeDuration</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">%2 to the duration of all Freezing effects you inflict</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%2 to the duration of all Freezing effects you inflict</Data></Cell>
     <Cell><Data ss:Type="String">%2 to the duration of all Freezing effects you inflict</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -3886,13 +3944,13 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StaminaCost</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the Stamina cost of spells</Data></Cell>
-    <Cell><Data ss:Type="String">%1 to the Stamina cost of spells</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 to the Stamina cost of skills</Data></Cell>
+    <Cell><Data ss:Type="String">%1 to the Stamina cost of skills</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_UmbraCost</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">%2 to the Umbra cost of spells</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the Umbra cost of spells</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">%2 to the Umbra cost of skills</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the Umbra cost of skills</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SkillCooldown</Data></Cell>
@@ -3911,18 +3969,18 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SpellCostAfterKill</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the Rage and Umbra costs of all your spells during %2 after a kill</Data></Cell>
-    <Cell><Data ss:Type="String">%1 to the Rage and Umbra costs of all your spells during %2 after a kill</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 to the Rage and Umbra costs of all your skills during %2 after a kill</Data></Cell>
+    <Cell><Data ss:Type="String">%1 to the Rage and Umbra costs of all your skills during %2 after a kill</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SpellCostAfterDodgeRoll</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the Rage and Umbra costs of all your spells during %2 after a Dodge Roll</Data></Cell>
-    <Cell><Data ss:Type="String">%1 to the Rage and Umbra costs of all your spells during %2 after a Dodge Roll</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 to the Rage and Umbra costs of all your skills during %2 after a Dodge Roll</Data></Cell>
+    <Cell><Data ss:Type="String">%1 to the Rage and Umbra costs of all your skills during %2 after a Dodge Roll</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_OffensiveEffectDurationBonus</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the duration of all Offensive effects you inflict</Data></Cell>
-    <Cell><Data ss:Type="String">%1 to the duration of all Offensive effects you inflict</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 to the duration of all Status Ailments you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%1 to the duration of all Status Ailments you inflict</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RageGenerationWhenEmpty</Data></Cell>
@@ -3971,8 +4029,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RageCost</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the Rage cost of spells</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the Rage cost of spells</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the Rage cost of skills</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the Rage cost of skills</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_TimeBeforeRageLoss</Data></Cell>
@@ -4296,7 +4354,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DoubleShotTimed</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Continuously shooting the same enemy may double your next shot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Continuously shooting the same enemy may double your next shot</Data></Cell>
     <Cell><Data ss:Type="String">Continuously shooting the same enemy may double your next shot</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4331,7 +4389,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_OpenWoundIncDaggers</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Each strike with Dual Daggers increases by %1 the Open Wound Chance of Bleeding skills during %2 (stackable %3 times)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Each strike with Dual Daggers increases by %1 the Open Wound Chance of Bleeding skills during %2 (stackable %3 times)</Data></Cell>
     <Cell><Data ss:Type="String">Each strike with Dual Daggers increases by %1 the Open Wound Chance of Bleeding skills during %2 (stackable %3 times)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4461,12 +4519,12 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurningWithFireSkills</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 Chance to Burn with Fire skills</Data></Cell>
-    <Cell><Data ss:Type="String">%2 Chance to Burn with Fire skills</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 Chance to Propagate Flames with Fire skills</Data></Cell>
+    <Cell><Data ss:Type="String">%2 Chance to Propagate Flames with Fire skills</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurnOnHit</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Burning Stack(s) during %2 on hits</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Burning Stack(s) during %2 on hits</Data></Cell>
     <Cell><Data ss:Type="String">%1 Burning Stack(s) during %2 on hits</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4516,8 +4574,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ShockChance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Shocking Chance of Lightning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to Shocking Chance of Lightning Damage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Shocking chance with Lightning Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to your Shocking chance with Lightning Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ShockDamage</Data></Cell>
@@ -4546,7 +4604,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DotDurationReduction</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Reduces by %2 the duration of all Status Ailments you suffer</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Reduces by %2 the duration of all Status Ailments you suffer</Data></Cell>
     <Cell><Data ss:Type="String">Reduces by %2 the duration of all Status Ailments you suffer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4561,7 +4619,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_GlobesNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to cast a small Elemental Nova when picking up a Globe (the Element depends on the Globe type)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Chance to cast a small Elemental Nova when picking up a Globe (the Element depends on the Globe type)</Data></Cell>
     <Cell><Data ss:Type="String">%1 Chance to cast a small Elemental Nova when picking up a Globe (the Element depends on the Globe type)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4600,19 +4658,19 @@
     <Cell><Data ss:Type="String">%2 to the drop Rate of Health Globes when your current Health is below %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_PST_UmbraGlobesRefillUmbraPotions</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra Globes now also refill your Umbra potions (up to %2)</Data></Cell>
-    <Cell><Data ss:Type="String">Umbra Globes now also refill your Umbra potions (up to %2)</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">ui_PST_UmbraGlobesRefillUmbraPotions</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Umbra Globes now also refill your Umbra potions (up to %2)</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Umbra Globes now also refill your Umbra potions (up to %2)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_PST_RageGlobesRefillRagePotions</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Rage Globes now also refill your Rage potions (up to %2)</Data></Cell>
-    <Cell><Data ss:Type="String">Rage Globes now also refill your Rage potions (up to %2)</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">ui_PST_RageGlobesRefillRagePotions</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Rage Globes now also refill your Rage potions (up to %2)</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Rage Globes now also refill your Rage potions (up to %2)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HealthGlobesRefillHealthPotions</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Health Globes now also refill your Health potions (up to %2)</Data></Cell>
-    <Cell><Data ss:Type="String">Health Globes now also refill your Health potions (up to %2)</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Health Globes now also refill %1 charge(s) of your Health potions </Data></Cell>
+    <Cell><Data ss:Type="String">Health Globes now also refill %1 charge(s) of your Health potions </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RegenOnPotions</Data></Cell>
@@ -4831,18 +4889,18 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormLightning</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Lightning Storm Area each time you hit the same area with Lightning spells (stackable intensity). May Shock enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">Creates a Lightning Storm Area each time you hit the same area with Lightning spells (stackable intensity). May Shock enemies inside the zone.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Creates a Lightning Storm Area each time you hit the same area with Lightning attacks (stackable intensity). May Shock enemies inside the zone.</Data></Cell>
+    <Cell><Data ss:Type="String">Creates a Lightning Storm Area each time you hit the same area with Lightning attacks (stackable intensity). May Shock enemies inside the zone.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormFrost</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Frost Storm Area each time you hit the same area with Frost spells (stackable intensity). May snare enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">Creates a Frost Storm Area each time you hit the same area with Frost spells (stackable intensity). May snare enemies inside the zone.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Creates a Frost Storm Area each time you hit the same area with Frost attacks (stackable intensity). May snare enemies inside the zone.</Data></Cell>
+    <Cell><Data ss:Type="String">Creates a Frost Storm Area each time you hit the same area with Frost attacks (stackable intensity). May snare enemies inside the zone.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormFire</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Fire Storm Area each time you hit the same area with Fire spells (stackable intensity). May hit and burn enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">Creates a Fire Storm Area each time you hit the same area with Fire spells (stackable intensity). May hit and burn enemies inside the zone.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Creates a Fire Storm Area each time you hit the same area with Fire attacks (stackable intensity). May hit and burn enemies inside the zone.</Data></Cell>
+    <Cell><Data ss:Type="String">Creates a Fire Storm Area each time you hit the same area with Fire attacks (stackable intensity). May hit and burn enemies inside the zone.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ExtendedStormTime</Data></Cell>
@@ -4981,8 +5039,193 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ArmorPiercingCloseShots</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Gives all your shots an Armor Piercing bonus depending on your distance to the target (up to %1 if the target is closer than %2</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gives all your shots an Armor Piercing bonus depending on your distance to the target (up to %1 if the target is closer than %2</Data></Cell>
     <Cell><Data ss:Type="String">Gives all your shots an Armor Piercing bonus depending on your distance to the target (up to %1 if the target is closer than %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_PoisonSpeedOnFrail</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Poison ticking speed on Frail enemies</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to your Poison ticking speed on Frail enemies</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseTime</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the duration of all the Curse stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the duration of all the Curse stacks you inflict</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseChance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Cursing chance with Shadow Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to your Cursing chance with Shadow Damage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseRadius</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the propagation radius of all the Curse stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the propagation radius of all the Curse stacks you inflict</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseStacks</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 to the number of Status Ailments stacks propagated by all the Curse effects you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%1 to the number of Status Ailments stacks propagated by all the Curse effects you inflict</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseEfficiency</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the efficiency of all the Curse stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the efficiency of all the Curse stacks you inflict</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_BurnChance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Burning chance with Fire Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to your Burning chance with Fire Damage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FreezeChance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Freezing chance with Frost Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to your Freezing chance with Frost Damage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_BleedChance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Open Wound chance with Bleeding Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to your Open Wound chance with Bleeding Damage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_BleedTime</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the duration of all the Open Wounds you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the duration of all the Open Wounds you inflict</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_PoisonChance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Poisoning chance with Poison Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to your Poisoning chance with Poison Damage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_PoisonTime</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the duration of all the Poisoning stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the duration of all the Poisoning stacks you inflict</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_WeaknessTime</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the duration of all the Weakness stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the duration of all the Weakness stacks you inflict</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_WeaknessChance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Weakness chance with Sacred Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to your Weakness chance with Sacred Damage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_WeaknessEfficiency</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the efficiency of all the Weakness stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the efficiency of all the Weakness stacks you inflict</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FrailtyTime</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the duration of all the Frailty stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the duration of all the Frailty stacks you inflict</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FrailtyChance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Frailty chance with Umbra Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to your Frailty chance with Umbra Damage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FrailtyEfficiency</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the efficiency of all the Frailty stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the efficiency of all the Frailty stacks you inflict</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseOnHits</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to Curse your target during %2 on hits</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Chance to Curse your target during %2 on hits</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FrenzyOnFearStun</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to cause a %2 Frenzy when fearing a stunned enemy</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Chance to cause a %2 Frenzy when fearing a stunned enemy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FearRadiusOverkill</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to Fear all enemies in a %2 radius when performing a Physical Overkill</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Chance to Fear all enemies in a %2 radius when performing a Physical Overkill</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseEfficiencyOnWeak</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the efficiency of all the Curse effects you inflict on Weakened enemies</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the efficiency of all the Curse effects you inflict on Weakened enemies</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_HealthGlobe</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to the drop Rate of Health Globes</Data></Cell>
+    <Cell><Data ss:Type="String">%2 to the drop Rate of Health Globes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_PoisonVial</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Inflict %1 Poison Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">Inflict %1 Poison Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseVial</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Inflict %1 Curse Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">Inflict %1 Curse Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FrailtyVial</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Inflict %1 Frailty and Weakness Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">Inflict %1 Frailty and Weakness Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_BurnVial</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Inflict %1 Burning Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">Inflict %1 Burning Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_ShockVial</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Shock targets on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">Shock targets on hits with Melee and Ranged Weapons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_BleedVial</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Inflict %1 Bleeding Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">Inflict %1 Bleeding Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FreezeVial</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Freeze targets during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">Freeze targets during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_Experience</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 Gained Experience</Data></Cell>
+    <Cell><Data ss:Type="String">%2 Gained Experience</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_RangedDamageIsolated</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 to all Damage done with Ranged Weapons if there is no enemy around you in a %2 radius</Data></Cell>
+    <Cell><Data ss:Type="String">%1 to all Damage done with Ranged Weapons if there is no enemy around you in a %2 radius</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_RageGenerationOpening</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 Rage generated on first hit with Melee and Ranged weapons when you are not in a fight</Data></Cell>
+    <Cell><Data ss:Type="String">%2 Rage generated on first hit with Melee and Ranged weapons when you are not in a fight</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_RageDistantShot</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Increases Rage generation of your Ranged Shots the further you are from your target</Data></Cell>
+    <Cell><Data ss:Type="String">Increases Rage generation of your Ranged Shots the further you are from your target</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CritChanceFromDistance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Increases your Critical Chance (Spells &amp; Physical) the further you are from your target</Data></Cell>
+    <Cell><Data ss:Type="String">Increases your Critical Chance (Spells &amp; Physical) the further you are from your target</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FirstHitAvoidFight</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The first hit done or taken doesn't put you in Fight mode (%2 cooldown)</Data></Cell>
+    <Cell><Data ss:Type="String">The first hit done or taken doesn't put you in Fight mode (%2 cooldown)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_SignatureSkill</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Will unlock the Active Skill &quot;%4&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Will unlock the Active Skill &quot;%4&quot;</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -5002,12 +5245,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>900</TopRowVisible>
+   <TopRowVisible>1029</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>914</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>999</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

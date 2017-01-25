@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -270,7 +270,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_all</Data></Cell>
     <Cell ss:StyleID="s76"><Data ss:Type="String">All</Data></Cell>
-    <Cell><Data
+    <Cell ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">All</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s66">

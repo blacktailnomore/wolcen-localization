@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -107,14 +107,14 @@
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s28" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#9C5700"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m189883584" ss:Parent="s40">
+  <Style ss:ID="m262517424" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +125,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m189883604" ss:Parent="s40">
+  <Style ss:ID="m262517444" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -182,7 +182,7 @@
    <Borders/>
    <Interior/>
   </Style>
-  <Style ss:ID="s83" ss:Parent="s28">
+  <Style ss:ID="s86" ss:Parent="s26">
    <Borders/>
   </Style>
  </Styles>
@@ -196,7 +196,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="784" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="792" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:Width="269.25"/>
    <Column ss:Width="398.25"/>
@@ -210,7 +210,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell ss:MergeAcross="2" ss:StyleID="m189883584"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m262517424"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">Status Effects</Data></Cell>
@@ -220,553 +220,589 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Stunned_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Stunned</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Stunned</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Stunned_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can't move or cast skills.</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">You can't move or cast skills.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Poisoned_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Poisoned</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Poisoned</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Poisoned_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You suffer Poison Damage over timer. May lower your Resistances.</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">You suffer Poison Damage over timer. May lower your Resistances.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Burning_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Burning</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Burning</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Burning_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You suffer Fire Damage over time.</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">You suffer Fire Damage over time.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frozen_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Frozen</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Frozen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frozen_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You can't move or cast skills and are vulnerable to piercing attacks.</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">You can't move or cast skills and are vulnerable to piercing attacks.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Bleeding_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Open Wound</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Open Wound</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Bleeding_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You suffer Bleeding Damage over time.</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">You suffer Bleeding Damage over time.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Feared_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Feared</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Feared</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Feared_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You run from your enemies and can't act.</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">You run from your enemies and can't act.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_title</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Curse</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Curse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You are Cursed and may propagate your other status ailments to your allies</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">You are Cursed and may propagate your other status ailments to your allies</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_title</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Weakness</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Weakness</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You deal reduced Damage and suffer slower Stamina Regeneration</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">You deal reduced Damage and suffer slower Stamina Regeneration</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Frail_title</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Frailty</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Frailty</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Frail_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You are more vulnerable to non-Physical attacks</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">You are more vulnerable to non-Physical attacks</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">Passive Skills Effects</Data></Cell>
     <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77"><Data
+    <Cell ss:StyleID="s77" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_PreventDamage_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Protected</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Protected</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_PreventDamage_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Prevents part of incoming Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Prevents part of incoming Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedRageGenerationOnHit_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Enraged</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Enraged</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedRageGenerationOnHit_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Rage Generation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Increases Rage Generation</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_DecreasedRageLoss_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Rage Conservation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Rage Conservation</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_DecreasedRageLoss_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Decreases Umbra Generation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Decreases Umbra Generation</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedRageLoss_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra Regeneration</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Umbra Regeneration</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedRageLoss_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Umbra Generation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Increases Umbra Generation</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedArmor_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Armored</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Armored</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedArmor_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Armor</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Increases Armor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedEfficiency_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blocking</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Blocking</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedEfficiency_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Armor Efficiency</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Increases Armor Efficiency</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_DecreasedUmbraCost_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Spellcaster</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Spellcaster</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_DecreasedUmbraCost_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Decreases Umbra costs of Spells</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Decreases Umbra costs of Spells</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedUmbraCost_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Volatile Umbra</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Volatile Umbra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedUmbraCost_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Umbra costs of Spells</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Increases Umbra costs of Spells</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedBleedingDamage_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Hemorrhage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Hemorrhage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedBleedingDamage_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Increases the Bleeding Damage you inflict</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Increases the Bleeding Damage you inflict</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedThorns_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Spikes</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Spikes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedThorns_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Increases your Thorn Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Increases your Thorn Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">Active Skills Effects</Data></Cell>
     <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77"><Data
+    <Cell ss:StyleID="s77" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_MultiFireBall_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Multi Fireballs</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Multi Fireballs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_MultiFireBall_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Keep using that Spell for more Fireballs</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Keep using that Spell for more Fireballs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboWarhammer_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Warhammer Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Warhammer Combo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboGreatSword_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Greatsword Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Greatsword Combo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboOneHanded_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">One Handed Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">One Handed Combo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboShield_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Shield Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Shield Combo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboDual_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Wield Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Dual Wield Combo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboDualDaggers_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Daggers Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Dual Daggers Combo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboBattleAxe_title</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Battleaxe Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Battleaxe Combo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Combo_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Keep attacking with your weapon to perform new combo attacks</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Keep attacking with your weapon to perform new combo attacks</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m189883604"><Data ss:Type="String">BOSS MODIFIERS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m262517444"><Data ss:Type="String">BOSS MODIFIERS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_BleedingAttacks</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Inflicts Bleeding Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Inflicts Bleeding Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_BurningTrail</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Burning Trail</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Burning Trail</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FireArea</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Burning Aura</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Burning Aura</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FrozenSnareArea</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Freezing Aura</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Freezing Aura</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LightningArea</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Shocking Aura</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Shocking Aura</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FearArea</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Fear Aura</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Fear Aura</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_PoisonArea</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Poisoning Aura</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Poisoning Aura</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SkeletonLord</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Skeleton Lord</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Skeleton Lord</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ChestLocker</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Chest Locker</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Chest Locker</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_IncreasedHealth</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Tough</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Tough</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_IncreasedSpeed</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Fast</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Fast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LifeOnHit</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steals Life</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steals Life</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_KnockBackOnHit</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Knocks Back</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Knocks Back</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_RegenerateLife</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Regenerates Life</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Regenerates Life</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Teleport</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Teleports</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Teleports</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ReturnDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Returns Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Returns Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SpellVortex</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Vortex</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Casts Vortex</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FrostResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Frost Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Resists Frost Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FrostImmunity</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Frost Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Immune to Frost Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FireResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Fire Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Resists Fire Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FireImmunity</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Fire Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Immune to Fire Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LightningResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Lightning Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Resists Lightning Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LightningImmunity</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Lightning Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Immune to Lightning Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_UmbraResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Umbra Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Resists Umbra Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_UmbraImmunity</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Umbra Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Immune to Umbra Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ShadowResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Shadow Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Resists Shadow Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ShadowImmunity</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Shadow Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Immune to Shadow Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_PhysicalResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Physical Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Resists Physical Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Physicalmmunity</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Physical Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Immune to Physical Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SacredResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Sacred Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Resists Sacred Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SacredImmunity</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Sacred Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Immune to Sacred Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_PoisonResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Poison Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Resists Poison Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_PoisonImmunity</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Poison Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Immune to Poison Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_BleedingResistance</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Bleeding Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Resists Bleeding Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_BleedingImmunity</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Bleeding Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Immune to Bleeding Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_HealFromLightning</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Aborbs Lightning Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Aborbs Lightning Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_HealFromFire</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Aborbs Fire Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Aborbs Fire Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_HealFromFrost</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Aborbs Frost Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Aborbs Frost Damage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Armored</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Armored</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Armored</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Armored</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell><Data ss:Type="String">ui_BossModifier_MeteorRain</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Casts Meteors</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ui_BossModifier_MeteorRain</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Casts Meteors</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Casts Meteors</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_UmbralNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Umbral Nova</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Umbral Nova</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Casts Umbral Nova</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_BossModifier_FireNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Fire Nova</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_BossModifier_FireNova</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Fire Nova</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Casts Fire Nova</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LightningNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Lightning Nova</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Lightning Nova</Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Casts Lightning Nova</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="27"/>
-   <Row ss:Index="201" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="29"/>
+   <Row ss:Index="209" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="246"/>
-   <Row ss:Index="483" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="491" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="487" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
-   <Row ss:Index="566" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:Index="495" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
+   <Row ss:Index="574" ss:AutoFitHeight="0" ss:Height="18"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="571" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="574" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="578" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="581" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="585" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="588" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
-   <Row ss:Index="602" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="579" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="582" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="586" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="589" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="593" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="596" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="610" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="607" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="615" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="611" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="615" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="619" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="623" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
@@ -774,11 +810,11 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="624" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="632" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="627" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="635" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="631" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="639" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
@@ -789,33 +825,33 @@
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="645" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="647" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="653" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="655" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="654" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
-   <Row ss:Index="659" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="662" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="667" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="663" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
-   <Row ss:Index="667" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="669" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="672" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="676" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="678" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="671" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="675" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="677" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="680" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="684" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="686" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="682" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="685" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="692" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="690" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="693" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="700" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="695" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="703" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
-   <Row ss:Index="704" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="711" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+   <Row ss:Index="712" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="719" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -835,12 +871,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>60</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>103</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>97</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

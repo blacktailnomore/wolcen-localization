@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -11,7 +11,7 @@
   <LastAuthor>UBBOSATHLA</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2016-12-01T13:29:25Z</LastSaved>
+  <LastSaved>2017-01-06T10:09:03Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -106,6 +106,10 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
+  <Style ss:ID="s27" ss:Name="Insatisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#800000"/>
+   <Interior ss:Color="#FFC7CE" ss:Pattern="Solid"/>
+  </Style>
   <Style ss:ID="s28" ss:Name="Neutre">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
@@ -114,7 +118,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m342479792" ss:Parent="s40">
+  <Style ss:ID="m329055552" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +129,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342479812" ss:Parent="s40">
+  <Style ss:ID="m329055572" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -136,7 +140,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342479832" ss:Parent="s40">
+  <Style ss:ID="m329055592" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -147,7 +151,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342479852" ss:Parent="s40">
+  <Style ss:ID="m329055612" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -158,7 +162,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476672" ss:Parent="s40">
+  <Style ss:ID="m329052432" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -169,7 +173,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476692" ss:Parent="s40">
+  <Style ss:ID="m329052452" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -180,7 +184,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476712" ss:Parent="s40">
+  <Style ss:ID="m329052472" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -191,7 +195,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476732" ss:Parent="s40">
+  <Style ss:ID="m329052492" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -202,7 +206,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476752" ss:Parent="s40">
+  <Style ss:ID="m329052512" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -213,7 +217,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476772" ss:Parent="s40">
+  <Style ss:ID="m329052532" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -265,13 +269,8 @@
    <Borders/>
    <Interior/>
   </Style>
-  <Style ss:ID="s83" ss:Parent="s26">
+  <Style ss:ID="s85" ss:Parent="s26">
    <Borders/>
-  </Style>
-  <Style ss:ID="s84" ss:Parent="s28">
-   <Borders/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
-   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
  </Styles>
  <Names>
@@ -284,7 +283,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="246" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="280" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:AutoFitWidth="0" ss:Width="243"/>
    <Column ss:AutoFitWidth="0" ss:Width="290.25"/>
@@ -298,30 +297,30 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476672"><Data ss:Type="String">WEAPONS </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m329052432"><Data ss:Type="String">WEAPONS </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Shields</Data></Cell>
     <Cell ss:StyleID="s76"/>
-    <Cell ss:StyleID="s76"><Data
+    <Cell ss:StyleID="s76" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Shield_GoldShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Golden Shield</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Golden Shield</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Shield_MetalShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Shield</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Iron Shield</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Shield_RoundShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Wooden Shield</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Wooden Shield</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -332,79 +331,79 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_BigCleaver</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Cleaver</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Cleaver</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Harvester</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Harvester</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Harvester</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_BonesAxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Bones Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Bones Battleaxe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_DemonAxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Demonic Axe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Demonic Axe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_GlassAxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Glass Axe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Glass Axe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_WoodcutterAxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Woodcutter Axe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Woodcutter Axe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_RustyAxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Axe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Primitive Axe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_RustyBigAxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Primitive Battleaxe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_RustyPickaxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Pickaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Primitive Pickaxe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Axe_Wing</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Battleaxe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Lumberjack</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Battleaxe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Executor</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Executioner's Bardiche</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Executioner's Bardiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Battleaxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Battleaxe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -415,13 +414,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Crossbow</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Wooden Crossbow</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Wooden Crossbow</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_TemplarCrossbow</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Crossbow</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Crossbow</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -432,13 +431,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_TemplarDagger</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Dagger</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Dagger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Orc_Dagger</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Dagger</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Orc Dagger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -479,31 +478,31 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_AncientHammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ancient Warhammer</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Ancient Warhammer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_CelestianHammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Celestian Warhammer</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Celestian Warhammer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_CristalHammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Glass Warhammer</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Glass Warhammer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Morgenstern</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Morgenstern</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Morgenstern</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Hammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Wooden Hammer</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Wooden Hammer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -519,43 +518,43 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_cudgel</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Wooden Cudgel</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Wooden Cudgel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_NailedCudgel</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Nailed Cudgel</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Nailed Cudgel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_OgreMace</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ogre Mace</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Ogre Mace</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Torch</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Torch</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Torch</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_NailedTorch</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Nailed Torch</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Nailed Torch</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_RustyShovel</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Shovel</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Primitive Shovel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_RustySpade</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Spade</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Primitive Spade</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -566,49 +565,49 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_DemonSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Demonic Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Demonic Sword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_BonesSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Bones Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Bones Sword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_CrypticSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Savage Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Savage Sword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_GlassSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Glass Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Glass Sword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_NordSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Nordic Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Nordic Sword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_PrimitiveSabre</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Primitive Sword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_RustySword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Simple Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Simple Sword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Orc_Curved_Sword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Orc Sword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -619,19 +618,19 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_TwoHandedSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Broadsword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Broadsword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_BigGlassSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Glass Broadsword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Glass Broadsword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Prosecutor</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Prosecutor</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Prosecutor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -642,7 +641,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Orc_Two_Handed_Sword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Broadsword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Orc Broadsword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -653,7 +652,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_DrillerHammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Driller</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">The Driller</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -662,7 +661,7 @@
     <Cell><Data ss:Type="String">The Ice Breaker</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476692"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m329052452"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorType_Heavy</Data></Cell>
@@ -690,7 +689,7 @@
     <Cell><Data ss:Type="String">Accessory</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476712"><Data ss:Type="String">ARMORS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m329052472"><Data ss:Type="String">ARMORS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Heavy</Data></Cell>
@@ -700,403 +699,403 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Armguard [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Armguard [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Cuirass</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerBoots</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Sollerets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Helmet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerGreaves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Greaves</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerShoulderLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Pauldron [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerShoulderRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Steel Pauldron [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Iron Armguard [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Iron Armguard [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Iron Cuirass</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassBoots</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Iron Sollerets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Iron Helmet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassGreaves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Iron Greaves</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassShoulderLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Iron Pauldron [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassShoulderRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Iron Pauldron [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_GothicArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gothic Armguard [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_GothicArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gothic Armguard [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_GothicBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gothic Cuirass</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_GothicBoots</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gothic Sollerets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_GothicHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gothic Helmet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_GothicGreaves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gothic Greaves</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_GothicShoulderLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gothic Pauldron [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_GothicShoulderRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gothic Pauldron [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_GothicGloves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Gauntlets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gothic Gauntlets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_GothicBelt</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Belt</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gothic Belt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Knight Armguard [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Knight Armguard [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Knight Cuirass</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateBoot</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Knight Sollerets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Knight Helmet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateGreaves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Knight Greaves</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateShoulderLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Knight Pauldron [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateShoulderRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Knight Pauldron [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Crusader Armguard [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Crusader Armguard [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Crusader Cuirass</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateBoots</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Crusader Sollerets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Crusader Helmet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateGreaves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Crusader Greaves</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateShoulderLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Crusader Pauldron [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateShoulderRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Crusader Pauldron [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Reaver Armguard [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Reaver Armguard [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Reaver Cuirass</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterBoots</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Reaver Sollerets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Reaver Helmet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterGreaves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Reaver Greaves</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterShoulderLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Reaver Pauldron [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterShoulderRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Reaver Pauldron [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Blacksteel Armguard [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Blacksteel Armguard [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Blacksteel Cuirass</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertBoots</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Blacksteel Sollerets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Blacksteel Helmet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertGreaves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Blacksteel Greaves</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertShoulderLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Blacksteel Pauldron [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertShoulderRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Blacksteel Pauldron [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Armguard [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Armguard [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Cuirass</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarBoots</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Sollerets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Helmet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarGreaves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Greaves</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarShoulderLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Pauldron [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarShoulderRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Pauldron [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarGloves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Gauntlets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Gauntlets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1107,49 +1106,49 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Bracer [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Alloy Bracer [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Bracer [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Alloy Bracer [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Breastplate</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Alloy Breastplate</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineBoots</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Boots</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Alloy Boots</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Armet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Alloy Armet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineGreaves</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Tassets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Alloy Tassets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineShoulderLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Spaulder [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Alloy Spaulder [L]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineShoulderRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Spaulder [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Alloy Spaulder [R]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1160,13 +1159,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarToga</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Gown</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Gown</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_LeatherShort</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Leather Short</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Leather Short</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1207,109 +1206,127 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Cape_AdventurerCape</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Adventurer Cloak</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Adventurer Cloak</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Cape_GothicLongCape</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Simple Cloak</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Simple Cloak</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Cape_TemplarCape</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Cape</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Cape</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_LeatherArmor</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Leather Armor</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Leather Armor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_LeatherBelt</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Leather Belt</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Leather Belt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarScarf</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Scarf</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Scarf</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarSkirt</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Skirt</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Templar Skirt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Amethyst</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Amethyst Ring</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
+    <Cell ss:StyleID="s79" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Amethyst Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Bronze</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Bronze Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Bronze Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Emerald</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Emerald Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Emerald Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Pyrite</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Pyrite Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Pyrite Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Ruby</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ruby Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Ruby Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Silver</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Silver Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Silver Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Gold</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gold ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Gold ring</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Ring_Sapphire</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Sapphire Ring</Data></Cell>
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Sapphire Ring</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Ring_Amber</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Amber Ring</Data></Cell>
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Amber Ring</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Ring_Onyx</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Onyx Ring</Data></Cell>
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">Onyx Ring</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Amber</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Amber Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Amber Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Amethyst</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Amethyst Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Amethyst Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Jade</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Jade Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Jade Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Topaz</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Topaz Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
+    <Cell ss:StyleID="s80" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
       ss:Type="String">Topaz Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1353,7 +1370,7 @@
     <Cell><Data ss:Type="String">Templar Waistband</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476732"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m329052492"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_reqLevel</Data></Cell>
@@ -1377,30 +1394,70 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_charges</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Charges left</Data></Cell>
-    <Cell><Data ss:Type="String">Charges left</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Charges</Data></Cell>
+    <Cell><Data ss:Type="String">Charges</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_refreshtime</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Cooldown</Data></Cell>
-    <Cell><Data ss:Type="String">Cooldown</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Cooldown</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Cooldown</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_rechargetime</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Refill time</Data></Cell>
-    <Cell><Data ss:Type="String">Refill time</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Refill time</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Refill time</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_hold</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Hold MAJ to switch between left and right item comparison</Data></Cell>
-    <Cell><Data ss:Type="String">Hold MAJ to switch between left and right item comparison</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Hold SHIFT to switch between left and right item comparison</Data></Cell>
+    <Cell><Data ss:Type="String">Hold SHIFT to switch between left and right item comparison</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476752"><Data ss:Type="String">LOOT RARITY</Data></Cell>
+    <Cell><Data ss:Type="String">ui_merchant_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Merchant</Data></Cell>
+    <Cell><Data ss:Type="String">Merchant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_merchant_restockin</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Merchant Inventory will restock in : %1 h %2</Data></Cell>
+    <Cell><Data ss:Type="String">Merchant Inventory will restock in : %1 h %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionHealthGain</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Restored Health</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Restored Health</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionUmbraGain</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Restored Umbra</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Restored Umbra</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionRageGain</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Restored Rage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Restored Rage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionStaminaGain</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Restored Stamina</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Restored Stamina</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionActiveEffect</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 (on use)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 (on use)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionPassiveEffect</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 (on use, lasts %2)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 (on use, lasts %2)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m329052512"><Data ss:Type="String">LOOT RARITY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_normal</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Common</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Common</Data></Cell>
     <Cell><Data ss:Type="String">Common</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1429,7 +1486,7 @@
     <Cell><Data ss:Type="String">Unique</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476772"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m329052532"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_broken</Data></Cell>
@@ -1467,7 +1524,7 @@
     <Cell><Data ss:Type="String">Epic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342479792"><Data ss:Type="String">POTIONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m329055552"><Data ss:Type="String">POTIONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_potiontype_health</Data></Cell>
@@ -1500,147 +1557,262 @@
     <Cell><Data ss:Type="String">Utility potion</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell><Data ss:Type="String">ui_Potions_HealthSmall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Health</Data></Cell>
-    <Cell><Data ss:Type="String">Flask of Health</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">ui_Potions_HealthSmall</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Flask of Health</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Flask of Health</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell><Data ss:Type="String">ui_Potions_UmbraSmall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Umbra</Data></Cell>
-    <Cell><Data ss:Type="String">Flask of Umbra</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">ui_Potions_UmbraSmall</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Flask of Umbra</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Flask of Umbra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell><Data ss:Type="String">ui_Potions_RageSmall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Rage</Data></Cell>
-    <Cell><Data ss:Type="String">Flask of Rage</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">ui_Potions_RageSmall</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Flask of Rage</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Flask of Rage</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell><Data ss:Type="String">ui_Potions_StaminaSmall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Stamina</Data></Cell>
-    <Cell><Data ss:Type="String">Flask of Stamina</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">ui_Potions_StaminaSmall</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Flask of Stamina</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Flask of Stamina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell><Data ss:Type="String">ui_Potions_PoisonSmall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Weak Poison</Data></Cell>
-    <Cell><Data ss:Type="String">Weak Poison</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">ui_Potions_PoisonSmall</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Weak Poison</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Weak Poison</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342479812"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Potion_S_Health</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Small Health Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Small Health Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_Health</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Medium Health Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Medium Health Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_L_Health</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Large Health Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Large Health Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_XL_Health</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Great Health Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Great Health Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_S_Rage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Small Rage Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Small Rage Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_Rage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Medium Rage Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Medium Rage Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_L_Rage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Large Rage Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Large Rage Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_XL_Rage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Great Rage Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Great Rage Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_S_Umbra</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Small Umbra Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Small Umbra Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_Umbra</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Medium Umbra Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Medium Umbra Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_L_Umbra</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Large Umbra Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Large Umbra Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_XL_Umbra</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Great Umbra Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Great Umbra Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_S_Stamina</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Small Stamina Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Small Stamina Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_Stamina</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Medium Stamina Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Medium Stamina Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_L_Stamina</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Large Stamina Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Large Stamina Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_XL_Stamina</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Great Stamina Potion</Data></Cell>
+    <Cell><Data ss:Type="String">Great Stamina Potion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonVenom</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Venom Phial</Data></Cell>
+    <Cell><Data ss:Type="String">Venom Phial</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonCurse</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Cursing Phial</Data></Cell>
+    <Cell><Data ss:Type="String">Cursing Phial</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonBleed</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Bleeding Phial</Data></Cell>
+    <Cell><Data ss:Type="String">Bleeding Phial</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonBurn</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Burning Phial</Data></Cell>
+    <Cell><Data ss:Type="String">Burning Phial</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonShock</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Shocking Phial</Data></Cell>
+    <Cell><Data ss:Type="String">Shocking Phial</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonFreeze</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Freezing Phial</Data></Cell>
+    <Cell><Data ss:Type="String">Freezing Phial</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonWeakness</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Weakening Phial</Data></Cell>
+    <Cell><Data ss:Type="String">Weakening Phial</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="2" ss:StyleID="m329055572"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_1HSword</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Sword</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Sword</Data></Cell>
     <Cell><Data ss:Type="String">Sword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_2HSword</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Greatsword</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Greatsword</Data></Cell>
     <Cell><Data ss:Type="String">Greatsword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_1HMace</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Mace</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Mace</Data></Cell>
     <Cell><Data ss:Type="String">Mace</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_2HMace</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Warhammer</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Warhammer</Data></Cell>
     <Cell><Data ss:Type="String">Warhammer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_1HAxe</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Axe</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Axe</Data></Cell>
     <Cell><Data ss:Type="String">Axe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_2HAxe</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Battleaxe</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Battleaxe</Data></Cell>
     <Cell><Data ss:Type="String">Battleaxe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_Dagger</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Dagger</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Dagger</Data></Cell>
     <Cell><Data ss:Type="String">Dagger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_Crossbow</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Crossbow</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Crossbow</Data></Cell>
     <Cell><Data ss:Type="String">Crossbow</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_SmallShield</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Shield</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Shield</Data></Cell>
     <Cell><Data ss:Type="String">Shield</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_Staff</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Staff</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Staff</Data></Cell>
     <Cell><Data ss:Type="String">Staff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342479832"><Data ss:Type="String">INGREDIENTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m329055592"><Data ss:Type="String">INGREDIENTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_loot_Ingredient</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ingredient</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Ingredient</Data></Cell>
     <Cell><Data ss:Type="String">Ingredient</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ingredients_Fern</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Fern</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Fern</Data></Cell>
     <Cell><Data ss:Type="String">Fern</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ingredients_Mushroom</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Mushroom</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Mushroom</Data></Cell>
     <Cell><Data ss:Type="String">Mushroom</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342479852"><Data ss:Type="String">WEAPON SPEED</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m329055612"><Data ss:Type="String">WEAPON SPEED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_slowest</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Slowest</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Slowest</Data></Cell>
     <Cell><Data ss:Type="String">Slowest</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_veryslow</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Very slow</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Very slow</Data></Cell>
     <Cell><Data ss:Type="String">Very slow</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_slow</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Slow</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Slow</Data></Cell>
     <Cell><Data ss:Type="String">Slow</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_belownormal</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Below average speed</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Below average speed</Data></Cell>
     <Cell><Data ss:Type="String">Below average speed</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_normal</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Medium speed</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Medium speed</Data></Cell>
     <Cell><Data ss:Type="String">Medium speed</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_abovenormal</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Above average speed</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Above average speed</Data></Cell>
     <Cell><Data ss:Type="String">Above average speed</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_fast</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Fast</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Fast</Data></Cell>
     <Cell><Data ss:Type="String">Fast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_veryfast</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Very fast</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Very fast</Data></Cell>
     <Cell><Data ss:Type="String">Very fast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_fastest</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Fastest</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Fastest</Data></Cell>
     <Cell><Data ss:Type="String">Fastest</Data></Cell>
    </Row>
   </Table>
@@ -1661,11 +1833,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>185</TopRowVisible>
+   <TopRowVisible>162</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>195</ActiveRow>
+     <ActiveRow>243</ActiveRow>
+     <ActiveCol>4</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
