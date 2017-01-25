@@ -13,7 +13,7 @@
   <Created>2002-06-17T19:14:00Z</Created>
   <LastSaved>2016-10-20T12:29:29Z</LastSaved>
   <Company>Electronic Arts</Company>
-  <Version>16.00</Version>
+  <Version>14.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
@@ -102,19 +102,19 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+  <Style ss:ID="s62" ss:Name="40&#160;% - Accent1">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s28" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#9C5700"/>
+  <Style ss:ID="s63" ss:Name="Neutre">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s26" ss:Name="Satisfaisant">
+  <Style ss:ID="s64" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m189883584" ss:Parent="s40">
+  <Style ss:ID="m40153088" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +125,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m189883604" ss:Parent="s40">
+  <Style ss:ID="m40153108" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -136,11 +136,11 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="s62">
+  <Style ss:ID="s65">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s63">
+  <Style ss:ID="s66">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -151,7 +151,7 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s64">
+  <Style ss:ID="s67">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -162,27 +162,27 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s65">
+  <Style ss:ID="s68">
    <Borders/>
   </Style>
-  <Style ss:ID="s76" ss:Parent="s40">
+  <Style ss:ID="s79" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Italic="1"/>
   </Style>
-  <Style ss:ID="s77" ss:Parent="s40">
+  <Style ss:ID="s80" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s80">
+  <Style ss:ID="s83">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s81">
+  <Style ss:ID="s84">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
    <Interior/>
   </Style>
-  <Style ss:ID="s83" ss:Parent="s28">
+  <Style ss:ID="s87" ss:Parent="s63">
    <Borders/>
   </Style>
  </Styles>
@@ -202,547 +202,496 @@
    <Column ss:Width="398.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="329.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
-    <Cell ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s65">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+    <Cell ss:StyleID="s67"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell ss:MergeAcross="2" ss:StyleID="m189883584"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
+    <Cell ss:MergeAcross="2" ss:StyleID="m40153088"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s76"><Data ss:Type="String">Status Effects</Data></Cell>
-    <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Status Effects</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Stunned_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Stunned</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">眩晕</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Stunned</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">眩晕</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Stunned_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't move or cast skills.</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">你无法移动或施放技能。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">You can't move or cast skills.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">你无法移动或施放技能。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Poisoned_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Poisoned</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">中毒</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Poisoned</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">中毒</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Poisoned_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You suffer Poison Damage over timer. May lower your Resistances.</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">受到持续毒素伤害。并有可能降低你的所有抗性。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">You suffer Poison Damage over timer. May lower your Resistances.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">受到持续毒素伤害。并有可能降低你的所有抗性。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Burning_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Burning</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">燃烧</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Burning</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">燃烧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Burning_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You suffer Fire Damage over time.</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">你持续遭受火焰伤害。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">You suffer Fire Damage over time.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">你持续遭受火焰伤害。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frozen_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Frozen</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">冰冻</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frozen</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">冰冻</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frozen_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't move or cast skills and are vulnerable to piercing attacks.</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">你无法移动或施放技能，并容易受到穿刺攻击。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">You can't move or cast skills and are vulnerable to piercing attacks.</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">你无法移动或施放技能，并容易受到穿刺攻击。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Bleeding_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Open Wound</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">创伤</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Open Wound</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">创伤</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Bleeding_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You suffer Bleeding Damage over time.</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">你持续遭受流血伤害。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">You suffer Bleeding Damage over time.</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">你持续遭受流血伤害。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Feared_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Feared</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">恐惧</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Feared</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">恐惧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Feared_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You run from your enemies and can't act.</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">你逃离你的敌人且不能行动。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">You run from your enemies and can't act.</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">你逃离你的敌人且不能行动。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s76"><Data ss:Type="String">Passive Skills Effects</Data></Cell>
-    <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77"><Data
-      ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_title</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Curse</Data></Cell>
+    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">诅咒</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_desc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">You are Cursed and may propagate your other status ailments to your allies</Data></Cell>
+    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">你受到诅咒并有几率向盟友传播你的其他状态。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_title</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Weakness</Data></Cell>
+    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">软弱</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_desc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">You deal reduced Damage and suffer slower Stamina Regeneration</Data></Cell>
+    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">你受到持续减少的伤害并减缓耐力回复。~</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Frail_title</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Frailty</Data></Cell>
+    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">虚弱</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Frail_desc</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">You are more vulnerable to non-Physical attacks</Data></Cell>
+    <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
+      ss:Type="String">受到非物理伤害时更加脆弱。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Passive Skills Effects</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_PreventDamage_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Protected</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">防护</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Protected</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">防护</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_PreventDamage_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Prevents part of incoming Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">阻挡一部分伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Prevents part of incoming Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">阻挡一部分伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedRageGenerationOnHit_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Enraged</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">愤怒</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Enraged</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">愤怒</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedRageGenerationOnHit_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Rage Generation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">增加怒气生成</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Increases Rage Generation</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">增加怒气生成</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_DecreasedRageLoss_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Rage Conservation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">怒气保持</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Rage Conservation</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">怒气保持</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_DecreasedRageLoss_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Decreases Umbra Generation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">减少本影生成</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Decreases Umbra Generation</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">减少本影生成</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedRageLoss_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra Regeneration</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">本影再生</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Umbra Regeneration</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">本影再生</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedRageLoss_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Umbra Generation</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">增加本影生成</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Increases Umbra Generation</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">增加本影生成</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedArmor_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Armored</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">装甲</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Armored</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">装甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedArmor_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Armor</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">增加护甲</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Increases Armor</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">增加护甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedEfficiency_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Blocking</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">格挡</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Blocking</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">格挡</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedEfficiency_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Armor Efficiency</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">提高护甲效率</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Increases Armor Efficiency</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">提高护甲效率</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_DecreasedUmbraCost_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Spellcaster</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">施法者</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Spellcaster</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">施法者</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_DecreasedUmbraCost_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Decreases Umbra costs of Spells</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">减少法术的本影消耗</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Decreases Umbra costs of Spells</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">减少法术的本影消耗</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedUmbraCost_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Volatile Umbra</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">挥发性本影</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Volatile Umbra</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">挥发性本影</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedUmbraCost_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Umbra costs of Spells</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">增加法术的本影消耗</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Increases Umbra costs of Spells</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">增加法术的本影消耗</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedBleedingDamage_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Hemorrhage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">出血</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Hemorrhage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">出血</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedBleedingDamage_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Increases the Bleeding Damage you inflict</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">增加你造成的出血伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Increases the Bleeding Damage you inflict</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">增加你造成的出血伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedThorns_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Spikes</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">尖刺</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Spikes</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">尖刺</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_IncreasedThorns_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Increases your Thorn Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">增加你的荆棘伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Increases your Thorn Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">增加你的荆棘伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s76"><Data ss:Type="String">Active Skills Effects</Data></Cell>
-    <Cell ss:StyleID="s77"/>
-    <Cell ss:StyleID="s77"><Data
-      ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Active Skills Effects</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String"></Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_MultiFireBall_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Multi Fireballs</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">多火球</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Multi Fireballs</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">多火球</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_MultiFireBall_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Keep using that Spell for more Fireballs</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">继续使用该法术产生更多火球</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Keep using that Spell for more Fireballs</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">继续使用该法术产生更多火球</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboWarhammer_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Warhammer Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">战锤组合技</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Warhammer Combo</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">战锤组合技</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboGreatSword_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Greatsword Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">大剑组合技</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Greatsword Combo</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">大剑组合技</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboOneHanded_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">One Handed Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">单手组合技</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">One Handed Combo</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">单手组合技</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboShield_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Shield Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">盾牌组合技</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Shield Combo</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">盾牌组合技</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboDual_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Wield Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">双持组合技</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Dual Wield Combo</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">双持组合技</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboDualDaggers_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Daggers Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">双匕首组合技</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Dual Daggers Combo</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">双匕首组合技</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_ComboBattleAxe_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Battleaxe Combo</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">战斧组合技</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Battleaxe Combo</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">战斧组合技</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Combo_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Keep attacking with your weapon to perform new combo attacks</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">持续用你的武器进行攻击，以执行新的组合攻击</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Keep attacking with your weapon to perform new combo attacks</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">持续用你的武器进行攻击，以执行新的组合攻击</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m189883604"><Data ss:Type="String">BOSS MODIFIERS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m40153108"><Data ss:Type="String">BOSS MODIFIERS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_BleedingAttacks</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Inflicts Bleeding Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">造成流血伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Inflicts Bleeding Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">造成流血伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_BurningTrail</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Burning Trail</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">燃烧足迹</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Burning Trail</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">燃烧足迹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FireArea</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Burning Aura</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">燃烧光环</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Burning Aura</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">燃烧光环</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FrozenSnareArea</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Freezing Aura</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">冷冻光环</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Freezing Aura</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">冷冻光环</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LightningArea</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Shocking Aura</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">震荡光环</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Shocking Aura</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">震荡光环</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FearArea</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Fear Aura</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">恐惧光环</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Fear Aura</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">恐惧光环</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_PoisonArea</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Poisoning Aura</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">中毒光环</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Poisoning Aura</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">中毒光环</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SkeletonLord</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Skeleton Lord</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">骷髅领主</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Skeleton Lord</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">骷髅领主</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ChestLocker</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Chest Locker</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">储物箱</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Chest Locker</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">储物箱</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_IncreasedHealth</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Tough</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">强硬</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Tough</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">强硬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_IncreasedSpeed</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Fast</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">快速</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Fast</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">快速</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LifeOnHit</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Steals Life</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">生命窃取</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Steals Life</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">生命窃取</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_KnockBackOnHit</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Knocks Back</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">击退</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Knocks Back</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">击退</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_RegenerateLife</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Regenerates Life</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">回复生命</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Regenerates Life</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">回复生命</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Teleport</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Teleports</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">传送</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Teleports</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">传送</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ReturnDamage</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Returns Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">反击伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Returns Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">反击伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SpellVortex</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Vortex</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">施放漩涡</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Casts Vortex</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">施放漩涡</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FrostResistance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Frost Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">抵抗霜冻伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Resists Frost Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">抵抗霜冻伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FrostImmunity</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Frost Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">免疫霜冻伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Immune to Frost Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">免疫霜冻伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FireResistance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Fire Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">抵抗火焰伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Resists Fire Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">抵抗火焰伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FireImmunity</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Fire Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">免疫火焰伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Immune to Fire Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">免疫火焰伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LightningResistance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Lightning Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">抵抗闪电伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Resists Lightning Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">抵抗闪电伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LightningImmunity</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Lightning Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">免疫闪电伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Immune to Lightning Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">免疫闪电伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_UmbraResistance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Umbra Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">抵抗本影伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Resists Umbra Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">抵抗本影伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_UmbraImmunity</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Umbra Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">免疫本影伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Immune to Umbra Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">免疫本影伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ShadowResistance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Shadow Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">抵抗暗影伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Resists Shadow Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">抵抗暗影伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ShadowImmunity</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Shadow Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">免疫暗影伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Immune to Shadow Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">免疫暗影伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_PhysicalResistance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Physical Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">抵抗物理伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Resists Physical Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">抵抗物理伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Physicalmmunity</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Physical Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">免疫物理伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Immune to Physical Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">免疫物理伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SacredResistance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Sacred Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">抵抗神圣伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Resists Sacred Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">抵抗神圣伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SacredImmunity</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Sacred Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">免疫神圣伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Immune to Sacred Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">免疫神圣伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_PoisonResistance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Poison Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">抵抗毒性伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Resists Poison Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">抵抗毒性伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_PoisonImmunity</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Poison Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">免疫毒性伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Immune to Poison Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">免疫毒性伤害</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_BossModifier_BleedingResistance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Resists Bleeding Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">抵抗流血伤害</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_BossModifier_BleedingResistance</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Resists Bleeding Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">抵抗流血伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_BleedingImmunity</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Immune to Bleeding Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">免疫流血伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Immune to Bleeding Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">免疫流血伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_HealFromLightning</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Aborbs Lightning Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">吸收闪电伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Aborbs Lightning Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">吸收闪电伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_HealFromFire</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Aborbs Fire Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">吸收火焰伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Aborbs Fire Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">吸收火焰伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_HealFromFrost</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Aborbs Frost Damage</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">吸收冰霜伤害</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Aborbs Frost Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">吸收冰霜伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Armored</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Armored</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">护甲强化</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Armored</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">护甲强化</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell><Data ss:Type="String">ui_BossModifier_MeteorRain</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Casts Meteors</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">施放陨石</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ui_BossModifier_MeteorRain</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Casts Meteors</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">施放陨石</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_UmbralNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Umbral Nova</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">施放本影新星</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Casts Umbral Nova</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">施放本影新星</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FireNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Fire Nova</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">施放火焰新星</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Casts Fire Nova</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">施放火焰新星</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LightningNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Lightning Nova</Data></Cell>
-    <Cell ss:StyleID="s81"><Data
-      ss:Type="String">施放闪电新星</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Casts Lightning Nova</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">施放闪电新星</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="27"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="21"/>
    <Row ss:Index="201" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -835,11 +784,10 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>60</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>103</ActiveRow>
+     <ActiveRow>18</ActiveRow>
      <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
