@@ -1463,7 +1463,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_ARCAN_23_lore</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">I'm one with the Umbra, and the Umbra is with me.</Data></Cell>
-    <Cell><Data ss:Type="String">I'm one with the Umbra, and the Umbra is with me.</Data></Cell>
+    <Cell><Data ss:Type="String">我与本影同在。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_ARCAN_24_name</Data></Cell>
@@ -1505,7 +1505,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_WARD_3_lore</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Adaptation is the only reason our World survived so far.</Data></Cell>
-    <Cell><Data ss:Type="String">Adaptation is the only reason our World survived so far.</Data></Cell>
+    <Cell><Data ss:Type="String">适者生存使我们苟活至今的唯一原因。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_WARD_4_name</Data></Cell>
@@ -4893,17 +4893,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormLightning</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Creates a Lightning Storm Area each time you hit the same area with Lightning spells (stackable intensity). May Shock enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">使用闪电魔法攻击同一区域制造一片闪电风暴区(叠加强度)并震荡其中的敌人。</Data></Cell>
+    <Cell><Data ss:Type="String">使用闪电攻击同一区域制造一片闪电风暴区(叠加强度)并震荡其中的敌人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormFrost</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Creates a Frost Storm Area each time you hit the same area with Frost spells (stackable intensity). May snare enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">使用冰霜魔法攻击同一区域制造一片冰霜风暴区(叠加强度)并束缚其中的敌人。</Data></Cell>
+    <Cell><Data ss:Type="String">使用冰霜攻击同一区域制造一片冰霜风暴区(叠加强度)并束缚其中的敌人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormFire</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Creates a Fire Storm Area each time you hit the same area with Fire spells (stackable intensity). May hit and burn enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">使用火焰魔法攻击同一区域制造一片火焰风暴区(叠加强度)并击打和燃烧其中的敌人。</Data></Cell>
+    <Cell><Data ss:Type="String">使用火焰攻击同一区域制造一片火焰风暴区(叠加强度)并击打和燃烧其中的敌人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ExtendedStormTime</Data></Cell>
@@ -5048,7 +5048,7 @@
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonSpeedOnFrail</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%2 to your Poison ticking speed on Frail enemies</Data></Cell>
-    <Cell><Data ss:Type="String">虚弱的敌人%2中毒速度~</Data></Cell>
+    <Cell><Data ss:Type="String">脆弱的敌人%2中毒速度~</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CurseTime</Data></Cell>
@@ -5103,42 +5103,42 @@
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonTime</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%2 to the duration of all the Poisoning stacks you inflict</Data></Cell>
-    <Cell><Data ss:Type="String">%2 to the duration of all the Poisoning stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">你造成的所有中毒堆叠%2持续时间</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_WeaknessTime</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%2 to the duration of all the Weakness stacks you inflict</Data></Cell>
-    <Cell><Data ss:Type="String">所有你造成的软弱堆叠%2持续时间</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的虚弱堆叠%2持续时间</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_WeaknessChance</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%2 to your Weakness chance with Sacred Damage</Data></Cell>
-    <Cell><Data ss:Type="String">惊吓伤害%2软弱几率</Data></Cell>
+    <Cell><Data ss:Type="String">惊吓伤害%2虚弱几率</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_WeaknessEfficiency</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%2 to the efficiency of all the Weakness stacks you inflict</Data></Cell>
-    <Cell><Data ss:Type="String">所有你造成的软弱堆叠%2效率</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的虚弱堆叠%2效率</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FrailtyTime</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%2 to the duration of all the Frailty stacks you inflict</Data></Cell>
-    <Cell><Data ss:Type="String">所有你造成的虚弱堆叠%2持续时间</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的脆弱堆叠%2持续时间</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FrailtyChance</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%2 to your Frailty chance with Umbra Damage</Data></Cell>
-    <Cell><Data ss:Type="String">本影伤害%2虚弱几率</Data></Cell>
+    <Cell><Data ss:Type="String">本影伤害%2脆弱几率</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FrailtyEfficiency</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%2 to the efficiency of all the Frailty stacks you inflict</Data></Cell>
-    <Cell><Data ss:Type="String">所有你造成的虚弱堆叠%2效率</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的脆弱堆叠%2效率</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CurseOnHits</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%1 Chance to Curse your target during %2 on hits</Data></Cell>
-    <Cell><Data ss:Type="String">攻击有%1几率诅咒你的目标，持续%2</Data></Cell>
+    <Cell><Data ss:Type="String">攻击时有%1几率诅咒你的目标，持续%2</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FrenzyOnFearStun</Data></Cell>

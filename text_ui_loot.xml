@@ -1252,17 +1252,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_charges</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Charges</Data></Cell>
-    <Cell><Data ss:Type="String">Charges</Data></Cell>
+    <Cell><Data ss:Type="String">充能</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_refreshtime</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%1 Cooldown</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Cooldown</Data></Cell>
+    <Cell><Data ss:Type="String">%1冷却</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_rechargetime</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%1 Refill time</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Refill time</Data></Cell>
+    <Cell><Data ss:Type="String">%1填充时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_charges</Data></Cell>
@@ -1277,12 +1277,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_rechargetime</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Refill time</Data></Cell>
-    <Cell><Data ss:Type="String">充能时间</Data></Cell>
+    <Cell><Data ss:Type="String">填充时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_hold</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Hold MAJ to switch between left and right item comparison</Data></Cell>
-    <Cell><Data ss:Type="String">按住Shift在对比左侧和右侧装备间切换</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hold SHIFT to switch between left and right item comparison</Data></Cell>
+    <Cell><Data ss:Type="String">按住Shift在左侧和右侧装备对比间切换</Data></Cell>
+   </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_merchant_title</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Merchant</Data></Cell>
+    <Cell><Data ss:Type="String">商店</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_merchant_restockin</Data></Cell>
@@ -1302,12 +1307,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionRageGain</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%1 Restored Rage</Data></Cell>
-    <Cell><Data ss:Type="String">%1怒气回复e</Data></Cell>
+    <Cell><Data ss:Type="String">%1怒气回复</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionStaminaGain</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">%1 Restored Stamina</Data></Cell>
-    <Cell><Data ss:Type="String">%1体力回复a</Data></Cell>
+    <Cell><Data ss:Type="String">%1体力回复</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionActiveEffect</Data></Cell>

@@ -789,8 +789,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_status</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Status Effects</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">状态效果</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Status Ailments</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">负面状态</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stunresistance</Data></Cell>
@@ -860,7 +860,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_cs_dotinduration</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Status Ailments Resilience</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">负面状态恢复</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">负面状态持续时间（韧性）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_poisonresreduction</Data></Cell>
@@ -890,7 +890,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_cs_stuninduration</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Stun Resilience</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">眩晕恢复</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">眩晕持续时间（韧性）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_shockduration</Data></Cell>
@@ -1520,7 +1520,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_cs_shockingchance_tooltip</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Your total Shocking Chance with Lightning attacks. Shock effect Deals Lightning Damage to surrounding targets and may stun them.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">你的闪电伤害的震荡几率。震荡效果对目标周围造成闪电伤害并眩晕他们。</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">你闪电攻击造成震荡效果的总几率。震荡效果对周围目标造成闪电伤害，并可能使他们眩晕。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_burnchances_tooltip</Data></Cell>

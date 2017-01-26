@@ -293,19 +293,19 @@
     <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_title</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Weakness</Data></Cell>
     <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">软弱</Data></Cell>
+      ss:Type="String">虚弱</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_desc</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">You deal reduced Damage and suffer slower Stamina Regeneration</Data></Cell>
     <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">你受到持续减少的伤害并减缓耐力回复。~</Data></Cell>
+      ss:Type="String">你的伤害减少并减缓耐力回复。~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frail_title</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Frailty</Data></Cell>
     <Cell ss:StyleID="s84" ss:Formula="=IF(RC[-1]&lt;&gt;&quot;&quot;,RC[-1],&quot;&quot;)"><Data
-      ss:Type="String">虚弱</Data></Cell>
+      ss:Type="String">脆弱</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frail_desc</Data></Cell>
