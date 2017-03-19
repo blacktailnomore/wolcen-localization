@@ -11,7 +11,7 @@
   <LastAuthor>UBBOSATHLA</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2016-11-02T14:12:10Z</LastSaved>
+  <LastSaved>2017-01-05T11:13:59Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -110,7 +110,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m333795168" ss:Parent="s40">
+  <Style ss:ID="m587094128" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -121,7 +121,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m333795188">
+  <Style ss:ID="m587094148">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -132,7 +132,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m333795208">
+  <Style ss:ID="m587094168">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -143,7 +143,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m333795228">
+  <Style ss:ID="m587094188">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -182,16 +182,16 @@
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s87">
+  <Style ss:ID="s85">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s88">
+  <Style ss:ID="s86">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders/>
    <Interior/>
   </Style>
-  <Style ss:ID="s89" ss:Parent="s26">
+  <Style ss:ID="s87" ss:Parent="s26">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
@@ -206,7 +206,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="491" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="488" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
    <Column ss:Width="336.75"/>
    <Column ss:AutoFitWidth="0" ss:Width="370.5"/>
@@ -220,37 +220,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m333795168"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_equip_potion_here_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Potion Slot</Data></Cell>
-    <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Potion Slot</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_equip_potion_here</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You can equip a potion here</Data></Cell>
-    <Cell ss:StyleID="s77"><Data
-      ss:Type="String">You can equip a potion here</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_left_click_to_use</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Click here to use</Data></Cell>
-    <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Click here to use</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_potion_locked_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Locked Potion Slot</Data></Cell>
-    <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Locked Potion Slot</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_potion_locked</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">This slot is currently locked</Data></Cell>
-    <Cell ss:StyleID="s77"><Data
-      ss:Type="String">This slot is currently locked</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m587094128"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SkillLocked</Data></Cell>
@@ -272,9 +242,9 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_skill_slot</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Empty skill slot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Empty Skill slot</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Empty skill slot</Data></Cell>
+      ss:Type="String">Empty Skill slot</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_you_can_assign_a_skill_to_this_skill_slot</Data></Cell>
@@ -284,15 +254,15 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_LockedSkillSlot</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Locked skill slot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Locked Skill slot</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Locked skill slot</Data></Cell>
+      ss:Type="String">Locked Skill slot</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_LockedSkillSlot_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You can unlock this slot from the passive skills tree</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">This slot will automatically unlock at level %1</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">You can unlock this slot from the passive skills tree</Data></Cell>
+      ss:Type="String">This slot will automatically unlock at level %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest_UnlockCost</Data></Cell>
@@ -313,7 +283,7 @@
       ss:Type="String">Inventory</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m333795188"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m587094148"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_KeyColor_red</Data></Cell>
@@ -332,9 +302,9 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">not_enough_gold</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Not Enough Gold</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough gold</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Not Enough Gold</Data></Cell>
+      ss:Type="String">Not enough gold</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">not_enough_room_in_inventory</Data></Cell>
@@ -356,72 +326,82 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unable_to_equip_item_while_using_skill</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't equip an item while using a skill.</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't equip an item while using a skill</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">You can't equip an item while using a skill.</Data></Cell>
+      ss:Type="String">You can't equip an item while using a skill</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_no_town_portal_here</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't use a town portal here.</Data></Cell>
-    <Cell ss:StyleID="s87"><Data
-      ss:Type="String">You can't use a town portal here.</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't use a town portal here</Data></Cell>
+    <Cell ss:StyleID="s85"><Data
+      ss:Type="String">You can't use a town portal here</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_too_far_from_waypoint_to_teleport</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You need to stand near a Waypoint to teleport.</Data></Cell>
-    <Cell ss:StyleID="s88"><Data
-      ss:Type="String">You need to stand near a Waypoint to teleport.</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You need to stand near a Waypoint to teleport</Data></Cell>
+    <Cell ss:StyleID="s86"><Data
+      ss:Type="String">You need to stand near a Waypoint to teleport</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NotEnoughMana</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Not Enough Umbra!</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough Umbra!</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Not Enough Umbra!</Data></Cell>
+      ss:Type="String">Not enough Umbra!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NotEnoughRage</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Not Enough Rage!</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough Rage!</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Not Enough Rage!</Data></Cell>
+      ss:Type="String">Not enough Rage!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NotEnoughStamina</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Not Enough Stamina!</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough Stamina!</Data></Cell>
     <Cell ss:StyleID="s77"><Data
-      ss:Type="String">Not Enough Stamina!</Data></Cell>
+      ss:Type="String">Not enough Stamina!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_unable_equip_craft_element</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">You can not equip a crafting component</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">You can not equip a crafting component</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">You can not equip a crafting component</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_StrReqNotMatching_Text</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">not enough strenght</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">not enough strenght</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Your Strength is too low for equipping this item</Data></Cell>
+    <Cell><Data ss:Type="String">Your Strength is too low for equipping this item</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_DexReqNotMatching_Text</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">not enough dexterity</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">not enough dexterity</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Your Dexterity is too low for equipping this item</Data></Cell>
+    <Cell><Data ss:Type="String">Your Dexterity is too low for equipping this item</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_PowReqNotMatching_Text</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">not enough power</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">not enough power</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Your Power is too low for equipping this item</Data></Cell>
+    <Cell><Data ss:Type="String">Your Power is too low for equipping this item</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_ConReqNotMatching_Text</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">not enough constitution</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">not enough constitution</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Your Constitution is too low for equipping this item</Data></Cell>
+    <Cell><Data ss:Type="String">Your Constitution is too low for equipping this item</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_LevelReqNotMatching_Text</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">item level is too high</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">item level is too high</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Your Level is too low for equipping this item</Data></Cell>
+    <Cell><Data ss:Type="String">Your Level is too low for equipping this item</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m333795208"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ui_killbossfirst</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">You need to kill the boss before going further</Data></Cell>
+    <Cell><Data ss:Type="String">You need to kill the boss before going further</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ui_cantusethisnow</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">You can't use this right now</Data></Cell>
+    <Cell><Data ss:Type="String">You can't use this right now</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m587094168"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">frost_resistance_tooltip</Data></Cell>
@@ -636,26 +616,26 @@
       ss:Type="String">Coming soon</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m333795228"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m587094188"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_xp_at_level</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">XP at level</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">XP at level</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">XP at level</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_damagereduction</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Damage reduction</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Damage reduction</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Damage reduction</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_startArena</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Start Arena</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Start Arena</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Start Arena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">ui_kill_enemy_waves</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Kill enemy waves</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Kill enemy waves</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Kill enemy waves</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -672,67 +652,67 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_brutality</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Brutality</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Brutality</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Brutality</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lifeleech</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Life leech</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Life leech</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Life leech</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lighting</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Lighting</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Lighting</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Lighting</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Lightning</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Lightning</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Lightning</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Lightning</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_shadows</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Shadows</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Shadows</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Shadows</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_frost</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Frost</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Frost</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Frost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_fire</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Fire</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Fire</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Fire</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_necromancy</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Necromancy</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Necromancy</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Necromancy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_umbra</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Umbra</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Umbra</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Umbra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_earth</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Earth</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Earth</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Earth</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_curse</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Curse</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Curse</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Curse</Data></Cell>
    </Row>
@@ -742,43 +722,43 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">level_up</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Level up</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Level up</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Level up</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">You_have_reach_level</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">LEVEL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">LEVEL</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">LEVEL</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mountains_of_might</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Mountains of might</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Mountains of might</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Mountains of might</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_go_as_deep_as_possible</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Go as deep as possible</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Go as deep as possible</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Go as deep as possible</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">dodge</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Dodge</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Dodge</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">Dodge</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_no_belt_slot_available</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">No belt slot available</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">No belt slot available</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">No belt slot available</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_the_world_of_umbra_wil_remain_whatever_the_price</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">The World of Umbra will stand, whatever the cost.</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">The World of Umbra will stand, whatever the cost.</Data></Cell>
     <Cell ss:StyleID="s77"><Data
       ss:Type="String">The World of Umbra will stand, whatever the cost.</Data></Cell>
    </Row>
@@ -1464,23 +1444,23 @@
       ss:Type="String">Right click to learn or increase current level.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="47"/>
-   <Row ss:Index="273" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:Index="270" ss:AutoFitHeight="0" ss:Height="18"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="278" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="281" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="285" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="288" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="292" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="295" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
-   <Row ss:Index="309" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="275" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="278" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="282" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="285" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="289" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="292" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="306" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="314" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="311" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="318" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="322" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="315" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="319" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
@@ -1488,11 +1468,11 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="331" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="328" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="334" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="331" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="338" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="335" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
@@ -1503,33 +1483,33 @@
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="352" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="354" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="349" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="351" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="361" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
-   <Row ss:Index="366" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="358" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="363" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="370" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
-   <Row ss:Index="374" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="376" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="379" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="383" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="385" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="367" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="371" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="373" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="376" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="380" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="382" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="389" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="392" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="399" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="386" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="389" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="396" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="402" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="399" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
-   <Row ss:Index="411" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="418" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+   <Row ss:Index="408" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="415" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -1550,12 +1530,13 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>130</TopRowVisible>
+   <TopRowVisible>230</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>200</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveRow>27</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+     <RangeSelection>R28C2:R34C2</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

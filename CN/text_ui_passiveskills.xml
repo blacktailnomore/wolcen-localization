@@ -6,8 +6,8 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>UBBOSATHLA</LastAuthor>
-  <LastSaved>2016-12-19T16:11:19Z</LastSaved>
+  <LastAuthor>UBBO-SATHLA</LastAuthor>
+  <LastSaved>2017-03-06T13:13:16Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -42,7 +42,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m229095104">
+  <Style ss:ID="m356267088">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -53,7 +53,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m229095124">
+  <Style ss:ID="m356267108">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -64,7 +64,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m229095144">
+  <Style ss:ID="m356267128">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -75,7 +75,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m229095164">
+  <Style ss:ID="m356267148">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -86,7 +86,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m229095184">
+  <Style ss:ID="m356267168">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -156,10 +156,10 @@
   <Style ss:ID="s83" ss:Parent="s26">
    <Borders/>
   </Style>
-  <Style ss:ID="s84" ss:Parent="s26">
+  <Style ss:ID="s86" ss:Parent="s26">
    <Alignment ss:Vertical="Center"/>
   </Style>
-  <Style ss:ID="s86" ss:Parent="s28">
+  <Style ss:ID="s87" ss:Parent="s28">
    <Borders/>
   </Style>
   <Style ss:ID="s88" ss:Parent="s26">
@@ -170,7 +170,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="1018" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="1069" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:AutoFitWidth="0" ss:Width="225.75"/>
    <Column ss:AutoFitWidth="0" ss:Width="538.5"/>
@@ -184,7 +184,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m229095104"><Data ss:Type="String">CLASS NAMES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m356267088"><Data ss:Type="String">CLASS NAMES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_Section_Legionary</Data></Cell>
@@ -287,7 +287,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">死灵法师</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s72">
-    <Cell ss:MergeAcross="2" ss:StyleID="m229095124"><Data ss:Type="String">PST USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m356267108"><Data ss:Type="String">PST USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_cant_reach_this_skill_yet</Data></Cell>
@@ -326,8 +326,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_popup_content_resetPST</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Would you like to reset your progression in the Gate of Fates ? You will get all you passive skills points back.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">你想要在命运之门里重置你的进度吗？所有的技能点将被返还。</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Would you like to reset your progression in the Gate of Fates ? You will get all you passive skills points and attribute points back.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">是否要在命运之门中重置点数？所有的被动技能点和属性点将被返还。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell><Data ss:Type="String">ui_popup_title_PSTVersionModified</Data></Cell>
@@ -360,7 +360,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">博学大师</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s72">
-    <Cell ss:MergeAcross="2" ss:StyleID="m229095144"><Data ss:Type="String">PASSIVE SKILLS NAMES AND LORE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m356267128"><Data ss:Type="String">PASSIVE SKILLS NAMES AND LORE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Legionary</Data></Cell>
@@ -519,7 +519,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_LEGIO_16_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Some say I'm quick tempered. The truth is, they are too slow.</Data></Cell>
+    <Cell><Data ss:Type="String">有些人说我性子太急。事实上，是他们太慢了。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_LEGIO_17_name</Data></Cell>
@@ -556,7 +557,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_LEGIO_20_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I don't need arrows or bolts with a sword that long.</Data></Cell>
+    <Cell><Data ss:Type="String">长剑足矣，无需箭和螺栓。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Hunter</Data></Cell>
@@ -692,8 +694,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_14_name</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Light Armor Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">轻甲精通</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Strategist</Data></Cell>
+    <Cell><Data ss:Type="String">战略家</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_14_lore</Data></Cell>
@@ -773,11 +775,30 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_23_name</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Retreat</Data></Cell>
-    <Cell><Data ss:Type="String">撤退</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Marksman</Data></Cell>
+    <Cell><Data ss:Type="String">神射手</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_23_lore</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_24_name</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Isolated</Data></Cell>
+    <Cell><Data ss:Type="String">孤立</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_24_lore</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Keep your friends distant, and your enemies even more.</Data></Cell>
+    <Cell><Data ss:Type="String">越疏远朋友，敌人就越多。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_25_name</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Distant Outburst</Data></Cell>
+    <Cell><Data ss:Type="String">远距离爆破</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_HUNT_25_lore</Data></Cell>
     <Cell ss:StyleID="s26"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1199,6 +1220,24 @@
     <Cell ss:StyleID="s26"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_THIEF_22_name</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Swift Blades</Data></Cell>
+    <Cell><Data ss:Type="String">轻甲精通</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_THIEF_22_lore</Data></Cell>
+    <Cell ss:StyleID="s28"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_THIEF_23_name</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Retreat</Data></Cell>
+    <Cell><Data ss:Type="String">撤退</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_THIEF_23_lore</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Arcanist</Data></Cell>
     <Cell ss:StyleID="s79"/>
     <Cell ss:StyleID="s80"/>
@@ -1420,7 +1459,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ARCAN_23_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I'm one with the Umbra, and the Umbra is with me.</Data></Cell>
+    <Cell><Data ss:Type="String">我与本影同在。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ARCAN_24_name</Data></Cell>
@@ -1461,7 +1501,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_3_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Adaptation is the only reason our World survived so far.</Data></Cell>
+    <Cell><Data ss:Type="String">适者生存是我们苟活至今的唯一原因。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_4_name</Data></Cell>
@@ -1497,7 +1538,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_7_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I don't think that's intended, but that mixture tastes pretty good.</Data></Cell>
+    <Cell><Data ss:Type="String">我不认为这是有意的，但这混合物尝起来挺不错。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_8_name</Data></Cell>
@@ -1547,7 +1589,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_13_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Instant Blessing</Data></Cell>
-    <Cell><Data ss:Type="String">即时祝福</Data></Cell>
+    <Cell><Data ss:Type="String">瞬间治疗</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_13_lore</Data></Cell>
@@ -1673,7 +1715,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_27_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Physical Preparation</Data></Cell>
-    <Cell><Data ss:Type="String">热身完毕~</Data></Cell>
+    <Cell><Data ss:Type="String">身体训练</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_WARD_27_lore</Data></Cell>
@@ -2021,8 +2063,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_GLAD_33_name</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Greatsword Mastery</Data></Cell>
-    <Cell><Data ss:Type="String">巨剑精通</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Broadsword Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">阔剑精通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_GLAD_33_lore</Data></Cell>
@@ -2090,7 +2132,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_6_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Furtivity</Data></Cell>
-    <Cell><Data ss:Type="String">Furtivity</Data></Cell>
+    <Cell><Data ss:Type="String">毛皮活性</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_6_lore</Data></Cell>
@@ -2284,7 +2326,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_27_lore</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Did you know that if I take all the veins from your body and lay them end to end… you will die ?</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Did you know that if I take all the veins from your body and lay them end to end… you will die ?</Data></Cell>
     <Cell><Data ss:Type="String">你猜猜如果我把你的动脉拉出来首尾相接围成一个圈。。。会死人不？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -2317,7 +2359,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_31_name</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Serial Skiller</Data></Cell>
-    <Cell><Data ss:Type="String">连续施法(连环杀手)</Data></Cell>
+    <Cell><Data ss:Type="String">连环杀手</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_31_lore</Data></Cell>
@@ -2396,6 +2438,24 @@
     <Cell ss:StyleID="s26"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_40_name</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Hitman</Data></Cell>
+    <Cell><Data ss:Type="String">杀手</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_40_lore</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_41_name</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Light Armor Mastery</Data></Cell>
+    <Cell><Data ss:Type="String">轻甲专精</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ASSAS_41_lore</Data></Cell>
+    <Cell ss:StyleID="s28"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Trickster</Data></Cell>
     <Cell ss:StyleID="s79"/>
     <Cell ss:StyleID="s80"/>
@@ -2429,12 +2489,13 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_4_name</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">Perseverance</Data></Cell>
-    <Cell><Data ss:Type="String">完美射击</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Perseverance</Data></Cell>
+    <Cell><Data ss:Type="String">坚持不懈</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_4_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I'm going to fill your body with holes. So to speak.</Data></Cell>
+    <Cell><Data ss:Type="String">打个比方。我会让你千疮百孔。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_5_name</Data></Cell>
@@ -2691,12 +2752,13 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_33_name</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Bayonet</Data></Cell>
-    <Cell><Data ss:Type="String">Bayonet</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Bayonet</Data></Cell>
+    <Cell><Data ss:Type="String">刺刀</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_TRICK_33_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Who said ranged weapons were meant to be used from a long distance ?</Data></Cell>
+    <Cell><Data ss:Type="String">谁说远程武器一定要远距离使用的？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Elementalist</Data></Cell>
@@ -2783,8 +2845,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ELEM_9_lore</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">I fight fire with fire.</Data></Cell>
-    <Cell><Data ss:Type="String">我以牙还牙。</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Of course you should fight fire with fire. You should fight everything with fire.</Data></Cell>
+    <Cell><Data ss:Type="String">以牙还牙，加倍奉还。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ELEM_10_name</Data></Cell>
@@ -2821,7 +2883,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ELEM_13_lore</Data></Cell>
-    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your body is a maze designed for Lightning to propagate.</Data></Cell>
+    <Cell><Data ss:Type="String">你的身躯被设计成让闪电传导的迷宫。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_ELEM_14_name</Data></Cell>
@@ -3059,35 +3122,35 @@
     <Cell><Data ss:Type="String">当你能控制风暴时谁还需要剑？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
-    <Cell ss:MergeAcross="2" ss:StyleID="m229095164"><Data ss:Type="String">MAGIC EFFECTS DESCRIPTIONS UNITS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m356267148"><Data ss:Type="String">MAGIC EFFECTS DESCRIPTIONS UNITS</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_UnitSymbols_Seconds</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">s</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">s</Data></Cell>
     <Cell><Data ss:Type="String">s</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_UnitSymbols_Meter</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">m</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">m</Data></Cell>
     <Cell><Data ss:Type="String">m</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_UnitSymbols_Position</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">th</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">th</Data></Cell>
     <Cell><Data ss:Type="String">th</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m229095184"><Data ss:Type="String">PASSIVE SKILLS MAGIC EFFECTS DESCRIPTIONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m356267168"><Data ss:Type="String">PASSIVE SKILLS MAGIC EFFECTS DESCRIPTIONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_PST_Dexterity</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1%2 to Dexterity</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2 敏捷</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2敏捷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DexterityWhenImmobile</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1%2 to Dexterity when you're not moving</Data></Cell>
-    <Cell><Data ss:Type="String">停止移动时 %1%2 敏捷</Data></Cell>
+    <Cell><Data ss:Type="String">停止移动时&amp;#160;%1%2 敏捷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DexterityFromHealth</Data></Cell>
@@ -3102,12 +3165,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DexterityFromMobsRadius</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to Dexterity for each enemy in a %2 radius</Data></Cell>
-    <Cell><Data ss:Type="String">%2  半径内每个敌人给玩家%1 敏捷</Data></Cell>
+    <Cell><Data ss:Type="String">%2 半径内每个敌人给玩家%1敏捷</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Strength</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1%2 to Strength</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2 力量</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2力量</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthFromRage</Data></Cell>
@@ -3117,12 +3180,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthMobsRadius</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to Strength for each enemy in a %2 radius</Data></Cell>
-    <Cell><Data ss:Type="String">%2半径内每个敌人给玩家%1 力量</Data></Cell>
+    <Cell><Data ss:Type="String">%2半径内每个敌人给玩家%1力量</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthFromArmor</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Strength per %1 Armor points</Data></Cell>
-    <Cell><Data ss:Type="String">每%1护甲%2 力量</Data></Cell>
+    <Cell><Data ss:Type="String">每%1护甲%2力量</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthFromSwitchingTarget</Data></Cell>
@@ -3132,7 +3195,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthFromRageGlobe</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 to Strength during %2 when picking up a Rage Globe</Data></Cell>
-    <Cell><Data ss:Type="String">捡起一个怒气球%1 力量，持续%2</Data></Cell>
+    <Cell><Data ss:Type="String">捡起一个怒气球%1力量，持续%2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthFromConst</Data></Cell>
@@ -3142,7 +3205,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthFromFullMediumArmor</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%2 to Strength if in full Medium Armor</Data></Cell>
-    <Cell><Data ss:Type="String">全身装备中甲时%2 力量</Data></Cell>
+    <Cell><Data ss:Type="String">全身装备中甲时%2力量</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrengthIfFullHealth</Data></Cell>
@@ -3152,22 +3215,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Constitution</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1%2 to Constitution</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2 体质</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2体质</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Power</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1%2 to Power</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2 智力</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2智力</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PowerFromManaGlobe</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 to Power during %2 when picking up an Umbra Globe</Data></Cell>
-    <Cell><Data ss:Type="String">捡起一个本影球%1 智力，持续%2</Data></Cell>
+    <Cell><Data ss:Type="String">捡起一个本影球%1智力，持续%2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PowerStackOnKill</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 to Power during %2 on each kill (stackable %3 times)</Data></Cell>
-    <Cell><Data ss:Type="String">每次击杀%1 智力，持续%2 (叠加%3次)</Data></Cell>
+    <Cell><Data ss:Type="String">每次击杀%1智力，持续%2(叠加%3次)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PowerStackOnKillTime</Data></Cell>
@@ -3192,42 +3255,42 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AllStatsButConstWhenFullHealth</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%2 to Power, Dexterity and Strength if your Health is full</Data></Cell>
-    <Cell><Data ss:Type="String">生命值全满时%2 智力,敏捷和力量</Data></Cell>
+    <Cell><Data ss:Type="String">生命值全满时%2智力,敏捷和力量</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StrDxtFromTargettingMobs</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 to Dexterity and Strength for each enemy targetting you in a %2 radius</Data></Cell>
-    <Cell><Data ss:Type="String">%2半径内每个攻击玩家的敌人给玩家%1 敏捷和力量</Data></Cell>
+    <Cell><Data ss:Type="String">%2半径内每个攻击玩家的敌人给玩家%1敏捷和力量</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ManaPerPowerPoint</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases by %2 the impact of your total Power on your maximum Umbra</Data></Cell>
-    <Cell><Data ss:Type="String">受智力影响增加%2本影上限</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Increases by %2 the impact of your total Power on your maximum resource pool</Data></Cell>
+    <Cell><Data ss:Type="String">受总智力影响你的资源池上限增加%2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Umbra</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">%1%2 to maximum Umbra</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2 本影上限</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">%1%2 to your maximum resource pool</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2资源池上线</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Stamina</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1%2 to maximum Stamina</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2 耐力上限</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1%2 to your maximum Stamina</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2耐力上限</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StaminaRegen</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Stamina Regeneration</Data></Cell>
-    <Cell><Data ss:Type="String">%2 耐力回复</Data></Cell>
+    <Cell><Data ss:Type="String">%2耐力回复</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StaminaRegenIfEmpty</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Stamina Regeneration when your Stamina is empty</Data></Cell>
-    <Cell><Data ss:Type="String">耐力耗尽时%2 耐力回复</Data></Cell>
+    <Cell><Data ss:Type="String">耐力耗尽时%2耐力回复</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StaminaRegenIfMoving</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Stamina Regeneration when you are moving</Data></Cell>
-    <Cell><Data ss:Type="String">移动时%2 耐力回复</Data></Cell>
+    <Cell><Data ss:Type="String">移动时%2耐力回复</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StaminaRegenOnKill</Data></Cell>
@@ -3351,7 +3414,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_AtkSpeedRangedXShots</Data></Cell>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">Each %1 shot with a Crossbow will give you a short %2 Attack Speed bonus</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Each %1 shot with a Crossbow will give you a short %2 Attack Speed bonus</Data></Cell>
     <Cell><Data ss:Type="String">手弩每%1下射击给予短时的%2攻击速度加成</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -3362,7 +3425,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CleaveFactorAxe</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Each hit done with a Two-handed Battleaxe increases your Cleave factor by %1 during %2 (stackable %3 times)</Data></Cell>
-    <Cell><Data ss:Type="String">双手战斧每次攻击劈砍系数增加%1，持续%2 (叠加%3次)</Data></Cell>
+    <Cell><Data ss:Type="String">双手战斧每次攻击劈砍系数增加%1，持续%2(叠加%3次)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CleaveAngle</Data></Cell>
@@ -3371,8 +3434,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CleaveAngleGreatsword</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Each hit done with a Two-handed Greatsword increases your Cleave angle by %1 during %2 (stackable %3 times)</Data></Cell>
-    <Cell><Data ss:Type="String">巨剑每次攻击劈砍范围增加%1，持续%2 (叠加%3次)</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Each hit done with a Broadsword increases your Cleave angle by %1 during %2 (stackable %3 times)</Data></Cell>
+    <Cell><Data ss:Type="String">巨剑每次攻击劈砍范围增加%1，持续%2(叠加%3次)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CleaveFactorForEachTarget</Data></Cell>
@@ -3577,42 +3640,42 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FireDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 - %2 Fire Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 - %2 火焰伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2火焰伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FrostDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 - %2 Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 - %2 冰霜伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2冰霜伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_LightningDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 - %2 Lightning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 - %2 闪电伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2闪电伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_UmbralDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 - %2 Umbra Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 - %2 本影伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2本影伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SacredDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 - %2 Sacred Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 - %2 神圣伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2神圣伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ShadowDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 - %2 Shadow Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 - %2 暗影伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2暗影伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 - %2 Poison Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 - %2 毒素伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2毒素伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BleedingDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 - %2 Bleeding Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 - %2 流血伤害</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2流血伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PhysicalDamageInc</Data></Cell>
@@ -3886,12 +3949,12 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StaminaCost</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the Stamina cost of spells</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the Stamina cost of skills</Data></Cell>
     <Cell><Data ss:Type="String">%1技能的耐力消耗</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_UmbraCost</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">%2 to the Umbra cost of spells</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">%2 to the Umbra cost of skills</Data></Cell>
     <Cell><Data ss:Type="String">%2技能的本影消耗</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -3911,18 +3974,18 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SpellCostAfterKill</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the Rage and Umbra costs of all your spells during %2 after a kill</Data></Cell>
-    <Cell><Data ss:Type="String">击杀后%1所有法术的怒气和本影消耗，持续%2</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the Rage and Umbra costs of all your skills during %2 after a kill</Data></Cell>
+    <Cell><Data ss:Type="String">击杀敌人后所有技能%1怒气和本影消耗，持续%2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SpellCostAfterDodgeRoll</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the Rage and Umbra costs of all your spells during %2 after a Dodge Roll</Data></Cell>
-    <Cell><Data ss:Type="String">翻滚后%1所有法术，怒气和本影消耗，持续%2</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the Rage and Umbra costs of all your skills during %2 after a Dodge Roll</Data></Cell>
+    <Cell><Data ss:Type="String">翻滚后所有技能%1怒气和本影消耗，持续%2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_OffensiveEffectDurationBonus</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the duration of all Offensive effects you inflict</Data></Cell>
-    <Cell><Data ss:Type="String">所有进攻效果%1持续时间</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the duration of all Status Ailments you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">所有造成的负面状态%1持续时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RageGenerationWhenEmpty</Data></Cell>
@@ -3971,18 +4034,18 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RageCost</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the Rage cost of spells</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the Rage cost of skills</Data></Cell>
     <Cell><Data ss:Type="String">%2技能怒气消耗</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_TimeBeforeRageLoss</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Rage Conservation</Data></Cell>
-    <Cell><Data ss:Type="String">%2怒气保存</Data></Cell>
+    <Cell><Data ss:Type="String">%2怒气守恒</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_CancelTBRLWhenUmbraEmpty</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Cancels your Rage Conservation during %2 when your Umbra becomes empty</Data></Cell>
-    <Cell><Data ss:Type="String">本影耗尽后取消你的怒气保存，持续%2</Data></Cell>
+    <Cell><Data ss:Type="String">本影耗尽后取消你的怒气守恒，持续%2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_IgnoreRageLoss</Data></Cell>
@@ -4002,7 +4065,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_Dodge</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1%2 to Dodge Chance</Data></Cell>
-    <Cell><Data ss:Type="String">%1%2 闪避几率</Data></Cell>
+    <Cell><Data ss:Type="String">%1%2闪避几率</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DodgeChanceWhenMoving</Data></Cell>
@@ -4032,7 +4095,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DodgeWhenStaminaUssed</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to Dodge Chance during %2 each time you use a Stamina point (stackable %3 time)</Data></Cell>
-    <Cell><Data ss:Type="String">每使用点耐力%1闪避几率，持续%2(叠加%3次~)</Data></Cell>
+    <Cell><Data ss:Type="String">每使用一点耐力%1闪避几率，持续%2(叠加%3次~)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_FreeDodgerollIfLowlife</Data></Cell>
@@ -4247,12 +4310,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RangedDamage</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%1%2 to all Damage done with Ranged weapons</Data></Cell>
-    <Cell><Data ss:Type="String">远程武器 %1%2 所有伤害</Data></Cell>
+    <Cell><Data ss:Type="String">远程武器%1%2所有伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_NonRangedDamage</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to all Damage done with Melee and Mage weapons</Data></Cell>
-    <Cell><Data ss:Type="String">近战和魔法武器%2所有伤害</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to all Damage done with Melee weapons</Data></Cell>
+    <Cell><Data ss:Type="String">%2所有近战武器的伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_SpellDamageFromPower</Data></Cell>
@@ -4296,7 +4359,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DoubleShotTimed</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Continuously shooting the same enemy may double your next shot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Continuously shooting the same enemy may double your next shot</Data></Cell>
     <Cell><Data ss:Type="String">向同一个敌人连续射击时伤害可能翻倍</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4331,7 +4394,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_OpenWoundIncDaggers</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Each strike with Dual Daggers increases by %1 the Open Wound Chance of Bleeding skills during %2 (stackable %3 times)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Each strike with Dual Daggers increases by %1 the Open Wound Chance of Bleeding skills during %2 (stackable %3 times)</Data></Cell>
     <Cell><Data ss:Type="String">使用双持匕首每次攻击增加%1流血技能的重伤几率，持续%2（可叠加%3次）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4401,8 +4464,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_LifeOnHit</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to your Life On Hit</Data></Cell>
-    <Cell><Data ss:Type="String">命中时%1生命</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 to your Life On Hit</Data></Cell>
+    <Cell><Data ss:Type="String">命中时%2生命</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_LifeOnHitComplete</Data></Cell>
@@ -4441,7 +4504,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurnRecoveryOnDodgeroll</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%2 Chance to clear up to %1 Burning stacks when Dodge-rolling (Chance is increased if you are in water, even more if it rains)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 Chance to clear up to %1 Burning stacks when Dodge-rolling (Chance is increased if you are in water, even more if it rains)</Data></Cell>
     <Cell><Data ss:Type="String">翻滚时有%2几率清除%1层燃烧效果(在水中几率提高，雨中更高)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4461,12 +4524,12 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurningWithFireSkills</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 Chance to Burn with Fire skills</Data></Cell>
-    <Cell><Data ss:Type="String">提高%2燃烧几率</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 Chance to Propagate Flames with Fire skills</Data></Cell>
+    <Cell><Data ss:Type="String">火焰技能%2几率传播火焰</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_BurnOnHit</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Burning Stack(s) during %2 on hits</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Burning Stack(s) during %2 on hits</Data></Cell>
     <Cell><Data ss:Type="String">每次攻击叠加%1燃烧伤害，持续%2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4516,7 +4579,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ShockChance</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to Shocking Chance of Lightning Damage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Shocking chance with Lightning Damage</Data></Cell>
     <Cell><Data ss:Type="String">%2闪电伤害的震荡几率</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4542,11 +4605,11 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_PoisonRateIfAttacking</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the Poisoning Damage Rate on enemies when they are attacking</Data></Cell>
-    <Cell><Data ss:Type="String">攻击敌人%2中毒几率(the Poisoning Damage Rate)~</Data></Cell>
+    <Cell><Data ss:Type="String">攻击敌人%2中毒几率(中毒损伤率)~</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_DotDurationReduction</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Reduces by %2 the duration of all Status Ailments you suffer</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Reduces by %2 the duration of all Status Ailments you suffer</Data></Cell>
     <Cell><Data ss:Type="String">减少%2遭受的负面效果的持续时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4561,7 +4624,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_GlobesNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to cast a small Elemental Nova when picking up a Globe (the Element depends on the Globe type)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Chance to cast a small Elemental Nova when picking up a Globe (the Element depends on the Globe type)</Data></Cell>
     <Cell><Data ss:Type="String">捡起一个能量球时有%1几率释放一次小元素新星(取决于能量球的类型)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -4600,19 +4663,9 @@
     <Cell><Data ss:Type="String">当前生命值低于%1时%2生命能量球掉落几率</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_PST_UmbraGlobesRefillUmbraPotions</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra Globes now also refill your Umbra potions (up to %2)</Data></Cell>
-    <Cell><Data ss:Type="String">现在本影能量球会给本影药水充能(最高%2)</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_PST_RageGlobesRefillRagePotions</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Rage Globes now also refill your Rage potions (up to %2)</Data></Cell>
-    <Cell><Data ss:Type="String">现在怒气能量球会给怒气药水充能(最高%2)</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_HealthGlobesRefillHealthPotions</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Health Globes now also refill your Health potions (up to %2)</Data></Cell>
-    <Cell><Data ss:Type="String">现在生命能量球会给生命药水充能(最高%2)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Health Globes now also refill %1 charge(s) of your Health potions </Data></Cell>
+    <Cell><Data ss:Type="String">生命球现在也会给生命药水充能%1 </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_RegenOnPotions</Data></Cell>
@@ -4831,18 +4884,18 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormLightning</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Lightning Storm Area each time you hit the same area with Lightning spells (stackable intensity). May Shock enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">使用闪电魔法攻击同一区域制造一片闪电风暴区(叠加强度)并震荡其中的敌人。</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Lightning Storm Area each time you hit the same area with Lightning attacks (stackable intensity). May Shock enemies inside the zone.</Data></Cell>
+    <Cell><Data ss:Type="String">使用闪电攻击同一区域制造一片闪电风暴区(叠加强度)并震荡其中的敌人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormFrost</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Frost Storm Area each time you hit the same area with Frost spells (stackable intensity). May snare enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">使用冰霜魔法攻击同一区域制造一片冰霜风暴区(叠加强度)并束缚其中的敌人。</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Frost Storm Area each time you hit the same area with Frost attacks (stackable intensity). May snare enemies inside the zone.</Data></Cell>
+    <Cell><Data ss:Type="String">使用冰霜攻击同一区域制造一片冰霜风暴区(叠加强度)并束缚其中的敌人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_StormFire</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Fire Storm Area each time you hit the same area with Fire spells (stackable intensity). May hit and burn enemies inside the zone.</Data></Cell>
-    <Cell><Data ss:Type="String">使用火焰魔法攻击同一区域制造一片火焰风暴区(叠加强度)并击打和燃烧其中的敌人。</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a Fire Storm Area each time you hit the same area with Fire attacks (stackable intensity). May hit and burn enemies inside the zone.</Data></Cell>
+    <Cell><Data ss:Type="String">使用火焰攻击同一区域制造一片火焰风暴区(叠加强度)并击打和燃烧其中的敌人。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ExtendedStormTime</Data></Cell>
@@ -4981,8 +5034,213 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PST_ArmorPiercingCloseShots</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Gives all your shots an Armor Piercing bonus depending on your distance to the target (up to %1 if the target is closer than %2</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gives all your shots an Armor Piercing bonus depending on your distance to the target (up to %1 if the target is closer than %2</Data></Cell>
     <Cell><Data ss:Type="String">你的每次射击都依据与目标距离产生护甲穿透加成（最高%1如果距目标%2以内）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_PoisonSpeedOnFrail</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Poison ticking speed on Frail enemies</Data></Cell>
+    <Cell><Data ss:Type="String">脆弱的敌人%2中毒速度~</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseTime</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the duration of all the Curse stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的诅咒堆叠%2持续时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseChance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Cursing chance with Shadow Damage</Data></Cell>
+    <Cell><Data ss:Type="String">暗影伤害%2诅咒几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseRadius</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the propagation radius of all the Curse stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的诅咒堆叠%2传播半径</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseStacks</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to the number of Status Ailments stacks propagated by all the Curse effects you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的诅咒效果%1传播的负面状态堆叠数</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseEfficiency</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the efficiency of all the Curse stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的诅咒堆叠%2效率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_BurnChance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Burning chance with Fire Damage</Data></Cell>
+    <Cell><Data ss:Type="String">火焰伤害%2燃烧几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FreezeChance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Freezing chance with Frost Damage</Data></Cell>
+    <Cell><Data ss:Type="String">冰霜伤害%2冻结几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_BleedChance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Open Wound chance with Bleeding Damage</Data></Cell>
+    <Cell><Data ss:Type="String">流血伤害%2创伤几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_BleedTime</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the duration of all the Open Wounds you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的创伤%2持续时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_PoisonChance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Poisoning chance with Poison Damage</Data></Cell>
+    <Cell><Data ss:Type="String">毒性伤害%2中毒几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_PoisonTime</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the duration of all the Poisoning stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">你造成的所有中毒堆叠%2持续时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_WeaknessTime</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the duration of all the Weakness stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的虚弱堆叠%2持续时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_WeaknessChance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Weakness chance with Sacred Damage</Data></Cell>
+    <Cell><Data ss:Type="String">惊吓伤害%2虚弱几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_WeaknessEfficiency</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the efficiency of all the Weakness stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的虚弱堆叠%2效率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FrailtyTime</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the duration of all the Frailty stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的脆弱堆叠%2持续时间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FrailtyChance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to your Frailty chance with Umbra Damage</Data></Cell>
+    <Cell><Data ss:Type="String">本影伤害%2脆弱几率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FrailtyEfficiency</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the efficiency of all the Frailty stacks you inflict</Data></Cell>
+    <Cell><Data ss:Type="String">所有你造成的脆弱堆叠%2效率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseOnHits</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Chance to Curse your target during %2 on hits</Data></Cell>
+    <Cell><Data ss:Type="String">攻击时有%1几率诅咒你的目标，持续%2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FrenzyOnFearStun</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Chance to cause a %2 Frenzy when fearing a stunned enemy</Data></Cell>
+    <Cell><Data ss:Type="String">当恐惧一个被晕眩的敌人时有%1几率引发一次%2的狂暴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FearRadiusOverkill</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Chance to Fear all enemies in a %2 radius when performing a Physical Overkill</Data></Cell>
+    <Cell><Data ss:Type="String">当进行物理伤害时有%1几率恐惧半径%2范围内的所有敌人~</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseEfficiencyOnWeak</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the efficiency of all the Curse effects you inflict on Weakened enemies</Data></Cell>
+    <Cell><Data ss:Type="String">所有对软弱的敌人造成的诅咒效果%2效率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_HealthGlobe</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 to the drop Rate of Health Globes</Data></Cell>
+    <Cell><Data ss:Type="String">生命球%2掉落率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_PoisonVial</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Inflict %1 Poison Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">用近战和远程武器攻击时造成%1毒性堆叠，持续%2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CurseVial</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Inflict %1 Curse Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">用近战和远程武器攻击时造成%1诅咒堆叠，持续%2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FrailtyVial</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Inflict %1 Frailty and Weakness Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">用近战和远程武器攻击时造成%1虚弱堆叠，持续%2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_BurnVial</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Inflict %1 Burning Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">用近战和远程武器攻击时造成%1燃烧堆叠，持续%2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_ShockVial</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Shock targets on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">用近战和远程武器攻击时会震慑目标</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_BleedVial</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Inflict %1 Bleeding Stack(s) during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">用近战和远程武器攻击时造成%1流血堆叠，持续%2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FreezeVial</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Freeze targets during %2 on hits with Melee and Ranged Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">用近战和远程武器攻击时会冻结敌人，持续%2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_Experience</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 Gained Experience</Data></Cell>
+    <Cell><Data ss:Type="String">%2经验获取</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_RangedDamageIsolated</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 to all Damage done with Ranged Weapons if there is no enemy around you in a %2 radius</Data></Cell>
+    <Cell><Data ss:Type="String">如果%2半径内没有敌人%1所有远程武器伤害</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_RageGenerationOpening</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%2 Rage generated on first hit with Melee and Ranged weapons when you are not in a fight</Data></Cell>
+    <Cell><Data ss:Type="String">当你不处于战斗时，用近战和远程武器的第一击%2怒气产生~</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_RageDistantShot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Increases Rage generation of your Ranged Shots the further you are from your target</Data></Cell>
+    <Cell><Data ss:Type="String">增加远程射击的怒气产生，取决于目标和你的距离~</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_CritChanceFromDistance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Increases your Critical Chance (Spells &amp; Physical) the further you are from your target</Data></Cell>
+    <Cell><Data ss:Type="String">增加暴击几率 (法术&amp;物理) 取决于目标和你的距离~</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_FirstHitAvoidFight</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The first hit done or taken doesn't put you in Fight mode (%2 cooldown)</Data></Cell>
+    <Cell><Data ss:Type="String">第一击不会让你进入战斗模式(%2冷却时间)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_SignatureSkill</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Will unlock the Active Skill &quot;%4&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">将会解锁第&quot;%4&quot;个主动技能</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_DaggerDamageFromDext</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Daggers Damage are increased by your Dexterity instead of your Strength</Data></Cell>
+    <Cell><Data ss:Type="String">匕首伤害提高你的敏捷而不是你的力量</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_LifeOnKill</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to gain %2 Health points on kills</Data></Cell>
+    <Cell><Data ss:Type="String">%1几率在杀死敌人后获得%2点生命</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_UmbraOnKill</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to gain %2 Umbra points on kills</Data></Cell>
+    <Cell><Data ss:Type="String">%1几率在杀死敌人后获得%2点本影</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_PST_RageOnKill</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Chance to gain %2 Rage points on kills</Data></Cell>
+    <Cell><Data ss:Type="String">%1几率在杀死敌人后获得%2点怒气</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -5002,11 +5260,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>900</TopRowVisible>
+   <TopRowVisible>1041</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>914</ActiveRow>
+     <ActiveRow>1077</ActiveRow>
      <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>

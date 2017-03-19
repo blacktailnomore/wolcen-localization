@@ -8,10 +8,10 @@
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Title>Audio script template</Title>
   <Author>Maëlenn Lumineau</Author>
-  <LastAuthor>UBBOSATHLA</LastAuthor>
+  <LastAuthor>UBBO-SATHLA</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2016-10-20T14:29:59Z</LastSaved>
+  <LastSaved>2017-03-17T15:16:08Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -106,11 +106,59 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
+  <Style ss:ID="s28" ss:Name="Neutre">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
+   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
+  </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m340173536" ss:Parent="s40">
+  <Style ss:ID="m356789040" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m356789060" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m356789080" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m356789100" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m356789120" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -147,11 +195,31 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s65">
+  <Style ss:ID="s75">
    <Borders/>
   </Style>
   <Style ss:ID="s81" ss:Parent="s26">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s82">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s84" ss:Parent="s26">
+   <Alignment ss:Vertical="Top"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s85" ss:Parent="s26">
+   <Alignment ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s86" ss:Parent="s28">
+   <Alignment ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s87" ss:Parent="s28">
+   <Alignment ss:Vertical="Top"/>
    <Borders/>
   </Style>
  </Styles>
@@ -165,10 +233,10 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="696" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="794" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
-   <Column ss:Width="189"/>
-   <Column ss:Width="570.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="301.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="646.5"/>
    <Column ss:AutoFitWidth="0" ss:Width="329.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
@@ -178,10 +246,38 @@
     <Cell ss:StyleID="s64"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell ss:MergeAcross="2" ss:StyleID="m340173536"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
+    <Cell ss:MergeAcross="2" ss:StyleID="m356789040"><Data ss:Type="String">AST INTERFACE</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_ast_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Active Skills Tree</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active Skills Tree</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_ast_skilleffects</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Skill details</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Skill details</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_ast_nextlevel</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Next level</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Next level</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_ast_xp</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Experience</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Experience</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_ast_level</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Level</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Level</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
+    <Cell ss:MergeAcross="2" ss:StyleID="m356789060"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s75">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AST_BookOf</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Tome of %1</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">Tome of %1</Data></Cell>
@@ -197,16 +293,6 @@
     <Cell><Data ss:Type="String">Perform a basic attack with your equipped weapon.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_UnlimitedPower</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Unlimited Power</Data></Cell>
-    <Cell><Data ss:Type="String">Unlimited Power</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_UnlimitedPower_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Continuously casts Lightnings from your hands, shocking up to two targets at the same time.</Data></Cell>
-    <Cell><Data ss:Type="String">Continuously casts Lightnings from your hands, shocking up to two targets at the same time.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_DeepStrike</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Deep Strike</Data></Cell>
     <Cell><Data ss:Type="String">Deep Strike</Data></Cell>
@@ -218,33 +304,23 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ExplosiveWave</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Explosive Wave</Data></Cell>
-    <Cell><Data ss:Type="String">Explosive Wave</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Seismic Rift</Data></Cell>
+    <Cell><Data ss:Type="String">Seismic Rift</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ExplosiveWave_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Creates a trail of successive explosions in front of you.</Data></Cell>
-    <Cell><Data ss:Type="String">Creates a trail of successive explosions in front of you.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Conjures explosions from the ground in a forward line, dealing Damage to nearby enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">Conjures explosions from the ground in a forward line, dealing Damage to nearby enemies.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ShadowStrike</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Shadows Strike</Data></Cell>
     <Cell><Data ss:Type="String">Shadows Strike</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:AutoFitHeight="0" ss:Height="16.5">
     <Cell><Data ss:Type="String">ui_AST_ShadowStrike_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You merge with the Shadows and successively strike nearby enemies while preventing Damage.</Data></Cell>
     <Cell><Data ss:Type="String">You merge with the Shadows and successively strike nearby enemies while preventing Damage.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_HeartOfWinter</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Winter's Chill</Data></Cell>
-    <Cell><Data ss:Type="String">Winter's Chill</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_HeartOfWinter_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A wide-range Nova that Freeze all nearby enemies.</Data></Cell>
-    <Cell><Data ss:Type="String">A wide-range Nova that Freeze all nearby enemies.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Fireball</Data></Cell>
@@ -253,38 +329,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Fireball_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Throws a large and powerful Fire projectile in front of you.</Data></Cell>
-    <Cell><Data ss:Type="String">Throws a large and powerful Fire projectile in front of you.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_Ignite</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Ignition</Data></Cell>
-    <Cell><Data ss:Type="String">Ignition</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_Ignite_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Throws a large Fire projectile that may spread flames on the ground.</Data></Cell>
-    <Cell><Data ss:Type="String">Throws a large Fire projectile that may spread flames on the ground.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_MultiFireball</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Multiple Fireballs</Data></Cell>
-    <Cell><Data ss:Type="String">Multiple Fireballs</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_MultiFireball_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Throw several small Fireballs in front of you, increasing in number with each consecutive cast.</Data></Cell>
-    <Cell><Data ss:Type="String">Throw several small Fireballs in front of you, increasing in number with each consecutive cast.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ExpulseBlow</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Expulse Blow</Data></Cell>
-    <Cell><Data ss:Type="String">Expulse Blow</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ExpulseBlow_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A wide Melee blow that knocks your enemies down.</Data></Cell>
-    <Cell><Data ss:Type="String">A wide Melee blow that knocks your enemies down.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Throws a powerful Fire projectile in front of you that explode when hitting an enemy.</Data></Cell>
+    <Cell><Data ss:Type="String">Throws a powerful Fire projectile in front of you that explode when hitting an enemy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Blizzard</Data></Cell>
@@ -318,33 +364,23 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChainLightning</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Chain Lightning</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Lightning Strike</Data></Cell>
     <Cell><Data ss:Type="String">Chain Lightning</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChainLightning_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Lightnings from your hands that may jumps from one target to another.</Data></Cell>
-    <Cell><Data ss:Type="String">Casts Lightnings from your hands that may jumps from one target to another.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Lightnings from your hands that deal continuous Damage to your target and have a chance to shock.</Data></Cell>
+    <Cell><Data ss:Type="String">Casts Lightnings from your hands that deal continuous Damage to your target and have a chance to shock.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_RainOfFire</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Rain of Fire</Data></Cell>
-    <Cell><Data ss:Type="String">Rain of Fire</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Fire Rain</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Rain</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_RainOfFire_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Calls down a Storm of Fire projectiles that may damage enemies around you.</Data></Cell>
-    <Cell><Data ss:Type="String">Calls down a Storm of Fire projectiles that may damage enemies around you.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_LightningBolt</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Lightning Bolt</Data></Cell>
-    <Cell><Data ss:Type="String">Lightning Bolt</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_LightningBolt_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Throw several small Lightning projectiles around you, increasing in number with each consecutive cast.</Data></Cell>
-    <Cell><Data ss:Type="String">Throw several small Lightning projectiles around you, increasing in number with each consecutive cast.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts down Fire projectiles in the area surrounding you that inflict Damage to your enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">Casts down Fire projectiles in the area surrounding you that inflict Damage to your enemies.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Bloodbath</Data></Cell>
@@ -353,28 +389,28 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Bloodbath_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You take the form of a moving pool of Blood, inflicting Bleeding Damage to enemies nearby while preventing Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">You take the form of a moving pool of Blood, inflicting Bleeding Damage to enemies nearby while preventing Damage.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You take the form of a moving pool of Blood, inflicting Bleeding Damage to enemies nearby while preventing incoming attacks.</Data></Cell>
+    <Cell><Data ss:Type="String">You take the form of a moving pool of Blood, inflicting Bleeding Damage to enemies nearby while preventing incoming attacks.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_MassFrenzy</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Mass Frenzy</Data></Cell>
-    <Cell><Data ss:Type="String">Mass Frenzy</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hysteria</Data></Cell>
+    <Cell><Data ss:Type="String">Hysteria</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_MassFrenzy_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Enrage all nearby enemies, causing them to attack each other.</Data></Cell>
-    <Cell><Data ss:Type="String">Enrage all nearby enemies, causing them to attack each other.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Enrage all enemies surrounding you, causing them to attack each other.</Data></Cell>
+    <Cell><Data ss:Type="String">Enrage all enemies surrounding you, causing them to attack each other.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_GroundStomp</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Ground Stomp</Data></Cell>
-    <Cell><Data ss:Type="String">Ground Stomp</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Tremor</Data></Cell>
+    <Cell><Data ss:Type="String">Tremor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_GroundStomp_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Violently slams the ground, stunning nearby enemies.</Data></Cell>
-    <Cell><Data ss:Type="String">Violently slams the ground, stunning nearby enemies.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Violently slams the ground, stunning nearby enemies in a large radius.</Data></Cell>
+    <Cell><Data ss:Type="String">Violently slams the ground, stunning nearby enemies in a large radius.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_WarCry</Data></Cell>
@@ -385,16 +421,6 @@
     <Cell><Data ss:Type="String">ui_AST_WarCry_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">You enter a Combat Frenzy, preventing part of incoming damage and generating more Rage on hits</Data></Cell>
     <Cell><Data ss:Type="String">You enter a Combat Frenzy, preventing part of incoming damage and generating more Rage on hits</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_BoneCrush</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Bone Crushing</Data></Cell>
-    <Cell><Data ss:Type="String">Bone Crushing</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_BoneCrush_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A powerful Melee Strike that increases your Attack Speed</Data></Cell>
-    <Cell><Data ss:Type="String">A powerful Melee Strike that increases your Attack Speed</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ForceShield</Data></Cell>
@@ -415,16 +441,6 @@
     <Cell><Data ss:Type="String">ui_AST_AbsorptionShield_desc</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Summons an Umbral Shield that absorbs a limited amount of Damage and deflects projectiles.</Data></Cell>
     <Cell><Data ss:Type="String">Summons an Umbral Shield that absorbs a limited amount of Damage and deflects projectiles.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_UmbralCatalyst</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbral Catalyst</Data></Cell>
-    <Cell><Data ss:Type="String">Umbral Catalyst</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_UmbralCatalyst_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">You enter a Magic state where your Umbra regenerates much faster but your Spells cost more Umbra to cast</Data></Cell>
-    <Cell><Data ss:Type="String">You enter a Magic state where your Umbra regenerates much faster but your Spells cost more Umbra to cast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboShield</Data></Cell>
@@ -497,66 +513,6 @@
     <Cell><Data ss:Type="String">Performs a very quick assault with your Dual Daggers.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackWarhammer</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Hammering</Data></Cell>
-    <Cell><Data ss:Type="String">Hammering</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackWarhammer_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A charged attack that inflicts severe Damage and may knock your enemies down. You may hold it for increased Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">A charged attack that inflicts severe Damage and may knock your enemies down. You may hold it for increased Damage.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualWield</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Slash</Data></Cell>
-    <Cell><Data ss:Type="String">Dual Slash</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualWield_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A double charged attack that has high Critical Chance. You may hold it for increased Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">A double charged attack that has high Critical Chance. You may hold it for increased Damage.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackBattleaxe</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Air Blade</Data></Cell>
-    <Cell><Data ss:Type="String">Air Blade</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackBattleaxe_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A powerful charged attack that slashes the air and may hit far away enemies. You may hold it for increased Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">A powerful charged attack that slashes the air and may hit far away enemies. You may hold it for increased Damage.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackGreatsword</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Impalement</Data></Cell>
-    <Cell><Data ss:Type="String">Impalement</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackGreatsword_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A forward charged attack that pierces through enemies. You may hold it for increased Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">A forward charged attack that pierces through enemies. You may hold it for increased Damage.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackShield</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Guard</Data></Cell>
-    <Cell><Data ss:Type="String">Guard</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackShield_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Blocks frontal attacks, preventing part of incoming Damage.</Data></Cell>
-    <Cell><Data ss:Type="String">Blocks frontal attacks, preventing part of incoming Damage.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualDagger</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Dual Daggers Rend</Data></Cell>
-    <Cell><Data ss:Type="String">Dual Daggers Rend</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_ChargedAttackDualDagger_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A wide Slash that inflict Open Wounds to all nearby enemies.</Data></Cell>
-    <Cell><Data ss:Type="String">A wide Slash that inflict Open Wounds to all nearby enemies.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FireAmmo</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Fire Ammunition</Data></Cell>
     <Cell><Data ss:Type="String">Fire Ammunition</Data></Cell>
@@ -627,24 +583,14 @@
     <Cell><Data ss:Type="String">Your Ranged shots inflict Open Wounds to targets.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_PiercingShot</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Piercing Shot</Data></Cell>
-    <Cell><Data ss:Type="String">Piercing Shot</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_PiercingShot_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A concentrated Ranged shot that pierces through enemies.</Data></Cell>
-    <Cell><Data ss:Type="String">A concentrated Ranged shot that pierces through enemies.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_RapidShot</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Rapid Shot</Data></Cell>
     <Cell><Data ss:Type="String">Rapid Shot</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_RapidShot_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Quickly shoots several times with your equipped weapon.</Data></Cell>
-    <Cell><Data ss:Type="String">Quickly shoots several times with your equipped weapon.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Quickly shoots several projectiles in a straight line with your equipped weapon.</Data></Cell>
+    <Cell><Data ss:Type="String">Quickly shoots several projectiles in a straight line with your equipped weapon.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SpreadShot</Data></Cell>
@@ -653,8 +599,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SpreadShot_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Shoots multiples projectiles at the same time with your equipped weapon.</Data></Cell>
-    <Cell><Data ss:Type="String">Shoots multiples projectiles at the same time with your equipped weapon.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Shoots multiples projectiles at the same time with your equipped weapon within a wide forward angle.</Data></Cell>
+    <Cell><Data ss:Type="String">Shoots multiples projectiles at the same time with your equipped weapon within a wide forward angle.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Whirlwind</Data></Cell>
@@ -663,28 +609,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Whirlwind_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Swings your equipped weapon in a powerful circular motion, striking enemies around you while moving.</Data></Cell>
-    <Cell><Data ss:Type="String">Swings your equipped weapon in a powerful circular motion, striking enemies around you while moving.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_StoneWall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Stone Wall</Data></Cell>
-    <Cell><Data ss:Type="String">Stone Wall</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_StoneWall_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Raises a Stone Wall in front of you.</Data></Cell>
-    <Cell><Data ss:Type="String">Raises a Stone Wall in front of you.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_SpiritWalk</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Spirit Walk</Data></Cell>
-    <Cell><Data ss:Type="String">Spirit Walk</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_SpiritWalk_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Greatly increases your Movement Speed.</Data></Cell>
-    <Cell><Data ss:Type="String">Greatly increases your Movement Speed.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Swings your weapon in a powerful circular motion, striking enemies around you while moving and inflicting Damage depending on your equipped Weapons.</Data></Cell>
+    <Cell><Data ss:Type="String">Swings your weapon in a powerful circular motion, striking enemies around you while moving and inflicting Damage depending on your equipped Weapons.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike</Data></Cell>
@@ -693,8 +619,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">A violent Melee attack that deals severe Damage to nearby enemies</Data></Cell>
-    <Cell><Data ss:Type="String">A violent Melee attack that deals severe Damage to nearby enemies</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">A violent Melee attack that deals Physical Damage to nearby enemies depending on the Damage dealt by your equipped Weapons.</Data></Cell>
+    <Cell><Data ss:Type="String">A violent Melee attack that deals Physical Damage to nearby enemies depending on the Damage dealt by your equipped Weapons</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_UmbralBomb</Data></Cell>
@@ -703,8 +629,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_UmbralBomb_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Plants an Umbral bomb on the ground that explodes after a short delay.</Data></Cell>
-    <Cell><Data ss:Type="String">Plants an Umbral bomb on the ground that explodes after a short delay.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Plants an Umbral trap on the ground that explodes after a short delay, inflicting severe Damage to enemies caught in the blast.</Data></Cell>
+    <Cell><Data ss:Type="String">Plants an Umbral trap on the ground that explodes after a short delay, inflicting severe Damage to enemies caught in the blast.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostNova</Data></Cell>
@@ -717,39 +643,990 @@
     <Cell><Data ss:Type="String">A medium-ranged Nova that freezes nearby enemies.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_MagneticStrike</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Magnetic Strike</Data></Cell>
-    <Cell><Data ss:Type="String">Magnetic Strike</Data></Cell>
+    <Cell><Data ss:Type="String">ui_AST_FireStaff</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Fire Staff Combo</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Staff Combo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_FireStaff_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Uses the power of a mage staff to unleash Fire spells at the enemy </Data></Cell>
+    <Cell><Data ss:Type="String">Uses the power of a mage staff to unleash Fire spells at the enemy </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_FrostStaff</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Frost Staff Combo</Data></Cell>
+    <Cell><Data ss:Type="String">Frost Staff Combo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_FrostStaff_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Uses the power of a mage staff to unleash Frost spells at the enemy </Data></Cell>
+    <Cell><Data ss:Type="String">Uses the power of a mage staff to unleash Frost spells at the enemy </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_LightningStaff</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Lightning Staff Combo</Data></Cell>
+    <Cell><Data ss:Type="String">Lightning Staff Combo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_LightningStaff_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Uses the power of a mage staff to unleash Lightning spells at the enemy </Data></Cell>
+    <Cell><Data ss:Type="String">Uses the power of a mage staff to unleash Lightning spells at the enemy </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_UmbraStaff</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra Staff Combo</Data></Cell>
+    <Cell><Data ss:Type="String">Umbra Staff Combo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_UmbraStaff_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Uses the power of a mage staff to unleash Umbra spells at the enemy </Data></Cell>
+    <Cell><Data ss:Type="String">Uses the power of a mage staff to unleash Umbra spells at the enemy </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_RainOfArrows</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Arrows Rain</Data></Cell>
+    <Cell><Data ss:Type="String">Arrows Rain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_RainOfArrows_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts down several arrows that hit all enemies in a remote area, inflicting Damage depending on your equipped Weapons. The falling arrows are affected by ammunition skills.</Data></Cell>
+    <Cell><Data ss:Type="String">Casts down several arrows that hit all enemies in a remote area, inflicting Damage depending on your equipped Weapons. The falling arrows are affected by ammunition skills.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Skill_Throwing_Knifes</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Throwing Knife</Data></Cell>
+    <Cell><Data ss:Type="String">Throwing Knife</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Skill_Throwing_Knifes_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Launches a knife forward that inflict Damage to a single enemy and have high Critical Chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Launches a knife forward that inflict Damage to a single enemy and have high Critical Chance.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_Force_Push</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Umbral Blast</Data></Cell>
+    <Cell><Data ss:Type="String">Umbral Blast</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_Force_Push_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Instantly expulses all enemies in front of you and knock them down.</Data></Cell>
+    <Cell><Data ss:Type="String">Instantly expulses all enemies in front of you and knock them down.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_Rend</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Laceration</Data></Cell>
+    <Cell><Data ss:Type="String">Laceration</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_Rend_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">A wide Slash that deals Damage and inflict Open Wounds to all nearby enemies depending on the Damage dealt by your equipped Weapons.</Data></Cell>
+    <Cell><Data ss:Type="String">A wide Slash that deals Damage and inflict Open Wounds to all nearby enemies depending on the Damage dealt by your equipped Weapons.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_Raise_Skeletons</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Dead Rising</Data></Cell>
+    <Cell><Data ss:Type="String">Dead Rising</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_AST_Raise_Skeletons</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You summon Undead allies during a short moment who follow you and attack nearby enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">You summon Undead allies during a short moment who follow you and attack nearby enemies.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="2" ss:StyleID="m356789080"><Data ss:Type="String">SKILLS VARIANTS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ReducedRageCost</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Cost Reduced</Data></Cell>
+    <Cell><Data ss:Type="String">Cost Reduced</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ReducedRageCost_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Reduces the Skill's Rage cost.</Data></Cell>
+    <Cell><Data ss:Type="String">Reduces the Skill's Rage cost.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_Variant_ReducedManaCost</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Cost Reduced</Data></Cell>
+    <Cell><Data ss:Type="String">Cost Reduced</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_Variant_ReducedManaCost_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Reduces the Skill's Umbra cost.</Data></Cell>
+    <Cell><Data ss:Type="String">Reduces the Skill's Umbra cost.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_Variant_ReducedCooldown</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Cooldown Reduced</Data></Cell>
+    <Cell><Data ss:Type="String">Cooldown Reduced</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_Variant_ReducedCooldown_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Reduces the Skill's cooldown.</Data></Cell>
+    <Cell><Data ss:Type="String">Reduces the Skill's cooldown.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_BrutalStrike_IncreasedExplosionRadius</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Explosive strike</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive strike</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_BrutalStrike_IncreasedExplosionRadius_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The explosion radius of your Brutal Strike is increased.</Data></Cell>
+    <Cell><Data ss:Type="String">The explosion radius of your Brutal Strike is increased.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_BrutalStrike_AddedKnockDownChance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Exhausting strike</Data></Cell>
+    <Cell><Data ss:Type="String">Exhausting strike</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_BrutalStrike_AddedKnockDownChance_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hitting enemies with your Brutal Strike may knock them down.</Data></Cell>
+    <Cell><Data ss:Type="String">Hitting enemies with your Brutal Strike may knock them down.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_BrutalStrike_IncreasedDamage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ultraviolence</Data></Cell>
+    <Cell><Data ss:Type="String">Ultraviolence</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_BrutalStrike_IncreasedDamage_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You Brutal Strike inflicts more Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">You Brutal Strike inflicts more Damage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_BrutalStrike_RecastOnKill</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Harassment</Data></Cell>
+    <Cell><Data ss:Type="String">Harassment</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_BrutalStrike_RecastOnKill_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You automatically perform an other Brutal Strike when killing an enemy with it.</Data></Cell>
+    <Cell><Data ss:Type="String">You automatically perform an other Brutal Strike when killing an enemy with it.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Whirlwind_IncreasedRateofFire</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Cyclone</Data></Cell>
+    <Cell><Data ss:Type="String">Cyclone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Whirlwind_IncreasedRateofFire_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your Whirlwind hits enemies much faster</Data></Cell>
+    <Cell><Data ss:Type="String">Your Whirlwind hits enemies much faster</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Whirlwind_IncreasedResistance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Sandstorm</Data></Cell>
+    <Cell><Data ss:Type="String">Sandstorm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Whirlwind_IncreasedResistance_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">All your Resistances are increased while you keep hitting enemies with the Whirlwind.</Data></Cell>
+    <Cell><Data ss:Type="String">All your Resistances are increased while you keep hitting enemies with the Whirlwind.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Whirlwind_IncreasedMoveSpeed</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hurricane</Data></Cell>
+    <Cell><Data ss:Type="String">Hurricane</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Whirlwind_IncreasedMoveSpeed_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your move speed is increased while you keep hitting enemies with the Whirlwind.</Data></Cell>
+    <Cell><Data ss:Type="String">Your move speed is increased while you keep hitting enemies with the Whirlwind.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfArrows_IncreasedDuration</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Arrowstorm</Data></Cell>
+    <Cell><Data ss:Type="String">Arrowstorm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfArrows_IncreasedDuration_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Arrows Rain lasts longer.</Data></Cell>
+    <Cell><Data ss:Type="String">The Arrows Rain lasts longer.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfArrows_IncreasedRadius</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Radius increased</Data></Cell>
+    <Cell><Data ss:Type="String">Radius increased</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfArrows_IncreasedRadius_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Arrows Rain has a wider area of effect.</Data></Cell>
+    <Cell><Data ss:Type="String">The Arrows Rain has a wider area of effect.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfArrows_IncreasedWeaponDamage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Heavy Arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Heavy Arrows</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfArrows_IncreasedWeaponDamage_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Arrows Rain inflicts more Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">The Arrows Rain inflicts more Damage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_BurstShot_IncreaseProjectileNumber</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Extra ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Extra ammunition</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_BurstShot_IncreaseProjectileNumber_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Rapid Shot fires one additional projectile.</Data></Cell>
+    <Cell><Data ss:Type="String">The Rapid Shot fires one additional projectile.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Multishot_IncreasedDamage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hammershot</Data></Cell>
+    <Cell><Data ss:Type="String">Hammershot</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Multishot_IncreasedDamage_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Spread Shot inflicts more Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">The Spread Shot inflicts more Damage.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Multishot_IncreasedProjectileNumber</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Dispersion</Data></Cell>
+    <Cell><Data ss:Type="String">Dispersion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Multishot_IncreasedProjectileNumber_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You shoot two more projectiles, resulting in a wider spread.</Data></Cell>
+    <Cell><Data ss:Type="String">You shoot two more projectiles, resulting in a wider spread.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Multishot_DecreasedSpread</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Focused Shot</Data></Cell>
+    <Cell><Data ss:Type="String">Focused Shot</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Multishot_DecreasedSpread_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Reduces the dispersion of the projectiles, increasing the precision of the Shot.</Data></Cell>
+    <Cell><Data ss:Type="String">Reduces the dispersion of the projectiles, increasing the precision of the Shot.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_FireBalls_IncreaseProjectileNumber</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Extra Fireball</Data></Cell>
+    <Cell><Data ss:Type="String">Extra Fireball</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_FireBalls_IncreaseProjectileNumber_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">You launch one additonal Fireball.</Data></Cell>
+    <Cell><Data ss:Type="String">You launch one additonal Fireball.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ChainLightning_IncreasedRateOfFire</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Discharge</Data></Cell>
+    <Cell><Data ss:Type="String">Discharge</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ChainLightning_IncreasedRateOfFire_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Lightning Strike deals Damage much faster.</Data></Cell>
+    <Cell><Data ss:Type="String">The Lightning Strike deals Damage much faster.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ChainLightning_IncreasedIterationCount</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Bouncing light</Data></Cell>
+    <Cell><Data ss:Type="String">Bouncing light</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ChainLightning_IncreasedIterationCount_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Your Lightning Strike jumps one extra time to another enemy.</Data></Cell>
+    <Cell><Data ss:Type="String">Your Lightning Strike jumps one extra time to another enemy.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ChainLightning_NovaOnKill</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Static Burst</Data></Cell>
+    <Cell><Data ss:Type="String">Static Burst</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ChainLightning_NovaOnKill_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Killing an enemy with the Lightning Strike will trigger a Lightning Explosion.</Data></Cell>
+    <Cell><Data ss:Type="String">Killing an enemy with the Lightning Strike will trigger a Lightning Explosion.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_FrostNova_IncreasedFrozenTime</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Crystallization</Data></Cell>
+    <Cell><Data ss:Type="String">Crystallization</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_FrostNova_IncreasedFrozenTime_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Freeze effect on enemies lasts longer.</Data></Cell>
+    <Cell><Data ss:Type="String">The Freeze effect on enemies lasts longer.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_FrostNova_ManaGainOnHit</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Umbral affinity</Data></Cell>
+    <Cell><Data ss:Type="String">Umbral affinity</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_FrostNova_ManaGainOnHit_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hitting enemies with the Nova will regenerate a small amount of Umbra.</Data></Cell>
+    <Cell><Data ss:Type="String">Hitting enemies with the Nova will regenerate a small amount of Umbra.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_FrostNova_IncreasedRadius</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Frozen storm</Data></Cell>
+    <Cell><Data ss:Type="String">Frozen storm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_FrostNova_IncreasedRadius_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Nova has a wider range of effect.</Data></Cell>
+    <Cell><Data ss:Type="String">The Nova has a wider range of effect.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_GroundStomp_AddedKnockDownChance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Earthquake</Data></Cell>
+    <Cell><Data ss:Type="String">Earthquake</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_GroundStomp_AddedKnockDownChance_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hitting enemies with the Tremor may knock them down.</Data></Cell>
+    <Cell><Data ss:Type="String">Hitting enemies with the Tremor may knock them down.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_GroundStomp_IncreasedRadius</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ground Stomping</Data></Cell>
+    <Cell><Data ss:Type="String">Ground Stomping</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_GroundStomp_IncreasedRadius_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Tremor has a wider range of effect.</Data></Cell>
+    <Cell><Data ss:Type="String">The Tremor has a wider range of effect.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_GroundStomp_AddedDamage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Earth spikes</Data></Cell>
+    <Cell><Data ss:Type="String">Earth spikes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_GroundStomp_AddedDamage_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Tremor now inflicts Physical Damage on top of its Stun effect.</Data></Cell>
+    <Cell><Data ss:Type="String">The Tremor now inflicts Physical Damage on top of its Stun effect.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ExplosiveTrail_IncreasedNbExplosions</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Deep Rift</Data></Cell>
+    <Cell><Data ss:Type="String">Deep Rift</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ExplosiveTrail_IncreasedNbExplosions_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Seismic Rift triggers a higher number of explosions, thus reaching further enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">The Seismic Rift triggers a higher number of explosions, thus reaching further enemies.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ExplosiveTrail_AddedStunChance</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Shockwave</Data></Cell>
+    <Cell><Data ss:Type="String">Shockwave</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ExplosiveTrail_AddedStunChance_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hitting enemies with the Seismic Rift may stun them.</Data></Cell>
+    <Cell><Data ss:Type="String">Hitting enemies with the Seismic Rift may stun them.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ExplosiveTrail_IncDmgRatioPerExplosion</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Exponential Blast</Data></Cell>
+    <Cell><Data ss:Type="String">Exponential Blast</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ExplosiveTrail_IncDmgRatioPerExplosion_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Successively increases the Seismic Rift's Damage for each explosion.</Data></Cell>
+    <Cell><Data ss:Type="String">Successively increases the Seismic Rift's Damage for each explosion.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ExplosiveTrail_TripleProjectile</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Barrage</Data></Cell>
+    <Cell><Data ss:Type="String">Barrage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_ExplosiveTrail_TripleProjectile_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Seismic Rift now triggers 3 shorter lines instead of one.</Data></Cell>
+    <Cell><Data ss:Type="String">The Seismic Rift now triggers 3 shorter lines instead of one.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfFire_IncreasedNbExplosions</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Firestorm</Data></Cell>
+    <Cell><Data ss:Type="String">Firestorm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfFire_IncreasedNbExplosions_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Fire Rain launches more projectiles, thus lasting longer.</Data></Cell>
+    <Cell><Data ss:Type="String">The Fire Rain launches more projectiles, thus lasting longer.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfFire_Radiusfollowsplayer</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Attraction</Data></Cell>
+    <Cell><Data ss:Type="String">Attraction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfFire_Radiusfollowsplayer_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Fire Rain will follow you when you are moving.</Data></Cell>
+    <Cell><Data ss:Type="String">The Fire Rain will follow you when you are moving.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfFire_IncreasedRateOfFire</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Precipitation</Data></Cell>
+    <Cell><Data ss:Type="String">Precipitation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfFire_IncreasedRateOfFire_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The delay between each projectile is reduced, thus reducing the duration of the Fire Rain and its missing rate.</Data></Cell>
+    <Cell><Data ss:Type="String">The delay between each projectile is reduced, thus reducing the duration of the Fire Rain and its missing rate.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfFire_IncreasedProjectileSpeed</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Gravity</Data></Cell>
+    <Cell><Data ss:Type="String">Gravity</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfFire_IncreasedProjectileSpeed_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The projectiles fall to the ground much faster.</Data></Cell>
+    <Cell><Data ss:Type="String">The projectiles fall to the ground much faster.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfFire_DecreasedRadius</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Focused Burst</Data></Cell>
+    <Cell><Data ss:Type="String">Focused Burst</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_RainOfFire_DecreasedRadius_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Decreases the Fire Rain radius and launches additional projectiles.</Data></Cell>
+    <Cell><Data ss:Type="String">Decreases the Fire Rain radius and launches additional projectiles.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Rend_IncreasedRange</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Long blades</Data></Cell>
+    <Cell><Data ss:Type="String">Long blades</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Rend_IncreasedRange_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Laceration has a wider range of effect.</Data></Cell>
+    <Cell><Data ss:Type="String">The Laceration has a wider range of effect.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Rend_IncreasedBleedTime</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Lesion</Data></Cell>
+    <Cell><Data ss:Type="String">Lesion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Rend_IncreasedBleedTime_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Enemies hit by the Laceration will bleed for a longer time.</Data></Cell>
+    <Cell><Data ss:Type="String">Enemies hit by the Laceration will bleed for a longer time.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Rend_IncreasedBleedPerSecond</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Deep Wound</Data></Cell>
+    <Cell><Data ss:Type="String">Deep Wound</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Variant_Rend_IncreasedBleedPerSecond_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The Bleeding effect of the Laceration deals more Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">The Bleeding effect of the Laceration deals more Damage.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_AST_MagneticStrike_desc</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Shoots powerful thunderbolts at nearby enemies</Data></Cell>
-    <Cell><Data ss:Type="String">Shoots powerful thunderbolts at nearby enemies</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m356789100"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
    </Row>
-   <Row ss:Index="113" ss:AutoFitHeight="0" ss:Height="25.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="15"/>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="246"/>
-   <Row ss:Index="395" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_Damage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Physical Damage : %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Physical Damage : %1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_Cooldown</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Cooldown : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Cooldown : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_RageCost</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Rage cost : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Rage cost : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_RageGeneration</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Rage generation : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Rage generation : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_UmbraCost</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Umbra cost : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Umbra cost : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_UmbraGeneration</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Umbra generation : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Umbra generation : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_ROSTime</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Resource consuming time : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Resource consuming time : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_WeaponDamage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Weapon Damage : %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Weapon Damage : %1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_Range</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Range : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Range : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_Radius</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Radius : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Radius : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_Projectiles</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Projectiles number : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Projectiles number : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_FireRate</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Rate of fire : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Rate of fire : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_FireDamage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Fire Damage : %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Damage : %1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_FrostDamage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Frost Damage : %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Frost Damage : %1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_LightningDamage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Lightning Damage : %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Lightning Damage : %1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_UmbraDamage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Umbral Damage : %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Umbral Damage : %1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_ShadowDamage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Shadow Damage : %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Damage : %1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_BleedingDamage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Bleeding Damage : %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Bleeding Damage : %1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_PoisonDamage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Poison Damage : %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Poison Damage : %1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_SacredDamage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Sacred Damage : %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Sacred Damage : %1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_SpeedFactor</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Speed Factor : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Speed Factor : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_CriticalChance</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Critical Chance : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Critical Chance : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_CriticalDamage</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Critical Damage : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Critical Damage : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_IterationCount</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Number of Bounces : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Number of Bounces : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_FrozenTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Freeze time : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Freeze time : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_StunTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Stun time : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Stun time : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_StunChance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Stun chance : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Stun chance : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_Explosions</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Number of Explosions : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Number of Explosions : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_ProjectileRadius</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Projectile radius : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Projectile radius : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_TimeActive</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Time active : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Time active : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_ShockChance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Shock chance : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Shock chance : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_IncDmgPerExplosion</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Per-Explosion Damage increment : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Per-Explosion Damage increment : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_BleedingStacks</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Number of Bleeding stacks : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Number of Bleeding stacks : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_BleedingTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Bleeding duration : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Bleeding duration : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_CurseTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Curse duration : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Curse duration : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_CurseChance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Curse chance : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Curse chance : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_CurseStack</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Number of Curse stacks : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Number of Curse stacks : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_WeaknessTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Weakness duration : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Weakness duration : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_WeaknessChance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Weakness chance : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Weakness chance : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_WeaknessStack</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Number of Weakness stacks : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Number of Weakness stacks : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_FrailtyTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Frailty duration : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Frailty duration : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_FrailtyChance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Frailty chance : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Frailty chance : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_FrailtyStack</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Number of Frailty stacks : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Number of Frailty stacks : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_SummonLevel</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Level of Invocation : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Level of Invocation : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_SummonDuration</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Duration of summoned creatures : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Duration of summoned creatures : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_SummonMax</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Maximum number of creatures : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum number of creatures : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_SummonNumber</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Number of summoned creatures : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Number of summoned creatures : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_ProjectilesAngle</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Angle between projectiles : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Angle between projectiles : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_BlownAwayDistance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Blown-away Distance : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Blown-away Distance : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_IncDamagePerTargetPercent</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Damage bonus for each successively hit target : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Damage bonus for each successively hit target : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_KnockDownTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Knock-down duration : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Knock-down duration : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_FrenzyTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Frenzy duration : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Frenzy duration : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_Param_TimeToActivate</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Activation delay : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Activation delay : %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m356789120"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_Damage</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Damage bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Damage bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_Range</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Range bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Range bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_Cooldown</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">%1 Cooldown reduction</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Cooldown reduction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_Speed</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Speed bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Speed bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_RageCostReduction</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Rage Cost reduction</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Rage Cost reduction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_RageCostAugmentation</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Rage Cost augmentation</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Rage Cost augmentation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_ManaCostReduction</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Mana Cost reduction</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mana Cost reduction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_ManaCostAugmentation</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Mana Cost augmentation</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mana Cost augmentation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_RateOfFire</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Fire Rate bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fire Rate bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_ReservedResourceReduction</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Reserved Resource reduction</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Reserved Resource reduction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_ReservedResourceAugmentation</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Reserved Resource augmentation</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Reserved Resource augmentation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_ROSTimeReduction</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Resource transfert time reduction</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Resource transfert time reduction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_ROSTimeAugmentation</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Resource transfert time augmentation</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Resource transfert time augmentation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_WeaponDamage</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Weapon Damage bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Weapon Damage bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_AdditionalProjectile</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Additional Projectile(s)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Additional Projectile(s)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_CritDamage</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Critical Damage bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Critical Damage bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AST_ParamBonus_CritChance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Critical Chance bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Critical Chance bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_StunTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Stun duration bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Stun duration bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_FrozenTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Freeze duration bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Freeze duration bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_BleedingStack</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Extra inflicted Bleeding stack(s)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Extra inflicted Bleeding stack</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_BleedingTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Bleeding duration bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bleeding duration bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_CurseTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Curse duration bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Curse duration bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_CurseChance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Curse chance bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Curse chance bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_CurseStack</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Extra inflicted Curse stack(s)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Extra inflicted Curse stack(s)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_WeaknessTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Weakness duration bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Weakness duration bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_WeaknessChance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Weakness chance bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Weakness chance bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_WeaknessStack</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Extra inflicted Weakness stack(s)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Extra inflicted Weakness stack(s)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_FrailtyTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Frailty duration bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Frailty duration bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_FrailtyChance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Frailty chance bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Frailty chance bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_FrailtyStack</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Extra inflicted Frailty stack(s)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Extra inflicted Frailty stack(s)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_SummonLevel</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Summon Level is increased by %1</Data></Cell>
+    <Cell><Data ss:Type="String">Summon Level is increased by %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_AST_ParamBonus_SummonDuration</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Summon duration bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Summon duration bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_SummonNumber</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Number of summoned creatures is increased by %1</Data></Cell>
+    <Cell><Data ss:Type="String">Number of summoned creatures is increased by %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_SummonMax</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Maximum number of simultaneous summons is increased by %1</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum number of simultaneous summons is increased by %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_AST_ParamBonus_ProjectilesAngleAugmentation</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Angle between projectiles is increased by %1</Data></Cell>
+    <Cell><Data ss:Type="String">Angle between projectiles is increased by %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_AST_ParamBonus_ProjectilesAngleReduction</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Angle between projectiles is reduced by %1</Data></Cell>
+    <Cell><Data ss:Type="String">Angle between projectiles is reduced by %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_BlownAwayDist</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Blown-away distance bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Blown-away distance bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_KnockDownTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Knock-down duration bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Knock-down duration bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_FrenzyTime</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Frenzy duration bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Frenzy duration bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_TimeToActivateAugmentation</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Activation delay augmentation</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Activation delay augmentation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_TimeToActivateReduction</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Activation delay reduction</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Activation delay reduction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AST_ParamBonus_StunChance</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 Stun Chance bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Stun Chance bonus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="184"/>
+   <Row ss:Index="493" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="399" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
-   <Row ss:Index="478" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:Index="497" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
+   <Row ss:Index="576" ss:AutoFitHeight="0" ss:Height="18"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="483" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="486" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="490" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="493" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="497" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="500" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
-   <Row ss:Index="514" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="581" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="584" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="588" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="591" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="595" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="598" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="612" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="519" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="617" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="523" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="527" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="621" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="625" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
@@ -757,11 +1634,11 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="536" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="634" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="539" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="637" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="543" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="641" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
@@ -772,33 +1649,33 @@
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="557" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="559" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="655" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="657" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="566" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
-   <Row ss:Index="571" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="664" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="669" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="575" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
-   <Row ss:Index="579" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="581" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="584" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="588" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="590" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="673" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="677" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="679" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="682" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="686" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="688" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="594" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="597" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="604" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="692" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="695" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="702" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="607" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="705" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
-   <Row ss:Index="616" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="623" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+   <Row ss:Index="714" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="721" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -818,10 +1695,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
+   <TopRowVisible>101</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>2</ActiveRow>
+     <ActiveRow>133</ActiveRow>
      <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>

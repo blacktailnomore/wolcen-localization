@@ -6,8 +6,8 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>UBBOSATHLA</LastAuthor>
-  <LastSaved>2016-11-02T13:35:28Z</LastSaved>
+  <LastAuthor>UBBO-SATHLA</LastAuthor>
+  <LastSaved>2017-03-17T13:26:46Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -35,14 +35,14 @@
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s28" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#9C5700"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m129298336">
+  <Style ss:ID="m460119896">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -94,7 +94,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="55" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="58" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:AutoFitWidth="0" ss:Width="225.75"/>
    <Column ss:Width="402"/>
@@ -108,7 +108,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m129298336"><Data ss:Type="String">CREATURES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m460119896"><Data ss:Type="String">CREATURES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Undeads</Data></Cell>
@@ -257,8 +257,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcMage</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Warlock</Data></Cell>
-    <Cell><Data ss:Type="String">兽人术士</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orc Sorcerer</Data></Cell>
+    <Cell><Data ss:Type="String">兽人巫师</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcBrute</Data></Cell>
@@ -268,7 +268,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcChampion</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Champion</Data></Cell>
-    <Cell><Data ss:Type="String">兽族战士</Data></Cell>
+    <Cell><Data ss:Type="String">兽人勇士</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcCharger</Data></Cell>
@@ -282,8 +282,13 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_OrcCrossbow</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Orc Hunter</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Hunter</Data></Cell>
     <Cell><Data ss:Type="String">兽人猎手</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_OrcDarkNecromancer</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orc Warlock</Data></Cell>
+    <Cell><Data ss:Type="String">兽人术士</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Demons</Data></Cell>
@@ -345,6 +350,11 @@
     <Cell ss:StyleID="s26"><Data ss:Type="String">Small Ghoul</Data></Cell>
     <Cell><Data ss:Type="String">小食尸鬼</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_Ogre</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ogre</Data></Cell>
+    <Cell><Data ss:Type="String">食人魔</Data></Cell>
+   </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s72">
     <Cell ss:StyleID="s74"><Data ss:Type="String">Humans</Data></Cell>
     <Cell ss:StyleID="s75"/>
@@ -375,6 +385,11 @@
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Driller</Data></Cell>
     <Cell><Data ss:Type="String">德里勒</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_AIName_SkullCrusherBoss</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Grozogr, King of the Ogres</Data></Cell>
+    <Cell><Data ss:Type="String">格罗佐，食人魔之王</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -394,11 +409,12 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>10</TopRowVisible>
+   <TopRowVisible>15</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>36</ActiveRow>
+     <ActiveRow>37</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

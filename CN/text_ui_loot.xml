@@ -8,10 +8,10 @@
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Title>Audio script template</Title>
   <Author>Maëlenn Lumineau</Author>
-  <LastAuthor>UBBOSATHLA</LastAuthor>
+  <LastAuthor>UBBO-SATHLA</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2016-12-01T13:29:25Z</LastSaved>
+  <LastSaved>2017-03-14T17:08:00Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -114,7 +114,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m342479792" ss:Parent="s40">
+  <Style ss:ID="m426885096" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +125,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342479812" ss:Parent="s40">
+  <Style ss:ID="m426885116" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -136,7 +136,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342479832" ss:Parent="s40">
+  <Style ss:ID="m426885136" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -147,7 +147,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342479852" ss:Parent="s40">
+  <Style ss:ID="m426885156" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -158,7 +158,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476672" ss:Parent="s40">
+  <Style ss:ID="m426883016" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -169,7 +169,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476692" ss:Parent="s40">
+  <Style ss:ID="m426883036" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -180,7 +180,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476712" ss:Parent="s40">
+  <Style ss:ID="m426883056" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -191,7 +191,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476732" ss:Parent="s40">
+  <Style ss:ID="m426883076" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -202,7 +202,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476752" ss:Parent="s40">
+  <Style ss:ID="m426883096" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -213,7 +213,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m342476772" ss:Parent="s40">
+  <Style ss:ID="m426883116" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -256,22 +256,14 @@
   <Style ss:ID="s76" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s79">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+  <Style ss:ID="s81" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
   </Style>
-  <Style ss:ID="s80">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+  <Style ss:ID="s82" ss:Parent="s26">
    <Borders/>
-   <Interior/>
-  </Style>
-  <Style ss:ID="s83" ss:Parent="s26">
-   <Borders/>
-  </Style>
-  <Style ss:ID="s84" ss:Parent="s28">
-   <Borders/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
-   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
  </Styles>
  <Names>
@@ -284,10 +276,10 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="246" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="369" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:AutoFitWidth="0" ss:Width="243"/>
-   <Column ss:AutoFitWidth="0" ss:Width="290.25"/>
+   <Column ss:Width="291.75"/>
    <Column ss:AutoFitWidth="0" ss:Width="369.75"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
@@ -298,7 +290,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476672"><Data ss:Type="String">WEAPONS </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m426883016"><Data ss:Type="String">WEAPONS </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Shields</Data></Cell>
@@ -308,21 +300,68 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Shield_GoldShield</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Golden Shield</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">黄金盾</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ceremonial Shield</Data></Cell>
+    <Cell><Data ss:Type="String">仪式盾</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Shield_MetalShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Shield</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">铁盾</Data></Cell>
+    <Cell><Data ss:Type="String">铁盾</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Shield_RoundShield</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Wooden Shield</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">木盾</Data></Cell>
+    <Cell><Data ss:Type="String">木盾</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_Celtic</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Adventurer Shield</Data></Cell>
+    <Cell><Data ss:Type="String">探险者盾牌</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_Dark</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Forgotten Barrier</Data></Cell>
+    <Cell><Data ss:Type="String">遗忘屏障</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_Norvege</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Soldier Shield</Data></Cell>
+    <Cell><Data ss:Type="String">战士盾</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_OrcPavois</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orcish Protector</Data></Cell>
+    <Cell><Data ss:Type="String">兽人保护者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_Orc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orcish Bladed Shield</Data></Cell>
+    <Cell><Data ss:Type="String">兽人刃盾</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_OrcWood</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orcish Shield</Data></Cell>
+    <Cell><Data ss:Type="String">兽人盾</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_Paladin</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Knight Shield</Data></Cell>
+    <Cell><Data ss:Type="String">骑士盾牌</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_Ruins</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Salvaged Shield</Data></Cell>
+    <Cell><Data ss:Type="String">废旧盾牌</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_Silver</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Spiked Guardian</Data></Cell>
+    <Cell><Data ss:Type="String">尖刺守护者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_Templar</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Safeguard</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿骑士护盾</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Axes</Data></Cell>
@@ -332,80 +371,62 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_BigCleaver</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Cleaver</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">切肉刀</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Weapon_Harvester</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Harvester</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">收割者</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Weapon_BonesAxe</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Bones Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">白骨战斧</Data></Cell>
+    <Cell><Data ss:Type="String">切肉刀</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_DemonAxe</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Demonic Axe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">恶魔斧</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Serrated Axe</Data></Cell>
+    <Cell><Data ss:Type="String">锯齿斧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_GlassAxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Glass Axe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">玻璃斧</Data></Cell>
+    <Cell><Data ss:Type="String">玻璃斧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_WoodcutterAxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Woodcutter Axe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">伐木斧</Data></Cell>
+    <Cell><Data ss:Type="String">伐木斧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_RustyAxe</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Axe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">原始斧</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Weapon_RustyBigAxe</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">原始战斧</Data></Cell>
+    <Cell><Data ss:Type="String">原始斧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_RustyPickaxe</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Pickaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">原始镐</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Pickaxe</Data></Cell>
+    <Cell><Data ss:Type="String">鹤嘴锄</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Axe_Wing</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢铁战斧</Data></Cell>
+    <Cell><Data ss:Type="String">钢铁战斧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Lumberjack</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢铁战斧</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Woodcutter Longaxe</Data></Cell>
+    <Cell><Data ss:Type="String">伐木长斧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Executor</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Executioner's Bardiche</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">刽子手的砍刀</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Bardiche</Data></Cell>
+    <Cell><Data ss:Type="String">月牙砍刀</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Battleaxe</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢铁战斧</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Steel Labrys</Data></Cell>
+    <Cell><Data ss:Type="String">钢双刃斧</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_OrcAxe</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orcish Axe</Data></Cell>
+    <Cell><Data ss:Type="String">兽人斧</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_OrcBatlleaxe</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orcish Battleaxe</Data></Cell>
+    <Cell><Data ss:Type="String">兽人战斧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Crossbows</Data></Cell>
@@ -415,14 +436,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Crossbow</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Wooden Crossbow</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">木弩</Data></Cell>
+    <Cell><Data ss:Type="String">木弩</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_TemplarCrossbow</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Crossbow</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士弩</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿骑士弩</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_OrcCrossbow</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orcish Crossbow</Data></Cell>
+    <Cell><Data ss:Type="String">兽人弩</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Daggers</Data></Cell>
@@ -431,15 +455,13 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_TemplarDagger</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Dagger</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士匕首</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hunting Knife</Data></Cell>
+    <Cell><Data ss:Type="String">狩猎刀</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Orc_Dagger</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Dagger</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">兽人匕首</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orcish Dagger</Data></Cell>
+    <Cell><Data ss:Type="String">兽人匕首</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_PrimitiveDagger</Data></Cell>
@@ -453,8 +475,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_HuntingKnife</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Hunting Knife</Data></Cell>
-    <Cell><Data ss:Type="String">狩猎刀</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Combat Knife</Data></Cell>
+    <Cell><Data ss:Type="String">战斗刀</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_SteelDagger</Data></Cell>
@@ -467,11 +489,6 @@
     <Cell><Data ss:Type="String">铁匕首</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Weapon_SalvagedDagger</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Salvaged Dagger</Data></Cell>
-    <Cell><Data ss:Type="String">破旧的匕首</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">2H Hammers</Data></Cell>
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"/>
@@ -479,36 +496,31 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_AncientHammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ancient Warhammer</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">远古战锤</Data></Cell>
+    <Cell><Data ss:Type="String">远古战锤</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_CelestianHammer</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Celestian Warhammer</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">神圣战斧</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Celestian Hammer</Data></Cell>
+    <Cell><Data ss:Type="String">神圣战斧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_CristalHammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Glass Warhammer</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">玻璃战斧</Data></Cell>
+    <Cell><Data ss:Type="String">玻璃战斧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Morgenstern</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Morgenstern</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">摩根斯特恩</Data></Cell>
+    <Cell><Data ss:Type="String">摩根斯特恩</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Hammer</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Wooden Hammer</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">木锤</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Peasant Hammer</Data></Cell>
+    <Cell><Data ss:Type="String">农夫锤</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Mace</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Warhammer</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Iron Hammer</Data></Cell>
     <Cell><Data ss:Type="String">铁锤</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -518,45 +530,38 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_cudgel</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Wooden Cudgel</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">木棍</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Cudgel</Data></Cell>
+    <Cell><Data ss:Type="String">木棍</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_NailedCudgel</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Nailed Cudgel</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钉棍</Data></Cell>
+    <Cell><Data ss:Type="String">钉棍</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_OgreMace</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ogre Mace</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">食人魔之锤</Data></Cell>
+    <Cell><Data ss:Type="String">食人魔之锤</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Torch</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Torch</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">火炬</Data></Cell>
+    <Cell><Data ss:Type="String">火炬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_NailedTorch</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Nailed Torch</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钉炬</Data></Cell>
+    <Cell><Data ss:Type="String">钉炬</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_RustyShovel</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Shovel</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">原始铁铲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Shovel</Data></Cell>
+    <Cell><Data ss:Type="String">铁铲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_RustySpade</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Spade</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">原始铁锹</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Spade</Data></Cell>
+    <Cell><Data ss:Type="String">铁锹</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">1H Swords</Data></Cell>
@@ -565,51 +570,38 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_DemonSword</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Demonic Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">恶魔之剑</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Weapon_BonesSword</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Bones Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">白骨之剑</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Serrated Blade</Data></Cell>
+    <Cell><Data ss:Type="String">锯齿刃</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_CrypticSword</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Savage Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">野蛮之剑</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Scimitar</Data></Cell>
+    <Cell><Data ss:Type="String">短弯刀</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_GlassSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Glass Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">玻璃剑</Data></Cell>
+    <Cell><Data ss:Type="String">玻璃剑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_NordSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Nordic Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">北欧之剑</Data></Cell>
+    <Cell><Data ss:Type="String">北欧之剑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_PrimitiveSabre</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Primitive Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">原始剑</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Weapon_RustySword</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Simple Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">简易之剑</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Salvaged Sword</Data></Cell>
+    <Cell><Data ss:Type="String">废旧的剑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Orc_Curved_Sword</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Sword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">兽人剑</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orcish Sword</Data></Cell>
+    <Cell><Data ss:Type="String">兽人剑</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_TemplarSword</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Sword</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿骑士剑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">2H Swords</Data></Cell>
@@ -618,32 +610,23 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_TwoHandedSword</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Broadsword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢铁宽刃剑</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Steel Claymore</Data></Cell>
+    <Cell><Data ss:Type="String">钢铁阔剑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_BigGlassSword</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Glass Broadsword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">玻璃宽刃剑</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Weapon_Prosecutor</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Prosecutor</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">检察官</Data></Cell>
+    <Cell><Data ss:Type="String">玻璃阔剑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Stone_Sword</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Antique Broadsword</Data></Cell>
-    <Cell><Data ss:Type="String">远古宽刃剑</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Antique Greatsword</Data></Cell>
+    <Cell><Data ss:Type="String">远古阔剑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Orc_Two_Handed_Sword</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Orc Broadsword</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">兽人宽刃剑</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Orcish Broadsword</Data></Cell>
+    <Cell><Data ss:Type="String">兽人阔剑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Uniques</Data></Cell>
@@ -653,16 +636,160 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_DrillerHammer</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">The Driller</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钻孔者</Data></Cell>
+    <Cell><Data ss:Type="String">钻孔者</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_TheIceBreaker</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">The Ice Breaker</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ice Breaker</Data></Cell>
     <Cell><Data ss:Type="String">破冰者</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476692"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Weapon_BonesAxe</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Skeletal Cleaver</Data></Cell>
+    <Cell><Data ss:Type="String">白骨战斧</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_BonesSword</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Skeletal Runeblade</Data></Cell>
+    <Cell><Data ss:Type="String">白骨之剑</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_Prosecutor</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Prosecutor</Data></Cell>
+    <Cell><Data ss:Type="String">检察官</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_Doomslayer</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Doomslayer</Data></Cell>
+    <Cell><Data ss:Type="String">末日杀手</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_Harvester</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Harvester</Data></Cell>
+    <Cell><Data ss:Type="String">收割者</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_Runique</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Adamant</Data></Cell>
+    <Cell><Data ss:Type="String">坚石</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Shield_Dragon</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Aegis</Data></Cell>
+    <Cell><Data ss:Type="String">神盾</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_SalvagedDagger</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Sacrificial Blade</Data></Cell>
+    <Cell><Data ss:Type="String">献祭之刃</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Staves</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_MorticianStaff_Fire</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mortician Staff of Fire</Data></Cell>
+    <Cell><Data ss:Type="String">殡葬者的火焰法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_MorticianStaff_Frost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mortician Staff of Frost</Data></Cell>
+    <Cell><Data ss:Type="String">殡葬者的冰霜法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_MorticianStaff_Lightning</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mortician Staff of Lightning</Data></Cell>
+    <Cell><Data ss:Type="String">殡葬者的闪电法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_MorticianStaff_Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mortician Staff of Umbra</Data></Cell>
+    <Cell><Data ss:Type="String">殡葬者的本影法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_EngineerStaff_Fire</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Engineer Staff of Fire</Data></Cell>
+    <Cell><Data ss:Type="String">工程师的火焰法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_EngineerStaff_Frost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Engineer Staff of Frost</Data></Cell>
+    <Cell><Data ss:Type="String">工程师的冰霜法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_EngineerStaff_Lightning</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Engineer Staff of Lightning</Data></Cell>
+    <Cell><Data ss:Type="String">工程师的闪电法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_EngineerStaff_Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Engineer Staff of Umbra</Data></Cell>
+    <Cell><Data ss:Type="String">工程师的本影法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_SalvagedStaff_Fire</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Salvaged Staff of Fire</Data></Cell>
+    <Cell><Data ss:Type="String">废旧火焰法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_SalvagedStaff_Frost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Salvaged  Staff of Frost</Data></Cell>
+    <Cell><Data ss:Type="String">废弃的冰霜法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_SalvagedStaff_Lightning</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Salvaged  Staff of Lightning</Data></Cell>
+    <Cell><Data ss:Type="String">废弃的闪电法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_SalvagedStaff_Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Salvaged  Staff of Umbra</Data></Cell>
+    <Cell><Data ss:Type="String">废弃的本影法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_DuskStaff_Fire</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dusk Staff of Fire</Data></Cell>
+    <Cell><Data ss:Type="String">幽暗的火焰法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_DuskStaff_Frost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dusk Staff of Frost</Data></Cell>
+    <Cell><Data ss:Type="String">幽暗的冰霜法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Weapon_DuskStaff_Lightning</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dusk Staff of Lightning</Data></Cell>
+    <Cell><Data ss:Type="String">幽暗的闪电法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Weapon_DuskStaff_Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dusk Staff of Umbra</Data></Cell>
+    <Cell><Data ss:Type="String">幽暗的本影法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Weapon_EnchanterStaff_Fire</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Enchanter Staff of Fire</Data></Cell>
+    <Cell><Data ss:Type="String">幻术师的火焰法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Weapon_EnchanterStaff_Frost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Enchanter Staff of Frost</Data></Cell>
+    <Cell><Data ss:Type="String">幻术师的冰霜法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Weapon_EnchanterStaff_Lightning</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Enchanter Staff of Lightning</Data></Cell>
+    <Cell><Data ss:Type="String">幻术师的闪电法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Weapon_EnchanterStaff_Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Enchanter Staff of Umbra</Data></Cell>
+    <Cell><Data ss:Type="String">幻术师的本影法杖</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m426883036"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorType_Heavy</Data></Cell>
@@ -680,17 +807,72 @@
     <Cell><Data ss:Type="String">轻甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_ArmorType_Mage</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Clothing</Data></Cell>
-    <Cell><Data ss:Type="String">布甲</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorType_Accessory</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Accessory</Data></Cell>
     <Cell><Data ss:Type="String">配件</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476712"><Data ss:Type="String">ARMORS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m426883056"><Data ss:Type="String">ARMORS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Uniques</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_HunterHelmet</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Reaver Helmet</Data></Cell>
+    <Cell><Data ss:Type="String">掠夺者头盔</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_GothicArmLeft</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Armguard [L]</Data></Cell>
+    <Cell><Data ss:Type="String">哥特护手（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_GothicArmRight</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Armguard [R]</Data></Cell>
+    <Cell><Data ss:Type="String">哥特护手（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_GothicBreastplate</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Cuirass</Data></Cell>
+    <Cell><Data ss:Type="String">哥特胸甲</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_GothicBoots</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Sollerets</Data></Cell>
+    <Cell><Data ss:Type="String">哥特钢靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_GothicHelmet</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Helmet</Data></Cell>
+    <Cell><Data ss:Type="String">哥特头盔</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_GothicGreaves</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Greaves</Data></Cell>
+    <Cell><Data ss:Type="String">哥特胫甲</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_GothicShoulderLeft</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Pauldron [L]</Data></Cell>
+    <Cell><Data ss:Type="String">哥特肩甲（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_GothicShoulderRight</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Pauldron [R]</Data></Cell>
+    <Cell><Data ss:Type="String">哥特肩甲（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BrigandineHelmet</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Nephilia's Mask</Data></Cell>
+    <Cell><Data ss:Type="String">尼菲拉的面具</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_PlateGreaves</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Protective Shells</Data></Cell>
+    <Cell><Data ss:Type="String">保护甲壳</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Heavy</Data></Cell>
@@ -700,404 +882,327 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢护手（左）</Data></Cell>
+    <Cell><Data ss:Type="String">钢护手（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢护手（右）</Data></Cell>
+    <Cell><Data ss:Type="String">钢护手（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢胸甲</Data></Cell>
+    <Cell><Data ss:Type="String">钢胸甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerBoots</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢甲靴</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Iron Sollerets</Data></Cell>
+    <Cell><Data ss:Type="String">铁甲靴</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢头盔</Data></Cell>
+    <Cell><Data ss:Type="String">钢头盔</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerGreaves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢胫甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Iron Greaves</Data></Cell>
+    <Cell><Data ss:Type="String">铁胫甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerShoulderLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢肩甲（左）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Engraved Steel Pauldron [L]</Data></Cell>
+    <Cell><Data ss:Type="String">雕钢肩甲（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_AdventurerShoulderRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Steel Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">钢肩甲（右）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Engraved Steel Pauldron [R]</Data></Cell>
+    <Cell><Data ss:Type="String">雕钢肩甲（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">铁护手（左）</Data></Cell>
+    <Cell><Data ss:Type="String">铁护手（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">铁护手（右）</Data></Cell>
+    <Cell><Data ss:Type="String">铁护手（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassBreastplate</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">铁胸甲</Data></Cell>
+    <Cell><Data ss:Type="String">铁胸甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassBoots</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">铁甲靴</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Steel Legs Protection</Data></Cell>
+    <Cell><Data ss:Type="String">钢护腿</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassHelmet</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">铁头盔</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Runelord Headgear</Data></Cell>
+    <Cell><Data ss:Type="String">君王头盔</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassGreaves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">铁胫甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Steel Greaves</Data></Cell>
+    <Cell><Data ss:Type="String">钢胫甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassShoulderLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">铁肩甲（左）</Data></Cell>
+    <Cell><Data ss:Type="String">铁肩甲（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_CuirassShoulderRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Iron Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">铁肩甲（右）</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_GothicArmLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">哥特护手（左）</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_GothicArmRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">哥特护手（右）</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_GothicBreastplate</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">哥特胸甲</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_GothicBoots</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">哥特钢靴</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_GothicHelmet</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">哥特头盔</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_GothicGreaves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">哥特胫甲</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_GothicShoulderLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">哥特肩甲（左）</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_GothicShoulderRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">哥特肩甲（右）</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_GothicGloves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Gauntlets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">哥特手套</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_GothicBelt</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Belt</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">哥特腰带</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_PlateArmLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">骑士护手（左）</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_PlateArmRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">骑士护手（右）</Data></Cell>
+    <Cell><Data ss:Type="String">铁肩甲（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateBreastplate</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">骑士胸甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Varg Infantry Breastplate</Data></Cell>
+    <Cell><Data ss:Type="String">瓦格步兵胸甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateBoot</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">骑士钢靴</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Varg Infantry Sollerets</Data></Cell>
+    <Cell><Data ss:Type="String">瓦格步兵钢靴</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">骑士头盔</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_PlateGreaves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">骑士胫甲</Data></Cell>
+    <Cell><Data ss:Type="String">骑士头盔</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateShoulderLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">骑士肩甲（左）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hammered Iron Pauldron [L]</Data></Cell>
+    <Cell><Data ss:Type="String">锻铁肩甲（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_PlateShoulderRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Knight Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">骑士肩甲（右）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hammered Iron Pauldron [R]</Data></Cell>
+    <Cell><Data ss:Type="String">锻铁肩甲（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateArmLeft</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">十字军护手（左）</Data></Cell>
+    <Cell><Data ss:Type="String">十字军护手（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateArmRight</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">十字军护手（右）</Data></Cell>
+    <Cell><Data ss:Type="String">十字军护手（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateBreastplate</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">十字军胸甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Varg Officer Breastplate</Data></Cell>
+    <Cell><Data ss:Type="String">瓦格军官胸甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateBoots</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">十字军钢靴</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Steel Sollerets</Data></Cell>
+    <Cell><Data ss:Type="String">钢靴</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateHelmet</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">十字军头盔</Data></Cell>
+    <Cell><Data ss:Type="String">十字军头盔</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateGreaves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">十字军胫甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Plated Steel Greaves</Data></Cell>
+    <Cell><Data ss:Type="String">镀钢胫甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateShoulderLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">十字军肩甲（左）</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Spaulder [L]</Data></Cell>
+    <Cell><Data ss:Type="String">十字军肩甲（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_OldPlateShoulderRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">十字军肩甲（右）</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Crusader Spaulder [R]</Data></Cell>
+    <Cell><Data ss:Type="String">十字军肩甲（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterArmLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">掠夺者护手（左）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Chiselled Steel Armguard [L]</Data></Cell>
+    <Cell><Data ss:Type="String">镌钢护手（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterArmRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">掠夺者护手（右）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Chiselled Steel Armguard [R]</Data></Cell>
+    <Cell><Data ss:Type="String">镌钢护手（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterBreastplate</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">掠夺者胸甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Amarthian Infantry Cuirass</Data></Cell>
+    <Cell><Data ss:Type="String">阿玛斯士兵胸甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterBoots</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">掠夺者钢靴</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_HunterHelmet</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">掠夺者头盔</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_HunterGreaves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">掠夺者胫甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Plated Steel Sollerets</Data></Cell>
+    <Cell><Data ss:Type="String">镀钢靴</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterShoulderLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">掠夺者肩甲（左）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Plated Steel Pauldron [L]</Data></Cell>
+    <Cell><Data ss:Type="String">镀钢肩甲（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HunterShoulderRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Reaver Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">掠夺者肩甲（右）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Plated Steel Pauldron [R]</Data></Cell>
+    <Cell><Data ss:Type="String">镀钢肩甲（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertArmLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">黑钢护手（左）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Varg Infantry Armguard [L]</Data></Cell>
+    <Cell><Data ss:Type="String">瓦格步兵护手（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertArmRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">黑钢护手（右）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Varg Infantry Armguard [R]</Data></Cell>
+    <Cell><Data ss:Type="String">瓦格步兵护手（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertBreastplate</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">黑钢胸甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Forged Steel Cuirass</Data></Cell>
+    <Cell><Data ss:Type="String">铸钢胸甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertBoots</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">黑钢钢靴</Data></Cell>
+    <Cell><Data ss:Type="String">黑钢钢靴</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertHelmet</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">黑钢头盔</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Varg Infantry Helmet</Data></Cell>
+    <Cell><Data ss:Type="String">瓦格步兵头盔</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertGreaves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">黑钢胫甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Steel Tassets</Data></Cell>
+    <Cell><Data ss:Type="String">钢胫甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertShoulderLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">黑钢肩甲（左）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Varg Infantry Pauldron [L]</Data></Cell>
+    <Cell><Data ss:Type="String">瓦格步兵肩甲（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_HaubertShoulderRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Blacksteel Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">黑钢肩甲（右）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Varg Infantry Pauldron [R]</Data></Cell>
+    <Cell><Data ss:Type="String">瓦格步兵肩甲（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarArmLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Armguard [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士护手（左）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ceremonial Templar Armguard [L]</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿仪式护手（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarArmRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Armguard [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士护手（右）</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_TemplarBreastplate</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Cuirass</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士胸甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ceremonial Templar Armguard [R]</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿仪式护手（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarBoots</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Sollerets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士钢靴</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ceremonial Templar Sollerets</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿仪式钢靴</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarHelmet</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Helmet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士头盔</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ceremonial Templar Helmet</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿仪式头盔</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarGreaves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Greaves</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士胫甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ceremonial Templar Greaves</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿仪式胫甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarShoulderLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Pauldron [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士肩甲（左）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ceremonial Templar Pauldron [L]</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿仪式肩甲（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_TemplarShoulderRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Pauldron [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士肩甲（右）</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Armor_TemplarArmLeft_Silver</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Officier Armguard [L]</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿军官护手（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_TemplarGloves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Gauntlets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士手套</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Armor_TemplarArmRight_Silver</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Officier Armguard [R]</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿军官护手（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_TemplarBoots_Silver</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Officier Sollerets</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿军官钢靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_TemplarHelmet_Silver</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Officier Helmet</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿军官头盔</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_TemplarGreaves_Silver</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Officier Greaves</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿军官胫甲</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_TemplarShoulderLeft_Silver</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Officier Pauldron [L]</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿军官肩甲（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_TemplarArmLeft_Copper</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Infantry Armguard [L]</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿士兵护手（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_TemplarArmRight_Copper</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Infantry Armguard [R]</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿士兵护手（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_TemplarBoots_Copper</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Infantry Sollerets</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿士兵钢靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_TemplarHelmet_Copper</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Infantry Helmet</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿士兵头盔</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_TemplarGreaves_Copper</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Infantry Greaves</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿士兵胫甲</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_TemplarShoulderLeft_Copper</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Infantry Pauldron [L]</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿士兵肩甲（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BrigandineBoots</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Worn-out Crusader Sollerets</Data></Cell>
+    <Cell><Data ss:Type="String">破旧的十字军钢靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BrigandineGreaves</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Plated Steel Tassets</Data></Cell>
+    <Cell><Data ss:Type="String">镀钢腿甲</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BrigandineShoulderLeft</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Steel Pauldron [L]</Data></Cell>
+    <Cell><Data ss:Type="String">钢肩甲（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BrigandineShoulderRight</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Steel Pauldron [R]</Data></Cell>
+    <Cell><Data ss:Type="String">钢肩甲（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Medium</Data></Cell>
@@ -1105,52 +1210,124 @@
     <Cell ss:StyleID="s76"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_HunterGreaves</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hard Leather Greaves</Data></Cell>
+    <Cell><Data ss:Type="String">硬皮胫甲</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineArmLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Bracer [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">合金手腕（左）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hard Leather Bracer [L]</Data></Cell>
+    <Cell><Data ss:Type="String">硬皮手腕（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineArmRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Bracer [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">合金手腕（右）</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Hard Leather Bracer [R]</Data></Cell>
+    <Cell><Data ss:Type="String">硬皮手腕（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_PlateArmLeft</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Leather Armguard [L]</Data></Cell>
+    <Cell><Data ss:Type="String">皮护手（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_PlateArmRight</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Leather Armguard [R]</Data></Cell>
+    <Cell><Data ss:Type="String">皮护手（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_BrigandineBreastplate</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Breastplate</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">合金胸甲</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Crossed Leather Cuirass</Data></Cell>
+    <Cell><Data ss:Type="String">十字皮胸甲</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_BrigandineBoots</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Boots</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">合金靴子</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryCoat</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ranger Outfit</Data></Cell>
+    <Cell><Data ss:Type="String">游侠服</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_BrigandineHelmet</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Armet</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">合金头盔</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryArmLeft</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ranger Bracer [L]</Data></Cell>
+    <Cell><Data ss:Type="String">游侠护腕（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_BrigandineGreaves</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Tassets</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">合金腿甲</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryArmRight</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ranger Bracer [R]</Data></Cell>
+    <Cell><Data ss:Type="String">游侠护腕（右）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_BrigandineShoulderLeft</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Spaulder [L]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">合金肩甲（左）</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryShoulderLeft</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ranger Gardbrace [L]</Data></Cell>
+    <Cell><Data ss:Type="String">游侠护肩（左）</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_BrigandineShoulderRight</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Alloy Spaulder [R]</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">合金肩甲（右）</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryShoulderRight</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ranger Gardbrace [R]</Data></Cell>
+    <Cell><Data ss:Type="String">游侠护肩（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryBoots</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ranger Boots</Data></Cell>
+    <Cell><Data ss:Type="String">游侠靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryCoat_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Soldier Armor</Data></Cell>
+    <Cell><Data ss:Type="String">士兵装甲</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryArmLeft_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Soldier Bracer [L]</Data></Cell>
+    <Cell><Data ss:Type="String">士兵护腕（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryArmRight_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Soldier Bracer [R]</Data></Cell>
+    <Cell><Data ss:Type="String">士兵护腕（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryShoulderLeft_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Soldier Gardbrace [L]</Data></Cell>
+    <Cell><Data ss:Type="String">士兵护肩（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryShoulderRight_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Soldier Gardbrace [R]</Data></Cell>
+    <Cell><Data ss:Type="String">士兵护肩（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryBoots_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Soldier Boots</Data></Cell>
+    <Cell><Data ss:Type="String">士兵靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryCoat_HL</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mercenary Armor</Data></Cell>
+    <Cell><Data ss:Type="String">佣兵盔甲</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryArmLeft_HL</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mercenary Armguard [L]</Data></Cell>
+    <Cell><Data ss:Type="String">佣兵护手（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryArmRight_HL</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mercenary Armguard [R]</Data></Cell>
+    <Cell><Data ss:Type="String">佣兵护手（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryShoulderLeft_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Mercenary Spaulder [L]</Data></Cell>
+    <Cell><Data ss:Type="String">佣兵护肩（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryShoulderRight_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Mercenary Spaulder [R]</Data></Cell>
+    <Cell><Data ss:Type="String">佣兵护肩（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MercenaryBoots_HL</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mercenary Boots</Data></Cell>
+    <Cell><Data ss:Type="String">佣兵靴</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Light</Data></Cell>
@@ -1159,25 +1336,23 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_TemplarToga</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Gown</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士长袍</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Ceremonial Templar Gown</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿仪式长袍</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_LeatherShort</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Leather Short</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">皮裤</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Armor_TemplarToga_Black</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Magister Gown</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿魔导师长袍</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Clothing</Data></Cell>
-    <Cell ss:StyleID="s76"/>
-    <Cell ss:StyleID="s76"/>
+    <Cell><Data ss:Type="String">ui_Armor_TemplarToga_Silver</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Officer Gown</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿军官长袍</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Clothing_LeatherSocks</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Leather Socks</Data></Cell>
-    <Cell><Data ss:Type="String">皮袜子</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Armor_TemplarToga_Copper</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Infantry Gown</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿士兵长袍</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Clothing_PeasantShirt</Data></Cell>
@@ -1195,9 +1370,154 @@
     <Cell><Data ss:Type="String">村民鞋子</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Clothing_UnderArmor</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Leather suit</Data></Cell>
-    <Cell><Data ss:Type="String">皮外衣</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Armor_BanditCoat</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Thief Outfit</Data></Cell>
+    <Cell><Data ss:Type="String">盗贼服</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditArmLeft</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Thief Armlet [L]</Data></Cell>
+    <Cell><Data ss:Type="String">盗贼护臂（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditArmRight</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Thief Armlet [R]</Data></Cell>
+    <Cell><Data ss:Type="String">盗贼护臂（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditBoots</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Thief Shoes</Data></Cell>
+    <Cell><Data ss:Type="String">盗贼靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditHood</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Thief Hood</Data></Cell>
+    <Cell><Data ss:Type="String">盗贼兜帽</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditCoat_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Bandit Outfit</Data></Cell>
+    <Cell><Data ss:Type="String">强盗服</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditArmLeft_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Bandit Bracer [L]</Data></Cell>
+    <Cell><Data ss:Type="String">强盗护腕（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditArmRight_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Bandit Bracer [R]</Data></Cell>
+    <Cell><Data ss:Type="String">强盗护腕（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditBoots_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Bandit Boots</Data></Cell>
+    <Cell><Data ss:Type="String">强盗靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditHood_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Bandit Hood</Data></Cell>
+    <Cell><Data ss:Type="String">强盗兜帽</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditCoat_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Marauder Outfit</Data></Cell>
+    <Cell><Data ss:Type="String">掠夺者服</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditArmLeft_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Marauder Bracer [L]</Data></Cell>
+    <Cell><Data ss:Type="String">掠夺者护腕（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditArmRight_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Marauder Bracer [R]</Data></Cell>
+    <Cell><Data ss:Type="String">掠夺者护腕（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditBoots_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Marauder Boots</Data></Cell>
+    <Cell><Data ss:Type="String">掠夺者靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_BanditHood_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Marauder Hood</Data></Cell>
+    <Cell><Data ss:Type="String">掠夺者兜帽</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageCoat</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Apprentice Gown</Data></Cell>
+    <Cell><Data ss:Type="String">学徒长袍</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageArmLeft</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Apprentice Armlet [L]</Data></Cell>
+    <Cell><Data ss:Type="String">学徒护臂（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageArmRight</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Apprentice Armlet [R]</Data></Cell>
+    <Cell><Data ss:Type="String">学徒护臂（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageBoots</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Apprentice Shoes</Data></Cell>
+    <Cell><Data ss:Type="String">学徒靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageHood</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Apprentice Hood</Data></Cell>
+    <Cell><Data ss:Type="String">学徒兜帽</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageCoat_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Mage Gown</Data></Cell>
+    <Cell><Data ss:Type="String">法师长袍</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageArmLeft_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Mage Armlet [L]</Data></Cell>
+    <Cell><Data ss:Type="String">法师护臂（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageArmRight_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Mage Armlet [R]</Data></Cell>
+    <Cell><Data ss:Type="String">法师护臂（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageBoots_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Mage Shoes</Data></Cell>
+    <Cell><Data ss:Type="String">法师靴</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageHood_ML</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Mage Hood</Data></Cell>
+    <Cell><Data ss:Type="String">法师兜帽</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageCoat_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Enchanter Gown</Data></Cell>
+    <Cell><Data ss:Type="String">幻术师长袍</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageArmLeft_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Enchanter Armlet [L]</Data></Cell>
+    <Cell><Data ss:Type="String">幻术师护臂（左）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageArmRight_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Enchanter Armlet [R]</Data></Cell>
+    <Cell><Data ss:Type="String">幻术师护臂（右）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageBoots_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Enchanter Shoes</Data></Cell>
+    <Cell><Data ss:Type="String">幻术师兜帽</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_MageHood_HL</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Enchanter Hood</Data></Cell>
+    <Cell><Data ss:Type="String">幻术师靴</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Accessories</Data></Cell>
@@ -1207,115 +1527,102 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Cape_AdventurerCape</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Adventurer Cloak</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">冒险者披风</Data></Cell>
+    <Cell><Data ss:Type="String">冒险者披风</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Cape_GothicLongCape</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Simple Cloak</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">简易披风</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Long Cloak</Data></Cell>
+    <Cell><Data ss:Type="String">长披风</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Cape_TemplarCape_Black</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Templar Magister Cape</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿魔导师披风</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Cape_TemplarCape</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Cape</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士披风</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_LeatherArmor</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Leather Armor</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">皮甲</Data></Cell>
+    <Cell><Data ss:Type="String">圣殿骑士披风</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_LeatherBelt</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Leather Belt</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">皮腰带</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_TemplarScarf</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Scarf</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士头巾</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_Armor_TemplarSkirt</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Skirt</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">圣殿骑士裙子</Data></Cell>
+    <Cell><Data ss:Type="String">皮腰带</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Amethyst</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Amethyst Ring</Data></Cell>
-    <Cell ss:StyleID="s79"><Data
-      ss:Type="String">紫水晶戒指</Data></Cell>
+    <Cell><Data ss:Type="String">紫水晶戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Bronze</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Bronze Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">铜戒指</Data></Cell>
+    <Cell><Data ss:Type="String">铜戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Emerald</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Emerald Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">翡翠戒指</Data></Cell>
+    <Cell><Data ss:Type="String">翡翠戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Pyrite</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Pyrite Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">黄铁戒指</Data></Cell>
+    <Cell><Data ss:Type="String">黄铁戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Ruby</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Ruby Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">红宝石戒指</Data></Cell>
+    <Cell><Data ss:Type="String">红宝石戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Silver</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Silver Ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">银戒指</Data></Cell>
+    <Cell><Data ss:Type="String">银戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Gold</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Gold ring</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">金戒指</Data></Cell>
+    <Cell><Data ss:Type="String">金戒指</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Ring_Sapphire</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Sapphire Ring</Data></Cell>
+    <Cell><Data ss:Type="String">蓝宝石戒指</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Ring_Amber</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Amber Ring</Data></Cell>
+    <Cell><Data ss:Type="String">琥珀戒指</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Ring_Onyx</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Onyx Ring</Data></Cell>
+    <Cell><Data ss:Type="String">玛瑙戒指</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Amber</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Amber Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">琥珀项链</Data></Cell>
+    <Cell><Data ss:Type="String">琥珀项链</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Amethyst</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Amethyst Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">紫水晶项链</Data></Cell>
+    <Cell><Data ss:Type="String">紫水晶项链</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Jade</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Jade Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">翡翠项链</Data></Cell>
+    <Cell><Data ss:Type="String">翡翠项链</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Topaz</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Topaz Amulet</Data></Cell>
-    <Cell ss:StyleID="s80"><Data
-      ss:Type="String">黄宝石项链</Data></Cell>
+    <Cell><Data ss:Type="String">黄宝石项链</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Templar</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Amulet</Data></Cell>
-    <Cell><Data ss:Type="String">圣殿骑士护身符</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Amarthian Amulet</Data></Cell>
+    <Cell><Data ss:Type="String">阿玛斯人护符</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Barbarian</Data></Cell>
@@ -1352,13 +1659,38 @@
     <Cell ss:StyleID="s26"><Data ss:Type="String">Templar Waistband</Data></Cell>
     <Cell><Data ss:Type="String">圣殿骑士腰带</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_Armor_GothicBelt</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gothic Belt</Data></Cell>
+    <Cell><Data ss:Type="String">哥特腰带</Data></Cell>
+   </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476732"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m426883076"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_reqLevel</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Required Level</Data></Cell>
     <Cell><Data ss:Type="String">等级需求</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_reqStrength</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Required Strength</Data></Cell>
+    <Cell><Data ss:Type="String">力量需求</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_reqDexterity</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Required Dexterity</Data></Cell>
+    <Cell><Data ss:Type="String">敏捷需求</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_reqConstitution</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Required Constitution</Data></Cell>
+    <Cell><Data ss:Type="String">体力需求</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_reqPower</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Required Power</Data></Cell>
+    <Cell><Data ss:Type="String">智力需求</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_durability</Data></Cell>
@@ -1377,30 +1709,80 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_charges</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Charges left</Data></Cell>
-    <Cell><Data ss:Type="String">剩余次数</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Charges</Data></Cell>
+    <Cell><Data ss:Type="String">充能</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_refreshtime</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Cooldown</Data></Cell>
-    <Cell><Data ss:Type="String">冷却时间</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Cooldown</Data></Cell>
+    <Cell><Data ss:Type="String">%1冷却时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_rechargetime</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Refill time</Data></Cell>
-    <Cell><Data ss:Type="String">充能时间</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Refill time</Data></Cell>
+    <Cell><Data ss:Type="String">%1装填时间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_hold</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Hold MAJ to switch between left and right item comparison</Data></Cell>
-    <Cell><Data ss:Type="String">按住Shift在对比左侧和右侧装备间切换</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Hold SHIFT to switch between left and right item comparison</Data></Cell>
+    <Cell><Data ss:Type="String">按住SHIFT在对比左侧和右侧装备间切换</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476752"><Data ss:Type="String">LOOT RARITY</Data></Cell>
+    <Cell><Data ss:Type="String">ui_merchant_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Merchant</Data></Cell>
+    <Cell><Data ss:Type="String">商人</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_merchant_restockin</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Merchant Inventory will restock in : %1 h %2</Data></Cell>
+    <Cell><Data ss:Type="String">商店库存重置时间：%1 h %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionHealthGain</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Restored Health</Data></Cell>
+    <Cell><Data ss:Type="String">%1生命回复</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionUmbraGain</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Restored Umbra</Data></Cell>
+    <Cell><Data ss:Type="String">%1本影回复</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionRageGain</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Restored Rage</Data></Cell>
+    <Cell><Data ss:Type="String">%1怒气回复</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionStaminaGain</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 Restored Stamina</Data></Cell>
+    <Cell><Data ss:Type="String">%1耐力回复</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionActiveEffect</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 (on use)</Data></Cell>
+    <Cell><Data ss:Type="String">%1（可用）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionPassiveEffect</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 (on use, lasts %2)</Data></Cell>
+    <Cell><Data ss:Type="String">%1（可用，剩余%2）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_PotionPassiveEffect_stack</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">%1 (on use, lasts %2, stackable up to %3 times)</Data></Cell>
+    <Cell><Data ss:Type="String">%1（可用，剩余%2，可叠加%3次）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ic_level</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Level</Data></Cell>
+    <Cell><Data ss:Type="String">等级</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m426883096"><Data ss:Type="String">LOOT RARITY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_normal</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Common</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Common</Data></Cell>
     <Cell><Data ss:Type="String">普通</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1419,17 +1801,12 @@
     <Cell><Data ss:Type="String">传奇</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_loot_rarity_set</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Set</Data></Cell>
-    <Cell><Data ss:Type="String">套装</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_unique</Data></Cell>
     <Cell ss:StyleID="s26"><Data ss:Type="String">Unique</Data></Cell>
     <Cell><Data ss:Type="String">独特</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342476772"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m426883116"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_broken</Data></Cell>
@@ -1467,7 +1844,7 @@
     <Cell><Data ss:Type="String">史诗</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342479792"><Data ss:Type="String">POTIONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m426885096"><Data ss:Type="String">POTIONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_potiontype_health</Data></Cell>
@@ -1500,147 +1877,237 @@
     <Cell><Data ss:Type="String">效用药水</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell><Data ss:Type="String">ui_Potions_HealthSmall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Health</Data></Cell>
-    <Cell><Data ss:Type="String">生命瓶</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Potion_S_Health</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Small Health Potion</Data></Cell>
+    <Cell><Data ss:Type="String">小瓶生命药水</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell><Data ss:Type="String">ui_Potions_UmbraSmall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Umbra</Data></Cell>
-    <Cell><Data ss:Type="String">本影瓶</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Potion_M_Health</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Medium Health Potion</Data></Cell>
+    <Cell><Data ss:Type="String">中瓶生命药水</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell><Data ss:Type="String">ui_Potions_RageSmall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Rage</Data></Cell>
-    <Cell><Data ss:Type="String">怒气瓶</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Potion_L_Health</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Large Health Potion</Data></Cell>
+    <Cell><Data ss:Type="String">大瓶生命药水</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell><Data ss:Type="String">ui_Potions_StaminaSmall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Flask of Stamina</Data></Cell>
-    <Cell><Data ss:Type="String">耐力瓶</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Potion_XL_Health</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Great Health Potion</Data></Cell>
+    <Cell><Data ss:Type="String">超级生命药水</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell><Data ss:Type="String">ui_Potions_PoisonSmall</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Weak Poison</Data></Cell>
-    <Cell><Data ss:Type="String">弱毒药</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Potion_S_Rage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Small Rage Potion</Data></Cell>
+    <Cell><Data ss:Type="String">小瓶怒气药水</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342479812"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
+    <Cell><Data ss:Type="String">ui_Potion_M_Rage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Medium Rage Potion</Data></Cell>
+    <Cell><Data ss:Type="String">中瓶怒气药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_L_Rage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Large Rage Potion</Data></Cell>
+    <Cell><Data ss:Type="String">大瓶怒气药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_XL_Rage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Great Rage Potion</Data></Cell>
+    <Cell><Data ss:Type="String">超级生命药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_S_Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Small Umbra Potion</Data></Cell>
+    <Cell><Data ss:Type="String">小瓶本影药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Medium Umbra Potion</Data></Cell>
+    <Cell><Data ss:Type="String">中瓶本影药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_L_Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Large Umbra Potion</Data></Cell>
+    <Cell><Data ss:Type="String">大瓶本影药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_XL_Umbra</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Great Umbra Potion</Data></Cell>
+    <Cell><Data ss:Type="String">超级本影药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_S_Stamina</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Small Stamina Potion</Data></Cell>
+    <Cell><Data ss:Type="String">小瓶耐力药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_Stamina</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Medium Stamina Potion</Data></Cell>
+    <Cell><Data ss:Type="String">中瓶耐力药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_L_Stamina</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Large Stamina Potion</Data></Cell>
+    <Cell><Data ss:Type="String">大瓶耐力药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_XL_Stamina</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Great Stamina Potion</Data></Cell>
+    <Cell><Data ss:Type="String">超级耐力药水</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonVenom</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Venom Phial</Data></Cell>
+    <Cell><Data ss:Type="String">毒液药瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonCurse</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Cursing Phial</Data></Cell>
+    <Cell><Data ss:Type="String">诅咒药瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonBleed</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Bleeding Phial</Data></Cell>
+    <Cell><Data ss:Type="String">流血药瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonBurn</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Burning Phial</Data></Cell>
+    <Cell><Data ss:Type="String">燃烧药瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonShock</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Shocking Phial</Data></Cell>
+    <Cell><Data ss:Type="String">闪电药瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonFreeze</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Freezing Phial</Data></Cell>
+    <Cell><Data ss:Type="String">冰冻药瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_Potion_M_PoisonWeakness</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Weakening Phial</Data></Cell>
+    <Cell><Data ss:Type="String">虚弱药瓶</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="2" ss:StyleID="m426885116"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_1HSword</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Sword</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Sword</Data></Cell>
     <Cell><Data ss:Type="String">剑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_2HSword</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Greatsword</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Greatsword</Data></Cell>
     <Cell><Data ss:Type="String">大剑</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_1HMace</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Mace</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Mace</Data></Cell>
     <Cell><Data ss:Type="String">狼牙棒</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_2HMace</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Warhammer</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Warhammer</Data></Cell>
     <Cell><Data ss:Type="String">战锤</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_1HAxe</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Axe</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Axe</Data></Cell>
     <Cell><Data ss:Type="String">斧头</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_2HAxe</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Battleaxe</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Battleaxe</Data></Cell>
     <Cell><Data ss:Type="String">战斧</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_Dagger</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Dagger</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Dagger</Data></Cell>
     <Cell><Data ss:Type="String">匕首</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_Crossbow</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Crossbow</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Crossbow</Data></Cell>
     <Cell><Data ss:Type="String">弩</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_SmallShield</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Shield</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Shield</Data></Cell>
     <Cell><Data ss:Type="String">盾牌</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_Staff</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Staff</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Staff</Data></Cell>
     <Cell><Data ss:Type="String">法杖</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342479832"><Data ss:Type="String">INGREDIENTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m426885136"><Data ss:Type="String">INGREDIENTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_loot_Ingredient</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ingredient</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ingredient</Data></Cell>
     <Cell><Data ss:Type="String">配方</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ingredients_Fern</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Fern</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Fern</Data></Cell>
     <Cell><Data ss:Type="String">蕨类</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ingredients_Mushroom</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Mushroom</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Mushroom</Data></Cell>
     <Cell><Data ss:Type="String">蘑菇</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m342479852"><Data ss:Type="String">WEAPON SPEED</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m426885156"><Data ss:Type="String">WEAPON SPEED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_slowest</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Slowest</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Slowest</Data></Cell>
     <Cell><Data ss:Type="String">最慢</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_veryslow</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Very slow</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Very slow</Data></Cell>
     <Cell><Data ss:Type="String">很慢</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_slow</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Slow</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Slow</Data></Cell>
     <Cell><Data ss:Type="String">慢</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_belownormal</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Below average speed</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Below average speed</Data></Cell>
     <Cell><Data ss:Type="String">低于平均速度</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_normal</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Medium speed</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Medium speed</Data></Cell>
     <Cell><Data ss:Type="String">中等速度</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_abovenormal</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Above average speed</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Above average speed</Data></Cell>
     <Cell><Data ss:Type="String">高于平均速度</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_fast</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Fast</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Fast</Data></Cell>
     <Cell><Data ss:Type="String">快</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_veryfast</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Very fast</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Very fast</Data></Cell>
     <Cell><Data ss:Type="String">很快</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_fastest</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Fastest</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Fastest</Data></Cell>
     <Cell><Data ss:Type="String">最快</Data></Cell>
    </Row>
   </Table>
@@ -1661,11 +2128,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>185</TopRowVisible>
+   <TopRowVisible>90</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>195</ActiveRow>
+     <ActiveRow>116</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

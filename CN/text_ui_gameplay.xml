@@ -107,14 +107,14 @@
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s28" ss:Name="Neutre">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#9C5700"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m189883584" ss:Parent="s40">
+  <Style ss:ID="m244085808" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +125,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m189883604" ss:Parent="s40">
+  <Style ss:ID="m244085828" ss:Parent="s40">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -182,7 +182,7 @@
    <Borders/>
    <Interior/>
   </Style>
-  <Style ss:ID="s83" ss:Parent="s28">
+  <Style ss:ID="s82" ss:Parent="s26">
    <Borders/>
   </Style>
  </Styles>
@@ -196,7 +196,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="784" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="792" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:Width="269.25"/>
    <Column ss:Width="398.25"/>
@@ -210,7 +210,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell ss:MergeAcross="2" ss:StyleID="m189883584"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m244085808"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">Status Effects</Data></Cell>
@@ -288,6 +288,42 @@
     <Cell ss:StyleID="s26"><Data ss:Type="String">You run from your enemies and can't act.</Data></Cell>
     <Cell ss:StyleID="s81"><Data
       ss:Type="String">你逃离你的敌人且不能行动。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Curse</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">诅咒</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You are Cursed and may propagate your other status ailments to your allies</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">You are Cursed and may propagate your other status ailments to your allies</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Weakness</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">虚弱</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You deal reduced Damage and suffer slower Stamina Regeneration</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">你造成的伤害减少，而且耐力回复速度减慢</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Frail_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Frailty</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">脆弱</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_ActiveEffect_Frail_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You are more vulnerable to non-Physical attacks</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">你更易受到非物理伤害</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">Passive Skills Effects</Data></Cell>
@@ -482,7 +518,7 @@
       ss:Type="String">持续用你的武器进行攻击，以执行新的组合攻击</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m189883604"><Data ss:Type="String">BOSS MODIFIERS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m244085828"><Data ss:Type="String">BOSS MODIFIERS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_BleedingAttacks</Data></Cell>
@@ -714,59 +750,71 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Armored</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Armored</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Armored</Data></Cell>
     <Cell ss:StyleID="s81"><Data
       ss:Type="String">护甲强化</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
-    <Cell><Data ss:Type="String">ui_BossModifier_MeteorRain</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Casts Meteors</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ui_BossModifier_MeteorRain</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Casts Meteors</Data></Cell>
     <Cell ss:StyleID="s81"><Data
       ss:Type="String">施放陨石</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_UmbralNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Umbral Nova</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Umbral Nova</Data></Cell>
     <Cell ss:StyleID="s81"><Data
       ss:Type="String">施放本影新星</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_BossModifier_FireNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Fire Nova</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_BossModifier_FireNova</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Fire Nova</Data></Cell>
     <Cell ss:StyleID="s81"><Data
       ss:Type="String">施放火焰新星</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LightningNova</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">Casts Lightning Nova</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Casts Lightning Nova</Data></Cell>
     <Cell ss:StyleID="s81"><Data
       ss:Type="String">施放闪电新星</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BossModifier_Frontal_Armor</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Frontal Armor</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">前方护甲</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_BossModifier_IncreasedDamage</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Extra Damage</Data></Cell>
+    <Cell ss:StyleID="s81"><Data
+      ss:Type="String">额外伤害</Data></Cell>
+   </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="27"/>
-   <Row ss:Index="201" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="209" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="246"/>
-   <Row ss:Index="483" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="491" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="487" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
-   <Row ss:Index="566" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:Index="495" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
+   <Row ss:Index="574" ss:AutoFitHeight="0" ss:Height="18"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="571" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="574" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="578" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="581" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="585" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="588" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
-   <Row ss:Index="602" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="579" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="582" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="586" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="589" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="593" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="596" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="610" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="607" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="615" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="611" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="615" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="619" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="623" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
@@ -774,11 +822,11 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="624" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="632" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="627" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="635" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="631" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="639" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
@@ -789,33 +837,33 @@
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="645" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="647" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="653" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="655" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="654" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
-   <Row ss:Index="659" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="662" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="667" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="663" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
-   <Row ss:Index="667" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="669" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="672" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="676" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="678" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="671" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="675" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="677" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="680" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="684" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="686" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="682" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="685" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="692" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="690" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="693" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="700" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="695" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="703" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
-   <Row ss:Index="704" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="711" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+   <Row ss:Index="712" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="719" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -839,8 +887,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>103</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>95</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
