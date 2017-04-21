@@ -8,4 +8,4 @@ chinese translation by [@blacktail](https://github.com/blacktailnomore) and [@wy
 http://store.steampowered.com/app/424370/
 
 # version:
-[0.4.0 experimental](http://steamcommunity.com/games/424370/announcements/detail/484540733143892427)</br>
+[0.4.0](http://steamcommunity.com/games/424370/announcements/detail/484540733143892427)</br>
